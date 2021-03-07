@@ -1,0 +1,39 @@
+OK - Listed applications for virtual host localhost 
+        /:running:0:ROOT 
+        /petclinic:running:1:petclinic 
+        /examples:running:0:examples 
+        /host-manager:running:0:host-manager 
+        /manager:running:0:manager 
+        /docs:running:0:docs 
+
+----------------------------------------------***********-------------------------------------------------------------------------
+
+ docker run -it -p 9999:8080 --name bootcamp_tomcat     devops_tomcat_sc  
+
+
+----------------------------------------------***********-------------------------------------------------------------------------
+
+dockerps -a  
+
+----------------------------------------------***********-------------------------------------------------------------------------
+
+ssh  -i /home/mitesh/book.pem -o StrictHostKeyChecking=no -t -t
+        ec2-user@ec2-52-90-116-36.compute-1.amazonaws.com "sudousermod -a
+        -G tomcat ec2-user;
+        sudochmod -R g+w /var/lib/tomcat6/webapps; sudo service tomcat6
+        stop;"  
+
+----------------------------------------------***********-------------------------------------------------------------------------
+
+scp  -i /home/mitesh/book.pem /home/mitesh/target/*.war ec2-
+        user@ec2-52-90-116-36.compute-
+        1.amazonaws.com:/var/lib/tomcat6/webapps  
+
+
+----------------------------------------------***********-------------------------------------------------------------------------
+
+
+    ssh  -i /home/mitesh/book.pem -o StrictHostKeyChecking=no -t -t
+        ec2-user@ec2-52-90-116-36.compute-1.amazonaws.com "sudo service
+        tomcat6 start"
+

@@ -1,0 +1,21 @@
+---
+
+- hosts: localhost
+
+  tasks:
+
+  - name: Create an Ubuntu VM
+    azure_rm_virtualmachine:
+      resource_group: MyLoaLab
+      name: Ubuntu01
+      vm_size: Standard_DS1_v2
+      admin_username: student
+      admin_password: welk0mITG!
+      ssh_public_keys:
+        - path: /home/student/.ssh/authorized_keys
+          key_data: ""
+      image:
+        offer: UbuntuServer
+        publisher: Canonical
+        sku: '18.04-LTS'
+        version: latest

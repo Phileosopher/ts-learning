@@ -1,0 +1,5 @@
+$myResourceGroup = "LinuxOnAzure"
+$myLocation = "West Europe"
+$myNSG = "NSG_WebApp"
+$mySubnet = "10.0.0.0/24"
+$myVnet= "VNET_WebApp"

@@ -1,0 +1,472 @@
+ [mitesh@devops1 Desktop]$ chef-client -version
+        bash: chef-client: command not found
+
+----------------------------------------------***********-------------------------------------------------------------------------
+
+
+[mitesh@devops1 Desktop]$ cd chef/
+        [mitesh@devops1 chef]$ ls
+        chef-12.9.41-1.el6.x86_64.rpmchefdk-0.13.21-
+        1.el6.x86_64.rpm
+
+----------------------------------------------***********-------------------------------------------------------------------------
+
+
+[mitesh@devops1 chef]$ rpm -ivh chef-12.9.41-   
+        1.el6.x86_64.rpm
+        warning: chef-12.9.41-1.el6.x86_64.rpm: Header 
+        V4DSA/SHA1 Signature, key ID
+        83ef826a: NOKEY
+        error: can't create transaction lock on 
+        /var/lib/rpm/.rpm.lock (Permission   
+        denied)
+
+----------------------------------------------***********-------------------------------------------------------------------------
+
+
+[mitesh@devops1 chef]$ sudo rpm -ivh chef-12.9.41-
+        1.el6.x86_64.rpm
+        [sudo] password for mitesh:
+        warning: chef-12.9.41-1.el6.x86_64.rpm: Header 
+        V4DSA/SHA1 Signature, key ID 
+        83ef826a: NOKEY
+        Preparing...                
+        ########################################### [100%]
+        1:chef                   
+        ########################################### [100%]
+        Thank you for installing Chef!
+
+----------------------------------------------***********-------------------------------------------------------------------------
+
+
+ [mitesh@devops1 chef]$ chef-client -version
+        Chef: 12.9.41
+
+----------------------------------------------***********-------------------------------------------------------------------------
+
+
+ current_dir = File.dirname(__FILE__)
+        log_level                :info
+        log_locationSTDOUT
+        node_name"discovertechno51"
+        client_key"#{current_dir}/discovertechno51.pem"
+        validation_client_name"dtechno-validator"
+        validation_key"#{current_dir}/dtechno-validator.pem"
+        chef_server_url"https://api.chef.io/organizations/dtechno"
+        cookbook_path            ["#{current_dir}/../cookbooks"]
+
+----------------------------------------------***********-------------------------------------------------------------------------
+
+
+ [root@devops1 chef-repo]#ifconfig
+        eth3      Link encap:EthernetHWaddr00:0C:29:D9:30:7F
+        inetaddr:192.168.1.35Bcast:192.168.1.255Mask:255.255.255.0
+        inet6addr: fe80::20c:29ff:fed9:307f/64 Scope:Link
+                  UP BROADCAST RUNNING MULTICAST  MTU:1500Metric:1
+                  RX packets:841351errors:0dropped:0overruns:0frame:0
+                  TX packets:610551errors:0dropped:0overruns:0carrier:0
+        collisions:0txqueuelen:1000
+                  RX bytes:520196141 (496.0 MiB)
+                  TX bytes:278125183 (265.2 MiB)
+        lo        Link encap:Local Loopback 
+        inetaddr:127.0.0.1Mask:255.0.0.0
+        inet6addr: ::1/128 Scope:Host
+                  UP LOOPBACK RUNNING  MTU:65536Metric:1
+                  RX packets:1680errors:0dropped:0overruns:0frame:0
+                  TX packets:1680errors:0dropped:0overruns:0carrier:0
+        collisions:0txqueuelen:0
+                  RX bytes:521152 (508.9 KiB)  TX bytes:521152 (508.9 KiB)
+
+----------------------------------------------***********-------------------------------------------------------------------------
+
+
+[root@devops1 chef]#knife --version
+        Chef: 12.9.41
+
+----------------------------------------------***********-------------------------------------------------------------------------
+
+
+   [root@devops1 chef-repo]#knife node list
+
+----------------------------------------------***********-------------------------------------------------------------------------
+
+
+  [root@devops1 chef-repo]#sshroot@192.168.1.37
+        The authenticity of the host 192.168.1.37 can't be established:
+        RSA key fingerprint is 
+        4b:56:28:62:53:59:e8:e0:5e:5f:54:08:c1:0c:1e:6c.
+        Are you sure you want to continue connecting (yes/no)? yes
+        Warning: Permanently added '192.168.1.37' (RSA)
+        to the list of known hosts.
+        root@192.168.1.37's password:
+        Last login: Thu May 28 10:26:06 2015 from 192.168.1.15
+
+----------------------------------------------***********-------------------------------------------------------------------------
+
+
+  [root@localhost ~]#ifconfig
+        eth1      Link encap:EthernetHWaddr00:0C:29:44:9B:4B
+        inetaddr:192.168.1.37Bcast:192.168.1.255Mask:255.255.255.0
+        inet6addr: fe80::20c:29ff:fe44:9b4b/64 Scope:Link
+                  UP BROADCAST RUNNING MULTICAST  MTU:1500Metric:1
+                  RX packets:11252errors:0dropped:0overruns:0frame:0
+                  TX packets:6628errors:0dropped:0overruns:0carrier:0
+        collisions:0txqueuelen:1000
+                  RX bytes:14158681 (13.5 MiB)  TX bytes:466365 (455.4 KiB)
+        lo        Link encap:Local Loopback  
+        inetaddr:127.0.0.1Mask:255.0.0.0
+        inet6addr: ::1/128 Scope:Host
+                  UP LOOPBACK RUNNING  MTU:65536Metric:1
+                  RX packets:59513errors:0dropped:0overruns:0frame:0
+                  TX packets:59513errors:0dropped:0overruns:0carrier:0
+        collisions:0txqueuelen:0
+                  RX bytes:224567119 (214.1 MiB)
+                  TX bytes:224567119 (214.1 MiB)
+        [root@localhost ~]#
+
+----------------------------------------------***********-------------------------------------------------------------------------
+
+
+[root@devops1 chef-repo]# knife bootstrap 
+        192.168.1.37 -x root -P cloud@123 -
+        N tomcatserver
+        Doing old-style registration with the validation    
+        key at /home/mitesh/chef-               
+        repo/.chef/dtechno-validator.pem...
+        Delete your validation key in order to use your 
+        user credentials instead
+        Connecting to 192.168.1.37
+        192.168.1.37 -----> Installing Chef Omnibus (-v 12)
+        192.168.1.37 downloading
+        https://omnitruck-direct.chef.io/chef/install.sh
+        192.168.1.37   to file /tmp/install.sh.26574/install.sh
+        192.168.1.37 trying wget...
+        192.168.1.37 el 6 x86_64
+        192.168.1.37 Getting information for chef stable 12 for el...
+        192.168.1.37 downloading https://omnitruck-
+        direct.chef.io/stable/chef/metadata?v=12&p=el&pv=6&m=x86_64
+        192.168.1.37   to file /tmp/install.sh.26586/metadata.txt
+        192.168.1.37 trying wget...
+        192.168.1.37 sha1859bc9be9a40b8b13fb88744079ceef1832831b0
+        192.168.1.37   
+        sha256c43f48e5a2de56e4eda473a3e
+        e0a80aa1aaa6c8621d9084e033d8b9cf3efc328  
+        192.168.1.37 urlhttps://packages.chef.io/stable/el/6/chef-12.9.41-
+        1.el6.x86_64.rpm
+        192.168.1.37 version12.9.41
+        192.168.1.37 downloaded metadata file looks valid...
+        192.168.1.37 downloading 
+        https://packages.chef.io/stable/el/6/chef-12.9.41-
+        1.el6.x86_64.rpm
+        192.168.1.37   to file /tmp/install.sh.26586/chef-
+        12.9.41-1.el6.x86_64.rpm
+        192.168.1.37 trying wget...
+        192.168.1.37 Comparing checksum with sha256sum...
+        192.168.1.37 Installing chef 12
+        192.168.1.37 installing with rpm...
+        192.168.1.37 warning: /tmp/install.sh.26586/chef-
+        12.9.41-1.el6.x86_64.rpm:      
+        Header V4DSA/SHA1 Signature, key ID 83ef826a: NOKEY
+        192.168.1.37 Preparing...                ########################################### [100%]
+        192.168.1.37    1:chef                  
+              ########################################### [100%]
+        192.168.1.37 Thank you for installing Chef!
+        192.168.1.37 Starting the first Chef Client run...
+        192.168.1.37 Starting Chef Client, version 12.9.41
+        192.168.1.37 Creating a new client identity for 
+        tomcatserver using the validator key.
+        192.168.1.37 resolving cookbooks for run list: []
+        192.168.1.37 Synchronizing Cookbooks:
+        192.168.1.37 Installing Cookbook Gems:
+        192.168.1.37 Compiling Cookbooks...
+        192.168.1.37 [2016-05-12T23:47:49-07:00] WARN: 
+        Node tomcatserver has an empty 
+        run list.
+        192.168.1.37 Converging 0 resources
+        192.168.1.37
+        192.168.1.37 Running handlers:
+        192.168.1.37 Running handlers complete
+        192.168.1.37 Chef Client finished, 0/0 resources 
+        updated in 37 seconds
+
+----------------------------------------------***********-------------------------------------------------------------------------
+
+
+    [root@devops1 cookbooks]# ls
+        apt  chefignore  chef-sugar  java  openssl  starter  tomcat
+        [root@devops1 cookbooks]# cd ..
+
+----------------------------------------------***********-------------------------------------------------------------------------
+
+
+ [root@devops1 chef-repo]# knife cookbook upload apt
+        Uploading apt          [3.0.0]
+        Uploaded 1 cookbook.
+
+
+[root@devops1 chef-repo]# knife cookbook upload chef-sugar
+        Uploading chef-sugar     [3.3.0]
+        Uploaded 1 cookbook.
+        [root@devops1 chef-repo]# knife cookbook upload java
+        Uploading java           [1.39.0]
+        Uploaded 1 cookbook.
+        [root@devops1 chef-repo]# knife cookbook upload openssl
+        Uploading openssl        [4.4.0]
+        Uploaded 1 cookbook.
+        [root@devops1 chef-repo]# knife cookbook upload tomcat
+        Uploading tomcat         [0.17.0]
+        Uploaded 1 cookbook.
+
+----------------------------------------------***********-------------------------------------------------------------------------
+
+
+ [root@devops1 chef-repo]# knife node run_list add 
+        tomcatserver "role[v-tomcat]"
+        tomcatserver:
+        run_list: role[v-tomcat]
+        [root@devops1 chef-repo]#
+
+----------------------------------------------***********-------------------------------------------------------------------------
+
+
+[root@localhost Desktop]# chef-client
+        Starting Chef Client, version 12.9.41
+        resolving cookbooks for run list: ["tomcat"]
+        Synchronizing Cookbooks:
+          - tomcat (0.17.0)
+          - chef-sugar (3.3.0)
+          - java (1.39.0) 
+          - apt (3.0.0)
+          - openssl (4.4.0)
+        Installing Cookbook Gems:
+        Compiling Cookbooks...
+        .
+        .
+        .
+        Chef Client finished, 11/15 resources updated in 09 minutes 59 
+        seconds
+        You have new mail in /var/spool/mail/root
+
+----------------------------------------------***********-------------------------------------------------------------------------
+
+
+   [root@localhost Desktop]# service tomcat6 status
+        tomcat6 (pid 39782) is running...                          [  OK  ]
+        You have new mail in /var/spool/mail/root
+
+----------------------------------------------***********-------------------------------------------------------------------------
+
+
+[root@localhost Desktop]# sudo rpm -ivh chefdk-0.13.21-1.el6.x86_64.rpm
+Preparing...                ###########################################    [100%]   1:chefdk                 ###########################################    [100%]
+Thank you for installing Chef Development Kit!
+
+----------------------------------------------***********-------------------------------------------------------------------------
+
+
+[root@localhost Desktop]# chef gem install knife-ec2
+Fetching: knife-ec2-<version>.gem (100%)
+.
+.
+Successfully installed knife-ec2-<version>
+1 gem installed
+
+----------------------------------------------***********-------------------------------------------------------------------------
+
+
+[root@localhost Desktop]# knife ec2 --help
+
+** EC2 COMMANDS **
+knife ec2 amis ubuntu DISTRO [TYPE] (options)
+knife ec2 flavor list (options)
+knife ec2 server create (options)
+knife ec2 server delete SERVER [SERVER] (options)
+knife ec2 server list (options)
+
+----------------------------------------------***********-------------------------------------------------------------------------
+
+
+knife[:aws_access_key_id] = "Your AWS Access Key ID"
+knife[:aws_secret_access_key] = "Your AWS Secret Access Key"
+
+----------------------------------------------***********-------------------------------------------------------------------------
+
+
+[root@localhost Desktop]# chef gem install knife-azure -v 1.5.2
+Fetching: knife-azure-1.5.2.gem (100%)
+
+Successfully installed knife-azure-1.5.2
+1 gem installed
+
+
+----------------------------------------------***********-------------------------------------------------------------------------
+
+
+[root@localhost Desktop]# knife azure --help
+
+** AZURE COMMANDS **
+knife azure ag create (options)
+knife azure ag list (options)
+knife azure image list (options)
+knife azure internal lb create (options)
+knife azure internal lb list (options)
+knife azure server create (options)
+knife azure server delete SERVER [SERVER] (options)
+knife azure server list (options)
+knife azure server show SERVER [SERVER]
+knife azure vnet create (options)
+knife azure vnet list (options)
+
+----------------------------------------------***********-------------------------------------------------------------------------
+
+
+root@devops1 Desktop]# knife node list
+tomcatserver
+
+----------------------------------------------***********-------------------------------------------------------------------------
+
+
+[root@devops1 Desktop]# knife ec2 server create -I ami-1ecae776 -f t2.micro -N DevOpsVMonAWS --aws-access-key-id '< Your Access Key ID >' --aws-secret-access-key '< Your Secret Access Key >' -S book --identity-file book.pem --ssh-user ec2-user -r role[v-tomcat] 
+
+Instance ID: i-640d2de3
+Flavor: t2.micro
+Image: ami-1ecae776
+Region: us-east-1
+Availability Zone: us-east-1a
+Security Groups: default
+Tags: Name: DevOpsVMonAWS
+SSH Key: book
+
+Waiting for EC2 to create the instance......
+Public DNS Name: ********************.compute-1.amazonaws.com
+Public IP Address: **.**.***.***
+Private DNS Name: ip-***-**-1-27.ec2.internal
+Private IP Address: ***.**.*.27
+
+----------------------------------------------***********-------------------------------------------------------------------------
+
+
+Waiting for sshd access to become available....................done 
+
+Creating new client for DevOpsVMonAWS
+Creating new node for DevOpsVMonAWS
+Connecting to ec2-**-**-***-***.compute-1.amazonaws.com
+
+ec2-**-**-***-***.compute-1.amazonaws.com -----> Installing Chef Omnibus (-v 12)
+.
+.
+ec2-**-**-***-***.compute-1.amazonaws.com version12.9.41
+ec2-**-**-***-***.compute-1.amazonaws.com downloaded metadata file looks valid...
+ec2-**-**-***-***.compute-1.amazonaws.com downloading https://packages.chef.io/stable/el/6/chef-12.9.41-1.el6.x86_64.rpm
+ec2-**-**-***-***.compute-1.amazonaws.com    1:chef-12.9.41-1.el6               ################################# [100%]
+
+ec2-**-**-***-***.compute-1.amazonaws.com Thank you for installing Chef! 
+
+----------------------------------------------***********-------------------------------------------------------------------------
+
+
+ec2-**-**-***-***.compute-1.amazonaws.com Starting the first Chef Client run...
+ec2-**-**-***-***.compute-1.amazonaws.com Starting Chef Client, version 12.9.41
+
+----------------------------------------------***********-------------------------------------------------------------------------
+
+
+ec2-**-**-***-***.compute-1.amazonaws.com resolving cookbooks for run list: ["tomcat"] 
+ec2-**-**-***-***.compute-1.amazonaws.com Synchronizing Cookbooks:
+ec2-**-**-***-***.compute-1.amazonaws.com   - tomcat (0.17.0)
+ec2-**-**-***-***.compute-1.amazonaws.com   - java (1.39.0)
+ec2-**-**-***-***.compute-1.amazonaws.com   - apt (3.0.0)
+ec2-**-**-***-***.compute-1.amazonaws.com   - openssl (4.4.0)
+ec2-**-**-***-***.compute-1.amazonaws.com   - chef-sugar (3.3.0)
+
+ec2-**-**-***-***.compute-1.amazonaws.com Installing Cookbook Gems:
+ec2-**-**-***-***.compute-1.amazonaws.com Compiling Cookbooks...
+
+ec2-**-**-***-***.compute-1.amazonaws.com Converging 3 resources
+ec2-**-**-***-***.compute-1.amazonaws.com Recipe: tomcat::default
+ec2-**-**-***-***.compute-1.amazonaws.com   * yum_package[tomcat6] action install
+ec2-**-**-***-***.compute-1.amazonaws.com     - install version 6.0.45-1.4.amzn1 of package tomcat6
+ec2-**-**-***-***.compute-1.amazonaws.com   * yum_package[tomcat6-admin-webapps] action install
+ec2-**-**-***-***.compute-1.amazonaws.com     - install version 6.0.45-1.4.amzn1 of package tomcat6-admin-webapps
+ec2-**-**-***-***.compute-1.amazonaws.com   * tomcat_instance[base] action configure (up to date)
+
+----------------------------------------------***********-------------------------------------------------------------------------
+
+ec2-**-**-***-***.compute-1.amazonaws.com    
+ec2-**-**-***-***.compute-1.amazonaws.com   * service[tomcat6] action start
+.
+.
+ec2-**-**-***-***.compute-1.amazonaws.com Chef Client finished, 13/15 resources updated in 01 minutes 13 seconds
+
+
+----------------------------------------------***********-------------------------------------------------------------------------
+
+Instance ID: i-********
+Flavor: t2.micro
+Image: ami-1ecae776
+Region: us-****-1
+Availability Zone: us-****-1a
+Security Groups: default
+Security Group Ids: default
+Tags: Name: DevOpsVMonAWS
+SSH Key: book
+Root Device Type: ebs
+Root Volume ID: vol-1e0e83b5
+Root Device Name: /dev/xvda
+Root Device Delete on Terminate: true
+Public DNS Name: ec2-**-**-***-***.compute-1.amazonaws.com
+Public IP Address: 52.90.219.205
+Private DNS Name: ip-172-31-1-27.ec2.internal
+Private IP Address: 172.31.1.27
+Environment: _default
+Run List: role[v-tomcat]
+You have new mail in /var/spool/mail/root
+[root@devops1 Desktop]#
+
+
+----------------------------------------------***********-------------------------------------------------------------------------
+
+  knife[:azure_publish_settings_file] = "~/<name>.publishsettings"
+
+----------------------------------------------***********-------------------------------------------------------------------------
+
+
+[root@devops1 Desktop]# knife azure server create --azure-dns-name 'distechnodemo' --azure-vm-name 'dtserver02' --azure-vm-size 'Small' -N DevOpsVMonAzure2 --azure-storage-account 'classicstorage9883' --bootstrap-protocol 'cloud-api' --azure-source-image '5112500ae3b842c8b9c604889f8753c3__OpenLogic-CentOS-67-20160310' --azure-service-location 'Central US' --ssh-user 'dtechno' --ssh-password 'cloud@321' -r role[v-tomcat] --ssh-port 22 
+.
+.
+.
+Creating new node for DevOpsVMonAzure2
+.........
+Waiting for virtual machine to reach status 'provisioning'..............vm state 'provisioning' reached after 2.47 minutes.
+..
+
+DNS Name: distechnodemo.cloudapp.net
+VM Name: dtserver02
+Size: Small
+Azure Source Image: 5112500ae3b842c8b9c604889f8753c3__OpenLogic-CentOS-67-20160310
+Azure Service Location: Central US
+Private Ip Address: 100.73.210.70
+Environment: _default
+
+Runlist: ["role[v-tomcat]"]
+
+----------------------------------------------***********-------------------------------------------------------------------------
+
+Waiting for Resource Extension to reach status 'wagent provisioning'.....Resource extension state 'wagent provisioning' reached after 0.17 minutes.
+
+Waiting for Resource Extension to reach status 'installing'....................Resource extension state 'installing' reached after 2.21 minutes.
+Waiting for Resource Extension to reach status 'provisioning'.....Resource extension state 'provisioning' reached after 0.19 minutes.
+..
+DNS Name: distechnodemo.cloudapp.net
+VM Name: dtserver02
+Size: Small
+Azure Source Image: 5112500ae3b842c8b9c604889f8753c3__OpenLogic-CentOS-67-20160310
+Azure Service Location: Central US
+Private Ip Address: 100.73.210.70
+Environment: _default
+Runlist: ["role[v-tomcat]"]
+[root@devops1 Desktop]#
+
+----------------------------------------------***********-------------------------------------------------------------------------
+
+

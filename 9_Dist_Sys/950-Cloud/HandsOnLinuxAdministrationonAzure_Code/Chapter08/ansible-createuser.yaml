@@ -1,0 +1,20 @@
+---
+
+- hosts: all
+  tasks:
+
+  - name: Add user Jane Roe
+    become: yes
+    become_method: sudo
+    user:
+      state: present
+      name: jane
+      create_home: yes
+      comment: Jane Roe
+      generate_ssh_key: yes
+      group: users
+      groups:
+       - sudo
+       - adm
+      shell: /bin/bash
+      skeleton: /etc/skell

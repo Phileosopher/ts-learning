@@ -1,0 +1,33 @@
+[root@devops1 Desktop]# knife ec2 server create -I ami-1ecae776 -f t2.micro -N DevOpsVMonAWS --aws-access-key-id '< Your Access Key ID >' --aws-secret-access-key '< Your Secret Access Key >' -S book --identity-file book.pem --ssh-user ec2-user -r role[v-tomcat]  
+
+--------------------------------------------------------****************--------------------------------------------------------------------------
+
+[root@devops1 Desktop]# knife azure server create --azure-dns-name 'distechnodemo' --azure-vm-name 'dtserver02' --azure-vm-size 'Small' -N DevOpsVMonAzure2 --azure-storage-account 'classicstorage9883' --bootstrap-protocol 'cloud-api' --azure-source-image '5112500ae3b842c8b9c604889f8753c3__OpenLogic-CentOS-67-20160310' --azure-service-location 'Central US' --ssh-user 'dtechno' --ssh-password 'cloud@321' -r role[v-tomcat] --ssh-port 22  
+
+--------------------------------------------------------****************--------------------------------------------------------------------------
+
+ssh -t -t root@192.168.1.36 "ifconfig; rvm use 
+        2.1.0; knife ec2 server create -I ami-1ecae776 -f 
+        t2.micro -N DevOpsVMonAWS1 --aws-access-key-id 
+        '<YOUR ACCESS KEY ID>' --aws-secret-access-key 
+        '<YOUR SECRET ACCESS KEY>' -S book --identity-file 
+        book.pem --ssh-user ec2-user -r role[v-tomcat]"  
+
+--------------------------------------------------------****************--------------------------------------------------------------------------
+
+ssh -i /home/mitesh/book.pem -o 
+        StrictHostKeyChecking=no -t -t ec2-user@$AWSDNS 
+        "sudousermod -a -G tomcat ec2-user; sudochmod -R 
+        g+w /var/lib/tomcat6/webapps; sudo service tomcat6 
+        stop;"
+
+        scp -i /home/mitesh/book.pem 
+        /home/mitesh/target/*.war ec2-
+        user@$AWSDNS:/var/lib/tomcat6/webapps
+
+        ssh -i /home/mitesh/book.pem -o 
+        StrictHostKeyChecking=no -t -t ec2-user@$AWSDNS 
+        "sudo service tomcat6 start"
+
+--------------------------------------------------------****************--------------------------------------------------------------------------
+

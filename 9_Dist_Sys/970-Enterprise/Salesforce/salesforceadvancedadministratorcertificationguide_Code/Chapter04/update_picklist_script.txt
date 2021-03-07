@@ -1,0 +1,5 @@
+Case_Detail__c detail = [Select Id, Invoice_Type__c 
+     From Case_Detail__c 
+     Where Id = 'a011i0000075ZkEAAU'];
+detail.Invoice_Type__c = 'Invalid Invoice Type';
+update detail;
