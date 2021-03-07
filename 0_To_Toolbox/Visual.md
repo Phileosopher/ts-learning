@@ -1,0 +1,16 @@
+# Visual
+
+[GitHub - ThasianX/ElegantTimeline-SwiftUI: Elegant demonstration of a multi-faceted timeline view with interactions between the calendar, list, and app theme.](https://github.com/ThasianX/ElegantTimeline-SwiftUI)
+[GitHub - tommyip/bootstrap-icons-vue: A Vue component library for Bootstrap icons.](https://github.com/tommyip/bootstrap-icons-vue)
+[Bootstrap · The most popular HTML, CSS, and JS library in the world.](https://getbootstrap.com/)
+[GitHub - hoffstadt/DearPyGui: Dear PyGui: A fast and powerful Graphical User Interface Toolkit for Python with minimal dependencies](https://github.com/hoffstadt/DearPyGui)
+[GitHub - element-plus/element-plus: 🎉 A Vue.js 3.0 UI Library made by Element team](https://github.com/element-plus/element-plus)
+[sunset.css](https://sunsetcss.com/)
+[GitHub - luxonauta/luxa: A minimalist CSS framework.](https://github.com/luxonauta/luxa)
+[VTK - Wikipedia](https://en.wikipedia.org/wiki/VTK)
+[GitHub - Immediate-Mode-UI/Nuklear: A single-header ANSI C immediate mode cross-platform GUI library](https://github.com/Immediate-Mode-UI/Nuklear?utm_source=tldrnewsletter)
+[Threed.io - Generate custom 3D Device Mockups.](https://threed.io/)
+[GitHub - alias-rahil/handwritten.js: Convert typed text to realistic handwriting!](https://github.com/alias-rahil/handwritten.js#README.md)
+[djamshed/venn-generator: An AWS lambda service that generates Venn diagram on the fly using Rough.js](https://github.com/djamshed/venn-generator)
+[Quiver: A modern commutative diagram editor | Hacker News](https://news.ycombinator.com/item?id=25213201)
+[ARLOOPA - augmented and virtual reality app](https://app.arloopa.com/?utm_source=tldrnewsletter)
