@@ -1,0 +1,212 @@
+TEST CASES								
+case	Camera	Radar	TS-Display	HUD	PlayerIndicator	GamertagIndicator	NetTension	pairings
+1	Dynamic	2D	OFF	NameBar	Name	OFF	Default	21
+2	Dynamic	3D	ON	Indicator	Number	ON	Regular	21
+3	Co-Op	3D	ON	NameBar	Number	OFF	Default	15
+4	Co-Op	2D	OFF	Indicator	Name	ON	Regular	15
+5	Tele	OFF	ON	NameBar	Name	ON	Loose	17
+6	Tele	OFF	OFF	Indicator	Number	OFF	Tight	16
+7	EndToEnd	2D	ON	Indicator	Number	OFF	Loose	12
+8	EndToEnd	3D	OFF	NameBar	Name	ON	Tight	12
+9	Pro	OFF	ON	Indicator	Name	ON	Default	9
+10	Pro	2D	OFF	NameBar	Number	OFF	Regular	8
+11	Broadcast	3D	OFF	Indicator	Name	OFF	Loose	8
+12	Broadcast	2D	ON	NameBar	Number	ON	Tight	8
+13	Dynamic	OFF	~ON	~NameBar	~Name	~OFF	Regular	2
+14	Co-Op	OFF	~OFF	~NameBar	~Number	~ON	Loose	2
+15	Tele	2D	~OFF	~Indicator	~Number	~ON	Default	2
+16	Tele	3D	~ON	~NameBar	~Name	~OFF	Regular	2
+17	EndToEnd	OFF	~OFF	~Indicator	~Number	~OFF	Default	2
+18	Pro	3D	~ON	~Indicator	~Name	~OFF	Tight	2
+19	Broadcast	OFF	~ON	~NameBar	~Name	~ON	Default	2
+20	Dynamic	~3D	~OFF	~Indicator	~Number	~ON	Loose	1
+21	Co-Op	~2D	~ON	~Indicator	~Name	~OFF	Tight	1
+22	EndToEnd	~OFF	~ON	~NameBar	~Name	~ON	Regular	1
+23	Pro	~2D	~OFF	~NameBar	~Number	~ON	Loose	1
+24	Broadcast	~3D	~OFF	~Indicator	~Number	~OFF	Regular	1
+25	Dynamic	~OFF	~OFF	~NameBar	~Number	~ON	Tight	1
+
+PAIRING DETAILS								
+var1	var2	value1	value2	appearances	cases			
+Camera	NetTension	Dynamic	Default	1	1			
+Camera	NetTension	Dynamic	Regular	2	"2, 13"
+Camera	NetTension	Dynamic	Loose	1	20
+Camera	NetTension	Dynamic	Tight	1	25
+Camera	NetTension	Co-Op	Default	1	3
+Camera	NetTension	Co-Op	Regular	1	4
+Camera	NetTension	Co-Op	Loose	1	14
+Camera	NetTension	Co-Op	Tight	1	21
+Camera	NetTension	Tele	Default	1	15
+Camera	NetTension	Tele	Regular	1	16
+Camera	NetTension	Tele	Loose	1	5
+Camera	NetTension	Tele	Tight	1	6
+Camera	NetTension	EndToEnd	Default	1	17
+Camera	NetTension	EndToEnd	Regular	1	22
+Camera	NetTension	EndToEnd	Loose	1	7
+Camera	NetTension	EndToEnd	Tight	1	8
+Camera	NetTension	Pro	Default	1	9
+Camera	NetTension	Pro	Regular	1	10
+Camera	NetTension	Pro	Loose	1	23
+Camera	NetTension	Pro	Tight	1	18
+Camera	NetTension	Broadcast	Default	1	19
+Camera	NetTension	Broadcast	Regular	1	24
+Camera	NetTension	Broadcast	Loose	1	11
+Camera	NetTension	Broadcast	Tight	1	12
+Camera	Radar	Dynamic	2D	1	1
+Camera	Radar	Dynamic	3D	2	"2, 20"
+Camera	Radar	Dynamic	OFF	2	"13, 25"
+Camera	Radar	Co-Op	2D	2	"4, 21"
+Camera	Radar	Co-Op	3D	1	3
+Camera	Radar	Co-Op	OFF	1	14
+Camera	Radar	Tele	2D	1	15
+Camera	Radar	Tele	3D	1	16
+Camera	Radar	Tele	OFF	2	"5, 6"
+Camera	Radar	EndToEnd	2D	1	7
+Camera	Radar	EndToEnd	3D	1	8
+Camera	Radar	EndToEnd	OFF	2	"17, 22"
+Camera	Radar	Pro	2D	2	"10, 23"
+Camera	Radar	Pro	3D	1	18
+Camera	Radar	Pro	OFF	1	9
+Camera	Radar	Broadcast	2D	1	12
+Camera	Radar	Broadcast	3D	2	"11, 24"
+Camera	Radar	Broadcast	OFF	1	19
+Camera	HUD	Dynamic	NameBar	3	"1, 13, 25"
+Camera	HUD	Dynamic	Indicator	2	"2, 20"
+Camera	HUD	Co-Op	NameBar	2	"3, 14"
+Camera	HUD	Co-Op	Indicator	2	"4, 21"
+Camera	HUD	Tele	NameBar	2	"5, 16"
+Camera	HUD	Tele	Indicator	2	"6, 15"
+Camera	HUD	EndToEnd	NameBar	2	"8, 22"
+Camera	HUD	EndToEnd	Indicator	2	"7, 17"
+Camera	HUD	Pro	NameBar	2	"10, 23"
+Camera	HUD	Pro	Indicator	2	"9, 18"
+Camera	HUD	Broadcast	NameBar	2	"12, 19"
+Camera	HUD	Broadcast	Indicator	2	"11, 24"
+Camera	PlayerIndicator	Dynamic	Name	2	"1, 13"
+Camera	PlayerIndicator	Dynamic	Number	3	"2, 20, 25"
+Camera	PlayerIndicator	Co-Op	Name	2	"4, 21"
+Camera	PlayerIndicator	Co-Op	Number	2	"3, 14"
+Camera	PlayerIndicator	Tele	Name	2	"5, 16"
+Camera	PlayerIndicator	Tele	Number	2	"6, 15"
+Camera	PlayerIndicator	EndToEnd	Name	2	"8, 22"
+Camera	PlayerIndicator	EndToEnd	Number	2	"7, 17"
+Camera	PlayerIndicator	Pro	Name	2	"9, 18"
+Camera	PlayerIndicator	Pro	Number	2	"10, 23"
+Camera	PlayerIndicator	Broadcast	Name	2	"11, 19"
+Camera	PlayerIndicator	Broadcast	Number	2	"12, 24"
+Camera	GamertagIndicator	Dynamic	OFF	2	"1, 13"
+Camera	GamertagIndicator	Dynamic	ON	3	"2, 20, 25"
+Camera	GamertagIndicator	Co-Op	OFF	2	"3, 21"
+Camera	GamertagIndicator	Co-Op	ON	2	"4, 14"
+Camera	GamertagIndicator	Tele	OFF	2	"6, 16"
+Camera	GamertagIndicator	Tele	ON	2	"5, 15"
+Camera	GamertagIndicator	EndToEnd	OFF	2	"7, 17"
+Camera	GamertagIndicator	EndToEnd	ON	2	"8, 22"
+Camera	GamertagIndicator	Pro	OFF	2	"10, 18"
+Camera	GamertagIndicator	Pro	ON	2	"9, 23"
+Camera	GamertagIndicator	Broadcast	OFF	2	"11, 24"
+Camera	GamertagIndicator	Broadcast	ON	2	"12, 19"
+Camera	TS-Display	Dynamic	OFF	3	"1, 20, 25"
+Camera	TS-Display	Dynamic	ON	2	"2, 13"
+Camera	TS-Display	Co-Op	OFF	2	"4, 14"
+Camera	TS-Display	Co-Op	ON	2	"3, 21"
+Camera	TS-Display	Tele	OFF	2	"6, 15"
+Camera	TS-Display	Tele	ON	2	"5, 16"
+Camera	TS-Display	EndToEnd	OFF	2	"8, 17"
+Camera	TS-Display	EndToEnd	ON	2	"7, 22"
+Camera	TS-Display	Pro	OFF	2	"10, 23"
+Camera	TS-Display	Pro	ON	2	"9, 18"
+Camera	TS-Display	Broadcast	OFF	2	"11, 24"
+Camera	TS-Display	Broadcast	ON	2	"12, 19"
+NetTension	Radar	Default	2D	2	"1, 15"
+NetTension	Radar	Default	3D	1	3
+NetTension	Radar	Default	OFF	3	"9, 17, 19"
+NetTension	Radar	Regular	2D	2	"4, 10"
+NetTension	Radar	Regular	3D	3	"2, 16, 24"
+NetTension	Radar	Regular	OFF	2	"13, 22"
+NetTension	Radar	Loose	2D	2	"7, 23"
+NetTension	Radar	Loose	3D	2	"11, 20"
+NetTension	Radar	Loose	OFF	2	"5, 14"
+NetTension	Radar	Tight	2D	2	"12, 21"
+NetTension	Radar	Tight	3D	2	"8, 18"
+NetTension	Radar	Tight	OFF	2	"6, 25"
+NetTension	HUD	Default	NameBar	3	"1, 3, 19"
+NetTension	HUD	Default	Indicator	3	"9, 15, 17"
+NetTension	HUD	Regular	NameBar	4	"10, 13, 16, 22"
+NetTension	HUD	Regular	Indicator	3	"2, 4, 24"
+NetTension	HUD	Loose	NameBar	3	"5, 14, 23"
+NetTension	HUD	Loose	Indicator	3	"7, 11, 20"
+NetTension	HUD	Tight	NameBar	3	"8, 12, 25"
+NetTension	HUD	Tight	Indicator	3	"6, 18, 21"
+NetTension	PlayerIndicator	Default	Name	3	"1, 9, 19"
+NetTension	PlayerIndicator	Default	Number	3	"3, 15, 17"
+NetTension	PlayerIndicator	Regular	Name	4	"4, 13, 16, 22"
+NetTension	PlayerIndicator	Regular	Number	3	"2, 10, 24"
+NetTension	PlayerIndicator	Loose	Name	2	"5, 11"
+NetTension	PlayerIndicator	Loose	Number	4	"7, 14, 20, 23"
+NetTension	PlayerIndicator	Tight	Name	3	"8, 18, 21"
+NetTension	PlayerIndicator	Tight	Number	3	"6, 12, 25"
+NetTension	GamertagIndicator	Default	OFF	3	"1, 3, 17"
+NetTension	GamertagIndicator	Default	ON	3	"9, 15, 19"
+NetTension	GamertagIndicator	Regular	OFF	4	"10, 13, 16, 24"
+NetTension	GamertagIndicator	Regular	ON	3	"2, 4, 22"
+NetTension	GamertagIndicator	Loose	OFF	2	"7, 11"
+NetTension	GamertagIndicator	Loose	ON	4	"5, 14, 20, 23"
+NetTension	GamertagIndicator	Tight	OFF	3	"6, 18, 21"
+NetTension	GamertagIndicator	Tight	ON	3	"8, 12, 25"
+NetTension	TS-Display	Default	OFF	3	"1, 15, 17"
+NetTension	TS-Display	Default	ON	3	"3, 9, 19"
+NetTension	TS-Display	Regular	OFF	3	"4, 10, 24"
+NetTension	TS-Display	Regular	ON	4	"2, 13, 16, 22"
+NetTension	TS-Display	Loose	OFF	4	"11, 14, 20, 23"
+NetTension	TS-Display	Loose	ON	2	"5, 7"
+NetTension	TS-Display	Tight	OFF	3	"6, 8, 25"
+NetTension	TS-Display	Tight	ON	3	"12, 18, 21"
+Radar	HUD	2D	NameBar	4	"1, 10, 12, 23"
+Radar	HUD	2D	Indicator	4	"4, 7, 15, 21"
+Radar	HUD	3D	NameBar	3	"3, 8, 16"
+Radar	HUD	3D	Indicator	5	"2, 11, 18, 20, 24"
+Radar	HUD	OFF	NameBar	6	"5, 13, 14, 19, 22, 25"
+Radar	HUD	OFF	Indicator	3	"6, 9, 17"
+Radar	PlayerIndicator	2D	Name	3	"1, 4, 21"
+Radar	PlayerIndicator	2D	Number	5	"7, 10, 12, 15, 23"
+Radar	PlayerIndicator	3D	Name	4	"8, 11, 16, 18"
+Radar	PlayerIndicator	3D	Number	4	"2, 3, 20, 24"
+Radar	PlayerIndicator	OFF	Name	5	"5, 9, 13, 19, 22"
+Radar	PlayerIndicator	OFF	Number	4	"6, 14, 17, 25"
+Radar	GamertagIndicator	2D	OFF	4	"1, 7, 10, 21"
+Radar	GamertagIndicator	2D	ON	4	"4, 12, 15, 23"
+Radar	GamertagIndicator	3D	OFF	5	"3, 11, 16, 18, 24"
+Radar	GamertagIndicator	3D	ON	3	"2, 8, 20"
+Radar	GamertagIndicator	OFF	OFF	3	"6, 13, 17"
+Radar	GamertagIndicator	OFF	ON	6	"5, 9, 14, 19, 22, 25"
+Radar	TS-Display	2D	OFF	5	"1, 4, 10, 15, 23"
+Radar	TS-Display	2D	ON	3	"7, 12, 21"
+Radar	TS-Display	3D	OFF	4	"8, 11, 20, 24"
+Radar	TS-Display	3D	ON	4	"2, 3, 16, 18"
+Radar	TS-Display	OFF	OFF	4	"6, 14, 17, 25"
+Radar	TS-Display	OFF	ON	5	"5, 9, 13, 19, 22"
+HUD	PlayerIndicator	NameBar	Name	7	"1, 5, 8, 13, 16, 19, 22"
+HUD	PlayerIndicator	NameBar	Number	6	"3, 10, 12, 14, 23, 25"
+HUD	PlayerIndicator	Indicator	Name	5	"4, 9, 11, 18, 21"
+HUD	PlayerIndicator	Indicator	Number	7	"2, 6, 7, 15, 17, 20, 24"
+HUD	GamertagIndicator	NameBar	OFF	5	"1, 3, 10, 13, 16"
+HUD	GamertagIndicator	NameBar	ON	8	"5, 8, 12, 14, 19, 22, 23, 25"
+HUD	GamertagIndicator	Indicator	OFF	7	"6, 7, 11, 17, 18, 21, 24"
+HUD	GamertagIndicator	Indicator	ON	5	"2, 4, 9, 15, 20"
+HUD	TS-Display	NameBar	OFF	6	"1, 8, 10, 14, 23, 25"
+HUD	TS-Display	NameBar	ON	7	"3, 5, 12, 13, 16, 19, 22"
+HUD	TS-Display	Indicator	OFF	7	"4, 6, 11, 15, 17, 20, 24"
+HUD	TS-Display	Indicator	ON	5	"2, 7, 9, 18, 21"
+PlayerIndicator	GamertagIndicator	Name	OFF	6	"1, 11, 13, 16, 18, 21"
+PlayerIndicator	GamertagIndicator	Name	ON	6	"4, 5, 8, 9, 19, 22"
+PlayerIndicator	GamertagIndicator	Number	OFF	6	"3, 6, 7, 10, 17, 24"
+PlayerIndicator	GamertagIndicator	Number	ON	7	"2, 12, 14, 15, 20, 23, 25"
+PlayerIndicator	TS-Display	Name	OFF	4	"1, 4, 8, 11"
+PlayerIndicator	TS-Display	Name	ON	8	"5, 9, 13, 16, 18, 19, 21, 22"
+PlayerIndicator	TS-Display	Number	OFF	9	"6, 10, 14, 15, 17, 20, 23, 24, 25"
+PlayerIndicator	TS-Display	Number	ON	4	"2, 3, 7, 12"
+GamertagIndicator	TS-Display	OFF	OFF	6	"1, 6, 10, 11, 17, 24"
+GamertagIndicator	TS-Display	OFF	ON	6	"3, 7, 13, 16, 18, 21"
+GamertagIndicator	TS-Display	ON	OFF	7	"4, 8, 14, 15, 20, 23, 25"
+GamertagIndicator	TS-Display	ON	ON	6	"2, 5, 9, 12, 19, 22"

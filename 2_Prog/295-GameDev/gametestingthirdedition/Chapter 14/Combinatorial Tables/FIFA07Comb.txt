@@ -1,0 +1,61 @@
+TEST CASES					
+case	Camera	Radar	TS-Display	MatchIntro	pairings
+1	Dynamic	2D	OFF	OFF	6
+2	Dynamic	3D	ON	ON	6
+3	DynamicV2	2D	ON	OFF	5
+4	DynamicV2	3D	OFF	ON	5
+5	Tele	OFF	OFF	OFF	5
+6	Tele	2D	ON	ON	4
+7	EndToEnd	OFF	ON	ON	5
+8	EndToEnd	3D	OFF	OFF	4
+9	Dynamic	OFF	~OFF	~ON	1
+10	DynamicV2	OFF	~ON	~OFF	1
+11	Tele	3D	~ON	~OFF	1
+12	EndToEnd	2D	~OFF	~ON	1
+
+PAIRING DETAILS					
+var1	var2	value1	value2	appearances	cases
+Camera	Radar	Dynamic	2D	1	1
+Camera	Radar	Dynamic	3D	1	2
+Camera	Radar	Dynamic	OFF	1	9
+Camera	Radar	DynamicV2	2D	1	3
+Camera	Radar	DynamicV2	3D	1	4
+Camera	Radar	DynamicV2	OFF	1	10
+Camera	Radar	Tele	2D	1	6
+Camera	Radar	Tele	3D	1	11
+Camera	Radar	Tele	OFF	1	5
+Camera	Radar	EndToEnd	2D	1	12
+Camera	Radar	EndToEnd	3D	1	8
+Camera	Radar	EndToEnd	OFF	1	7
+Camera	TS-Display	Dynamic	OFF	2	"1, 9"
+Camera	TS-Display	Dynamic	ON	1	2
+Camera	TS-Display	DynamicV2	OFF	1	4
+Camera	TS-Display	DynamicV2	ON	2	"3, 10"
+Camera	TS-Display	Tele	OFF	1	5
+Camera	TS-Display	Tele	ON	2	"6, 11"
+Camera	TS-Display	EndToEnd	OFF	2	"8, 12"
+Camera	TS-Display	EndToEnd	ON	1	7
+Camera	MatchIntro	Dynamic	OFF	1	1
+Camera	MatchIntro	Dynamic	ON	2	"2, 9"
+Camera	MatchIntro	DynamicV2	OFF	2	"3, 10"
+Camera	MatchIntro	DynamicV2	ON	1	4
+Camera	MatchIntro	Tele	OFF	2	"5, 11"
+Camera	MatchIntro	Tele	ON	1	6
+Camera	MatchIntro	EndToEnd	OFF	1	8
+Camera	MatchIntro	EndToEnd	ON	2	"7, 12"
+Radar	TS-Display	2D	OFF	2	"1, 12"
+Radar	TS-Display	2D	ON	2	"3, 6"
+Radar	TS-Display	3D	OFF	2	"4, 8"
+Radar	TS-Display	3D	ON	2	"2, 11"
+Radar	TS-Display	OFF	OFF	2	"5, 9"
+Radar	TS-Display	OFF	ON	2	"7, 10"
+Radar	MatchIntro	2D	OFF	2	"1, 3"
+Radar	MatchIntro	2D	ON	2	"6, 12"
+Radar	MatchIntro	3D	OFF	2	"8, 11"
+Radar	MatchIntro	3D	ON	2	"2, 4"
+Radar	MatchIntro	OFF	OFF	2	"5, 10"
+Radar	MatchIntro	OFF	ON	2	"7, 9"
+TS-Display	MatchIntro	OFF	OFF	3	"1, 5, 8"
+TS-Display	MatchIntro	OFF	ON	3	"4, 9, 12"
+TS-Display	MatchIntro	ON	OFF	3	"3, 10, 11"
+TS-Display	MatchIntro	ON	ON	3	"2, 6, 7"

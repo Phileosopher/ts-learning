@@ -1,0 +1,109 @@
+
+TEST CASES
+case	Camera	Radar	TS-Display	HUD	Indicator	pairings
+1	Dynamic	2D	OFF	NameBar	Name	10
+2	Dynamic	3D	ON	Indicator	Number	10
+3	DynamicV2	2D	ON	NameBar	Number	8
+4	DynamicV2	3D	OFF	Indicator	Name	8
+5	Tele	OFF	OFF	NameBar	Number	8
+6	Tele	OFF	ON	Indicator	Name	7
+7	EndToEnd	2D	OFF	Indicator	Number	5
+8	EndToEnd	3D	ON	NameBar	Name	5
+9	Pro	2D	ON	Indicator	Name	4
+10	Pro	3D	OFF	NameBar	Number	4
+11	Broadcast	OFF	OFF	Indicator	Name	4
+12	Broadcast	2D	ON	NameBar	Number	4
+13	Dynamic	OFF	~ON	~NameBar	~Number	1
+14	DynamicV2	OFF	~OFF	~NameBar	~Name	1
+15	Tele	2D	~OFF	~Indicator	~Number	1
+16	Tele	3D	~ON	~NameBar	~Name	1
+17	EndToEnd	OFF	~ON	~Indicator	~Number	1
+18	Pro	OFF	~OFF	~NameBar	~Name	1
+19	Broadcast	3D	~OFF	~Indicator	~Number	1
+
+PAIRING DETAILS
+var1	var2	value1	value2	appearances	cases
+Camera	Radar	Dynamic	2D	1	1
+Camera	Radar	Dynamic	3D	1	2
+Camera	Radar	Dynamic	OFF	1	13
+Camera	Radar	DynamicV2	2D	1	3
+Camera	Radar	DynamicV2	3D	1	4
+Camera	Radar	DynamicV2	OFF	1	14
+Camera	Radar	Tele	2D	1	15
+Camera	Radar	Tele	3D	1	16
+Camera	Radar	Tele	OFF	2	5, 6
+Camera	Radar	EndToEnd	2D	1	7
+Camera	Radar	EndToEnd	3D	1	8
+Camera	Radar	EndToEnd	OFF	1	17
+Camera	Radar	Pro	2D	1	9
+Camera	Radar	Pro	3D	1	10
+Camera	Radar	Pro	OFF	1	18
+Camera	Radar	Broadcast	2D	1	12
+Camera	Radar	Broadcast	3D	1	19
+Camera	Radar	Broadcast	OFF	1	11
+Camera	TS-Display	Dynamic	OFF	1	1
+Camera	TS-Display	Dynamic	ON	2	2, 13
+Camera	TS-Display	DynamicV2	OFF	2	4, 14
+Camera	TS-Display	DynamicV2	ON	1	3
+Camera	TS-Display	Tele	OFF	2	5, 15
+Camera	TS-Display	Tele	ON	2	6, 16
+Camera	TS-Display	EndToEnd	OFF	1	7
+Camera	TS-Display	EndToEnd	ON	2	8, 17
+Camera	TS-Display	Pro	OFF	2	10, 18
+Camera	TS-Display	Pro	ON	1	9
+Camera	TS-Display	Broadcast	OFF	2	11, 19
+Camera	TS-Display	Broadcast	ON	1	12
+Camera	HUD	Dynamic	NameBar	2	1, 13
+Camera	HUD	Dynamic	Indicator	1	2
+Camera	HUD	DynamicV2	NameBar	2	3, 14
+Camera	HUD	DynamicV2	Indicator	1	4
+Camera	HUD	Tele	NameBar	2	5, 16
+Camera	HUD	Tele	Indicator	2	6, 15
+Camera	HUD	EndToEnd	NameBar	1	8
+Camera	HUD	EndToEnd	Indicator	2	7, 17
+Camera	HUD	Pro	NameBar	2	10, 18
+Camera	HUD	Pro	Indicator	1	9
+Camera	HUD	Broadcast	NameBar	1	12
+Camera	HUD	Broadcast	Indicator	2	11, 19
+Camera	Indicator	Dynamic	Name	1	1
+Camera	Indicator	Dynamic	Number	2	2, 13
+Camera	Indicator	DynamicV2	Name	2	4, 14
+Camera	Indicator	DynamicV2	Number	1	3
+Camera	Indicator	Tele	Name	2	6, 16
+Camera	Indicator	Tele	Number	2	5, 15
+Camera	Indicator	EndToEnd	Name	1	8
+Camera	Indicator	EndToEnd	Number	2	7, 17
+Camera	Indicator	Pro	Name	2	9, 18
+Camera	Indicator	Pro	Number	1	10
+Camera	Indicator	Broadcast	Name	1	11
+Camera	Indicator	Broadcast	Number	2	12, 19
+Radar	TS-Display	2D	OFF	3	1, 7, 15
+Radar	TS-Display	2D	ON	3	3, 9, 12
+Radar	TS-Display	3D	OFF	3	4, 10, 19
+Radar	TS-Display	3D	ON	3	2, 8, 16
+Radar	TS-Display	OFF	OFF	4	5, 11, 14, 18
+Radar	TS-Display	OFF	ON	3	6, 13, 17
+Radar	HUD	2D	NameBar	3	1, 3, 12
+Radar	HUD	2D	Indicator	3	7, 9, 15
+Radar	HUD	3D	NameBar	3	8, 10, 16
+Radar	HUD	3D	Indicator	3	2, 4, 19
+Radar	HUD	OFF	NameBar	4	5, 13, 14, 18
+Radar	HUD	OFF	Indicator	3	6, 11, 17
+Radar	Indicator	2D	Name	2	1, 9
+Radar	Indicator	2D	Number	4	3, 7, 12, 15
+Radar	Indicator	3D	Name	3	4, 8, 16
+Radar	Indicator	3D	Number	3	2, 10, 19
+Radar	Indicator	OFF	Name	4	6, 11, 14, 18
+Radar	Indicator	OFF	Number	3	5, 13, 17
+TS-Display	HUD	OFF	NameBar	5	1, 5, 10, 14, 18
+TS-Display	HUD	OFF	Indicator	5	4, 7, 11, 15, 19
+TS-Display	HUD	ON	NameBar	5	3, 8, 12, 13, 16
+TS-Display	HUD	ON	Indicator	4	2, 6, 9, 17
+TS-Display	Indicator	OFF	Name	5	1, 4, 11, 14, 18
+TS-Display	Indicator	OFF	Number	5	5, 7, 10, 15, 19
+TS-Display	Indicator	ON	Name	4	6, 8, 9, 16
+TS-Display	Indicator	ON	Number	5	2, 3, 12, 13, 17
+HUD	Indicator	NameBar	Name	5	1, 8, 14, 16, 18
+HUD	Indicator	NameBar	Number	5	3, 5, 10, 12, 13
+HUD	Indicator	Indicator	Name	4	4, 6, 9, 11
+HUD	Indicator	Indicator	Number	5	2, 7, 15, 17, 19
