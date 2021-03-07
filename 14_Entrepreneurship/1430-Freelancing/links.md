@@ -1,0 +1,18 @@
+# Freelancing
+
+[Ask HN: What's a side project you built to make money that hasn't? | Hacker News](https://news.ycombinator.com/item?id=25580637)
+[Show HN: After 2.5 years on my side project, it has hit £500/month revenue | Hacker News](https://news.ycombinator.com/item?id=25372464)
+[GitPals - Find a team or team members for open-source development](https://www.gitpals.com/page/1)
+[What Startups Are Really Like](http://paulgraham.com/really.html)
+[The boring technology behind a one-person Internet company (2018) | Hacker News](https://news.ycombinator.com/item?id=20985875)
+[How to Become a Successful Freelancer: A Podcast Interview with Marketer-Turned-Freelance-Developer Kyle Prinsloo](https://www.freecodecamp.org/news/how-to-become-a-successful-freelancer-podcast/)
+[Going Solo, Successfully | Kevin Burke](https://kevin.burke.dev/kevin/going-solo-successfully/)
+[Kaggle Competitions](https://www.kaggle.com/competitions)
+[The Complete Freelance Web Developer Guide: How to Make Money Through Freelance Programming Jobs](https://www.freecodecamp.org/news/freelance-web-developer-guide/)
+[The SaaS Handbook – How to Build Your First Software-as-a-Service Product Step-By-Step](https://www.freecodecamp.org/news/how-to-build-your-first-saas/)
+[What is Freelancing? How to Find Freelance Jobs Online And Clients in Your City](https://www.freecodecamp.org/news/what-is-freelancing/)
+[How to Get Your First Freelancing Client or Project](https://www.freecodecamp.org/news/how-to-get-your-first-freelancing-client-project/)
+[My Third Year as a Solo Developer · mtlynch.io](https://mtlynch.io/solo-developer-year-3/)
+[US Presidential Election $25,000 Database Bounty Review | DoltHub Blog](https://www.dolthub.com/blog/2021-02-15-election-bounty-review/)
+[LinkedIn is building a gig marketplace | Hacker News](https://news.ycombinator.com/item?id=26247278)
+[Open source projects should run office hours | Hacker News](https://news.ycombinator.com/item?id=26351053)
