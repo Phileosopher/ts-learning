@@ -1,0 +1,22 @@
+{
+ "pipeline": {
+    "name": "cifarcnn"
+  },
+  "transform": {
+    "image": "cifarcnn:latest",
+    "cmd": [
+	"go run main.go"
+    ]
+  },
+  "enable_stats": true,
+  "parallelism_spec": {
+    "constant": "1"
+  },
+  "input": {
+    "pfs": {
+      "repo": "data",
+      "glob": "/"
+    }
+  }
+}
+

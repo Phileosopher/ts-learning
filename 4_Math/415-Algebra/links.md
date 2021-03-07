@@ -1,0 +1,18 @@
+# Algebra
+
+[A 2020 Vision of Linear Algebra | Hacker News](https://news.ycombinator.com/item?id=23150699)
+[Learn Linear Algebra with This 20-Hour Course and Free Textbook](https://www.freecodecamp.org/news/linear-algebra-full-course/)
+[Convolution Is Fancy Multiplication | Hacker News](https://news.ycombinator.com/item?id=25190770)
+[Introduction to Linear Algebra for Applied Machine Learning with Python](https://pabloinsente.github.io/intro-linear-algebra)
+[Simple Numbers](https://polytrope.com/simplenumbers/)
+[THE MAGNIFICENT 2D MATRIX](https://ncase.me/matrix/)
+[Matrix Multiplication](http://matrixmultiplication.xyz/)
+[College Algebra – Learn College Math Prerequisites with this Free 7-Hour Course](https://www.freecodecamp.org/news/learn-algebra-to-improve-your-programming-skills/)
+[About SineRider](https://web.archive.org/web/20170707110554/http://sineridergame.com/)
+[Free Linear Algebra textbook | Hacker News](https://news.ycombinator.com/item?id=24892907)
+[Invitation to Another Dimension](https://maxgoldste.in/invitation-to-another-dimension/)
+[An Intuitive Guide to Linear Algebra (2012) | Hacker News](https://news.ycombinator.com/item?id=22416319)
+[Immersive Linear Algebra (2016) | Hacker News](https://news.ycombinator.com/item?id=19264048)
+[Visualizing quaternions, an explorable video series](https://eater.net/quaternions)
+[Sudoku Observer](https://www.cdglabs.org/sudoku-observer/)
+[Illuminations](https://illuminations.nctm.org/)

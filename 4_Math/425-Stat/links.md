@@ -1,0 +1,16 @@
+# Statistics
+
+[What is Statistical Significance? P Value Defined and How to Calculate It](https://www.freecodecamp.org/news/what-is-statistical-significance-p-value-defined-and-how-to-calculate-it/)
+[Exploring Histograms](https://tinlizzie.org/histograms/)
+[Possibility Space](http://www.possibilityspace.org/tutorial-sampling/index.html)
+[Possibility Space](http://www.possibilityspace.org/tutorial-generative-possibility-space/)
+[Permutation and Combination: The Difference Explained with Formula Examples](https://www.freecodecamp.org/news/permutation-and-combination-the-difference-explained-with-formula-examples/)
+[What is a Correlation Coefficient? The r Value in Statistics Explained](https://www.freecodecamp.org/news/what-is-a-correlation-coefficient-r-value-in-statistics-explains/)
+[Seeing Theory: A visual introduction to probability and statistics (2017) | Hacker News](https://news.ycombinator.com/item?id=18769099)
+[The Birthday Paradox Experiment](https://pudding.cool/2018/04/birthday-paradox/)
+[Mathe Carlo / Samarth Jajoo / Observable](https://observablehq.com/@jajoosam/mathe-carlo/2)
+[Statistics Done Wrong | Hacker News](https://news.ycombinator.com/item?id=19038374)
+[Quantum Roulette and the Nature of Reality](https://freelanceastro.github.io/bell/)
+[Simpson's paradox - Wikipedia](https://en.wikipedia.org/wiki/Simpson%27s_paradox)
+[Power law - Wikipedia](https://en.wikipedia.org/wiki/Power_law#Lack_of_well-defined_average_value)
+[The Monty Hall Problem](https://www.philosophyexperiments.com/montyhall/Default.aspx)
