@@ -1,0 +1,11 @@
+{
+  "posts": [
+    { "id": 100, "title": "json-server", 
+      "author": "typicode" },
+    { "id": 200, "title": "pizza-maker", 
+      "author": "chicago" },
+    { "id": 300, "title": "good-beer",   
+      "author": "escondido" }
+  ]
+}
+

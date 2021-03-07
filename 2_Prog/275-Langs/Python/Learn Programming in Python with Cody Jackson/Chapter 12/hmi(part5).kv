@@ -1,0 +1,13 @@
+   BoxLayout:
+    # Second page (table layout)
+        canvas:
+            Color:
+                rgba: 0.3, 0.3, 0.3, 1
+            Rectangle:
+                size: self.size
+                pos: self.pos
+        table: table  # identify this object for reference by other objects
+        orientation: 'horizontal'  # place the following layouts side-by-side
+        BoxLayout:
+            orientation: "vertical"  # stack buttons
+            size_hint_x: .15  # buttons should be 15% window width

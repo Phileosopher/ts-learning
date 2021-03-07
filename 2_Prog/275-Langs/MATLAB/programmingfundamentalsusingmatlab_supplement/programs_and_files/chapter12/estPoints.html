@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html><head>
+<meta http-equiv="content-type" content="text/html; charset=ISO-8859-1">
+<title>Estimate Points</title>
+<!-- 
+Simple example.
+-Michael Weeks, March 2013
+-->
+</head>
+<body onload="loaded()" bgcolor="#ffffff" text="#0f0000">
+
+<center>
+<script>
+    document.writeln(' This is an example Javascript program.<br>');
+    EstPts = 118;
+    document.writeln(' round EstPts is ' + Math.round(EstPts));
+    document.writeln(' <br>');
+    approxOG = 1 + Math.round(EstPts)/1000;
+    document.writeln('  update approxOG is ' + approxOG);
+    document.writeln(' <br>');
+    document.writeln(' It should be 1.118');
+    document.writeln(' <br>');
+</script>
+</center>
+
+</body>
+</html>

@@ -1,0 +1,13 @@
+    Label:
+        text: root.value
+
+<HMILayout>:
+    table: table  # identify this object for reference by other objects
+    swipe_threshold: .2  # Allow page turn to occur when it has been moved 20%
+    FloatLayout:
+    # First page (HMI)
+        canvas.before:
+            Rectangle:
+                pos: self.pos
+                size: self.size
+                source: "fuel_schematic.png"

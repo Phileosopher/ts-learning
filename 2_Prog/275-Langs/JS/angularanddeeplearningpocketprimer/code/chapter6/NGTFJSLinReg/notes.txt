@@ -1,0 +1,13 @@
+If you encounter the following error:
+ERROR in ../node_modules/@types/webgl2/index.d.ts:582:13 - error TS2403: Subsequent variable declarations must have the same type.  Variable 'WebGL2RenderingContext' must be of type '{ new (): WebGL2RenderingContext; prototype: WebGL2RenderingContext; readonly ACTIVE_ATTRIBUTES: number; readonly ACTIVE_TEXTURE: number; ... 556 more ...; readonly WAIT_FAILED: number; }', but here has type '{ new (): WebGL2RenderingContext; prototype: WebGL2RenderingContext; readonly ACTIVE_ATTRIBUTES: number; readonly ACTIVE_TEXTURE: number; ... 557 more ...; readonly MAX_CLIENT_WAIT_TIMEOUT_WEBGL: number; }'.
+
+582 declare var WebGL2RenderingContext: {
+                ~~~~~~~~~~~~~~~~~~~~~~
+  ../node_modules/typescript/lib/lib.dom.d.ts:16316:13
+    16316 declare var WebGL2RenderingContext: {
+                      ~~~~~~~~~~~~~~~~~~~~~~
+    'WebGL2RenderingContext' was also declared here.
+
+Add this snippet in tsconfig.json:
+    "skipLibCheck": true,
+

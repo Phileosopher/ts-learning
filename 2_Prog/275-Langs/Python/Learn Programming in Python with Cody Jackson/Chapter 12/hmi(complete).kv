@@ -1,0 +1,153 @@
+#:kivy 1.10.0
+
+<HMIButton@ToggleButton>:
+    size_hint: None, None
+    size: 35, 35
+
+<Row@BoxLayout>:
+    canvas.before:
+        Color:
+            rgba: 0.5, 0.5, 0.5, 1
+        Rectangle:
+            size: self.size
+            pos: self.pos
+    value: ''
+    Label:
+        text: root.value
+
+<HMILayout>:
+    table: table
+    swipe_threshold: .2  # Allow page turn to occur when it has been moved 20%
+    FloatLayout:
+    # First page (HMI)
+        canvas.before:
+            Rectangle:
+                pos: self.pos
+                size: self.size
+                source: "fuel_schematic.png"
+        HMIButton:
+            id: gate1
+            text: "G1"
+            pos: 347, 325
+            group: "gate1"
+            on_state: root.on_state(self)
+
+        HMIButton:
+            id: gate2
+            text: "G2"
+            pos: 347, 473
+            group: "gate2"
+            on_state: root.on_state(self)
+
+        HMIButton:
+            id: gate3
+            text: "G3"
+            pos: 427, 339
+            group: "gate3"
+            on_state: root.on_state(self)
+
+        HMIButton:
+            id: gate4
+            text: "G4"
+            pos: 427, 458
+            group: "gate4"
+            on_state: root.on_state(self)
+
+        HMIButton:
+            id: gate5
+            text: "G5"
+            pos: 448, 266
+            group: "gate5"
+            on_state: root.on_state(self)
+
+        HMIButton:
+            id: gate6
+            text: "G6"
+            pos: 449, 429
+            group: "gate6"
+            on_state: root.on_state(self)
+
+        HMIButton:
+            id: gate7
+            text: "G7"
+            pos: 448, 532
+            group: "gate7"
+            on_state: root.on_state(self)
+
+        HMIButton:
+            id: gate8
+            text: "8"
+            pos: 580, 676
+            group: "gate8"
+            on_state: root.on_state(self)
+
+        HMIButton:
+            id: gate9
+            text: "9"
+            pos: 580, 179
+            group: "gate9"
+            on_state: root.on_state(self)
+
+        HMIButton:
+            id: gate10
+            text: "10"
+            pos: 865, 676
+            group: "gate10"
+            on_state: root.on_state(self)
+
+        HMIButton:
+            id: pump1
+            text: "P1"
+            pos: 545, 294
+            group: "pump1"
+            on_state: root.on_state(self)
+            color: 1, .5, .5, 1
+
+        HMIButton:
+            id: pump2
+            text: "P2"
+            pos: 545, 403
+            group: "pump2"
+            on_state: root.on_state(self)
+            color: 1, .5, .5, 1
+
+        HMIButton:
+            id: pump3
+            text: "P3"
+            pos: 545, 505
+            group: "pump3"
+            on_state: root.on_state(self)
+            color: 1, .5, .5, 1
+
+    BoxLayout:
+    # Second page (table layout)
+        canvas:
+            Color:
+                rgba: 0.3, 0.3, 0.3, 1
+            Rectangle:
+                size: self.size
+                pos: self.pos
+        table: table  # identify this object for reference by other objects
+        orientation: 'horizontal'  # place the following layouts side-by-side
+        BoxLayout:
+            orientation: "vertical"  # stack buttons
+            size_hint_x: .15  # buttons should be 15% window width
+            Button:
+                text: 'Populate list'
+                on_press: root.populate()
+            Button:
+                text: 'Clear list'
+                on_press: root.clear()
+        RecycleView:
+            # reference to data table
+            id: table
+            scroll_type: ['bars', 'content']  # table is scrolled by using scroll bars or touching content directly
+            bar_width: dp(20)  # sets scroll bar width to 20 px
+            viewclass: 'Row'  # Refer back to Row@BoxLayout for grid appearance
+            RecycleGridLayout:
+                size_hint: 1, None  # Force scrolling
+                cols: 6
+                default_size: None, dp(56)  # fit table to window
+                default_size_hint: 1, None  # fill width
+                height: self.minimum_height  # fill height
+                spacing: dp(2)  # spacing between cells

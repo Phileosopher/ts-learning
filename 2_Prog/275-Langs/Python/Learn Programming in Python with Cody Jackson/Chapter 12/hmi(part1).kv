@@ -1,0 +1,14 @@
+#:kivy 1.10.0
+
+<HMIButton@ToggleButton>:
+    size_hint: None, None
+    size: 35, 35
+
+<Row@BoxLayout>:
+    canvas.before:
+        Color:
+            rgba: 0.5, 0.5, 0.5, 1
+        Rectangle:
+            size: self.size
+            pos: self.pos
+    value: ''

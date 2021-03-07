@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html><head>
+<meta http-equiv="content-type" content="text/html; charset=ISO-8859-1">
+<title>Hello World</title>
+
+<!-- 
+Simple example.
+-Michael Weeks, March 2013
+-->
+
+<script>
+  var found = false;
+
+  function loaded() {
+    document.getElementById("status1").innerHTML = 'This page has loaded.';
+  }
+
+  function sayHi() {
+    document.getElementById("status1").innerHTML = 'hello!';
+    //alert('Connecting to server...');
+  }
+</script>
+</head>
+<body onload="loaded()" bgcolor="#ffffff" text="#0f0000">
+
+<center>
+<script>
+    document.writeln(' This is an example Javascript program.<br>');
+    EstPts = 1.11801234567;
+    document.writeln(' round EstPts is ' + Math.round(EstPts));
+    document.writeln(' <br>');
+    approxOG = 1 + Math.round(EstPts)/1000;
+    document.writeln('  update approxOG is ' + approxOG);
+    document.writeln(' <br>');
+</script>
+</center>
+
+</body>
+</html>

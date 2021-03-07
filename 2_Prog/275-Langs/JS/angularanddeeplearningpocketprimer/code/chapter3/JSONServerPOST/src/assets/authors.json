@@ -1,0 +1,99 @@
+{
+  "authors": [
+    {
+      "id": 100,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "id": 200,
+      "title": "pizza-maker",
+      "author": "chicago"
+    },
+    {
+      "id": 300,
+      "title": "good-beer",
+      "author": "escondido"
+    },
+    {
+      "id": "400",
+      "title": "The Book of 400",
+      "author": "My New Title400"
+    },
+    {
+      "id": "500",
+      "title": "The Book of 500",
+      "author": "My New Title500"
+    },
+    {
+      "id": "600",
+      "title": "The Book of 600",
+      "author": "My New Title600"
+    },
+    {
+      "id": "700",
+      "title": "The Book of 700",
+      "author": "My New Title700"
+    },
+    {
+      "id": "800",
+      "title": "The Book of 800",
+      "author": "My New Title800"
+    },
+    {
+      "id": "900",
+      "title": "The Book of 900",
+      "author": "My New Title900"
+    },
+    {
+      "id": "533",
+      "title": "The Book of 533",
+      "author": "My New Title533"
+    },
+    {
+      "id": "335",
+      "title": "The Book of 335",
+      "author": "My New Title335"
+    },
+    {
+      "id": "306",
+      "title": "The Book of 306",
+      "author": "My New Title306"
+    },
+    {
+      "id": "230",
+      "title": "The Book of 230",
+      "author": "My New Title230"
+    },
+    {
+      "id": "52",
+      "title": "The Book of 52",
+      "author": "My New Title52"
+    },
+    {
+      "id": "459149",
+      "title": "The Book of 459149",
+      "author": "My New Title459149"
+    },
+    {
+      "id": "80003",
+      "title": "The Book of 80003",
+      "author": "My New Title80003"
+    },
+    {
+      "id": "31852",
+      "title": "The Book of 31852",
+      "author": "My New Title31852"
+    },
+    {
+      "id": "13006",
+      "title": "The Book of 13006",
+      "author": "My New Title13006"
+    },
+    {
+      "id": "1134",
+      "title": "The Book of 1134",
+      "author": "My New Title1134"
+    }
+  ]
+}

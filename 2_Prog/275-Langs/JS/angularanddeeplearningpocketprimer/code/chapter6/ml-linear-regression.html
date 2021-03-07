@@ -1,0 +1,93 @@
+<html>
+  <head>
+   <script src="https://cdn.jsdelivr.net/npm/@tensorflow/tfjs@latest"> 
+   </script>
+   <script src="https://cdn.jsdelivr.net/npm/@tensorflow/tfjs-vis@latest"> 
+   </script>
+
+   <!-- Get latest version at https://github.com/tensorflow/tfjs -->
+   <script src="https://cdn.jsdelivr.net/npm/@tensorflow/tfjs@0.11.2"> 
+   </script>
+
+   </script>
+    <style>
+      .plot {
+        width: 100%;
+        height: 40%;
+        margin: 4px;
+      }
+
+      .btn { display: float-left; }
+    </style>
+  </head>
+
+  <body>
+    <div id="trained_field"></div>
+    <div>
+    <button class="btn" type="button" onclick="trainLinearModel()">Train</button>
+    </div>
+    <div class="plot" id="plot1"></div>
+  </body>
+
+  <script>
+    async function trainLinearModel() {
+     //----------------------------------
+     // define a simple model that has:
+     // 1) a single input (numeric value)
+     // 3) connected to the output layer
+     // 4) an output layer of one neuron
+     //----------------------------------
+ 
+     const model = tf.sequential();
+     model.add(tf.layers.dense({units: 1, inputShape: [1]}));
+     model.compile({
+        loss: 'meanSquaredError',
+        optimizer: 'sgd'
+     });
+     
+     var epochs = 100
+     var delta  = 5
+     var deltaY = 50
+     var count  = 100
+     items1 = []
+     itemsX = []
+     itemsY = []
+     values = []
+
+     // define the data points
+     for(var i=0; i<count; i++) {
+       x = i
+       y = x + delta - Math.random()*deltaY
+
+       items1.push({"x":x, "y":y})
+       itemsX.push(x)
+       itemsY.push(y)
+     } 
+
+     values.push(items1)
+
+     console.log("itemsX:",itemsX)
+     console.log("itemsY:",itemsY)
+
+   //tensor xs and ys are nx1 tensors 
+     const xs = tf.tensor2d(itemsX, [100,1])
+     const ys = tf.tensor2d(itemsY, [100,1])
+
+     // legend-related information 
+     let series1 = ['Dataset1', 'Dataset2']; 
+
+     // render the scatter plot 
+     tfvis.render.scatterplot(document.getElementById('plot1'), {values,series1}, {
+       width:  600,
+       xLabel: 'x-axis',  
+       yLabel: 'y-axis'
+     })
+     
+     await model.fit(xs, ys, {epochs: epochs});
+     
+     document.getElementById('trained_field').innerText =
+        model.predict(tf.tensor2d([10], [1, 1]));
+    }
+  </script>
+</html>
+

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>JCGameTemplateV7</label>
+	</settings>
+	<users>
+		<user>
+			<path>JCGameTemplateV7.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>JCGameTemplateV7.jcp</path>
+		</project>
+	</projects>
+</workspace>

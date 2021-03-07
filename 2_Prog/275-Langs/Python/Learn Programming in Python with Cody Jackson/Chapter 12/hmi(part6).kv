@@ -1,0 +1,15 @@
+            Button:
+                text: 'Populate list'
+                on_press: root.populate()
+            Button:
+                text: 'Clear list'
+                on_press: root.clear()
+        RecycleView:
+            # reference to data table
+            id: table
+            scroll_type: ['bars', 'content']  # table is scrolled by using scroll bars or touching content directly
+            bar_width: dp(20)  # sets scroll bar width to 20 px
+            viewclass: 'Row'  # Refer back to Row@BoxLayout for grid appearance
+            RecycleGridLayout:
+                size_hint: 1, None  # Force scrolling
+                cols: 6

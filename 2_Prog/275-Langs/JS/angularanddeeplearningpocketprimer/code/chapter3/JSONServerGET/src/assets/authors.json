@@ -1,0 +1,49 @@
+{
+  "authors": [
+    {
+      "id": 100,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "id": 200,
+      "title": "pizza-maker",
+      "author": "chicago"
+    },
+    {
+      "id": 300,
+      "title": "good-beer",
+      "author": "escondido"
+    },
+    {
+      "id": "400",
+      "title": "The Book of 400",
+      "author": "My New Title400"
+    },
+    {
+      "id": "500",
+      "title": "The Book of 500",
+      "author": "My New Title500"
+    },
+    {
+      "id": "600",
+      "title": "The Book of 600",
+      "author": "My New Title600"
+    },
+    {
+      "id": "700",
+      "title": "The Book of 700",
+      "author": "My New Title700"
+    },
+    {
+      "id": "800",
+      "title": "The Book of 800",
+      "author": "My New Title800"
+    },
+    {
+      "id": "900",
+      "title": "The Book of 900",
+      "author": "My New Title900"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+2c2
+< % GUI_dropdown_example5.m
+---
+> % GUI_dropdown_example6.m
+6c6
+< % This example DOES NOT WORK, due to the global declaration.
+---
+> % This example DOES WORK.
+10c10
+< function GUI_dropdown_example5
+---
+> function GUI_dropdown_example6
+12,14c12
+< global current_choice
+< 
+< disp('This example does NOT work.');
+---
+> disp('This example does work.');
+24c22
+<     'Callback', {@GUI_dropdown_CB5, mystr});
+---
+>     'Callback', {@GUI_dropdown_CB6, mystr});
+28c26
+< % GUI_dropdown_CB5.m
+---
+> % GUI_dropdown_CB6.m
+30c28
+< % This is the callback function for GUI_dropdown_example1.m.
+---
+> % This is the callback function for GUI_dropdown_example6.m.
+35,37c33,34
+<     function GUI_dropdown_CB5(obj1, obj2, myparam)
+< 
+<         global current_choice
+---
+>     function GUI_dropdown_CB6(obj1, obj2, myparam)
+>         
+39c36
+<         disp('hello from GUI_dropdown_CB5');
+---
+>         disp('hello from GUI_dropdown_CB6');
+55,56c52,56
+<     end  % GUI_dropdown_CB5
+< end  % GUI_dropdown_example5
+---
+>         % Remember the current_choice value
+>         % We could do assignin, but we don't need to...
+>         % assignin('base', 'current_choice', current_choice);
+>     end  % GUI_dropdown_CB6
+> end  % GUI_dropdown_example6
