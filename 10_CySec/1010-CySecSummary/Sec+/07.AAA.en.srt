@@ -1,0 +1,434 @@
+1
+00:00:01.01 --> 00:00:03.09
+- To understand how RADIUS
+works, what I want to start off
+
+2
+00:00:03.09 --> 00:00:06.05
+with are these three blocks,
+and these three blocks
+
+3
+00:00:06.05 --> 00:00:09.07
+are gonna represent
+three different devices.
+
+4
+00:00:09.07 --> 00:00:12.02
+Now way over here on the right,
+
+5
+00:00:12.02 --> 00:00:15.01
+we're gonna have a RADIUS server.
+
+6
+00:00:15.01 --> 00:00:18.05
+Now a RADIUS server is just
+a system that's running
+
+7
+00:00:18.05 --> 00:00:21.05
+some type of RADIUS
+authentication software.
+
+8
+00:00:21.05 --> 00:00:24.08
+There's Microsoft IAS.
+
+9
+00:00:24.08 --> 00:00:28.01
+There's third-party tools
+like Steel-Belted Radius.
+
+10
+00:00:28.01 --> 00:00:31.00
+There are open-source
+ones like OpenRADIUS.
+
+11
+00:00:31.00 --> 00:00:33.04
+So it's some type of
+authentication software
+
+12
+00:00:33.04 --> 00:00:35.04
+that's running on a system here.
+
+13
+00:00:35.04 --> 00:00:38.08
+Now the next thing you're going
+to have is a RADIUS client.
+
+14
+00:00:38.08 --> 00:00:40.08
+Now the RADIUS client is not who's
+
+15
+00:00:40.08 --> 00:00:42.08
+actually being authenticated.
+
+16
+00:00:42.08 --> 00:00:45.04
+His job is to handle authentication
+
+17
+00:00:45.04 --> 00:00:48.09
+requests from RADIUS supplicants.
+
+18
+00:00:48.09 --> 00:00:51.04
+So these are the guys who
+want to get authenticated.
+
+19
+00:00:51.04 --> 00:00:53.08
+He's just the intermediary that makes
+
+20
+00:00:53.08 --> 00:00:56.02
+the request to the server itself.
+
+21
+00:00:56.02 --> 00:01:00.04
+So if we take a look at
+this, this is gonna be a
+
+22
+00:01:00.04 --> 00:01:03.05
+let's say we have a wireless
+network for example.
+
+23
+00:01:03.05 --> 00:01:05.03
+So what I could do here,
+let's have a little fun,
+
+24
+00:01:05.03 --> 00:01:08.07
+I'm gonna put a little antenna into him.
+
+25
+00:01:08.07 --> 00:01:12.06
+There you go, now we've got
+a little wireless antenna
+
+26
+00:01:12.06 --> 00:01:16.04
+to help us appreciate that this
+is a wireless access point.
+
+27
+00:01:16.04 --> 00:01:18.05
+So he'll be set up as a RADIUS client,
+
+28
+00:01:18.05 --> 00:01:20.02
+and then this RADIUS
+server will be over here.
+
+29
+00:01:20.02 --> 00:01:22.03
+So the supplicant, this
+will be just some laptop,
+
+30
+00:01:22.03 --> 00:01:23.08
+or somebody who's trying to get on,
+
+31
+00:01:23.08 --> 00:01:26.04
+or a smartphone or something.
+
+32
+00:01:26.04 --> 00:01:30.06
+He sends his RADIUS request
+to the RADIUS client,
+
+33
+00:01:30.06 --> 00:01:34.01
+who then forwards it to
+the RADIUS server itself.
+
+34
+00:01:34.01 --> 00:01:35.09
+Now the important thing
+about a RADIUS server
+
+35
+00:01:35.09 --> 00:01:38.09
+is that this RADIUS server's
+gonna be using certificates,
+
+36
+00:01:38.09 --> 00:01:41.07
+or user names and
+passwords, or RSA tokens,
+
+37
+00:01:41.07 --> 00:01:44.03
+or something that's coming
+from the supplicant.
+
+38
+00:01:44.03 --> 00:01:47.06
+But the actual database
+itself of user names
+
+39
+00:01:47.06 --> 00:01:49.06
+and passwords or any of that stuff
+
+40
+00:01:49.06 --> 00:01:52.03
+doesn't have to physically
+be on this computer.
+
+41
+00:01:52.03 --> 00:01:55.02
+In a lot of situations,
+this could be like a Windows
+
+42
+00:01:55.02 --> 00:01:57.09
+domain controller or something
+like this, and the RADIUS
+
+43
+00:01:57.09 --> 00:02:01.01
+server can actually go ahead
+and authenticate against
+
+44
+00:02:01.01 --> 00:02:04.09
+domain names in a domain
+account or something like that.
+
+45
+00:02:04.09 --> 00:02:08.06
+So this is a pretty
+standard setup for a RADIUS.
+
+46
+00:02:08.06 --> 00:02:10.08
+Now the thing you need
+to remember about RADIUS
+
+47
+00:02:10.08 --> 00:02:13.08
+is RADIUS is gonna be running on UDP.
+
+48
+00:02:13.08 --> 00:02:21.04
+It's gonna be running on port
+1812 or 1813 or 1645 or 1646.
+
+49
+00:02:21.04 --> 00:02:22.06
+Now here's the big thing you need
+
+50
+00:02:22.06 --> 00:02:24.02
+to keep in mind about all this.
+
+51
+00:02:24.02 --> 00:02:29.01
+The challenge we're running
+into is that RADIUS is AAA.
+
+52
+00:02:29.01 --> 00:02:32.06
+So it's authentication,
+authorization, and accounting.
+
+53
+00:02:32.06 --> 00:02:35.05
+So it authenticates people,
+it authorizes and determines
+
+54
+00:02:35.05 --> 00:02:38.06
+what they can do, and it
+keeps track of who does what.
+
+55
+00:02:38.06 --> 00:02:42.01
+There is another version of AAA that is on
+
+56
+00:02:42.01 --> 00:02:44.01
+the Network+ that you need to be aware of.
+
+57
+00:02:44.01 --> 00:02:46.09
+It's called TACACS+.
+
+58
+00:02:46.09 --> 00:02:51.06
+TACACS+ is actually a
+proprietary Cisco product,
+
+59
+00:02:51.06 --> 00:02:55.04
+and it came to being
+because Cisco had a lot
+
+60
+00:02:55.04 --> 00:02:57.08
+of customers who had routers and switches,
+
+61
+00:02:57.08 --> 00:02:59.09
+and people were going
+nuts having to log in
+
+62
+00:02:59.09 --> 00:03:02.09
+to all of these different routers
+and switches individually,
+
+63
+00:03:02.09 --> 00:03:05.09
+and they wanted to come
+up with a AAA situation
+
+64
+00:03:05.09 --> 00:03:08.04
+that would allow people
+to handle management
+
+65
+00:03:08.04 --> 00:03:10.02
+of a large number of routers and switches.
+
+66
+00:03:10.02 --> 00:03:14.04
+And that's where Cisco
+came up with TACACS+.
+
+67
+00:03:14.04 --> 00:03:16.08
+Now I want to do this
+again, except this time
+
+68
+00:03:16.08 --> 00:03:21.04
+let's put some TACACS+
+stuff into the game.
+
+69
+00:03:21.04 --> 00:03:24.07
+Okay so first of all, TACACS+ is
+
+70
+00:03:24.07 --> 00:03:26.02
+rarely used in a wireless network.
+
+71
+00:03:26.02 --> 00:03:29.00
+I'm not saying it isn't used,
+but it's not very common.
+
+72
+00:03:29.00 --> 00:03:32.06
+So I'm gonna start off
+with the TACACS+ client.
+
+73
+00:03:32.06 --> 00:03:34.05
+Now what I'm talking
+about here as a client,
+
+74
+00:03:34.05 --> 00:03:36.08
+is this is one of a bazillion different
+
+75
+00:03:36.08 --> 00:03:38.01
+routers that are in an enterprise.
+
+76
+00:03:38.01 --> 00:03:39.07
+It could be anything like that.
+
+77
+00:03:39.07 --> 00:03:44.00
+Now along with that is going
+to be a TACACS+ server.
+
+78
+00:03:44.00 --> 00:03:46.06
+Now this is gonna be some
+computer within the enterprise
+
+79
+00:03:46.06 --> 00:03:49.01
+itself that's keeping
+track of all these things.
+
+80
+00:03:49.01 --> 00:03:54.02
+A TACACS+ user is really just
+somebody who's logging into
+
+81
+00:03:54.02 --> 00:03:56.06
+the network and wants to
+get to a bunch of routers.
+
+82
+00:03:56.06 --> 00:03:59.01
+So the whole idea of
+supplicant doesn't really come
+
+83
+00:03:59.01 --> 00:04:03.02
+into play with TACACS+
+like it does with RADIUS.
+
+84
+00:04:03.02 --> 00:04:06.04
+Not to worry, the one thing
+you do need to remember,
+
+85
+00:04:06.04 --> 00:04:09.00
+and this is gonna be on the Network+,
+
+86
+00:04:09.00 --> 00:04:14.00
+and that is that TACACS+ uses TCP port 49.
+
+87
+00:04:14.00 --> 00:04:16.03
+So make sure you always
+can appreciate that
+
+88
+00:04:16.03 --> 00:04:22.00
+TACACS+ uses TCP, and then
+RADIUS is gonna use UDP.
+
+89
+00:04:22.00 --> 00:04:25.08
+So the whole reason we really
+talk about RADIUS and TACACS+
+
+90
+00:04:25.08 --> 00:04:28.01
+at the same time is because the one thing
+
+91
+00:04:28.01 --> 00:04:31.00
+they do have in common
+is they're both AAA.
+
+92
+00:04:31.00 --> 00:04:34.08
+They both authenticate, they
+both authorize, and they both
+
+93
+00:04:34.08 --> 00:04:38.03
+account, keeping track of who's
+doing what, when, and how.
+

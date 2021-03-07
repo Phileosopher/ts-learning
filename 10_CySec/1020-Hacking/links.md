@@ -1,0 +1,41 @@
+# Hacking
+
+[Highly Evasive Attacker Leverages SolarWinds Supply Chain | Hacker News](https://news.ycombinator.com/item?id=25413053)
+[I Hacked into Facebook's Legal Department Admin Panel | Hacker News](https://news.ycombinator.com/item?id=25401294)
+[U.S. Treasury, Commerce Depts. Hacked Through SolarWinds Compromise | Hacker News](https://news.ycombinator.com/item?id=25419487)
+[Journalists Hacked with Suspected NSO Group iMessage ‘Zero-Click’ Exploit | Hacker News](https://news.ycombinator.com/item?id=25489298)
+[We Hacked Apple for 3 Months | Hacker News](https://news.ycombinator.com/item?id=24718078)
+[Bypassing Android MDM Using a $1.50 Electric Gas Lighter | Hacker News](https://news.ycombinator.com/item?id=24590765)
+[The unexpected Google wide domain check bypass | Hacker News](https://news.ycombinator.com/item?id=22527842)
+[Malicious attack on Wikipedia – what we know and what we’re doing | Hacker News](https://news.ycombinator.com/item?id=20902399)
+[I can see your local web servers | Hacker News](https://news.ycombinator.com/item?id=20028108)
+[10 Infamous Cyberattacks: The List You Don’t Want to Be On | Cybersecurity | CompTIA](https://www.comptia.org/blog/10-infamous-cyberattacks)
+[How I Stopped a Credit Card Thief From Ripping Off 3,537 People – and Saved Our Nonprofit in the Process](https://www.freecodecamp.org/news/stopping-credit-card-fraud-and-saving-our-nonprofit/)
+[Zero-day in Sign in with Apple | Hacker News](https://news.ycombinator.com/item?id=23362149)
+[Hackers take over prominent Twitter accounts in simultaneous attack | Hacker News](https://news.ycombinator.com/item?id=23851275)
+[Who’s behind Wednesday’s epic Twitter hack? | Hacker News](https://news.ycombinator.com/item?id=23864265)
+[New ‘Meow’ attack has deleted almost 4k unsecured databases | Hacker News](https://news.ycombinator.com/item?id=23957510)
+[The Regular Expression Denial of Service (ReDoS) cheat-sheet | by James Davis | Level Up Coding](https://levelup.gitconnected.com/the-regular-expression-denial-of-service-redos-cheat-sheet-a78d0ed7d865)
+[HackThisSite](https://www.hackthissite.org/)
+[Hack The Box :: Penetration Testing Labs](https://www.hackthebox.eu/)
+[Kody Kinzie](https://skickar.github.io/)
+[I Attended This Hacker Conference and All I Got Was All the Data on Your Hard Drive | Popular Science](https://www.popsci.com/gear-gadgets/article/2005-04/i-attended-hacker-conference-and-all-i-got-was-all-data-your-hard-drive/)
+[GitHub - pry0cc/axiom: The dynamic infrastructure framework for anybody! Distribute the workload of many different tools with ease, including nmap, ffuf, masscan, nuclei and many more!](https://github.com/pry0cc/axiom)
+[WarGames for real: How one 1983 exercise nearly triggered WWIII | Ars Technica](https://arstechnica.com/information-technology/2020/11/wargames-for-real-how-one-1983-exercise-nearly-triggered-wwiii/)
+[My Phone Was Spying on Me, So I Tracked Down the Surveillants | Hacker News](https://news.ycombinator.com/item?id=25288341)
+[GitHub - nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters: A list of resources for those interested in getting started in bug bounties](https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters)
+[Zero-click, wormable, cross-platform remote code execution in Microsoft Teams | Hacker News](https://news.ycombinator.com/item?id=25331407)
+[BitLocker Lockscreen Bypass | Hacker News](https://news.ycombinator.com/item?id=25810250)
+[How I hijacked the top-level domain of a sovereign state | Detectify Labs](https://labs.detectify.com/2021/01/15/how-i-hijacked-the-top-level-domain-of-a-sovereign-state/)
+[Is this Mahler? This sounds like Mahler | Hacker News](https://news.ycombinator.com/item?id=25012900)
+[Dependency Confusion: How I Hacked Into Apple, Microsoft and Other Companies | Hacker News](https://news.ycombinator.com/item?id=26087064)
+[How I Might Have Hacked Any Microsoft Account - The Zero Hack](https://thezerohack.com/how-i-might-have-hacked-any-microsoft-account?utm_source=tldrnewsletter)
+[Biggest Data Breaches of 2020 – and What Developers Should Learn From Them](https://www.freecodecamp.org/news/biggest-data-breaches-lessons-learned/)
+[SQL Injection Tutorial - What is SQL Injection and How to Prevent it](https://www.freecodecamp.org/news/what-is-sql-injection-how-to-prevent-it/)
+[30k U.S. organizations newly hacked via holes in Microsoft Exchange Server | Hacker News](https://news.ycombinator.com/item?id=26362178)
+
+
+Bug bounties
+  https://www.bugcrowd.com/bug-bounty-list/
+  https://www.hacker101.com/
+  https://hackerone.com/hacktivity

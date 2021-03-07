@@ -1,0 +1,450 @@
+1
+00:00:01.03 --> 00:00:02.06
+- I've got a laptop right here,
+
+2
+00:00:02.06 --> 00:00:04.02
+and it's got some resources on it
+
+3
+00:00:04.02 --> 00:00:06.02
+that I want people to have access to.
+
+4
+00:00:06.02 --> 00:00:08.05
+I might have some Word
+documents in a folder,
+
+5
+00:00:08.05 --> 00:00:10.04
+some videos, whatever it might be.
+
+6
+00:00:10.04 --> 00:00:11.09
+And because he's on a network,
+
+7
+00:00:11.09 --> 00:00:13.05
+I want people from all over the network
+
+8
+00:00:13.05 --> 00:00:15.00
+to be able to get to my laptop.
+
+9
+00:00:15.00 --> 00:00:17.04
+Easy enough, but when
+we start talking about
+
+10
+00:00:17.04 --> 00:00:20.01
+how we let people have access to stuff,
+
+11
+00:00:20.01 --> 00:00:22.01
+primarily within the networking world,
+
+12
+00:00:22.01 --> 00:00:25.07
+we run into authentication
+and authorization.
+
+13
+00:00:25.07 --> 00:00:29.00
+Authentication basically
+means what does it take
+
+14
+00:00:29.00 --> 00:00:32.04
+for you to get into the network,
+the system, the computer,
+
+15
+00:00:32.04 --> 00:00:34.03
+the resource, whatever it might be?
+
+16
+00:00:34.03 --> 00:00:35.07
+And when we're talking about this,
+
+17
+00:00:35.07 --> 00:00:38.03
+we're talking about things
+like user names and passwords.
+
+18
+00:00:38.03 --> 00:00:40.00
+We're talking about certificates.
+
+19
+00:00:40.00 --> 00:00:42.00
+We're talking about RSA tokens.
+
+20
+00:00:42.00 --> 00:00:44.04
+We're talking about smart
+cards, retinal scanners,
+
+21
+00:00:44.04 --> 00:00:47.04
+whatever it might be, to allow the world
+
+22
+00:00:47.04 --> 00:00:50.06
+for it to know that you are
+who you're supposed to be.
+
+23
+00:00:50.06 --> 00:00:52.06
+Now once we're in there, though,
+
+24
+00:00:52.06 --> 00:00:55.00
+so once we're authenticated,
+now it's, well,
+
+25
+00:00:55.00 --> 00:00:56.05
+what can Mike do in there?
+
+26
+00:00:56.05 --> 00:00:59.02
+And that is where
+authorization comes into play.
+
+27
+00:00:59.02 --> 00:01:00.05
+So make sure you understand the difference
+
+28
+00:01:00.05 --> 00:01:03.06
+between authentication
+versus authorization.
+
+29
+00:01:03.06 --> 00:01:05.05
+Now the cornerstone to
+pretty much everything
+
+30
+00:01:05.05 --> 00:01:07.09
+that takes place in this
+process is something
+
+31
+00:01:07.09 --> 00:01:11.01
+that we know generically
+as an access control list.
+
+32
+00:01:11.01 --> 00:01:13.05
+Access control lists exist everywhere.
+
+33
+00:01:13.05 --> 00:01:16.01
+On my computer I have
+an access control list
+
+34
+00:01:16.01 --> 00:01:17.09
+that's pretty much user
+names and passwords
+
+35
+00:01:17.09 --> 00:01:19.08
+and what people can do on folders.
+
+36
+00:01:19.08 --> 00:01:23.01
+On my wireless network I
+have an access control list
+
+37
+00:01:23.01 --> 00:01:26.06
+that determines the password,
+channels, things like that.
+
+38
+00:01:26.06 --> 00:01:30.02
+On my internet connectivity
+I've got an access control list
+
+39
+00:01:30.02 --> 00:01:32.07
+that blocks port numbers
+and things like that.
+
+40
+00:01:32.07 --> 00:01:36.05
+So access control, this
+is a very generic term.
+
+41
+00:01:36.05 --> 00:01:38.05
+And we have to think very
+generically about this.
+
+42
+00:01:38.05 --> 00:01:40.09
+So it could be all kinds
+of different things,
+
+43
+00:01:40.09 --> 00:01:43.03
+but understand that there's
+almost always going to be
+
+44
+00:01:43.03 --> 00:01:45.01
+some type of access control list
+
+45
+00:01:45.01 --> 00:01:48.01
+when it comes to authentication
+and authorization.
+
+46
+00:01:48.01 --> 00:01:50.07
+Now in particular, authorization
+is kind of interesting,
+
+47
+00:01:50.07 --> 00:01:52.07
+because over the years they've come up
+
+48
+00:01:52.07 --> 00:01:54.01
+with a number of ways to do this.
+
+49
+00:01:54.01 --> 00:01:56.02
+So what I'm gonna do is
+I'm gonna use folders
+
+50
+00:01:56.02 --> 00:01:57.08
+as my analogy here.
+
+51
+00:01:57.08 --> 00:02:00.04
+And there are three
+types of access control
+
+52
+00:02:00.04 --> 00:02:02.09
+that you need to be aware
+of for the Network+.
+
+53
+00:02:02.09 --> 00:02:06.06
+The first one is known as
+mandatory access control.
+
+54
+00:02:06.06 --> 00:02:08.05
+In a mandatory access control world,
+
+55
+00:02:08.05 --> 00:02:11.03
+you would put labels, for
+example, here's Top Secret,
+
+56
+00:02:11.03 --> 00:02:13.09
+on an actual resource itself
+
+57
+00:02:13.09 --> 00:02:16.04
+and, based on the label,
+defined what you could
+
+58
+00:02:16.04 --> 00:02:18.09
+or could not do on that
+particular resource.
+
+59
+00:02:18.09 --> 00:02:21.04
+So it was pretty much either
+you could access the resource
+
+60
+00:02:21.04 --> 00:02:22.07
+or not access it.
+
+61
+00:02:22.07 --> 00:02:24.08
+So Top Secret, as you can tell, this came
+
+62
+00:02:24.08 --> 00:02:26.00
+from the US military,
+
+63
+00:02:26.00 --> 00:02:27.09
+so it's kind of an
+old-fashioned way to do it.
+
+64
+00:02:27.09 --> 00:02:30.02
+Now there's nothing wrong
+with mandatory access control
+
+65
+00:02:30.02 --> 00:02:31.08
+other than it was a little bit limiting.
+
+66
+00:02:31.08 --> 00:02:35.02
+So over the years, they
+came up with another type
+
+67
+00:02:35.02 --> 00:02:37.08
+called discretionary access control.
+
+68
+00:02:37.08 --> 00:02:39.08
+With a discretionary access control,
+
+69
+00:02:39.08 --> 00:02:41.05
+you could actually define the resource
+
+70
+00:02:41.05 --> 00:02:42.07
+in lots of different ways.
+
+71
+00:02:42.07 --> 00:02:47.00
+For example, you can put the
+term Owner onto a user account.
+
+72
+00:02:47.00 --> 00:02:49.05
+So Mike is the owner of this resource.
+
+73
+00:02:49.05 --> 00:02:51.07
+Other people can be
+readers of the resource.
+
+74
+00:02:51.07 --> 00:02:53.05
+Other people can write to the resource,
+
+75
+00:02:53.05 --> 00:02:54.09
+whatever it might be.
+
+76
+00:02:54.09 --> 00:02:57.04
+But discretionary gives a
+little bit more flexibility
+
+77
+00:02:57.04 --> 00:03:00.04
+with the old-school
+mandatory access control.
+
+78
+00:03:00.04 --> 00:03:03.01
+Now this was good, but what
+we really do tend to use today
+
+79
+00:03:03.01 --> 00:03:07.04
+more than anything else is
+role-based access control.
+
+80
+00:03:07.04 --> 00:03:09.05
+So with a role-based access control,
+
+81
+00:03:09.05 --> 00:03:11.08
+we can finally use something
+called groups, yay!
+
+82
+00:03:11.08 --> 00:03:14.04
+So with groups, what we could do is
+
+83
+00:03:14.04 --> 00:03:17.08
+we can then create users,
+put the users into a group.
+
+84
+00:03:17.08 --> 00:03:18.08
+Now pay attention here.
+
+85
+00:03:18.08 --> 00:03:22.08
+And what we can do is we can
+assign rights and permissions
+
+86
+00:03:22.08 --> 00:03:26.05
+to a group to define what it
+can do with a shared resource.
+
+87
+00:03:26.05 --> 00:03:30.02
+So if you take a look at, for
+example, Microsoft Windows
+
+88
+00:03:30.02 --> 00:03:33.01
+and what they call their best
+practices, they have a mantra.
+
+89
+00:03:33.01 --> 00:03:35.03
+If you ever go for
+Microsoft certification,
+
+90
+00:03:35.03 --> 00:03:36.09
+and we all have this memorized,
+
+91
+00:03:36.09 --> 00:03:39.04
+and it's that users go into groups
+
+92
+00:03:39.04 --> 00:03:41.09
+who then get rights and
+permissions to folders.
+
+93
+00:03:41.09 --> 00:03:43.05
+So with role-based access control
+
+94
+00:03:43.05 --> 00:03:46.07
+we can use groups to provide
+all kinds of flexibility
+
+95
+00:03:46.07 --> 00:03:48.03
+that we don't see with mandatory
+
+96
+00:03:48.03 --> 00:03:50.08
+or discretionary access controls.
+
+97
+00:03:50.08 --> 00:03:53.07
+So for the Network+ make
+sure you can memorize
+
+98
+00:03:53.07 --> 00:03:57.07
+mandatory access control,
+discretionary access control,
+
+99
+00:03:57.07 --> 00:03:59.09
+and role-based access control.
+

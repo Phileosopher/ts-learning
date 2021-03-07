@@ -1,0 +1,703 @@
+1
+00:00:00.07 --> 00:00:04.01
+- Authentication really
+got started with PPP
+
+2
+00:00:04.01 --> 00:00:06.01
+and the many variations of PPP
+
+3
+00:00:06.01 --> 00:00:08.03
+that have evolved over the years.
+
+4
+00:00:08.03 --> 00:00:11.09
+However, PPP was really
+kind of a reactionary type
+
+5
+00:00:11.09 --> 00:00:15.04
+of authentication designed
+for dial-up type connections,
+
+6
+00:00:15.04 --> 00:00:19.06
+remote connections, and while
+it worked fine it that way,
+
+7
+00:00:19.06 --> 00:00:21.08
+we really needed something
+completely different
+
+8
+00:00:21.08 --> 00:00:23.07
+for wired local area networks
+
+9
+00:00:23.07 --> 00:00:25.08
+where I've got a bunch
+of computers together
+
+10
+00:00:25.08 --> 00:00:27.09
+and they're all wired with Ethernet.
+
+11
+00:00:27.09 --> 00:00:30.07
+We have a lot of efficiencies in terms
+
+12
+00:00:30.07 --> 00:00:32.08
+of speed of network and things like that
+
+13
+00:00:32.08 --> 00:00:35.02
+that a better, I don't
+necessarily wanna say better,
+
+14
+00:00:35.02 --> 00:00:37.03
+but a different form of authentication
+
+15
+00:00:37.03 --> 00:00:39.00
+can really take advantage of that.
+
+16
+00:00:39.00 --> 00:00:42.04
+And that's where Kerberos comes into play.
+
+17
+00:00:42.04 --> 00:00:45.09
+Kerberos is designed to do authentication
+
+18
+00:00:45.09 --> 00:00:47.03
+for local area networks.
+
+19
+00:00:47.03 --> 00:00:48.03
+Now, it can do more than that,
+
+20
+00:00:48.03 --> 00:00:50.07
+but that's its claim to fame.
+
+21
+00:00:50.07 --> 00:00:53.05
+Kerberos works completely
+different from any
+
+22
+00:00:53.05 --> 00:00:57.00
+of the PPP concepts that
+we've seen in other episodes,
+
+23
+00:00:57.00 --> 00:01:00.05
+so we really need to talk
+about Kerberos in some detail.
+
+24
+00:01:00.05 --> 00:01:03.00
+So, let's go ahead and get started.
+
+25
+00:01:03.00 --> 00:01:05.04
+In order to appreciate how Kerberos works,
+
+26
+00:01:05.04 --> 00:01:07.07
+I'm gonna put two little blocks up here.
+
+27
+00:01:07.07 --> 00:01:09.03
+This is going to be a Windows Client,
+
+28
+00:01:09.03 --> 00:01:12.05
+so it's running Windows 7,
+Windows 8, something like that.
+
+29
+00:01:12.05 --> 00:01:16.02
+But over here, this computer
+is running a version
+
+30
+00:01:16.02 --> 00:01:21.03
+of Windows Server, so it's
+running Server 2008, Server 2012.
+
+31
+00:01:21.03 --> 00:01:22.08
+This is not your regular Windows.
+
+32
+00:01:22.08 --> 00:01:24.07
+This copy of Windows right here is gonna
+
+33
+00:01:24.07 --> 00:01:27.00
+set you back a couple of grand probably,
+
+34
+00:01:27.00 --> 00:01:28.09
+and it could cost you a lot more.
+
+35
+00:01:28.09 --> 00:01:31.07
+But in return for that,
+you have the ability
+
+36
+00:01:31.07 --> 00:01:36.01
+to turn this into what's known
+as a Key Distribution Center.
+
+37
+00:01:36.01 --> 00:01:40.03
+When you set up a Windows Server
+to be a domain controller,
+
+38
+00:01:40.03 --> 00:01:44.04
+it becomes a Kerberos
+Key Distribution Center.
+
+39
+00:01:44.04 --> 00:01:46.01
+The Key Distribution Center consists
+
+40
+00:01:46.01 --> 00:01:48.06
+of two really, really important services.
+
+41
+00:01:48.06 --> 00:01:51.01
+First is the Authentication Service
+
+42
+00:01:51.01 --> 00:01:53.06
+and the second is the
+Ticket-Granting Service.
+
+43
+00:01:53.06 --> 00:01:55.08
+So, that's all built into this guy.
+
+44
+00:01:55.08 --> 00:01:59.04
+So, what takes place is,
+when your computer logs in,
+
+45
+00:01:59.04 --> 00:02:02.09
+he sends over a hash with his values
+
+46
+00:02:02.09 --> 00:02:07.06
+for username and password,
+it's taken a look at
+
+47
+00:02:07.06 --> 00:02:09.08
+by the authentication server
+
+48
+00:02:09.08 --> 00:02:11.04
+and the authentication server then,
+
+49
+00:02:11.04 --> 00:02:16.04
+in turn, sends back a TGT token
+
+50
+00:02:16.04 --> 00:02:18.02
+to the client himself.
+
+51
+00:02:18.02 --> 00:02:21.06
+That gets him authenticated,
+but he's not authorized.
+
+52
+00:02:21.06 --> 00:02:25.00
+The TGT is then timestamped by the client
+
+53
+00:02:25.00 --> 00:02:28.09
+and sent back over to the
+Ticket-Granting Service.
+
+54
+00:02:28.09 --> 00:02:31.02
+The Ticket-Granting Service reads this,
+
+55
+00:02:31.02 --> 00:02:33.01
+stamps it again with a timestamp,
+
+56
+00:02:33.01 --> 00:02:35.08
+which, in essence, turns it
+into something called a token,
+
+57
+00:02:35.08 --> 00:02:38.06
+and the token is then
+passed back to the client.
+
+58
+00:02:38.06 --> 00:02:40.04
+This token is good for, well,
+
+59
+00:02:40.04 --> 00:02:42.02
+it depends on how you got it set up,
+
+60
+00:02:42.02 --> 00:02:45.04
+but eight hours is a fairly
+common amount of time.
+
+61
+00:02:45.04 --> 00:02:48.01
+Any time your computer wants to log into
+
+62
+00:02:48.01 --> 00:02:50.06
+any other computer on the network,
+
+63
+00:02:50.06 --> 00:02:53.04
+as long as they're all
+part of the same domain,
+
+64
+00:02:53.04 --> 00:02:56.03
+the same active directory,
+he'll use that token
+
+65
+00:02:56.03 --> 00:03:00.02
+to access any resource
+on any other computer.
+
+66
+00:03:00.02 --> 00:03:02.05
+Kerberos is some powerful stuff.
+
+67
+00:03:02.05 --> 00:03:06.07
+It's pretty much trivial to set
+up, but it's wildly popular.
+
+68
+00:03:06.07 --> 00:03:08.09
+Anybody who uses Windows domains
+
+69
+00:03:08.09 --> 00:03:12.06
+and has domain controllers
+is using Kerberos by default.
+
+70
+00:03:12.06 --> 00:03:15.02
+However, Kerberos has
+a couple of downsides.
+
+71
+00:03:15.02 --> 00:03:17.00
+The first downside is that, well,
+
+72
+00:03:17.00 --> 00:03:19.02
+you gotta buy a copy of Windows Server.
+
+73
+00:03:19.02 --> 00:03:22.03
+It's fascinating, I go to
+a number of universities
+
+74
+00:03:22.03 --> 00:03:24.01
+where they're doing big
+parallel processing,
+
+75
+00:03:24.01 --> 00:03:26.04
+they've got gazillions of Linux boxes,
+
+76
+00:03:26.04 --> 00:03:28.07
+but they still buy a copy
+of Windows Server just
+
+77
+00:03:28.07 --> 00:03:31.06
+so all their Linux boxes
+can do a single log in.
+
+78
+00:03:31.06 --> 00:03:33.07
+It's very popular like that.
+
+79
+00:03:33.07 --> 00:03:35.08
+The other downside to Kerberos is
+
+80
+00:03:35.08 --> 00:03:37.06
+that everything is timestamped.
+
+81
+00:03:37.06 --> 00:03:39.04
+And especially during that transaction,
+
+82
+00:03:39.04 --> 00:03:41.06
+you have an extremely
+short amount of time,
+
+83
+00:03:41.06 --> 00:03:44.00
+where it's preventing
+man-in-the-middle attacks,
+
+84
+00:03:44.00 --> 00:03:46.06
+and if you don't get it in
+the right amount of time,
+
+85
+00:03:46.06 --> 00:03:48.05
+it completely fails.
+
+86
+00:03:48.05 --> 00:03:51.07
+So, you have to have
+all of your computer set
+
+87
+00:03:51.07 --> 00:03:53.00
+to the same time.
+
+88
+00:03:53.00 --> 00:03:54.06
+Now, that's relatively easy today,
+
+89
+00:03:54.06 --> 00:03:57.08
+with things like the
+Network Time Protocols
+
+90
+00:03:57.08 --> 00:03:59.09
+and that type of thing, to set them up,
+
+91
+00:03:59.09 --> 00:04:02.02
+but a common problem, when
+you have a Windows system
+
+92
+00:04:02.02 --> 00:04:04.02
+and you're trying to log into a domain
+
+93
+00:04:04.02 --> 00:04:05.05
+and you're unsuccessful,
+
+94
+00:04:05.05 --> 00:04:09.01
+one of the first things
+you do is check the time.
+
+95
+00:04:09.01 --> 00:04:12.01
+Kerberos is great, but
+Kerberos is really designed
+
+96
+00:04:12.01 --> 00:04:14.02
+for wired networks.
+
+97
+00:04:14.02 --> 00:04:17.07
+PPP is great, but the
+challenge with PPP is
+
+98
+00:04:17.07 --> 00:04:19.02
+that it's really set up primarily
+
+99
+00:04:19.02 --> 00:04:21.02
+for point-to-point protocols.
+
+100
+00:04:21.02 --> 00:04:24.09
+So, what we end up having is
+this fabulously complicated
+
+101
+00:04:24.09 --> 00:04:27.06
+world where we have all
+of these different forms
+
+102
+00:04:27.06 --> 00:04:29.07
+of authentication mechanisms.
+
+103
+00:04:29.07 --> 00:04:33.01
+So, to try to fix this,
+many, many years ago,
+
+104
+00:04:33.01 --> 00:04:36.03
+we came up with something called EAP.
+
+105
+00:04:36.03 --> 00:04:41.05
+EAP is nothing more than, well,
+
+106
+00:04:41.05 --> 00:04:42.08
+it's an envelope.
+
+107
+00:04:42.08 --> 00:04:46.08
+What EAP does is it
+allows transactional-based
+
+108
+00:04:46.08 --> 00:04:49.02
+authentication mechanisms to be able
+
+109
+00:04:49.02 --> 00:04:50.05
+to talk to each other and go,
+
+110
+00:04:50.05 --> 00:04:53.08
+hey, I can do these
+types of authentications,
+
+111
+00:04:53.08 --> 00:04:55.00
+what can you do?
+
+112
+00:04:55.00 --> 00:04:57.05
+And it allows a lot of flexibility
+
+113
+00:04:57.05 --> 00:04:59.04
+where before you would have to go,
+
+114
+00:04:59.04 --> 00:05:02.00
+well, we have to set it up so
+it can only do certificates
+
+115
+00:05:02.00 --> 00:05:05.01
+or it can only do a password
+or whatever it might be,
+
+116
+00:05:05.01 --> 00:05:09.05
+but with EAP, you now have
+outrageous flexibility.
+
+117
+00:05:09.05 --> 00:05:12.04
+The best way to think about EAP is simply
+
+118
+00:05:12.04 --> 00:05:14.05
+to think about it as an envelope.
+
+119
+00:05:14.05 --> 00:05:17.09
+It's a burst of data that's
+being sent between some type
+
+120
+00:05:17.09 --> 00:05:20.04
+of requester and some type of server,
+
+121
+00:05:20.04 --> 00:05:24.05
+and the EAP helps negotiate
+to determine what you can do.
+
+122
+00:05:24.05 --> 00:05:26.09
+So, the trick here is,
+when somebody's sending
+
+123
+00:05:26.09 --> 00:05:29.03
+to something else, they
+have to ask each other,
+
+124
+00:05:29.03 --> 00:05:31.03
+well, what kind of EAPs can you do?
+
+125
+00:05:31.03 --> 00:05:32.06
+So, there's a number of EAPs,
+
+126
+00:05:32.06 --> 00:05:35.00
+let's go through the big ones at least.
+
+127
+00:05:35.00 --> 00:05:38.03
+EAP-PSK basically has a common key
+
+128
+00:05:38.03 --> 00:05:42.07
+that everybody uses to log in.
+
+129
+00:05:42.07 --> 00:05:46.03
+Another one is EAP,
+which is known as PEAP.
+
+130
+00:05:46.03 --> 00:05:54.00
+With PEAP, it uses a standard
+username and password.
+
+131
+00:05:54.00 --> 00:05:56.02
+There's very simple ones
+that aren't used very often.
+
+132
+00:05:56.02 --> 00:05:59.05
+For example, there's one called EAP-MD5
+
+133
+00:05:59.05 --> 00:06:04.00
+and it simply uses a hash.
+
+134
+00:06:04.00 --> 00:06:05.06
+Now, if you wanna get hairy about things,
+
+135
+00:06:05.06 --> 00:06:07.06
+you can even use certificates.
+
+136
+00:06:07.06 --> 00:06:11.04
+For example, you can do EAP-TLS,
+
+137
+00:06:11.04 --> 00:06:13.06
+which is a single certificate,
+
+138
+00:06:13.06 --> 00:06:16.05
+which comes from the
+server side of the system
+
+139
+00:06:16.05 --> 00:06:18.08
+and then passed to the individual clients.
+
+140
+00:06:18.08 --> 00:06:21.09
+You can even do EAP-TTLS,
+
+141
+00:06:21.09 --> 00:06:24.04
+which requires both the individual clients
+
+142
+00:06:24.04 --> 00:06:26.09
+as well as the authenticating system
+
+143
+00:06:26.09 --> 00:06:30.03
+to each have certificates.
+
+144
+00:06:30.03 --> 00:06:33.02
+EAP was designed as a methodology
+
+145
+00:06:33.02 --> 00:06:35.09
+of encapsulating any
+form of authentication
+
+146
+00:06:35.09 --> 00:06:38.05
+that anybody could possibly wanna do.
+
+147
+00:06:38.05 --> 00:06:41.02
+The idea behind it is that with EAP,
+
+148
+00:06:41.02 --> 00:06:43.01
+we really wouldn't have
+to worry about what type
+
+149
+00:06:43.01 --> 00:06:45.02
+of authentication methods you used,
+
+150
+00:06:45.02 --> 00:06:48.02
+we would just have the
+ones that we're ready for,
+
+151
+00:06:48.02 --> 00:06:51.02
+and no matter what you
+needed, we had it for you.
+
+152
+00:06:51.02 --> 00:06:53.06
+Well, it didn't really work out that way.
+
+153
+00:06:53.06 --> 00:06:57.04
+With EAP, even though
+it works beautifully,
+
+154
+00:06:57.04 --> 00:06:59.02
+the only other real challenger
+
+155
+00:06:59.02 --> 00:07:01.01
+that's heavily used is Kerberos,
+
+156
+00:07:01.01 --> 00:07:03.05
+and Microsoft isn't gonna change that.
+
+157
+00:07:03.05 --> 00:07:07.00
+So, it boils down to
+this, EAP is out there,
+
+158
+00:07:07.00 --> 00:07:09.07
+but it's pretty much
+used almost exclusively
+
+159
+00:07:09.07 --> 00:07:12.01
+to connect to wireless networks.
+

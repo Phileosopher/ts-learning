@@ -1,0 +1,1252 @@
+1
+00:00:00.02 --> 00:00:02.03
+- Well, what I wanna cover in this episode
+
+2
+00:00:02.03 --> 00:00:06.05
+is identification, authorization,
+and authentication.
+
+3
+00:00:06.05 --> 00:00:09.01
+Now, when we talk about
+these three, the best way
+
+4
+00:00:09.01 --> 00:00:11.03
+to really understand it
+is through an analogy.
+
+5
+00:00:11.03 --> 00:00:14.04
+So, I'm actually buying myself
+a ticket to go to the theater
+
+6
+00:00:14.04 --> 00:00:18.08
+right now, and I'm gonna print
+out my confirmation code.
+
+7
+00:00:18.08 --> 00:00:20.00
+Let's go to the theater, and let me
+
+8
+00:00:20.00 --> 00:00:23.00
+show ya how these three work.
+
+9
+00:00:23.00 --> 00:00:26.01
+Two tickets for La traviata, please.
+
+10
+00:00:26.01 --> 00:00:28.05
+Now, before she's gonna
+give me any tickets,
+
+11
+00:00:28.05 --> 00:00:31.02
+we are gonna have to get,
+in essence, authenticated.
+
+12
+00:00:31.02 --> 00:00:33.05
+Now, the first step I'm
+gonna have to do here
+
+13
+00:00:33.05 --> 00:00:36.05
+is I'm gonna have to provide
+some form of identification.
+
+14
+00:00:36.05 --> 00:00:39.04
+In this case, I'm just gonna
+provide a driver's license.
+
+15
+00:00:39.04 --> 00:00:41.07
+Now, because the ticket
+lady's a human being,
+
+16
+00:00:41.07 --> 00:00:43.08
+this is an easy way
+for her to identify me,
+
+17
+00:00:43.08 --> 00:00:46.01
+is just by looking at
+the driver's license.
+
+18
+00:00:46.01 --> 00:00:48.02
+But, it still doesn't
+mean I'm authenticated
+
+19
+00:00:48.02 --> 00:00:49.05
+to get some tickets.
+
+20
+00:00:49.05 --> 00:00:51.05
+In order for me to do, ah, yes,
+
+21
+00:00:51.05 --> 00:00:53.04
+in order for me to do that, I'm gonna have
+
+22
+00:00:53.04 --> 00:00:55.04
+to pull out my confirmation number
+
+23
+00:00:55.04 --> 00:00:57.08
+that I printed out on my printer earlier.
+
+24
+00:00:57.08 --> 00:01:01.06
+Now, between my identification
+and my confirmation number,
+
+25
+00:01:01.06 --> 00:01:04.09
+I've actually performed
+proper authentication.
+
+26
+00:01:04.09 --> 00:01:07.06
+Thank you very much.
+
+27
+00:01:07.06 --> 00:01:09.01
+And now, I've got my tickets.
+
+28
+00:01:09.01 --> 00:01:13.08
+Let's go sit down.
+
+29
+00:01:13.08 --> 00:01:16.01
+OK, row T,
+
+30
+00:01:16.01 --> 00:01:20.00
+and my seats are 14 and 15.
+
+31
+00:01:20.00 --> 00:01:23.07
+OK, looks good.
+
+32
+00:01:23.07 --> 00:01:26.09
+I think I might be here a little early.
+
+33
+00:01:26.09 --> 00:01:28.09
+The important thing to
+remember for the Security+
+
+34
+00:01:28.09 --> 00:01:31.05
+is the difference between identification,
+
+35
+00:01:31.05 --> 00:01:33.09
+authentication, and authorization.
+
+36
+00:01:33.09 --> 00:01:36.01
+Identification just proves who I am
+
+37
+00:01:36.01 --> 00:01:38.01
+to the authenticating system.
+
+38
+00:01:38.01 --> 00:01:40.07
+Authentication itself
+takes place by me proving
+
+39
+00:01:40.07 --> 00:01:43.06
+that I have rights to that
+system through passwords,
+
+40
+00:01:43.06 --> 00:01:47.03
+smart cards, retinal scanners,
+whatever it might be.
+
+41
+00:01:47.03 --> 00:01:51.04
+And then, authorization
+simply means what rights
+
+42
+00:01:51.04 --> 00:01:55.01
+do I have to the system once
+I've been authenticated.
+
+43
+00:01:55.01 --> 00:01:58.04
+Alright, so, let's do this all
+over again, except this time,
+
+44
+00:01:58.04 --> 00:02:00.07
+let's do it in a more
+computer kinda world.
+
+45
+00:02:00.07 --> 00:02:04.07
+I'm gonna watch the show.
+
+46
+00:02:04.07 --> 00:02:06.02
+Ah, La traviata.
+
+47
+00:02:06.02 --> 00:02:09.04
+Who doesn't enjoy a little bit
+of Verdi every now and then.
+
+48
+00:02:09.04 --> 00:02:11.06
+OK, well, anyway, we're
+back in the studio now,
+
+49
+00:02:11.06 --> 00:02:14.07
+and what I wanna do is kinda
+make sure we understand
+
+50
+00:02:14.07 --> 00:02:18.02
+there are some issues when
+it comes to identification,
+
+51
+00:02:18.02 --> 00:02:20.05
+authorization, and authentication.
+
+52
+00:02:20.05 --> 00:02:21.05
+The challenge we have is that,
+
+53
+00:02:21.05 --> 00:02:24.00
+well, computers aren't people.
+
+54
+00:02:24.00 --> 00:02:25.07
+I can't go up to a lady in a ticket booth
+
+55
+00:02:25.07 --> 00:02:28.03
+and just show 'em a driver's
+license and confirmation
+
+56
+00:02:28.03 --> 00:02:30.08
+number and, in essence, get my tickets.
+
+57
+00:02:30.08 --> 00:02:32.02
+Instead, what we do is we have
+
+58
+00:02:32.02 --> 00:02:34.03
+what are called authentication factors.
+
+59
+00:02:34.03 --> 00:02:36.09
+Now, there are three big
+authentication factors
+
+60
+00:02:36.09 --> 00:02:39.01
+that you're gonna be seeing on Security+.
+
+61
+00:02:39.01 --> 00:02:41.07
+The first one is something you know,
+
+62
+00:02:41.07 --> 00:02:43.01
+and that's something like a password,
+
+63
+00:02:43.01 --> 00:02:45.03
+for example, would be something you know.
+
+64
+00:02:45.03 --> 00:02:47.04
+The next one is something you have,
+
+65
+00:02:47.04 --> 00:02:49.07
+and that means things like a smart card
+
+66
+00:02:49.07 --> 00:02:51.06
+or something that you
+actually have on your person
+
+67
+00:02:51.06 --> 00:02:54.03
+that you can use to authorize you.
+
+68
+00:02:54.03 --> 00:02:56.05
+And the last one is something about you,
+
+69
+00:02:56.05 --> 00:02:58.01
+and that's what we call biometrics.
+
+70
+00:02:58.01 --> 00:03:00.07
+That's gonna be things
+like retinal scanners
+
+71
+00:03:00.07 --> 00:03:03.05
+and things that actually measure the veins
+
+72
+00:03:03.05 --> 00:03:06.02
+in your palm, all kinds
+of cool stuff like that.
+
+73
+00:03:06.02 --> 00:03:08.02
+Anyway, let's go ahead and
+start with the first one,
+
+74
+00:03:08.02 --> 00:03:10.04
+and that is something you know.
+
+75
+00:03:10.04 --> 00:03:15.04
+So, the best example
+is good old passwords.
+
+76
+00:03:15.04 --> 00:03:17.09
+So, here we are at a
+typical log in screen,
+
+77
+00:03:17.09 --> 00:03:20.01
+and you can see that I have my username
+
+78
+00:03:20.01 --> 00:03:21.07
+that I type in and my passwords,
+
+79
+00:03:21.07 --> 00:03:24.07
+we're all pretty comfortable
+with something like that.
+
+80
+00:03:24.07 --> 00:03:28.09
+But passwords aren't the only
+type of something you know.
+
+81
+00:03:28.09 --> 00:03:33.06
+Another great example
+are gonna be PIN codes.
+
+82
+00:03:33.06 --> 00:03:36.04
+Now, we see PINs all over the place.
+
+83
+00:03:36.04 --> 00:03:39.02
+One of my favorite ones is
+here on my phone right here.
+
+84
+00:03:39.02 --> 00:03:41.03
+So, what I'm gonna do is,
+
+85
+00:03:41.03 --> 00:03:43.05
+uh, you guys are gonna
+fuzz all this out, right?
+
+86
+00:03:43.05 --> 00:03:45.06
+OK, so, what I'm gonna do
+is punch in my password.
+
+87
+00:03:45.06 --> 00:03:48.04
+One, two, three four,
+it's not a password, Mike,
+
+88
+00:03:48.04 --> 00:03:50.08
+it's a PIN, yeah, I know, it's OK.
+
+89
+00:03:50.08 --> 00:03:55.06
+Oo, it's incorrect.
+
+90
+00:03:55.06 --> 00:03:57.08
+Like I was really gonna let
+you guys see my PIN code?
+
+91
+00:03:57.08 --> 00:03:59.00
+Come on.
+
+92
+00:03:59.00 --> 00:04:00.09
+Now, we see PINs all over the place.
+
+93
+00:04:00.09 --> 00:04:04.00
+We see 'em on phones a lot, ATM machines,
+
+94
+00:04:04.00 --> 00:04:07.03
+but, again, that's a great
+example of something you know.
+
+95
+00:04:07.03 --> 00:04:10.02
+In fact, for certain
+Department of Justice folks
+
+96
+00:04:10.02 --> 00:04:12.09
+I work with, not only, when
+you walk up to a machine,
+
+97
+00:04:12.09 --> 00:04:14.02
+do you have to type in a password,
+
+98
+00:04:14.02 --> 00:04:15.06
+but you actually have to type in a PIN
+
+99
+00:04:15.06 --> 00:04:17.04
+separately, depending on what type of
+
+100
+00:04:17.04 --> 00:04:19.08
+authenticating system you might have.
+
+101
+00:04:19.08 --> 00:04:22.01
+But that's not the only
+types of something you know.
+
+102
+00:04:22.01 --> 00:04:23.08
+There's two more I wanna look at.
+
+103
+00:04:23.08 --> 00:04:28.06
+First of all, let's
+take a look at captcha.
+
+104
+00:04:28.06 --> 00:04:31.05
+We've probably all seen a captcha screen.
+
+105
+00:04:31.05 --> 00:04:34.05
+Most the time, these tend
+to pop up on websites
+
+106
+00:04:34.05 --> 00:04:37.01
+where you're logging in
+a few too many times,
+
+107
+00:04:37.01 --> 00:04:39.01
+and you're making the authenticating
+
+108
+00:04:39.01 --> 00:04:40.09
+process a little bit nervous.
+
+109
+00:04:40.09 --> 00:04:42.04
+So, what they're gonna do
+is they're gonna let you
+
+110
+00:04:42.04 --> 00:04:44.07
+type in your username and password again,
+
+111
+00:04:44.07 --> 00:04:46.09
+but you're gonna have
+to type in the captcha.
+
+112
+00:04:46.09 --> 00:04:50.02
+You know what that captcha says.
+
+113
+00:04:50.02 --> 00:04:53.00
+The idea here is that it's
+preventing evil computer
+
+114
+00:04:53.00 --> 00:04:55.02
+programs that can just keep
+logging in over and over
+
+115
+00:04:55.02 --> 00:04:57.09
+again from being able to log in.
+
+116
+00:04:57.09 --> 00:04:59.04
+So, that's captcha.
+
+117
+00:04:59.04 --> 00:05:03.00
+Now, the last one I wanna
+take a look at is right here,
+
+118
+00:05:03.00 --> 00:05:05.04
+and this is going to
+be security questions.
+
+119
+00:05:05.04 --> 00:05:07.06
+And there's a good chance most of us
+
+120
+00:05:07.06 --> 00:05:09.06
+have seen security questions too.
+
+121
+00:05:09.06 --> 00:05:11.08
+Security questions usually
+pop up, for example,
+
+122
+00:05:11.08 --> 00:05:14.05
+when you've forgotten your
+password or something like this,
+
+123
+00:05:14.05 --> 00:05:16.00
+and it allows for an automatic
+
+124
+00:05:16.00 --> 00:05:18.01
+password-retrieval-type system
+
+125
+00:05:18.01 --> 00:05:22.02
+simply by you remembering
+the name of your first dog
+
+126
+00:05:22.02 --> 00:05:25.09
+or your mother's maiden
+name, or your school
+
+127
+00:05:25.09 --> 00:05:30.01
+that you graduated from,
+whatever it might be.
+
+128
+00:05:30.01 --> 00:05:31.02
+So, you need to be careful
+
+129
+00:05:31.02 --> 00:05:33.05
+on the Security+ exam right here.
+
+130
+00:05:33.05 --> 00:05:35.06
+It's easy to remember
+that something you know
+
+131
+00:05:35.06 --> 00:05:38.03
+would be an example like
+a password or a PIN.
+
+132
+00:05:38.03 --> 00:05:41.01
+But also remember that
+captcha and security
+
+133
+00:05:41.01 --> 00:05:44.05
+questions are included
+in something you know.
+
+134
+00:05:44.05 --> 00:05:47.05
+OK, the next one is something you have.
+
+135
+00:05:47.05 --> 00:05:49.04
+Now, when we talk about
+something you have,
+
+136
+00:05:49.04 --> 00:05:51.02
+we're gonna talk about
+two things in particular
+
+137
+00:05:51.02 --> 00:05:53.00
+that you're gonna see on Security+
+
+138
+00:05:53.00 --> 00:05:54.06
+The first one is called a smart card,
+
+139
+00:05:54.06 --> 00:05:57.08
+and I seem to be out of
+smart cards right now,
+
+140
+00:05:57.08 --> 00:05:59.03
+but I got a picture of
+one here on the screen.
+
+141
+00:05:59.03 --> 00:06:00.06
+Let's take a look at this.
+
+142
+00:06:00.06 --> 00:06:03.07
+Now, this is a very typical
+smart card that you'll see used
+
+143
+00:06:03.07 --> 00:06:06.07
+in a lot of federal organizations
+and stuff like that.
+
+144
+00:06:06.07 --> 00:06:08.07
+The important thing about a smart card
+
+145
+00:06:08.07 --> 00:06:11.03
+is embedded somewhere on that smart card
+
+146
+00:06:11.03 --> 00:06:15.04
+is a chip that holds a
+unique identifying code.
+
+147
+00:06:15.04 --> 00:06:18.08
+And when you insert this,
+or when you wave it over
+
+148
+00:06:18.08 --> 00:06:20.07
+a sensor or whatever it might be,
+
+149
+00:06:20.07 --> 00:06:24.04
+it provides that code to
+the authenticating body.
+
+150
+00:06:24.04 --> 00:06:26.02
+Now, smart cards are
+great, but the last one
+
+151
+00:06:26.02 --> 00:06:29.01
+I wanna show you is known as an RSA key.
+
+152
+00:06:29.01 --> 00:06:32.04
+Now, an RSA key, it can be a little device
+
+153
+00:06:32.04 --> 00:06:35.06
+that is got a number, or it
+can be a piece of software.
+
+154
+00:06:35.06 --> 00:06:37.01
+And I actually have one here,
+
+155
+00:06:37.01 --> 00:06:41.00
+so let me show ya how an RSA key works.
+
+156
+00:06:41.00 --> 00:06:43.01
+Now, I want you to
+watch this very closely.
+
+157
+00:06:43.01 --> 00:06:45.08
+You'll see this eight-digit code, watch.
+
+158
+00:06:45.08 --> 00:06:48.01
+OK, you see it just change?
+
+159
+00:06:48.01 --> 00:06:53.05
+An RSA token or an RSA
+key is a piece of software
+
+160
+00:06:53.05 --> 00:06:56.06
+or an actual physical key you can get
+
+161
+00:06:56.06 --> 00:07:00.09
+that stores a secret code of some form.
+
+162
+00:07:00.09 --> 00:07:03.01
+It then takes that
+secret code and performs
+
+163
+00:07:03.01 --> 00:07:06.07
+some magic little voodoo
+on it and will generate
+
+164
+00:07:06.07 --> 00:07:10.07
+a value that changes, it depends,
+there's no law of physics,
+
+165
+00:07:10.07 --> 00:07:13.02
+every 30 seconds, every 60 seconds.
+
+166
+00:07:13.02 --> 00:07:17.00
+So, the only way that another
+device can authenticate
+
+167
+00:07:17.00 --> 00:07:20.00
+this is that if it also
+has that secret code.
+
+168
+00:07:20.00 --> 00:07:22.05
+And it will go ahead and
+run the same mumbo jumbo,
+
+169
+00:07:22.05 --> 00:07:24.06
+and if it comes up with the same value,
+
+170
+00:07:24.06 --> 00:07:26.06
+you are in good shape.
+
+171
+00:07:26.06 --> 00:07:29.03
+Now, the last one is something about you.
+
+172
+00:07:29.03 --> 00:07:30.08
+And when we talk about
+something about you,
+
+173
+00:07:30.08 --> 00:07:33.02
+we're talking about something
+about you physically.
+
+174
+00:07:33.02 --> 00:07:36.09
+So, we could have fingerprint
+scanners or iris patterns
+
+175
+00:07:36.09 --> 00:07:39.03
+or even the pattern of
+the veins in your wrist
+
+176
+00:07:39.03 --> 00:07:42.04
+can be used to identify you uniquely.
+
+177
+00:07:42.04 --> 00:07:44.00
+Now, there's a bunch of
+these that are out there.
+
+178
+00:07:44.00 --> 00:07:46.02
+If you've got a late-generation iPhone 5,
+
+179
+00:07:46.02 --> 00:07:48.08
+there's fingerprint scanners
+and things like that.
+
+180
+00:07:48.08 --> 00:07:55.04
+But what I have here is my
+buddy Scott has a cool laptop,
+
+181
+00:07:55.04 --> 00:08:01.06
+and on this laptop is facial recognition.
+
+182
+00:08:01.06 --> 00:08:04.05
+So, to use this, all I'm gonna have to do,
+
+183
+00:08:04.05 --> 00:08:07.01
+and this allows him to
+log into his laptop,
+
+184
+00:08:07.01 --> 00:08:10.06
+so, what I'm gonna do here is
+I'm gonna fire the laptop up.
+
+185
+00:08:10.06 --> 00:08:12.04
+So, on his laptop, he's actually just
+
+186
+00:08:12.04 --> 00:08:15.00
+using the camera here to recognize me.
+
+187
+00:08:15.00 --> 00:08:15.08
+Now, if you look on the screen,
+
+188
+00:08:15.08 --> 00:08:17.08
+you see it's actually trying
+to find Scott Jernigan,
+
+189
+00:08:17.08 --> 00:08:19.07
+so we might have a bit of a problem.
+
+190
+00:08:19.07 --> 00:08:21.05
+- [Scott] Hey, where's my laptop?
+
+191
+00:08:21.05 --> 00:08:22.07
+- [Mike] Oh, sorry Scott.
+
+192
+00:08:22.07 --> 00:08:24.00
+- [Scott] Mike.
+
+193
+00:08:24.00 --> 00:08:25.01
+- [Mike] I was just tryin' to show people
+
+194
+00:08:25.01 --> 00:08:28.04
+how Security+ covers things
+like something you are.
+
+195
+00:08:28.04 --> 00:08:29.06
+- Pretty slick, huh, Mike?
+
+196
+00:08:29.06 --> 00:08:30.04
+- It is slick.
+
+197
+00:08:30.04 --> 00:08:33.06
+Thank you for letting
+me steal your laptop.
+
+198
+00:08:33.06 --> 00:08:35.07
+- Thanks, uh, ya all done?
+
+199
+00:08:35.07 --> 00:08:37.06
+- We're done, we're done,
+take it away, Jeeves.
+
+200
+00:08:37.06 --> 00:08:38.09
+(laptop closing)
+
+201
+00:08:38.09 --> 00:08:39.07
+- Bye.
+
+202
+00:08:39.07 --> 00:08:44.02
+- Bye, look forward to stealing
+more from you in the future.
+
+203
+00:08:44.02 --> 00:08:48.07
+OK, so, that is a great
+example of something about you.
+
+204
+00:08:48.07 --> 00:08:51.01
+Now, there are two more on the Security+
+
+205
+00:08:51.01 --> 00:08:52.04
+we need to talk about.
+
+206
+00:08:52.04 --> 00:08:55.02
+One of them is called something you do.
+
+207
+00:08:55.02 --> 00:08:57.00
+And when we talk about something you do,
+
+208
+00:08:57.00 --> 00:08:58.09
+there are actually authentication programs
+
+209
+00:08:58.09 --> 00:09:02.00
+where if you log in your
+password, for example,
+
+210
+00:09:02.00 --> 00:09:04.05
+not only do you have to
+have the right password,
+
+211
+00:09:04.05 --> 00:09:06.05
+but, literally, the rhythm of your typing
+
+212
+00:09:06.05 --> 00:09:09.02
+can be used to verify that it's actually
+
+213
+00:09:09.02 --> 00:09:12.00
+your kinda typing style,
+which is pretty cool.
+
+214
+00:09:12.00 --> 00:09:13.03
+Now, the last one I wanna talk
+
+215
+00:09:13.03 --> 00:09:15.09
+about is called somewhere you are.
+
+216
+00:09:15.09 --> 00:09:17.03
+And when we talk about somewhere you are,
+
+217
+00:09:17.03 --> 00:09:19.08
+as it implies, it has
+to do with geography.
+
+218
+00:09:19.08 --> 00:09:21.06
+So, the best way to show you this
+
+219
+00:09:21.06 --> 00:09:24.01
+is let's go buy some gasoline.
+
+220
+00:09:24.01 --> 00:09:27.05
+Now, somewhere you are has to do, well,
+
+221
+00:09:27.05 --> 00:09:29.08
+we see it in a lotta
+places on authentication,
+
+222
+00:09:29.08 --> 00:09:33.02
+but one place we see it a lot
+is in the credit card world.
+
+223
+00:09:33.02 --> 00:09:34.00
+(keypad beeping)
+
+224
+00:09:34.00 --> 00:09:36.02
+For example, here I am buying gas,
+
+225
+00:09:36.02 --> 00:09:39.07
+and it wants me to enter my zip code.
+
+226
+00:09:39.07 --> 00:09:41.06
+(pump beeping)
+
+227
+00:09:41.06 --> 00:09:43.03
+Hey, it works.
+
+228
+00:09:43.03 --> 00:09:46.01
+So, I'm gonna put regular in here.
+
+229
+00:09:46.01 --> 00:09:49.05
+Now,
+
+230
+00:09:49.05 --> 00:09:51.01
+the other thing to
+remember about somewhere
+
+231
+00:09:51.01 --> 00:09:52.07
+you are is that this is also used
+
+232
+00:09:52.07 --> 00:09:55.04
+by credit card companies to detect fraud.
+
+233
+00:09:55.04 --> 00:09:58.01
+So, for example, while I'm
+here in Houston, Texas,
+
+234
+00:09:58.01 --> 00:09:59.07
+if someone else were
+trying to use this card
+
+235
+00:09:59.07 --> 00:10:02.01
+in Chattanooga, Tennessee,
+that would definitely
+
+236
+00:10:02.01 --> 00:10:04.05
+set off some alarms at
+the credit card company.
+
+237
+00:10:04.05 --> 00:10:06.01
+Those are the types of authentication
+
+238
+00:10:06.01 --> 00:10:08.06
+or, really, identifications,
+that we run into.
+
+239
+00:10:08.06 --> 00:10:12.03
+So, the challenge that
+we start to get is that
+
+240
+00:10:12.03 --> 00:10:15.08
+we do a lot of authenticating
+all over the place,
+
+241
+00:10:15.08 --> 00:10:18.03
+and if I've got one network over here,
+
+242
+00:10:18.03 --> 00:10:20.00
+and then there's a company, and we access
+
+243
+00:10:20.00 --> 00:10:23.05
+their data a lot for
+some reason or another,
+
+244
+00:10:23.05 --> 00:10:25.06
+the hassle of authenticating
+from one place
+
+245
+00:10:25.06 --> 00:10:27.09
+and then another can
+be a bit of a problem.
+
+246
+00:10:27.09 --> 00:10:29.05
+So, with a lot of operating systems,
+
+247
+00:10:29.05 --> 00:10:31.04
+in fact, well, let me rephrase that,
+
+248
+00:10:31.04 --> 00:10:33.09
+with Microsoft Windows in particular,
+
+249
+00:10:33.09 --> 00:10:38.00
+we can actually create
+authentications based on trust.
+
+250
+00:10:38.00 --> 00:10:40.07
+So, here I've got three
+different networks.
+
+251
+00:10:40.07 --> 00:10:43.02
+And, in this particular situation,
+
+252
+00:10:43.02 --> 00:10:44.06
+these are three different companies
+
+253
+00:10:44.06 --> 00:10:47.02
+that access this one company's database.
+
+254
+00:10:47.02 --> 00:10:50.00
+So, what becomes interesting
+is that we can set up
+
+255
+00:10:50.00 --> 00:10:53.05
+what are known as a
+federated trust situation.
+
+256
+00:10:53.05 --> 00:10:57.06
+And when we say federated
+trust, it's basically
+
+257
+00:10:57.06 --> 00:10:59.07
+this system saying to
+this system if you've got
+
+258
+00:10:59.07 --> 00:11:02.07
+somebody you trust, then
+I'll trust 'em as well.
+
+259
+00:11:02.07 --> 00:11:04.08
+And what we can do, and
+this sets up in Windows
+
+260
+00:11:04.08 --> 00:11:07.05
+fascinatingly under Active
+Directory, is we can set
+
+261
+00:11:07.05 --> 00:11:09.05
+something up, and we can
+actually establish a trust.
+
+262
+00:11:09.05 --> 00:11:11.08
+We can connect to another Windows domain
+
+263
+00:11:11.08 --> 00:11:14.05
+and say this domain trusts this domain,
+
+264
+00:11:14.05 --> 00:11:17.02
+and it can automatically
+create these types
+
+265
+00:11:17.02 --> 00:11:20.03
+of federated, transitive trusts.
+
+266
+00:11:20.03 --> 00:11:22.05
+The last thing to throw
+in here is the idea
+
+267
+00:11:22.05 --> 00:11:25.03
+of what we call
+multifactor authentication.
+
+268
+00:11:25.03 --> 00:11:27.07
+You would never, ever use a biometric
+
+269
+00:11:27.07 --> 00:11:30.09
+as a primary and only
+source of authentication.
+
+270
+00:11:30.09 --> 00:11:32.06
+Typically, what you're
+gonna do is pretty much
+
+271
+00:11:32.06 --> 00:11:34.08
+everything works with a
+username and password,
+
+272
+00:11:34.08 --> 00:11:36.02
+or it could be a PIN number.
+
+273
+00:11:36.02 --> 00:11:38.08
+So, if you're gonna
+authenticate on a system,
+
+274
+00:11:38.08 --> 00:11:42.03
+you're going to use a fingerprint scanner,
+
+275
+00:11:42.03 --> 00:11:44.01
+and you're gonna type in
+a username and password.
+
+276
+00:11:44.01 --> 00:11:45.06
+You're gonna type in a
+username and password,
+
+277
+00:11:45.06 --> 00:11:47.04
+and you're gonna use a hardware token.
+
+278
+00:11:47.04 --> 00:11:50.00
+So, we're always doing the multifactor
+
+279
+00:11:50.00 --> 00:11:51.03
+form of authentication.
+

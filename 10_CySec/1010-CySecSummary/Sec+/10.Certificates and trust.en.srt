@@ -1,0 +1,1368 @@
+1
+00:00:00.03 --> 00:00:04.00
+- One of the big challenges
+to using asymmetric encryption
+
+2
+00:00:04.00 --> 00:00:06.00
+is the fact that well, if you're gonna do
+
+3
+00:00:06.00 --> 00:00:09.08
+asymmetric encryption, you're
+gonna generate a public,
+
+4
+00:00:09.08 --> 00:00:12.04
+public keys will be red this
+time, and a private key.
+
+5
+00:00:12.04 --> 00:00:14.04
+So you're gonna generate this key pair.
+
+6
+00:00:14.04 --> 00:00:17.00
+Now in this particular example,
+
+7
+00:00:17.00 --> 00:00:19.08
+let's say that I'm a web server
+
+8
+00:00:19.08 --> 00:00:22.06
+and I own a company called Total Seminars
+
+9
+00:00:22.06 --> 00:00:25.09
+and the website is www.totalsem.com
+
+10
+00:00:25.09 --> 00:00:28.09
+and I want people to be able
+to buy stuff on my website.
+
+11
+00:00:28.09 --> 00:00:31.05
+So I wanna set up a secure web server.
+
+12
+00:00:31.05 --> 00:00:35.00
+So in the most simple
+world, what I would do
+
+13
+00:00:35.00 --> 00:00:37.08
+is I would generate a
+public and private key pair
+
+14
+00:00:37.08 --> 00:00:41.05
+and any time anybody
+logged into my website,
+
+15
+00:00:41.05 --> 00:00:44.03
+I would automatically just
+send them this public key
+
+16
+00:00:44.03 --> 00:00:48.00
+and then that way we could
+start asymmetric encryption.
+
+17
+00:00:48.00 --> 00:00:49.03
+Well, that's a problem.
+
+18
+00:00:49.03 --> 00:00:50.09
+That's a big problem.
+
+19
+00:00:50.09 --> 00:00:55.03
+The problem with asymmetric
+encryption is the public key.
+
+20
+00:00:55.03 --> 00:00:57.07
+If you get a public key from somebody
+
+21
+00:00:57.07 --> 00:01:00.01
+and by the way, when you
+log into a secure website,
+
+22
+00:01:00.01 --> 00:01:05.04
+when you type in https://www.ebay.com,
+
+23
+00:01:05.04 --> 00:01:07.08
+you automatically get the public key
+
+24
+00:01:07.08 --> 00:01:11.02
+sent from that website
+straight to your system, okay?
+
+25
+00:01:11.02 --> 00:01:13.05
+So it's not like email where we have
+
+26
+00:01:13.05 --> 00:01:15.07
+to send it via email
+or anything like that.
+
+27
+00:01:15.07 --> 00:01:19.02
+But the problem is do you, as a person
+
+28
+00:01:19.02 --> 00:01:22.05
+who is running a little web client,
+
+29
+00:01:22.05 --> 00:01:27.00
+do you know that this public
+key is for www.ebay.com?
+
+30
+00:01:27.00 --> 00:01:28.06
+Yeah, it may say it up on the screen
+
+31
+00:01:28.06 --> 00:01:30.00
+but there's ways to get around that.
+
+32
+00:01:30.00 --> 00:01:33.08
+So the problem with asymmetric encryption
+
+33
+00:01:33.08 --> 00:01:35.02
+is not the public private key,
+
+34
+00:01:35.02 --> 00:01:37.01
+that works pretty much perfectly.
+
+35
+00:01:37.01 --> 00:01:39.00
+The problem is in the key exchange.
+
+36
+00:01:39.00 --> 00:01:43.05
+How do you know A, where did
+this public key come from
+
+37
+00:01:43.05 --> 00:01:46.06
+and B, is it the person
+that you think it is?
+
+38
+00:01:46.06 --> 00:01:48.08
+So there's two problems here.
+
+39
+00:01:48.08 --> 00:01:50.08
+So in order to get around
+this, there's actually
+
+40
+00:01:50.08 --> 00:01:52.07
+something really cool
+I wanna tell you about.
+
+41
+00:01:52.07 --> 00:01:54.07
+Now remember we've said
+in previous episodes
+
+42
+00:01:54.07 --> 00:01:57.05
+that you always encrypt
+with the public key
+
+43
+00:01:57.05 --> 00:01:59.07
+and you decrypt with the private key
+
+44
+00:01:59.07 --> 00:02:01.02
+and that's true but I'm gonna let you know
+
+45
+00:02:01.02 --> 00:02:02.03
+on a little secret.
+
+46
+00:02:02.03 --> 00:02:05.01
+There is no difference between
+a public and a private key.
+
+47
+00:02:05.01 --> 00:02:06.06
+I mean, they're different numbers,
+
+48
+00:02:06.06 --> 00:02:07.08
+they're just binary strings
+
+49
+00:02:07.08 --> 00:02:09.03
+and they're different binary strings
+
+50
+00:02:09.03 --> 00:02:10.08
+but there's nothing special
+
+51
+00:02:10.08 --> 00:02:13.01
+about the public key
+that it can only encrypt.
+
+52
+00:02:13.01 --> 00:02:15.00
+There's nothing special
+about the private key
+
+53
+00:02:15.00 --> 00:02:16.06
+that it can only decrypt.
+
+54
+00:02:16.06 --> 00:02:18.09
+When you generate a
+public-private key pair,
+
+55
+00:02:18.09 --> 00:02:21.06
+either one of these
+could be the public key.
+
+56
+00:02:21.06 --> 00:02:24.01
+Just by convention, we
+pick a particular one.
+
+57
+00:02:24.01 --> 00:02:27.00
+So again, the public and private key
+
+58
+00:02:27.00 --> 00:02:28.02
+are just a string of ones and zeros,
+
+59
+00:02:28.02 --> 00:02:29.02
+they're different strings
+
+60
+00:02:29.02 --> 00:02:31.01
+but they're just strings
+of ones and zeros.
+
+61
+00:02:31.01 --> 00:02:34.06
+Anything you encrypt with this
+can be decrypted with this.
+
+62
+00:02:34.06 --> 00:02:37.05
+Anything you encrypt with this
+can be decrypted with this.
+
+63
+00:02:37.05 --> 00:02:38.08
+Now we never do that.
+
+64
+00:02:38.08 --> 00:02:40.05
+We never, never, ever do that.
+
+65
+00:02:40.05 --> 00:02:44.00
+The reason we don't do it is because
+
+66
+00:02:44.00 --> 00:02:46.08
+if we started to encrypt
+with both sides of this,
+
+67
+00:02:46.08 --> 00:02:48.08
+there are ways that it can be hacked
+
+68
+00:02:48.08 --> 00:02:51.05
+and naughty things happen, we
+don't want to ever do that.
+
+69
+00:02:51.05 --> 00:02:54.00
+However, there are some
+cool things we can do.
+
+70
+00:02:54.00 --> 00:02:55.04
+Let me give you one example.
+
+71
+00:02:55.04 --> 00:02:59.00
+So again, I'm gonna go
+back to www.totalsem.com.
+
+72
+00:02:59.00 --> 00:03:00.07
+I generate a public and private key,
+
+73
+00:03:00.07 --> 00:03:03.07
+you log into my website, got it?
+
+74
+00:03:03.07 --> 00:03:07.03
+Now what I'm gonna do
+is I'm going to send you
+
+75
+00:03:07.03 --> 00:03:09.00
+the public key but I'm not gonna send you
+
+76
+00:03:09.00 --> 00:03:11.02
+the public key by itself.
+
+77
+00:03:11.02 --> 00:03:13.03
+What I'm gonna do is I'm
+gonna take the webpage
+
+78
+00:03:13.03 --> 00:03:16.05
+that you're on right now,
+whatever that webpage is,
+
+79
+00:03:16.05 --> 00:03:21.06
+and I'm going to encrypt
+it with my private key
+
+80
+00:03:21.06 --> 00:03:23.00
+and then I'm gonna send you
+
+81
+00:03:23.00 --> 00:03:25.05
+a hash of that webpage, got the idea?
+
+82
+00:03:25.05 --> 00:03:30.01
+So when I send you my public key,
+
+83
+00:03:30.01 --> 00:03:31.07
+I'm not just sending you the public key,
+
+84
+00:03:31.07 --> 00:03:33.06
+I'm gonna literally
+take the entire webpage,
+
+85
+00:03:33.06 --> 00:03:36.03
+encrypt it with my private key,
+
+86
+00:03:36.03 --> 00:03:38.01
+and then I'm gonna make a hash out of it
+
+87
+00:03:38.01 --> 00:03:41.01
+and I'm gonna send you,
+not only my public key,
+
+88
+00:03:41.01 --> 00:03:43.09
+but a hash of the page
+that you're on right now.
+
+89
+00:03:43.09 --> 00:03:45.03
+What you can do is 'cause you're getting
+
+90
+00:03:45.03 --> 00:03:48.01
+that webpage too is with your public key,
+
+91
+00:03:48.01 --> 00:03:50.04
+you can encrypt that entire webpage,
+
+92
+00:03:50.04 --> 00:03:53.05
+it's the exact same page, hash it
+
+93
+00:03:53.05 --> 00:03:56.08
+and compare the hash that I sent you
+
+94
+00:03:56.08 --> 00:03:58.08
+with the hash that you've generated
+
+95
+00:03:58.08 --> 00:04:02.04
+and you now know without
+any question mark whatsoever
+
+96
+00:04:02.04 --> 00:04:05.08
+that whoever is associated
+with this private key
+
+97
+00:04:05.08 --> 00:04:07.09
+has sent you the public key.
+
+98
+00:04:07.09 --> 00:04:09.06
+Do you understand the power of that?
+
+99
+00:04:09.06 --> 00:04:12.00
+It gives us a little
+bit of a tool that says,
+
+100
+00:04:12.00 --> 00:04:14.07
+yep, whoever has this private key
+
+101
+00:04:14.07 --> 00:04:16.06
+has sent me this public key.
+
+102
+00:04:16.06 --> 00:04:20.04
+And we call that a digital signature.
+
+103
+00:04:20.04 --> 00:04:23.02
+A digital signature is just
+a hash, that's all it is.
+
+104
+00:04:23.02 --> 00:04:27.08
+So if it's a webpage, we
+encrypt and hash the webpage,
+
+105
+00:04:27.08 --> 00:04:31.04
+if I'm sending you a public
+key for email encryption,
+
+106
+00:04:31.04 --> 00:04:34.00
+whatever email that I'm
+sending you at that moment,
+
+107
+00:04:34.00 --> 00:04:35.07
+I'm gonna go ahead and
+encrypt it and hash it
+
+108
+00:04:35.07 --> 00:04:38.02
+and whatever it is, we have now
+
+109
+00:04:38.02 --> 00:04:39.08
+generated a digital signature.
+
+110
+00:04:39.08 --> 00:04:41.09
+And a digital signature is nothing more
+
+111
+00:04:41.09 --> 00:04:44.04
+than a hash of whatever chunk of data
+
+112
+00:04:44.04 --> 00:04:46.01
+that you happen to be looking at,
+
+113
+00:04:46.01 --> 00:04:48.06
+encrypted chunk of data that says,
+
+114
+00:04:48.06 --> 00:04:52.07
+this had to have come
+from this private key.
+
+115
+00:04:52.07 --> 00:04:54.07
+Well that's great but it's not complete,
+
+116
+00:04:54.07 --> 00:04:57.05
+see, the problem we run into now is again,
+
+117
+00:04:57.05 --> 00:05:00.06
+let's go back to my www.totalsem.com
+
+118
+00:05:00.06 --> 00:05:04.04
+and so you go on
+www.totalsem.com and you go
+
+119
+00:05:04.04 --> 00:05:05.06
+and you wanna start buying stuff
+
+120
+00:05:05.06 --> 00:05:08.02
+and it kicks over into a secure webpage
+
+121
+00:05:08.02 --> 00:05:10.06
+so boom, comes down the public key,
+
+122
+00:05:10.06 --> 00:05:13.08
+boom, comes down my digital signature.
+
+123
+00:05:13.08 --> 00:05:16.03
+Did it really come from www.totalsem.com?
+
+124
+00:05:16.03 --> 00:05:20.02
+I mean sure, it says
+www.totalsem.com but I can beat that.
+
+125
+00:05:20.02 --> 00:05:21.08
+There are ways that I can spoof
+
+126
+00:05:21.08 --> 00:05:24.00
+those addresses and fool you.
+
+127
+00:05:24.00 --> 00:05:25.08
+But what if I stole
+somebody else's certificate?
+
+128
+00:05:25.08 --> 00:05:29.08
+What if I stole a certificate
+from www.intel.com
+
+129
+00:05:29.08 --> 00:05:31.01
+and passed that down?
+
+130
+00:05:31.01 --> 00:05:36.05
+The problem you have now is
+that you can't say for sure
+
+131
+00:05:36.05 --> 00:05:40.01
+that I, Mike Meyers, am the person nor I,
+
+132
+00:05:40.01 --> 00:05:42.07
+totalsem.com am the person from which
+
+133
+00:05:42.07 --> 00:05:45.07
+this public-private
+key pair was generated.
+
+134
+00:05:45.07 --> 00:05:49.03
+So to get around that, what we're gonna do
+
+135
+00:05:49.03 --> 00:05:52.04
+is you and I are gonna shake hands
+
+136
+00:05:52.04 --> 00:05:54.09
+and before we start doing any business,
+
+137
+00:05:54.09 --> 00:05:56.08
+we're going to agree on a third party.
+
+138
+00:05:56.08 --> 00:06:00.04
+Let's say you and I both know
+my buddy Janelle, alright?
+
+139
+00:06:00.04 --> 00:06:02.05
+So what I'm gonna do is
+I'm gonna go to Janelle
+
+140
+00:06:02.05 --> 00:06:05.02
+and I'm gonna say, hey
+Janelle, I would like you,
+
+141
+00:06:05.02 --> 00:06:07.01
+because you and I know each other,
+
+142
+00:06:07.01 --> 00:06:09.02
+we've been friends for 30 years,
+
+143
+00:06:09.02 --> 00:06:12.00
+I want you, and by the way you
+have one of my public keys,
+
+144
+00:06:12.00 --> 00:06:13.05
+I have your public key, whatever,
+
+145
+00:06:13.05 --> 00:06:18.00
+what I need you to do is generate
+your own digital signature
+
+146
+00:06:18.00 --> 00:06:19.07
+not based on this relationship here
+
+147
+00:06:19.07 --> 00:06:21.08
+but based on your and my relationship.
+
+148
+00:06:21.08 --> 00:06:26.05
+And what I'd like to do is
+attach that digital signature
+
+149
+00:06:26.05 --> 00:06:30.01
+to my public key along
+with my digital signature.
+
+150
+00:06:30.01 --> 00:06:34.00
+So what we've done now
+is we have a public key,
+
+151
+00:06:34.00 --> 00:06:38.05
+and this public key
+says, well my public key.
+
+152
+00:06:38.05 --> 00:06:41.02
+Then we have a digital
+signature which guarantees
+
+153
+00:06:41.02 --> 00:06:43.06
+that whoever actually
+owns that private key
+
+154
+00:06:43.06 --> 00:06:45.04
+is associated to that public key,
+
+155
+00:06:45.04 --> 00:06:47.08
+and then we have a third party that says,
+
+156
+00:06:47.08 --> 00:06:52.00
+yep, I guarantee, well as much
+as money and law will allow,
+
+157
+00:06:52.00 --> 00:06:57.03
+that this is Mike Meyers and
+it's the www.totalsem website
+
+158
+00:06:57.03 --> 00:07:00.09
+and it is okay.
+
+159
+00:07:00.09 --> 00:07:02.09
+So this all sounds pretty good.
+
+160
+00:07:02.09 --> 00:07:08.07
+But we don't ever send
+public keys by themselves.
+
+161
+00:07:08.07 --> 00:07:11.03
+We don't send piles of keys
+
+162
+00:07:11.03 --> 00:07:13.08
+with all these digital
+signatures I guess with email,
+
+163
+00:07:13.08 --> 00:07:15.09
+we can make three
+attachments or something,
+
+164
+00:07:15.09 --> 00:07:18.03
+what we do instead is
+we generate something
+
+165
+00:07:18.03 --> 00:07:20.06
+called a digital certificate.
+
+166
+00:07:20.06 --> 00:07:22.02
+A digital certificate is a document,
+
+167
+00:07:22.02 --> 00:07:23.06
+it's like a Word document.
+
+168
+00:07:23.06 --> 00:07:25.04
+It's like a halfway
+filled in Word document
+
+169
+00:07:25.04 --> 00:07:27.05
+and then you just fill in the blank spots.
+
+170
+00:07:27.05 --> 00:07:32.03
+And if you send anybody a public key,
+
+171
+00:07:32.03 --> 00:07:35.00
+you don't send a public key
+by itself, it's never done.
+
+172
+00:07:35.00 --> 00:07:38.01
+You send a certificate and
+inside that certificate
+
+173
+00:07:38.01 --> 00:07:41.00
+is going to be my public key,
+
+174
+00:07:41.00 --> 00:07:43.01
+it's going to have, let me
+make sure I get the right one,
+
+175
+00:07:43.01 --> 00:07:44.08
+it's gonna have my digital signature,
+
+176
+00:07:44.08 --> 00:07:47.02
+knowing that it came from my key pair,
+
+177
+00:07:47.02 --> 00:07:49.09
+and it's going to have the third party
+
+178
+00:07:49.09 --> 00:07:52.03
+that you and I trust that says,
+
+179
+00:07:52.03 --> 00:07:54.06
+yep, this is really Mike Meyers.
+
+180
+00:07:54.06 --> 00:07:57.08
+What we normally do is
+we go to a third party
+
+181
+00:07:57.08 --> 00:08:00.08
+and we go, would you
+create me a certificate?
+
+182
+00:08:00.08 --> 00:08:04.09
+And that person knows us in some fashion,
+
+183
+00:08:04.09 --> 00:08:07.01
+maybe we have met with
+them, they know my company,
+
+184
+00:08:07.01 --> 00:08:09.03
+whatever it is, and they will,
+
+185
+00:08:09.03 --> 00:08:13.00
+and they already have my
+public key so if they don't,
+
+186
+00:08:13.00 --> 00:08:14.06
+I can hand it to 'em,
+give 'em my public key,
+
+187
+00:08:14.06 --> 00:08:16.03
+give 'em my digital signature
+
+188
+00:08:16.03 --> 00:08:18.05
+and then they will generate a certificate.
+
+189
+00:08:18.05 --> 00:08:21.03
+The actual process of
+generating a certificate
+
+190
+00:08:21.03 --> 00:08:22.07
+is trivially easy.
+
+191
+00:08:22.07 --> 00:08:24.00
+You can do it in any copy of Linux,
+
+192
+00:08:24.00 --> 00:08:25.08
+any copy of Microsoft Windows,
+
+193
+00:08:25.08 --> 00:08:28.04
+and you can generate this certificate.
+
+194
+00:08:28.04 --> 00:08:29.08
+They'll generate the certificate
+
+195
+00:08:29.08 --> 00:08:31.05
+but what they do that makes it important
+
+196
+00:08:31.05 --> 00:08:35.01
+and good and amazing is that they add
+
+197
+00:08:35.01 --> 00:08:38.09
+their third party digital
+signature that says, I'm good.
+
+198
+00:08:38.09 --> 00:08:41.03
+And that's where the challenge comes in.
+
+199
+00:08:41.03 --> 00:08:43.00
+Oh and by the way, once
+I have this certificate,
+
+200
+00:08:43.00 --> 00:08:44.01
+I can pass it out to anybody.
+
+201
+00:08:44.01 --> 00:08:46.01
+I can take this certificate,
+put it into my web server
+
+202
+00:08:46.01 --> 00:08:48.05
+and anytime anybody
+logs into my web server
+
+203
+00:08:48.05 --> 00:08:49.06
+and once it goes secure, boom,
+
+204
+00:08:49.06 --> 00:08:51.02
+they automatically get a copy.
+
+205
+00:08:51.02 --> 00:08:53.07
+I can, if I wanna do this for email,
+
+206
+00:08:53.07 --> 00:08:56.05
+I can take this certificate,
+embed it into any email,
+
+207
+00:08:56.05 --> 00:08:58.04
+not an encrypted email,
+just a regular email
+
+208
+00:08:58.04 --> 00:09:00.04
+and go hey, here's my certificate,
+
+209
+00:09:00.04 --> 00:09:02.00
+we pass out certificates like crazy
+
+210
+00:09:02.00 --> 00:09:05.09
+because this is how we move public keys.
+
+211
+00:09:05.09 --> 00:09:11.07
+Okay, the trick here is who do you trust?
+
+212
+00:09:11.07 --> 00:09:14.08
+Because the whole power of a certificate
+
+213
+00:09:14.08 --> 00:09:17.08
+is that we have people that we trust,
+
+214
+00:09:17.08 --> 00:09:20.04
+well that the two sides of
+this equation trust and say,
+
+215
+00:09:20.04 --> 00:09:22.03
+yep, this is somebody I'm going
+
+216
+00:09:22.03 --> 00:09:24.05
+to trust and do business with.
+
+217
+00:09:24.05 --> 00:09:26.05
+So there's really three ways to do trust.
+
+218
+00:09:26.05 --> 00:09:29.09
+The first way to do trust
+is to generate a certificate
+
+219
+00:09:29.09 --> 00:09:31.06
+on your own, forget the third party,
+
+220
+00:09:31.06 --> 00:09:33.00
+just make your own certificate.
+
+221
+00:09:33.00 --> 00:09:34.02
+It's easy enough to do.
+
+222
+00:09:34.02 --> 00:09:37.06
+And that's called an unsigned certificate.
+
+223
+00:09:37.06 --> 00:09:39.02
+Unsigned certificates are fantastic
+
+224
+00:09:39.02 --> 00:09:41.09
+as long as both people understand
+
+225
+00:09:41.09 --> 00:09:44.05
+that there is no third
+party vouching for you.
+
+226
+00:09:44.05 --> 00:09:46.06
+We use unsigned certificates
+here at Total Seminars.
+
+227
+00:09:46.06 --> 00:09:49.01
+I have some in-house web servers
+
+228
+00:09:49.01 --> 00:09:51.09
+and people wanna access
+them, we all know each other,
+
+229
+00:09:51.09 --> 00:09:53.06
+I mean you can't even
+get to this web server
+
+230
+00:09:53.06 --> 00:09:55.01
+unless you're an employee of mine.
+
+231
+00:09:55.01 --> 00:09:58.06
+So unsigned web servers,
+they are very common
+
+232
+00:09:58.06 --> 00:10:01.02
+and they work fine but only if you have
+
+233
+00:10:01.02 --> 00:10:03.07
+some other form of trust
+like you work for me.
+
+234
+00:10:03.07 --> 00:10:06.03
+Other than that, you've
+got two other choices.
+
+235
+00:10:06.03 --> 00:10:09.07
+Web of trust and PKI.
+
+236
+00:10:09.07 --> 00:10:11.05
+So let's start with web of trust.
+
+237
+00:10:11.05 --> 00:10:13.04
+I've got a little graphic for you
+
+238
+00:10:13.04 --> 00:10:14.09
+to show you how that works.
+
+239
+00:10:14.09 --> 00:10:20.08
+So here's me and I want
+to get a certificate.
+
+240
+00:10:20.08 --> 00:10:22.08
+Now in order for me to get a certificate,
+
+241
+00:10:22.08 --> 00:10:26.02
+in this particular
+situation, this web of trust,
+
+242
+00:10:26.02 --> 00:10:28.04
+we don't have a particular authority
+
+243
+00:10:28.04 --> 00:10:30.01
+so what I have to do is find other people
+
+244
+00:10:30.01 --> 00:10:32.02
+who are using this type of certificate.
+
+245
+00:10:32.02 --> 00:10:34.02
+So here's a couple of people I know
+
+246
+00:10:34.02 --> 00:10:38.06
+and I can get them to sign my certificate.
+
+247
+00:10:38.06 --> 00:10:40.06
+Now depending on how this is done
+
+248
+00:10:40.06 --> 00:10:42.09
+and you see this with
+email a lot of times,
+
+249
+00:10:42.09 --> 00:10:44.07
+you almost never see it
+in some web browsers,
+
+250
+00:10:44.07 --> 00:10:47.01
+what will happen is that I will have
+
+251
+00:10:47.01 --> 00:10:48.09
+to probably call this person on the phone,
+
+252
+00:10:48.09 --> 00:10:50.07
+I might have to send them a photocopy
+
+253
+00:10:50.07 --> 00:10:52.07
+of my driver's license,
+it really just depends
+
+254
+00:10:52.07 --> 00:10:56.02
+on how rigorous a
+particular web of trust is.
+
+255
+00:10:56.02 --> 00:10:57.09
+And now this web of trust can grow
+
+256
+00:10:57.09 --> 00:11:00.04
+so let's make this a little bit bigger.
+
+257
+00:11:00.04 --> 00:11:03.02
+And over time, with the web of trust,
+
+258
+00:11:03.02 --> 00:11:06.02
+you end up having a
+fairly complicated setup
+
+259
+00:11:06.02 --> 00:11:09.07
+where you have a lot of
+people who trust each other.
+
+260
+00:11:09.07 --> 00:11:13.07
+Web of trust works
+beautifully as a trust model
+
+261
+00:11:13.07 --> 00:11:16.04
+for certificates but it has some problems.
+
+262
+00:11:16.04 --> 00:11:18.01
+The big problem to web of trust
+
+263
+00:11:18.01 --> 00:11:22.01
+is that it requires a lot of
+people doing a lot of work
+
+264
+00:11:22.01 --> 00:11:24.02
+to administer and make this happen.
+
+265
+00:11:24.02 --> 00:11:25.07
+There's very little to web of trust
+
+266
+00:11:25.07 --> 00:11:27.02
+that's in essence automated.
+
+267
+00:11:27.02 --> 00:11:29.08
+You've gotta work hard
+to keep it up and going.
+
+268
+00:11:29.08 --> 00:11:33.05
+That's why web of trust
+has never really taken off.
+
+269
+00:11:33.05 --> 00:11:36.05
+It's had its moments
+for email certificates,
+
+270
+00:11:36.05 --> 00:11:40.03
+it's had its moments for believe it or not
+
+271
+00:11:40.03 --> 00:11:44.01
+even hard drives encryption
+and stuff like that.
+
+272
+00:11:44.01 --> 00:11:48.09
+But if you really wanna do trust
+
+273
+00:11:48.09 --> 00:11:50.07
+with certificates the right way,
+
+274
+00:11:50.07 --> 00:11:54.03
+you do something called
+public key infrastructure.
+
+275
+00:11:54.03 --> 00:11:57.04
+Public key infrastructure
+is a hierarchal method
+
+276
+00:11:57.04 --> 00:12:01.02
+that starts off with root
+servers up at the top,
+
+277
+00:12:01.02 --> 00:12:03.05
+intermediate servers
+and goes down to users.
+
+278
+00:12:03.05 --> 00:12:05.03
+So there's always a boss at the top.
+
+279
+00:12:05.03 --> 00:12:06.09
+Let me show you how this works.
+
+280
+00:12:06.09 --> 00:12:09.06
+Public key infrastructure is based
+
+281
+00:12:09.06 --> 00:12:11.04
+on the idea of a hierarchy.
+
+282
+00:12:11.04 --> 00:12:13.02
+At the top of this hierarchy
+
+283
+00:12:13.02 --> 00:12:16.04
+are what we call the
+certificate authorities.
+
+284
+00:12:16.04 --> 00:12:18.07
+A certificate authority is an organization
+
+285
+00:12:18.07 --> 00:12:22.03
+that pretty much just issues certificates.
+
+286
+00:12:22.03 --> 00:12:24.06
+These are usually big companies,
+
+287
+00:12:24.06 --> 00:12:26.07
+probably the most famous is Verisign
+
+288
+00:12:26.07 --> 00:12:29.06
+but Thawte would be another
+name that comes to mind.
+
+289
+00:12:29.06 --> 00:12:31.06
+There's just a few hundred of these
+
+290
+00:12:31.06 --> 00:12:35.00
+and these organizations simply based
+
+291
+00:12:35.00 --> 00:12:38.04
+on the full faith and credit
+of your and my trust in them,
+
+292
+00:12:38.04 --> 00:12:42.07
+generate certificates that
+everybody knows and recognizes.
+
+293
+00:12:42.07 --> 00:12:46.08
+Now if we have a lot of people
+
+294
+00:12:46.08 --> 00:12:49.01
+who are going to these
+certificate authorities,
+
+295
+00:12:49.01 --> 00:12:51.00
+the challenge that we run into
+
+296
+00:12:51.00 --> 00:12:53.01
+is that they can get kinda busy.
+
+297
+00:12:53.01 --> 00:12:55.08
+So normally what we'll do is between us,
+
+298
+00:12:55.08 --> 00:12:57.04
+the users of those certificates
+
+299
+00:12:57.04 --> 00:12:59.02
+and the certificate authorities,
+
+300
+00:12:59.02 --> 00:13:01.08
+are intermediate certificate authorities
+
+301
+00:13:01.08 --> 00:13:04.07
+who are only there to take the load off
+
+302
+00:13:04.07 --> 00:13:06.09
+of the certificate authority themselves.
+
+303
+00:13:06.09 --> 00:13:10.09
+So basically we have a nice
+little hierarchy like this.
+
+304
+00:13:10.09 --> 00:13:14.07
+PKI is the way we do the internet.
+
+305
+00:13:14.07 --> 00:13:16.04
+If you're gonna be
+dealing with certificates
+
+306
+00:13:16.04 --> 00:13:19.09
+on the internet, particularly
+in a eCommerce way,
+
+307
+00:13:19.09 --> 00:13:21.08
+you're gonna be dealing with PKI
+
+308
+00:13:21.08 --> 00:13:24.00
+and anybody who's ever set up a website
+
+309
+00:13:24.00 --> 00:13:27.02
+that actually uses https realizes
+
+310
+00:13:27.02 --> 00:13:28.01
+that you gotta go to people
+
+311
+00:13:28.01 --> 00:13:30.05
+like Verisign and Thawte
+and folks like that.
+

@@ -1,0 +1,1 @@
+Whitelisting MAC addresses doesn't provide security. These are trivial to spoof. Same with IP. Please start relying on cryptographic primitives to establish workload identity instead. I highly suggest looking at SPIFFE to get started here.

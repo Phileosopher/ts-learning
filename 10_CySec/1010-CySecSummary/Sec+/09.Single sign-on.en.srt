@@ -1,0 +1,1032 @@
+1
+00:00:00.06 --> 00:00:03.09
+- We live in a world
+where we as individuals
+
+2
+00:00:03.09 --> 00:00:06.08
+want to access lots and lots of computers.
+
+3
+00:00:06.08 --> 00:00:07.09
+I mean, just think about this,
+
+4
+00:00:07.09 --> 00:00:09.04
+in your normal browsing life,
+
+5
+00:00:09.04 --> 00:00:11.05
+you go to all kinds of different websites.
+
+6
+00:00:11.05 --> 00:00:14.02
+Those are actual computers
+and you have to access them.
+
+7
+00:00:14.02 --> 00:00:16.07
+Now web might be a little
+bit of a tricky one
+
+8
+00:00:16.07 --> 00:00:18.09
+because web is a public kind of tool
+
+9
+00:00:18.09 --> 00:00:22.02
+but we can trivially add
+usernames and passwords
+
+10
+00:00:22.02 --> 00:00:23.08
+to any website that wanted to.
+
+11
+00:00:23.08 --> 00:00:26.01
+People don't do it very often but you can.
+
+12
+00:00:26.01 --> 00:00:27.08
+Let's take a better example.
+
+13
+00:00:27.08 --> 00:00:29.08
+Let's talk about a local area network.
+
+14
+00:00:29.08 --> 00:00:32.04
+So here at Total Seminars,
+we've got lots and lots
+
+15
+00:00:32.04 --> 00:00:34.03
+of computers and people are sharing stuff
+
+16
+00:00:34.03 --> 00:00:38.00
+and we got servers and printers
+and all kinds of things
+
+17
+00:00:38.00 --> 00:00:40.08
+that I as an individual
+want to be able to access.
+
+18
+00:00:40.08 --> 00:00:44.07
+In a typical Windows workgroup,
+
+19
+00:00:44.07 --> 00:00:47.06
+what we do is we have
+well, here's an example.
+
+20
+00:00:47.06 --> 00:00:49.06
+We've got three or four computers,
+
+21
+00:00:49.06 --> 00:00:51.08
+we got a printer, and
+whatever it might be.
+
+22
+00:00:51.08 --> 00:00:55.04
+Now each one of these hosts have their own
+
+23
+00:00:55.04 --> 00:00:58.02
+username and password
+list and it works great.
+
+24
+00:00:58.02 --> 00:01:01.04
+The challenge is that if I
+wanna access one computer,
+
+25
+00:01:01.04 --> 00:01:03.00
+I have to have a username and password
+
+26
+00:01:03.00 --> 00:01:05.06
+on that computer that I can log in with.
+
+27
+00:01:05.06 --> 00:01:07.04
+If I wanna access another computer,
+
+28
+00:01:07.04 --> 00:01:10.03
+it may have a different
+username and password.
+
+29
+00:01:10.03 --> 00:01:13.09
+So the Windows workgroups
+which have been around now
+
+30
+00:01:13.09 --> 00:01:17.07
+for over 30 years work very, very well.
+
+31
+00:01:17.07 --> 00:01:20.06
+And we can go ahead and log
+into these individual computers
+
+32
+00:01:20.06 --> 00:01:22.04
+but once in a while, you
+wanna start logging into
+
+33
+00:01:22.04 --> 00:01:24.03
+a lot of computers at once.
+
+34
+00:01:24.03 --> 00:01:25.07
+And you wanna go to this
+computer and that computer
+
+35
+00:01:25.07 --> 00:01:26.09
+and after a while you start going
+
+36
+00:01:26.09 --> 00:01:28.09
+I can't remember all these passwords.
+
+37
+00:01:28.09 --> 00:01:30.05
+So well you can do one thing.
+
+38
+00:01:30.05 --> 00:01:31.06
+You could cheat.
+
+39
+00:01:31.06 --> 00:01:34.02
+So if we take a look at
+this example one more time,
+
+40
+00:01:34.02 --> 00:01:35.03
+what I could do is I could put
+
+41
+00:01:35.03 --> 00:01:37.00
+the same username and password
+
+42
+00:01:37.00 --> 00:01:39.02
+on every single one of these computers
+
+43
+00:01:39.02 --> 00:01:40.08
+on my local area network.
+
+44
+00:01:40.08 --> 00:01:43.00
+And that way, I don't
+have to log in every time
+
+45
+00:01:43.00 --> 00:01:44.08
+because once I log into my computer
+
+46
+00:01:44.08 --> 00:01:48.05
+it will in essence carry that
+authentication information
+
+47
+00:01:48.05 --> 00:01:51.01
+to each one of these other computers
+
+48
+00:01:51.01 --> 00:01:54.01
+and it'll always think that
+I have a user called Timmy
+
+49
+00:01:54.01 --> 00:01:56.06
+with a password of 1234.
+
+50
+00:01:56.06 --> 00:01:58.07
+That is not a good idea.
+
+51
+00:01:58.07 --> 00:02:00.09
+And is a very dangerous security issue
+
+52
+00:02:00.09 --> 00:02:02.05
+and it is a big problem.
+
+53
+00:02:02.05 --> 00:02:04.00
+So what can we do instead?
+
+54
+00:02:04.00 --> 00:02:07.04
+Well, what we can do is single sign-on.
+
+55
+00:02:07.04 --> 00:02:11.06
+The idea behind single
+sign-on is that I log in once
+
+56
+00:02:11.06 --> 00:02:14.06
+to something and then
+everything else I need to get to
+
+57
+00:02:14.06 --> 00:02:16.07
+I'm automatically logged into.
+
+58
+00:02:16.07 --> 00:02:19.01
+Now single sign-on is a great idea
+
+59
+00:02:19.01 --> 00:02:20.03
+but it works differently depending
+
+60
+00:02:20.03 --> 00:02:21.02
+on how you're talking about it
+
+61
+00:02:21.02 --> 00:02:23.01
+so let's start with the most classic
+
+62
+00:02:23.01 --> 00:02:26.03
+and that is single sign-on
+on a local area of network.
+
+63
+00:02:26.03 --> 00:02:27.08
+To do that, we're gonna have
+
+64
+00:02:27.08 --> 00:02:29.08
+to use Windows Active Directory.
+
+65
+00:02:29.08 --> 00:02:31.04
+Now Windows Active
+Directory has been around
+
+66
+00:02:31.04 --> 00:02:33.09
+forever and it is the gold standard
+
+67
+00:02:33.09 --> 00:02:35.08
+when it comes to single sign-on tools
+
+68
+00:02:35.08 --> 00:02:37.05
+for local area networks.
+
+69
+00:02:37.05 --> 00:02:39.02
+It actually works more
+than local area networks
+
+70
+00:02:39.02 --> 00:02:41.00
+but we'll keep it simple for the moment.
+
+71
+00:02:41.00 --> 00:02:43.09
+So with Active Directory,
+what I have to first do
+
+72
+00:02:43.09 --> 00:02:46.06
+is go purchase a copy of Windows Server
+
+73
+00:02:46.06 --> 00:02:48.00
+and I install that into my network
+
+74
+00:02:48.00 --> 00:02:49.09
+and it will look something like this.
+
+75
+00:02:49.09 --> 00:02:53.00
+So here's my Windows Server
+with all these other computers.
+
+76
+00:02:53.00 --> 00:02:56.06
+Now once I establish a domain
+
+77
+00:02:56.06 --> 00:02:58.05
+as we call it in the Windows world,
+
+78
+00:02:58.05 --> 00:03:03.00
+we then have all of these other
+computers join this domain.
+
+79
+00:03:03.00 --> 00:03:07.00
+Now we do this by having a administrator
+
+80
+00:03:07.00 --> 00:03:09.09
+actually go to each computer
+and go through a process
+
+81
+00:03:09.09 --> 00:03:11.03
+of having them join the domain.
+
+82
+00:03:11.03 --> 00:03:14.00
+So somebody in a high trust position
+
+83
+00:03:14.00 --> 00:03:16.09
+has to actually go through and connect
+
+84
+00:03:16.09 --> 00:03:19.00
+each one of these individual computers
+
+85
+00:03:19.00 --> 00:03:20.07
+to the domain one at a time.
+
+86
+00:03:20.07 --> 00:03:23.09
+Now once that's done, we
+in essence have created
+
+87
+00:03:23.09 --> 00:03:28.08
+a trust situation because
+I as an administrator
+
+88
+00:03:28.08 --> 00:03:32.02
+have went to each computer
+and said, join this domain.
+
+89
+00:03:32.02 --> 00:03:35.00
+We have what are known
+as federated systems.
+
+90
+00:03:35.00 --> 00:03:37.09
+When you hear the word
+federated, think trust.
+
+91
+00:03:37.09 --> 00:03:40.08
+So there is an implicit trust
+that has been developed there
+
+92
+00:03:40.08 --> 00:03:43.04
+simply because Microsoft has a proprietary
+
+93
+00:03:43.04 --> 00:03:45.05
+authentication mechanism based on Kerberos
+
+94
+00:03:45.05 --> 00:03:49.05
+but the bottom line is is
+that we now have trust.
+
+95
+00:03:49.05 --> 00:03:53.05
+Now if you're gonna be
+doing single sign-on
+
+96
+00:03:53.05 --> 00:03:55.07
+in a local area network, odds are good
+
+97
+00:03:55.07 --> 00:03:57.04
+you're gonna be using Active Directory.
+
+98
+00:03:57.04 --> 00:03:59.08
+Even if you have Apple systems,
+
+99
+00:03:59.08 --> 00:04:01.08
+even if you have Linux systems.
+
+100
+00:04:01.08 --> 00:04:04.04
+Those can use Windows file and sharing,
+
+101
+00:04:04.04 --> 00:04:06.05
+or if it's Linux, we can use Samba
+
+102
+00:04:06.05 --> 00:04:08.05
+and all of these can be configured
+
+103
+00:04:08.05 --> 00:04:11.00
+to join a local domain
+which is actually cool.
+
+104
+00:04:11.00 --> 00:04:13.04
+I can't tell you how many big systems
+
+105
+00:04:13.04 --> 00:04:16.01
+you have out there where research areas
+
+106
+00:04:16.01 --> 00:04:18.05
+really have got 1,500 Linux boxes
+
+107
+00:04:18.05 --> 00:04:22.04
+and they still have a Windows
+Active Directory on there
+
+108
+00:04:22.04 --> 00:04:25.02
+simply because it's easier
+for the maintenance standpoint
+
+109
+00:04:25.02 --> 00:04:27.01
+to be able to do single sign-on.
+
+110
+00:04:27.01 --> 00:04:28.09
+So when you're talking about LANs,
+
+111
+00:04:28.09 --> 00:04:31.06
+you really are talking
+about Active Directory
+
+112
+00:04:31.06 --> 00:04:33.09
+as the single sign-on tool.
+
+113
+00:04:33.09 --> 00:04:37.05
+Now, there is another
+type of single sign-on
+
+114
+00:04:37.05 --> 00:04:40.05
+and this is completely
+different and is based on
+
+115
+00:04:40.05 --> 00:04:46.05
+something called SAML.
+
+116
+00:04:46.05 --> 00:04:48.01
+Let me give you a scenario.
+
+117
+00:04:48.01 --> 00:04:49.09
+Let's say I'm running,
+well I live in Texas
+
+118
+00:04:49.09 --> 00:04:51.07
+so we're running an oil pipeline.
+
+119
+00:04:51.07 --> 00:04:54.04
+And on this oil pipeline,
+we've got lots of pumps
+
+120
+00:04:54.04 --> 00:04:57.02
+and thermometers and cameras
+and all kinds of stuff,
+
+121
+00:04:57.02 --> 00:05:00.07
+hundreds of little devices
+and we've developed web apps
+
+122
+00:05:00.07 --> 00:05:03.04
+for these devices so
+that I can turn pumps on,
+
+123
+00:05:03.04 --> 00:05:05.04
+turn pumps off, whatever it might be.
+
+124
+00:05:05.04 --> 00:05:07.03
+Now just because these are web apps,
+
+125
+00:05:07.03 --> 00:05:08.04
+don't go thinking they're public,
+
+126
+00:05:08.04 --> 00:05:10.08
+they're well-protected usernames,
+
+127
+00:05:10.08 --> 00:05:12.05
+passwords, all kinds of stuff.
+
+128
+00:05:12.05 --> 00:05:15.06
+It's not easy, hopefully
+it's basically impossible
+
+129
+00:05:15.06 --> 00:05:18.04
+for the public to get
+to but I as the operator
+
+130
+00:05:18.04 --> 00:05:20.05
+of all these pumps and everything,
+
+131
+00:05:20.05 --> 00:05:22.02
+I need to be able to get to these.
+
+132
+00:05:22.02 --> 00:05:23.07
+But not only do I need to get to them,
+
+133
+00:05:23.07 --> 00:05:25.04
+I need to get to them securely
+
+134
+00:05:25.04 --> 00:05:28.02
+and I need to get to them any time I want.
+
+135
+00:05:28.02 --> 00:05:29.05
+So if I've got a couple of hundred
+
+136
+00:05:29.05 --> 00:05:32.00
+different web app devices,
+
+137
+00:05:32.00 --> 00:05:35.02
+I would like to sign on one
+time and be done with it.
+
+138
+00:05:35.02 --> 00:05:38.04
+And that's where SAML
+really comes into play.
+
+139
+00:05:38.04 --> 00:05:42.03
+SAML is designed really for web apps
+
+140
+00:05:42.03 --> 00:05:43.06
+more than anything else.
+
+141
+00:05:43.06 --> 00:05:46.03
+And it allows us as a single person
+
+142
+00:05:46.03 --> 00:05:48.04
+at a single place to log into
+
+143
+00:05:48.04 --> 00:05:49.09
+a whole bunch of different devices.
+
+144
+00:05:49.09 --> 00:05:53.04
+So let me show you a
+little bit how SAML works.
+
+145
+00:05:53.04 --> 00:05:56.05
+So here's my oil pipeline
+and we'll just put
+
+146
+00:05:56.05 --> 00:05:58.06
+some devices here along the pipeline.
+
+147
+00:05:58.06 --> 00:06:00.09
+All of these devices are accessible
+
+148
+00:06:00.09 --> 00:06:03.03
+through my VPN to be able to get to them
+
+149
+00:06:03.03 --> 00:06:05.00
+to do whatever I wanna do.
+
+150
+00:06:05.00 --> 00:06:07.09
+Now the trick here is is I
+don't wanna keep logging into
+
+151
+00:06:07.09 --> 00:06:10.06
+this pump and that pump then that camera.
+
+152
+00:06:10.06 --> 00:06:12.06
+And that's how SAML works.
+
+153
+00:06:12.06 --> 00:06:15.09
+SAML starts off with having what we call
+
+154
+00:06:15.09 --> 00:06:19.02
+an identity provider so that's
+gonna be a system somewhere
+
+155
+00:06:19.02 --> 00:06:22.09
+that's connected out here
+that everybody can talk to.
+
+156
+00:06:22.09 --> 00:06:25.05
+And what I will do is I will sign on
+
+157
+00:06:25.05 --> 00:06:27.03
+to the identity provider
+
+158
+00:06:27.03 --> 00:06:30.04
+and then all of these individual web apps
+
+159
+00:06:30.04 --> 00:06:32.06
+are gonna be called service providers.
+
+160
+00:06:32.06 --> 00:06:34.07
+So I can jump between any one of these
+
+161
+00:06:34.07 --> 00:06:38.03
+because the identity provider provides me
+
+162
+00:06:38.03 --> 00:06:40.08
+with a token that allows me to log
+
+163
+00:06:40.08 --> 00:06:44.04
+into any one of these different devices.
+
+164
+00:06:44.04 --> 00:06:47.08
+Now showing you SAML at
+work is a little bit tricky
+
+165
+00:06:47.08 --> 00:06:50.04
+because the only time you're gonna see
+
+166
+00:06:50.04 --> 00:06:52.02
+SAML really working for a living
+
+167
+00:06:52.02 --> 00:06:55.00
+is when you have people who have web apps
+
+168
+00:06:55.00 --> 00:06:57.01
+that they want to really, really control
+
+169
+00:06:57.01 --> 00:06:58.04
+and they're gonna go ahead
+
+170
+00:06:58.04 --> 00:06:59.08
+and write a lot of code and you know what?
+
+171
+00:06:59.08 --> 00:07:01.06
+They don't tend to like people like me
+
+172
+00:07:01.06 --> 00:07:03.08
+going in and actually working on this.
+
+173
+00:07:03.08 --> 00:07:06.04
+But what I've got instead
+is I've got this wonderful
+
+174
+00:07:06.04 --> 00:07:08.02
+little company called SSOCircle.
+
+175
+00:07:08.02 --> 00:07:12.02
+SSOCircle sells single sign-on tool sets
+
+176
+00:07:12.02 --> 00:07:14.00
+and so they have this nice little demo.
+
+177
+00:07:14.00 --> 00:07:16.01
+So let me show you how this guy works.
+
+178
+00:07:16.01 --> 00:07:18.01
+So first of all thank you SSOCircle
+
+179
+00:07:18.01 --> 00:07:19.08
+for letting me play on your site.
+
+180
+00:07:19.08 --> 00:07:21.02
+So what I'm gonna do is I've actually
+
+181
+00:07:21.02 --> 00:07:23.00
+created an account already.
+
+182
+00:07:23.00 --> 00:07:28.00
+And what I'm gonna do is just
+log in and here's my log in.
+
+183
+00:07:28.00 --> 00:07:29.08
+Now there's a lot of
+extra information here.
+
+184
+00:07:29.08 --> 00:07:31.02
+Keep in mind what they're doing
+
+185
+00:07:31.02 --> 00:07:33.06
+is they're trying to sell packages
+
+186
+00:07:33.06 --> 00:07:36.02
+for people who actually
+write SAML language.
+
+187
+00:07:36.02 --> 00:07:39.01
+But what I wanna show you
+that's actually kinda cool here
+
+188
+00:07:39.01 --> 00:07:41.04
+is that I've gone ahead and logged in
+
+189
+00:07:41.04 --> 00:07:45.06
+to the identity provider
+that's provided by SSOCircle.
+
+190
+00:07:45.06 --> 00:07:47.05
+Now what they do that's
+really, really nice
+
+191
+00:07:47.05 --> 00:07:50.01
+is they provide, let me go,
+
+192
+00:07:50.01 --> 00:07:52.05
+they provide all of
+these service providers.
+
+193
+00:07:52.05 --> 00:07:54.07
+Now these service providers,
+they're just samples,
+
+194
+00:07:54.07 --> 00:07:57.09
+they're examples of how
+logging in with SSOCircle
+
+195
+00:07:57.09 --> 00:08:00.00
+allows you to log into
+other disparate websites.
+
+196
+00:08:00.00 --> 00:08:03.03
+So I'm gonna pick one here,
+here's salesforce.com.
+
+197
+00:08:03.03 --> 00:08:07.09
+Salesforce.com is a
+really, really popular site
+
+198
+00:08:07.09 --> 00:08:09.06
+for use by sales people and stuff,
+
+199
+00:08:09.06 --> 00:08:12.02
+customer relationship management tools.
+
+200
+00:08:12.02 --> 00:08:15.01
+So what we're gonna do here is
+if I got this working right,
+
+201
+00:08:15.01 --> 00:08:17.08
+is now that I've logged into SSOCircle,
+
+202
+00:08:17.08 --> 00:08:21.04
+it's just gonna pop me
+over to one little place
+
+203
+00:08:21.04 --> 00:08:24.05
+within Salesforce like a
+little discussion page.
+
+204
+00:08:24.05 --> 00:08:28.07
+So let's see how this guy works.
+
+205
+00:08:28.07 --> 00:08:30.01
+Now what you're seeing here is
+
+206
+00:08:30.01 --> 00:08:34.06
+because SSOCircle wants
+to sell us this product,
+
+207
+00:08:34.06 --> 00:08:35.09
+what is doing is it's having you
+
+208
+00:08:35.09 --> 00:08:37.06
+do a little I'm not a robot.
+
+209
+00:08:37.06 --> 00:08:39.08
+Normally with SAML we would skip this
+
+210
+00:08:39.08 --> 00:08:43.03
+but we'll go ahead and
+just click right on here
+
+211
+00:08:43.03 --> 00:08:45.04
+and if I've done it right, ta-dah!
+
+212
+00:08:45.04 --> 00:08:49.00
+I am now auto magically on
+a little discussion page
+
+213
+00:08:49.00 --> 00:08:50.03
+within Salesforce.
+
+214
+00:08:50.03 --> 00:08:51.06
+Notice that I didn't have to type in
+
+215
+00:08:51.06 --> 00:08:53.00
+a username or a password.
+
+216
+00:08:53.00 --> 00:08:54.03
+In fact, if I paid a little money,
+
+217
+00:08:54.03 --> 00:08:56.09
+I wouldn't even have to do
+that I'm not a robot thing.
+
+218
+00:08:56.09 --> 00:08:59.01
+And that's the power of SAML.
+
+219
+00:08:59.01 --> 00:09:00.08
+In fact, take a look over here.
+
+220
+00:09:00.08 --> 00:09:02.00
+Up in the upper right-hand corner
+
+221
+00:09:02.00 --> 00:09:03.03
+you see where it says Log Out,
+
+222
+00:09:03.03 --> 00:09:07.05
+with SAML, I can actually,
+I'm already automatically
+
+223
+00:09:07.05 --> 00:09:10.00
+logged in, that's the beautiful
+part about single sign-on
+
+224
+00:09:10.00 --> 00:09:13.08
+but I could also log
+out of just this web app
+
+225
+00:09:13.08 --> 00:09:17.00
+or I could log out of all
+web apps in one big shot.
+
+226
+00:09:17.00 --> 00:09:20.00
+Now when we're talking
+about single sign-on,
+
+227
+00:09:20.00 --> 00:09:22.04
+especially for the exam,
+you need to think about
+
+228
+00:09:22.04 --> 00:09:25.07
+what type of security
+needs you're going to need.
+
+229
+00:09:25.07 --> 00:09:28.09
+For example, if we're talking
+about a local area of network
+
+230
+00:09:28.09 --> 00:09:32.03
+where you just want to be able
+to share folders and files,
+
+231
+00:09:32.03 --> 00:09:35.01
+you're gonna have to be using
+Windows Active Directory.
+
+232
+00:09:35.01 --> 00:09:38.02
+Yes there are other options
+but Windows AD is dominant.
+
+233
+00:09:38.02 --> 00:09:42.01
+But the moment you start
+talking about SCADA systems
+
+234
+00:09:42.01 --> 00:09:44.06
+or anything that's widespread
+or all over the place,
+
+235
+00:09:44.06 --> 00:09:48.06
+be sure to think SAML and
+you'll get it right on the exam.
+

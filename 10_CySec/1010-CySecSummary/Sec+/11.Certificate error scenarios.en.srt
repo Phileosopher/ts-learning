@@ -1,0 +1,880 @@
+1
+00:00:00.04 --> 00:00:02.06
+- I'll bet everybody
+watching this video has
+
+2
+00:00:02.06 --> 00:00:05.06
+at one time or another
+been browsing the web
+
+3
+00:00:05.06 --> 00:00:06.09
+and suddenly they see an error
+
+4
+00:00:06.09 --> 00:00:08.06
+that looks something like this.
+
+5
+00:00:08.06 --> 00:00:10.08
+What we're looking at
+right here is an example
+
+6
+00:00:10.08 --> 00:00:14.04
+of where the certificate itself has failed
+
+7
+00:00:14.04 --> 00:00:16.09
+and the browser will not allow us
+
+8
+00:00:16.09 --> 00:00:20.03
+to create a secure HTTPS connection.
+
+9
+00:00:20.03 --> 00:00:24.00
+So what I wanna do in this
+episode is cover the types
+
+10
+00:00:24.00 --> 00:00:27.06
+of situations in terms of
+three very specific scenarios
+
+11
+00:00:27.06 --> 00:00:30.07
+that can come up that can
+cause these types of errors.
+
+12
+00:00:30.07 --> 00:00:33.04
+Now what I'd like to do
+instead of just going
+
+13
+00:00:33.04 --> 00:00:36.04
+on and on is I've got a
+conversation I very recently had
+
+14
+00:00:36.04 --> 00:00:39.07
+with my buddy Bill Saichek
+what we were talking about
+
+15
+00:00:39.07 --> 00:00:42.01
+Conversation on Cryptography series,
+
+16
+00:00:42.01 --> 00:00:44.09
+where we came up with
+this exact same situation.
+
+17
+00:00:44.09 --> 00:00:47.01
+So let's go through three scenarios
+
+18
+00:00:47.01 --> 00:00:49.03
+where you might run into
+these types of errors.
+
+19
+00:00:49.03 --> 00:00:51.05
+And let's start with
+probably the most common one,
+
+20
+00:00:51.05 --> 00:00:54.01
+self signed certificates.
+
+21
+00:00:54.01 --> 00:00:56.03
+- [Bill] So let's take a look
+at a self signed certificate
+
+22
+00:00:56.03 --> 00:00:59.03
+and what the browser
+actually will show us.
+
+23
+00:00:59.03 --> 00:01:01.05
+So the first thing I'm
+gonna do is to make sure
+
+24
+00:01:01.05 --> 00:01:06.01
+that, in fact, we do have
+the certificate ready
+
+25
+00:01:06.01 --> 00:01:07.06
+to go and we wanna make sure
+
+26
+00:01:07.06 --> 00:01:11.02
+that the browser is all set for HTTPS.
+
+27
+00:01:11.02 --> 00:01:13.00
+- [Mike] Okay so you're just gonna show me
+
+28
+00:01:13.00 --> 00:01:13.09
+it's a self signed certificate.
+
+29
+00:01:13.09 --> 00:01:14.07
+- [Bill] That's all I'm showing you.
+
+30
+00:01:14.07 --> 00:01:15.06
+- [Mike] Okay, okay.
+
+31
+00:01:15.06 --> 00:01:17.03
+- [Bill] Okay so we start
+out by first bringing
+
+32
+00:01:17.03 --> 00:01:19.00
+up the bindings and that we will show us
+
+33
+00:01:19.00 --> 00:01:22.07
+that HTTPS is, in fact, in place.
+
+34
+00:01:22.07 --> 00:01:23.08
+- [Mike] And that's that 443?
+
+35
+00:01:23.08 --> 00:01:24.09
+- [Bill] And that's that 443.
+
+36
+00:01:24.09 --> 00:01:25.08
+- [Mike] Okay.
+
+37
+00:01:25.08 --> 00:01:26.08
+- [Bill] So if I go to edit, I can see
+
+38
+00:01:26.08 --> 00:01:28.08
+that there's a certificate associated
+
+39
+00:01:28.08 --> 00:01:33.06
+with the web server and so
+now if I view the certificate,
+
+40
+00:01:33.06 --> 00:01:37.02
+I see that yes, in fact,
+it is a valid certificate,
+
+41
+00:01:37.02 --> 00:01:40.00
+but I still don't know
+if it's self signed.
+
+42
+00:01:40.00 --> 00:01:42.06
+So let's take a look at
+the certification path
+
+43
+00:01:42.06 --> 00:01:43.09
+and that will tell me
+
+44
+00:01:43.09 --> 00:01:47.00
+that there is no trusted root authority,
+
+45
+00:01:47.00 --> 00:01:48.06
+there is no intermediate authority,
+
+46
+00:01:48.06 --> 00:01:52.02
+there is just the certificate
+so that's my proof
+
+47
+00:01:52.02 --> 00:01:54.03
+that this is a self signed certificate.
+
+48
+00:01:54.03 --> 00:01:56.05
+- [Mike] Cool, so what does it
+look like in a browser then?
+
+49
+00:01:56.05 --> 00:01:59.09
+- [Bill] Okay so if I close all of that
+
+50
+00:01:59.09 --> 00:02:02.01
+and now I go and let's take a look
+
+51
+00:02:02.01 --> 00:02:04.05
+and open the website.
+
+52
+00:02:04.05 --> 00:02:06.00
+The first thing I do it click on it
+
+53
+00:02:06.00 --> 00:02:07.08
+and let's get rid of that, okay.
+
+54
+00:02:07.08 --> 00:02:09.03
+So the first thing I do is click on that
+
+55
+00:02:09.03 --> 00:02:12.03
+and what you see is
+that there is a message
+
+56
+00:02:12.03 --> 00:02:16.00
+on the screen that says that
+something has gone sideways.
+
+57
+00:02:16.00 --> 00:02:17.06
+Now this doesn't necessarily mean
+
+58
+00:02:17.06 --> 00:02:21.04
+that the server's down
+or there's a huge error
+
+59
+00:02:21.04 --> 00:02:25.08
+or that the zombie apocalypse
+is about the happen,
+
+60
+00:02:25.08 --> 00:02:27.09
+it is simply a little warning.
+
+61
+00:02:27.09 --> 00:02:29.02
+So what I'm gonna do now is see
+
+62
+00:02:29.02 --> 00:02:31.00
+what the warning is telling us
+
+63
+00:02:31.00 --> 00:02:33.07
+so that I can decide
+what to do from there.
+
+64
+00:02:33.07 --> 00:02:35.09
+So if I click on this little details,
+
+65
+00:02:35.09 --> 00:02:38.02
+now it'll show me there
+error gobbledy-gook.
+
+66
+00:02:38.02 --> 00:02:40.02
+Now don't worry about
+the error gobbledy-gook
+
+67
+00:02:40.02 --> 00:02:42.06
+at all because you will see
+
+68
+00:02:42.06 --> 00:02:45.02
+in every browser there
+will be an error message,
+
+69
+00:02:45.02 --> 00:02:47.08
+but the error message will look different.
+
+70
+00:02:47.08 --> 00:02:49.07
+But that's not what I
+really want you to focus on.
+
+71
+00:02:49.07 --> 00:02:51.09
+I want you to take a
+look at the very bottom
+
+72
+00:02:51.09 --> 00:02:55.07
+of the screen over here where
+it says go on to the webpage,
+
+73
+00:02:55.07 --> 00:02:59.01
+which says if you know
+the certificate is trusted
+
+74
+00:02:59.01 --> 00:03:02.09
+and you know, therefore, the
+web server can be trusted,
+
+75
+00:03:02.09 --> 00:03:05.03
+go ahead, it's your server.
+
+76
+00:03:05.03 --> 00:03:08.06
+But what they're saying
+is we're just telling you
+
+77
+00:03:08.06 --> 00:03:09.09
+that there's a warning going on.
+
+78
+00:03:09.09 --> 00:03:11.08
+So we go on to the web page
+
+79
+00:03:11.08 --> 00:03:13.08
+and there we go, now
+we're on the web page.
+
+80
+00:03:13.08 --> 00:03:16.02
+So that's how a self signed certificate.
+
+81
+00:03:16.02 --> 00:03:19.05
+It doesn't stop you
+from using your website,
+
+82
+00:03:19.05 --> 00:03:23.09
+it just is a way of giving
+you a little added protection.
+
+83
+00:03:23.09 --> 00:03:25.06
+- Another very common situation
+
+84
+00:03:25.06 --> 00:03:27.05
+that creates certificate error is
+
+85
+00:03:27.05 --> 00:03:29.09
+when the certificate actually expires.
+
+86
+00:03:29.09 --> 00:03:31.03
+This can be very embarrassing.
+
+87
+00:03:31.03 --> 00:03:34.00
+Like, for example, here
+at Total Seminars I forgot
+
+88
+00:03:34.00 --> 00:03:35.05
+to pay the bill once and forgot
+
+89
+00:03:35.05 --> 00:03:36.06
+to get a new certificate
+
+90
+00:03:36.06 --> 00:03:38.05
+and we got this error ourselves.
+
+91
+00:03:38.05 --> 00:03:40.02
+So it's not terribly uncommon.
+
+92
+00:03:40.02 --> 00:03:43.08
+Let's take a look at expired certificates.
+
+93
+00:03:43.08 --> 00:03:46.03
+One thing I wanna show you
+before we go any further is
+
+94
+00:03:46.03 --> 00:03:48.07
+that how do you get to see a certificate
+
+95
+00:03:48.07 --> 00:03:51.05
+when you don't have access
+to the actual web server.
+
+96
+00:03:51.05 --> 00:03:53.03
+In that previous one, we went straight
+
+97
+00:03:53.03 --> 00:03:55.06
+to the web server to see the certificate,
+
+98
+00:03:55.06 --> 00:03:57.04
+but you can always see a certificate.
+
+99
+00:03:57.04 --> 00:04:01.04
+So here it's just a particular
+web browser I have open
+
+100
+00:04:01.04 --> 00:04:02.03
+and it's got a problem.
+
+101
+00:04:02.03 --> 00:04:04.02
+You could always look at any certificate
+
+102
+00:04:04.02 --> 00:04:05.03
+just by clicking right here.
+
+103
+00:04:05.03 --> 00:04:07.03
+Now this time I'm using Chrome
+
+104
+00:04:07.03 --> 00:04:09.03
+and everybody's going to
+be a little bit different,
+
+105
+00:04:09.03 --> 00:04:12.07
+but the important thing
+is if you wanna see,
+
+106
+00:04:12.07 --> 00:04:15.01
+you're on a browser and you
+wanna see the certificate
+
+107
+00:04:15.01 --> 00:04:16.03
+that's causing you trouble,
+
+108
+00:04:16.03 --> 00:04:17.07
+there's always a place to click
+
+109
+00:04:17.07 --> 00:04:19.09
+in the browser to actually
+look at the certificate.
+
+110
+00:04:19.09 --> 00:04:22.02
+You don't have to go to IIS every time.
+
+111
+00:04:22.02 --> 00:04:24.03
+- No and in fact, there's nothing secret
+
+112
+00:04:24.03 --> 00:04:26.04
+or secure about a certificate.
+
+113
+00:04:26.04 --> 00:04:30.05
+Remember, anything that is private
+
+114
+00:04:30.05 --> 00:04:32.09
+or personal isn't in the certificate.
+
+115
+00:04:32.09 --> 00:04:36.05
+The certificate is only
+the public information.
+
+116
+00:04:36.05 --> 00:04:37.05
+- Sure, sure.
+
+117
+00:04:37.05 --> 00:04:39.02
+So in this particular case I'm gonna click
+
+118
+00:04:39.02 --> 00:04:42.03
+on this and I've got
+a certificate problem,
+
+119
+00:04:42.03 --> 00:04:44.08
+but I can pull up the
+certificate right here
+
+120
+00:04:44.08 --> 00:04:45.08
+and we can inspect it.
+
+121
+00:04:45.08 --> 00:04:47.05
+So that's gonna be important,
+
+122
+00:04:47.05 --> 00:04:49.09
+for not only this
+example, but the next one
+
+123
+00:04:49.09 --> 00:04:51.00
+as well is where you actually have
+
+124
+00:04:51.00 --> 00:04:53.06
+to go in and look at the certificate.
+
+125
+00:04:53.06 --> 00:04:55.05
+- Remember, it's very important that
+
+126
+00:04:55.05 --> 00:04:57.09
+when there are messages, error messages,
+
+127
+00:04:57.09 --> 00:05:00.03
+warning messages, and
+regardless of the browser,
+
+128
+00:05:00.03 --> 00:05:02.05
+you should always pay attention
+
+129
+00:05:02.05 --> 00:05:06.02
+and look that there is,
+in fact, a certificate.
+
+130
+00:05:06.02 --> 00:05:08.07
+The certificate will tell you what's wrong
+
+131
+00:05:08.07 --> 00:05:11.08
+if you look at it and then you
+can make the final decision
+
+132
+00:05:11.08 --> 00:05:16.02
+whether or not to actually
+use the certificate
+
+133
+00:05:16.02 --> 00:05:18.06
+or you go to the website or not.
+
+134
+00:05:18.06 --> 00:05:21.02
+- So now my problem here
+is that it's kinda hard
+
+135
+00:05:21.02 --> 00:05:22.09
+for me to set up a gazillion web servers
+
+136
+00:05:22.09 --> 00:05:25.07
+with very specific errors so
+I'm gonna cheat a little bit
+
+137
+00:05:25.07 --> 00:05:27.03
+and instead of going to a web browser,
+
+138
+00:05:27.03 --> 00:05:29.05
+I'm actually gonna pull
+up some local certificates
+
+139
+00:05:29.05 --> 00:05:31.02
+so you can see this particular example,
+
+140
+00:05:31.02 --> 00:05:33.00
+which is an expired certificate.
+
+141
+00:05:33.00 --> 00:05:34.00
+You would be doing the same thing,
+
+142
+00:05:34.00 --> 00:05:36.01
+though, by just clicking in the browser.
+
+143
+00:05:36.01 --> 00:05:38.09
+So what I'd like to do here is, hmm,
+
+144
+00:05:38.09 --> 00:05:42.00
+see if I can find this guy.
+
+145
+00:05:42.00 --> 00:05:43.05
+So here's the certificate right here.
+
+146
+00:05:43.05 --> 00:05:45.01
+Now if you take a look at this guy,
+
+147
+00:05:45.01 --> 00:05:47.01
+first of all there's some big warning
+
+148
+00:05:47.01 --> 00:05:49.01
+and every operating system when you look
+
+149
+00:05:49.01 --> 00:05:50.01
+at certificates they're gonna put
+
+150
+00:05:50.01 --> 00:05:52.01
+up all kinds of ones, it just happens
+
+151
+00:05:52.01 --> 00:05:55.01
+to be with Windows they
+put a big yellow triangle
+
+152
+00:05:55.01 --> 00:05:57.02
+up there to let you
+know there's a problem.
+
+153
+00:05:57.02 --> 00:06:00.02
+And in this particular case,
+
+154
+00:06:00.02 --> 00:06:02.05
+it's not telling me exactly
+what the problem is,
+
+155
+00:06:02.05 --> 00:06:05.02
+but I can read and look
+where the expiration date is,
+
+156
+00:06:05.02 --> 00:06:06.01
+right there.
+
+157
+00:06:06.01 --> 00:06:08.02
+September 12th of 2015.
+
+158
+00:06:08.02 --> 00:06:12.01
+Yeah this one's just a little bit expired.
+
+159
+00:06:12.01 --> 00:06:14.06
+Let's face it folks, there are situations
+
+160
+00:06:14.06 --> 00:06:17.01
+where a certifying body is going
+
+161
+00:06:17.01 --> 00:06:20.02
+to revoke a certificate,
+they're gonna take it away.
+
+162
+00:06:20.02 --> 00:06:23.05
+In order for us to know
+if a certificate is valid,
+
+163
+00:06:23.05 --> 00:06:24.04
+we take advantage
+
+164
+00:06:24.04 --> 00:06:28.01
+of two technologies called CRL and OCSP.
+
+165
+00:06:28.01 --> 00:06:30.09
+Let's take a look and
+see how these guys work.
+
+166
+00:06:30.09 --> 00:06:32.06
+Alright so I've got good old Firefox here
+
+167
+00:06:32.06 --> 00:06:36.01
+and I'm gonna go into
+some configurations here.
+
+168
+00:06:36.01 --> 00:06:38.09
+Now let's click on options and,
+
+169
+00:06:38.09 --> 00:06:41.03
+on this particular version of Firefox,
+
+170
+00:06:41.03 --> 00:06:43.03
+it's under privacy and security.
+
+171
+00:06:43.03 --> 00:06:45.01
+You gotta scroll way down here.
+
+172
+00:06:45.01 --> 00:06:46.07
+Here, Bill, have you ever seen this one?
+
+173
+00:06:46.07 --> 00:06:49.09
+Query OCSP responder servers
+
+174
+00:06:49.09 --> 00:06:52.01
+to confirm the current
+validity of certificates.
+
+175
+00:06:52.01 --> 00:06:53.01
+- [Bill] You know, I've seen that,
+
+176
+00:06:53.01 --> 00:06:55.01
+but I've never really
+dealt with it too much.
+
+177
+00:06:55.01 --> 00:06:56.00
+What should we do?
+
+178
+00:06:56.00 --> 00:06:56.09
+- [Mike] I leave it checked.
+
+179
+00:06:56.09 --> 00:06:59.02
+By default it's checked
+and I've always discovered
+
+180
+00:06:59.02 --> 00:07:00.05
+that that's pretty much a better way
+
+181
+00:07:00.05 --> 00:07:02.03
+to handle this type of stuff
+
+182
+00:07:02.03 --> 00:07:06.01
+because I'm going to lose a little bit
+
+183
+00:07:06.01 --> 00:07:07.07
+of speed, not much, like you were saying
+
+184
+00:07:07.07 --> 00:07:10.01
+with Chrome, it's not a big hickey,
+
+185
+00:07:10.01 --> 00:07:12.00
+but I enjoy that extra little bit
+
+186
+00:07:12.00 --> 00:07:14.04
+of security and there's
+been some situations
+
+187
+00:07:14.04 --> 00:07:15.09
+in the past where that probably
+
+188
+00:07:15.09 --> 00:07:17.03
+would have saved somebody's bacon
+
+189
+00:07:17.03 --> 00:07:20.00
+so just go ahead and leave it checked,
+
+190
+00:07:20.00 --> 00:07:21.05
+but if you need some extra speed
+
+191
+00:07:21.05 --> 00:07:22.08
+or you're not that worried about it,
+
+192
+00:07:22.08 --> 00:07:26.01
+turning that off can kick
+things in a little bit.
+
+193
+00:07:26.01 --> 00:07:28.08
+So here's three great
+examples of situations
+
+194
+00:07:28.08 --> 00:07:32.03
+where you might get an
+invalid SSL certificate.
+
+195
+00:07:32.03 --> 00:07:35.00
+For the exam, remember the
+most important thing of all:
+
+196
+00:07:35.00 --> 00:07:37.05
+if you take the time and
+actually read the error
+
+197
+00:07:37.05 --> 00:07:39.00
+on the screen as it happens,
+
+198
+00:07:39.00 --> 00:07:40.08
+it's probably gonna save you a lot of time
+
+199
+00:07:40.08 --> 00:07:42.04
+and it's probably gonna tell you exactly
+
+200
+00:07:42.04 --> 00:07:43.06
+where the problem is.
+
+201
+00:07:43.06 --> 00:07:45.05
+How you fix it depends on the scenario.
+
