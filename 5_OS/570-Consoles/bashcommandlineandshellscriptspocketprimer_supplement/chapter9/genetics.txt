@@ -1,0 +1,8 @@
+#extract rows with 'gene' and print rows and 'key' value
+xyz3    GTF2GFF chro    55555   44444   key=chr1;Name=chr1
+xyz3    GTF2GFF gene    77774   11111   key=XYZ123;NB=standard;Name=extra
+xyz3    GTF2GFF exon    71874   12227   Super=NR_55555
+xyz3    GTF2GFF exon    72613   12721   Super=NR_55555
+xyz3    GTF2GFF exon    83221   14408   Super=NR_55555
+xyz3    GTF2GFF gene    84362   29370   key=WASH7P;Note=extra;Name=ALPHA
+xyz3    GTF2GFF exon    84362   14829   Super=NR_222222

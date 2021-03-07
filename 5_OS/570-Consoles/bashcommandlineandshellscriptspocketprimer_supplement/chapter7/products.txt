@@ -1,0 +1,6 @@
+MobilePhone 400  new
+Tablet      300  new
+Tablet      300  used
+MobilePhone 200  used
+MobilePhone 100  used
+

@@ -1,0 +1,28 @@
+{
+	"builders": [{
+		"type": "azure-arm",
+
+		"client_id": "<app id>",
+		"client_secret": "<secret>",
+		"tenant_id": "<tenant id>",
+		"subscription_id": "<subscription id>",
+
+		"managed_image_resource_group_name": "LinuxOnAzure",
+		"managed_image_name": "myPackerImage",
+
+		"os_type": "Linux",
+		"image_publisher": "Canonical",
+		"image_offer": "UbuntuServer",
+		"image_sku": "18.04-LTS",
+		"location": "West Europe",
+		"vm_size": "Standard_B1s"
+	}],
+
+	"provisioners": [{
+		"type": "shell",
+		"inline": [
+			"touch /tmp/done",
+			"sudo touch /var/lib/cloud/instance/locale-check.skip"
+		]
+	}]
+}

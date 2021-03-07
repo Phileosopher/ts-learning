@@ -1,0 +1,7 @@
+abcd
+ab
+abc
+cd
+defg
+.*.
+..
