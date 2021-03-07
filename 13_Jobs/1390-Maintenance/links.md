@@ -1,0 +1,15 @@
+# Staying Sharp
+
+[Challenging projects every programmer should try | Hacker News](https://news.ycombinator.com/item?id=21790779)
+[More challenging projects every programmer should try | Hacker News](https://news.ycombinator.com/item?id=25489879)
+[The unlikely history of the #100DaysOfCode Challenge, and why you should try it for 2021](https://www.freecodecamp.org/news/the-crazy-history-of-the-100daysofcode-challenge-and-why-you-should-try-it-for-2018-6c89a76e298d/)
+[7GUIs | Hacker News](https://news.ycombinator.com/item?id=24958725)
+[Let's build a Full-Text Search engine - Artem Krylysov](https://artem.krylysov.com/blog/2020/07/28/lets-build-a-full-text-search-engine/)
+[Curriculum Guide | Riot Games](https://www.riotgames.com/en/urf-academy/curriculum-guide)
+[How to Create your own Santa Tracker with Gatsby and React Leaflet](https://www.freecodecamp.org/news/create-your-own-santa-tracker-with-gatsby-and-react-leaflet/)
+[Learn React Hooks by building a Tetris game](https://www.freecodecamp.org/news/react-hooks-tetris-game/)
+[How to Build a Simple Pokémon Web App with React Hooks and the Context API](https://www.freecodecamp.org/news/building-a-simple-pokemon-web-app-with-react-hooks-and-context-api/)
+[How to build a Quiz app using React and TypeScript](https://www.freecodecamp.org/news/how-to-build-a-quiz-app-using-react-and-typescript/)
+[Any good websites where I can daily exercise in HTML, CSS, JavaScript(not leetcode type) to keep me up to speed/refresh with all the concepts in bits? : learnjavascript](https://www.reddit.com/r/learnjavascript/comments/bollrp/any_good_websites_where_i_can_daily_exercise_in/)
+[How I Went from Hackathons to CTO of a 20 Person SaaS Company in 3 Years](https://www.freecodecamp.org/news/from-hackathon-to-cto-in-3-years/)
+[Female Founder Secrets: Fertility | Hacker News](https://news.ycombinator.com/item?id=26345226)
