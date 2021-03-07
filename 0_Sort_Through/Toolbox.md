@@ -1,5 +1,18 @@
 # Toolbox
 
+Look into free IP address management software
+
+
+Non-Google phones
+  librem phone
+  pinephone
+
+Clarify P2P alternatives to things
+  P2P banking
+  P2P file sharing
+  P2P Cloud storage
+  P2P web hosting
+
 [GitHub - spotify/klio: Smarter data pipelines for audio.](https://github.com/spotify/klio)
 [Show HN: Call a Dev – Pay Stack Overflow users $1/min for live programming help | Hacker News](https://news.ycombinator.com/item?id=26226805)
 [Digital Humans | MetaHuman Creator - Unreal Engine](https://www.unrealengine.com/en-US/digital-humans)

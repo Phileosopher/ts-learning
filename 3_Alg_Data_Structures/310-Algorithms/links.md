@@ -1,0 +1,17 @@
+# Algorithms
+
+[Minimax Algorithm Guide: How to Create an Unbeatable AI](https://www.freecodecamp.org/news/minimax-algorithm-guide-how-to-create-an-unbeatable-ai/)
+[Parsing Algorithms | Hacker News](https://news.ycombinator.com/item?id=24898210)
+[Algorithms, by Jeff Erickson | Hacker News](https://news.ycombinator.com/item?id=18805624)
+[The case for a learned sorting algorithm | the morning paper](https://blog.acolyer.org/2020/10/19/the-case-for-a-learned-sorting-algorithm/)
+[Dijkstra's Shortest Path Algorithm - A Detailed and Visual Introduction](https://www.freecodecamp.org/news/dijkstras-shortest-path-algorithm-visual-introduction/)
+[Introduction to Algorithms, 3rd Edition (The MIT Press): Cormen, Thomas H.: 8601419521876: Amazon.com: Books](https://www.amazon.com/Introduction-Algorithms-3rd-MIT-Press/dp/0262033844/)
+[‘YouTube recommendations are toxic,’ says dev who worked on the algorithm (2019) | Hacker News](https://news.ycombinator.com/item?id=25516573)
+[Introduction to the A\* Algorithm](https://www.redblobgames.com/pathfinding/a-star/introduction.html)
+[Algorithms for Decision Making | Hacker News](https://news.ycombinator.com/item?id=25716581)
+[How Big O Notation Works – Explained with Cake](https://www.freecodecamp.org/news/big-o-notation/)
+[PGM Indexes: Learned indexes that match B-tree performance with 83x less space | Hacker News](https://news.ycombinator.com/item?id=25899286)
+[Offline Algorithms in Low-Frequency Trading | Hacker News](https://news.ycombinator.com/item?id=25968348)
+[Algorithms by Jeff Erickson | Hacker News](https://news.ycombinator.com/item?id=26074289)
+[Shitbowl: The algorithmically powered in-home physical caching platform | Hacker News](https://news.ycombinator.com/item?id=26123726)
+[GitHub - scandum/gridsort: A stable adaptive partitioning comparison sort.](https://github.com/scandum/gridsort?utm_source=tldrnewsletter)
