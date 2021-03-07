@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type = "text/xsl" href = "Courses.xsl"?>
+<Courses>
+	<!-- You can add more courses to this list -->
+	<Course ID="VBA1EX2018">
+		<Title>Beginning VBA in Excel</Title>
+		<Startdate>3/4/2018</Startdate>
+		<Sessions>6</Sessions>
+	</Course>
+	<Course ID="VBA2EX">
+		<Title>Intermediate VBA in Excel</Title>
+		<Startdate>4/13/2018</Startdate>
+		<Sessions>8</Sessions>
+	</Course>
+	<Course ID="VBA3EX">
+		<Title>Advanced VBA in Excel</Title>
+		<Startdate>9/7/2018</Startdate>
+		<Sessions>12</Sessions>
+	</Course>
+	<Course ID="VBA3Word">
+		<Title>Advanced VBA in Word</Title>
+		<Startdate>10/9/2018</Startdate>
+		<Sessions>12</Sessions>
+	</Course>
+	<Course ID="VBA3Access">
+		<Title>Advanced VBA in Access</Title>
+		<Startdate>11/13/2018</Startdate>
+		<Sessions>12</Sessions>
+	</Course>
+	<Course ID="VBA1Outlook">
+		<Title>Beginning VBA in Outlook</Title>
+		<Startdate>10/10/2018</Startdate>
+		<Sessions>6</Sessions>
+	</Course>
+</Courses>

@@ -1,0 +1,3 @@
+<editBox id="txtFullName" label="First and Last Name:"
+    sizeString="AAAAAAAAAAAAAAAA" maxLength="25"
+    onChange="onFullNameChange" />

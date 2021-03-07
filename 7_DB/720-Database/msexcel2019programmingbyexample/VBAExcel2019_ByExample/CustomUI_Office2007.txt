@@ -1,0 +1,15 @@
+<customUI xmlns="http://schemas.microsoft.com/office/2006/01/customui">
+<ribbon startFromScratch="false">
+   <!-- Office Button Menu section -->
+   <officeMenu>
+        <control idMso="MenuPublish" visible="false" />
+        <menu idMso="FileSaveAsMenu">
+            <button idMso="FileSaveAsWebPage" />
+        </menu>
+            <button id="btnNotes1" label="Open Notepad"
+            image="Note1" insertBeforeMso="FileSave"
+            onAction="OpenNotepad" />
+   </officeMenu>
+   <!--Other Ribbon Customization section -->
+</ribbon>
+</customUI>

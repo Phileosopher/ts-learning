@@ -1,0 +1,23 @@
+<customUI xmlns="http://schemas.microsoft.com/office/2009/07/customui">
+  <ribbon startFromScratch="false">
+    <tabs>
+      <tab idMso="TabHome">
+        <group idMso="GroupStyles" visible="false" />
+      </tab>
+      <tab id="TabJK1" label="Favorite">
+        <group id="GroupJK1" label="SmallApps">
+           <button id="btnNotes" label="Notepad" image="Note1" size="large"
+             onAction="OpenNotepad"  screentip="Open Windows Notepad"
+             supertip="It is recommended that you save your notes about this
+             worksheet in a simple text file."/>
+           <button id="btnCharMap" label="CharMap"
+             imageMso="SymbolInsert" size="large" onAction="OpenCharmap" />
+         </group>
+        <group id="GroupJK2" label="Print/Email" >
+          <button idMso="FilePrintQuick" size="normal" />
+          <button idMso="FileSendAsAttachment" size="normal" />
+        </group>
+      </tab>
+    </tabs>
+  </ribbon>
+</customUI>

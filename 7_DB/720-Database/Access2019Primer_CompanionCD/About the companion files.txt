@@ -1,0 +1,52 @@
+====================================================================================
+Julitta Korol. Microsoft Access 2019 VBA Programming Pocket Primer
+ISBN: 978-1-68392-409-8| Copyright 2019 by Mercury Learning and Information
+====================================================================================
+
+SYSTEM REQUIREMENTS
+-------------------
+Operating System: Windows 7 / Windows 8 / Windows 10
+Internet access: required for downloading additional recommended materials
+
+
+SOFTWARE REQUIREMENTS
+---------------------
+Standalone Microsoft Access 2019 / Office 365 Home or Personal Editions
+
+
+WHAT'S ON THIS CD-ROM DISC?
+---------------------------
+This companion disc contains the source code and supplemental files for the Hands-On exercises and custom projects presented in the book.
+The CD also contains all the figures used in the book.
+
+The CD directory structure and contents is shown below:
+
+
+*****************************
+* VBAPrimerAccess_ByExample *
+*****************************
+This folder contains files that were created by working with the book's Hands-On exercises and custom projects. Once you complete a chapter, you can compare your work against the corresponding files in this folder. You can also check a file in this folder in case you are having difficulty with a particular example in the book's Hands-On exercises.
+
+
+*****************************
+* VBAPrimerAccess_Figures   *
+*****************************
+This folder contains all the figures used for presenting the concepts discussed and demonstrated in the book. For easy access, all figures are organized into corresponding chapters.
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+ 

@@ -1,0 +1,10 @@
+"AssetType","Manufacturer","Model","Price"
+"Tablet","Samsung","S10.5",499.00
+"Tablet","Google","Nexus 7",199.99
+"Desktop","Lenovo","H500s",209.00
+"Desktop","Dell","i3646-1000BLK",217.00
+"Printer","Brother","HL2280DW",129.99 
+"Laptop","HP","6445B",210.00
+"Printer","HP","M276nw",202.10
+"Monitor","Asus","VS247H-P",154.84
+"Monitor","Viewsonic","VA2037A",99.99

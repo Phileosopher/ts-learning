@@ -1,0 +1,8 @@
+<separator id="OtherControlsDiv2" />
+  <comboBox id="cboDepartment" label="Departments" 
+         supertip="Select  Department" onChange="onChangeDept">
+        <item id="Marketing" label="Marketing" />
+        <item id="Sales" label="Sales" />
+        <item id="Personnel" label="Personnel" />
+        <item id="ResearchAndDevelopment" label="Research and Development" />
+  </comboBox>

@@ -1,0 +1,3 @@
+<editBox id="txtFullName" label="First and Last Name:"
+       sizeString="AAAAAAAAAAAAAAAAAA" maxLength="25"
+       getText="getEditBoxText" onChange="onFullNameChangeToUcase" />

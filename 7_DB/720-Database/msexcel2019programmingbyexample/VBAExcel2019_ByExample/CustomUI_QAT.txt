@@ -1,0 +1,13 @@
+<customUI xmlns="http://schemas.microsoft.com/office/2009/07/customui" >
+<ribbon startFromScratch="true">
+  <qat>
+    <sharedControls>
+      <button idMso="FilePrintQuick" />
+    </sharedControls>
+    <documentControls>
+      <button id="btnCalc2" label="Calculator"
+      imageMso="SadFace" onAction="OpenCalculator" />
+    </documentControls>
+  </qat>
+</ribbon>
+</customUI>

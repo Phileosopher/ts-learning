@@ -1,0 +1,21 @@
+<xml xmlns:s="uuid:BDC6E3F0-6DA3-11d1-A2A3-00AA00C14882" xmlns:dt="uuid:C2F41010-65B3-11d1-A29F-00AA00C14882" xmlns:rs="urn:schemas-microsoft-com:rowset" xmlns:z="#RowsetSchema">
+	<s:Schema id="RowsetSchema">
+		<s:ElementType name="row" content="eltOnly" rs:updatable="true">
+			<s:AttributeType name="CompanyName" rs:number="2" rs:nullable="true" rs:maydefer="true" rs:write="true" rs:basetable="Shippers" rs:basecolumn="CompanyName">
+				<s:datatype dt:type="string" dt:maxLength="40"/>
+			</s:AttributeType>
+			<s:AttributeType name="Phone" rs:number="3" rs:nullable="true" rs:maydefer="true" rs:write="true" rs:basetable="Shippers" rs:basecolumn="Phone">
+				<s:datatype dt:type="string" dt:maxLength="24"/>
+			</s:AttributeType>
+			<s:AttributeType name="ShipperID" rs:number="1" rs:maydefer="true" rs:writeunknown="true" rs:basetable="Shippers" rs:basecolumn="ShipperID" rs:autoincrement="true">
+				<s:datatype dt:type="int" dt:maxLength="4" rs:precision="10" rs:fixedlength="true"/>
+			</s:AttributeType>
+			<s:extends type="rs:rowbase"/>
+		</s:ElementType>
+	</s:Schema>
+	<rs:data>
+		<z:row CompanyName="Speedy Express" Phone="(508) 555-9831" ShipperID="1"/>
+		<z:row CompanyName="United Package" Phone="(503) 555-3199" ShipperID="2"/>
+		<z:row CompanyName="Federal Shipping" Phone="(503) 555-9931" ShipperID="3"/>
+	</rs:data>
+</xml>

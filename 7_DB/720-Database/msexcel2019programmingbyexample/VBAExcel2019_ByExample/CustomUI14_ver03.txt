@@ -1,0 +1,4 @@
+<group id="GroupJK3" label="Various Controls">
+ <toggleButton id="tglR1C1" label="Reference Style" size="normal"
+           getPressed="onGetPressed" onAction="SwitchRefStyle" />
+</group>

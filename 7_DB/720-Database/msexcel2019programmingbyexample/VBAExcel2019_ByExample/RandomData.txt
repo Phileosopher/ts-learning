@@ -1,0 +1,78 @@
+' Procedure Code for Hands-On 12.7.
+
+Sub RandomData()
+    Dim strFilePath As String
+    strFilePath = "C:\VBAExcel2019_ByExample\DataSample.txt"
+    
+    ' Open the specified file for binary
+    ' access as file number 1
+    Open strFilePath For Binary As #1
+    
+    'Show the number of bytes on opening the file.
+    '(The file is currently empty.)
+    MsgBox "Total bytes: " & LOF(1)
+    
+    ' Assign a value to the variable fname.
+    fname = Application.InputBox(Prompt:="Enter your first name:", _
+        Title:="Prompt for First Name", Type:=2)
+    
+    ' Assign to the variable ln the length of the string
+    ' stored in the fname variable
+    Ln = Len(fname)
+    
+    ' Enter the value of the variable ln in the binary file
+    ' in the position of the next byte
+    Put #1, , Ln
+    
+    ' Display the position of the last byte
+    MsgBox "The last byte: " & Loc(1)
+    
+    ' Enter the contents of the fname variable
+    ' in the next position
+    Put #1, , fname
+    
+    ' Assign a value to the variable lname
+    lname = Application.InputBox(Prompt:="Enter your last name:", _
+        Title:="Prompt for Last Name", Type:=2)
+    
+    ' Assign to the variable Ln the length of the string
+    ' stored in the lname variable
+    Ln = Len(lname)
+    
+    ' Enter the value of the variable Ln in the binary
+    ' file in the position of the next byte
+    Put #1, , Ln
+    
+    ' Enter the contents of the lname variable
+    ' in the next byte position
+    Put #1, , lname
+    
+    ' Display the position of the last byte
+    MsgBox "The last byte: " & Loc(1)
+    
+    ' Read the value stored in the position of the
+    ' first byte and assign it to the entry1 variable
+    Get #1, 1, entry1
+       
+    ' Read the next value and assign it
+    ' to the entry2 variable
+    Get #1, , entry2
+    
+   
+    ' Read the next value and store it
+    ' in the entry3 variable
+    Get #1, , entry3
+    
+    ' Read the next value and store it
+    ' in the entry4 variable
+    Get #1, , entry4
+    
+    ' Print all the data in the Immediate window
+    Debug.Print entry1; entry2; entry3; entry4
+    
+    ' Close the file
+    Close #1
+End Sub
+
+
+

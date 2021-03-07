@@ -1,0 +1,11 @@
+WEB
+1
+https://www.x-rates.com/
+
+Selection=AllTables
+Formatting=None
+PreFormattedTextToColumns=True
+ConsecutiveDelimitersAsOne=True
+SingleBlockTextImport=False
+DisableDateRecognition=False
+DisableRedirections=False

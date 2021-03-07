@@ -1,0 +1,23 @@
+<customUI xmlns="http://schemas.microsoft.com/office/2009/07/customui">
+<contextMenus>
+	<contextMenu idMso="ContextMenuCell" >
+	      <menuSeparator id="sep1" insertBeforeMso="Cut" />
+		<button idMso="FileSaveAsWebPage" insertBeforeMso="Cut" />
+		<button id="RecentFile" label="Open Recent File"
+                  insertBeforeMso="Cut" onAction="onActionBuiltInCmd"/>
+		<button id="btnCustom1" insertBeforeMso="HyperlinkInsert" 
+                  label="Text Cells to &amp;Uppercase" imageMso="U" keytip="u"
+		   onAction="onActionUppercase" />
+	      <menuSeparator id="sep2" insertBeforeMso="NameDefine" />
+		<menu id="submenuCustom1" label="Select Special" insertBeforeMso="Cut" >
+		  <button id="num" label="Numbers Only" onAction="onActionSelSpec" />
+		  <button id="text" label="Text Only" onAction="onActionSelSpec" />
+		  <button id="blank" label="Blanks Only" onAction="onActionSelSpec" />
+		  <button id="zero" label="Zeros Only" onAction="onActionSelSpec" />
+		</menu>
+	</contextMenu>
+	<contextMenu idMso="ContextMenuWorkbookPly" >
+		<button idMso="SheetHide" visible="false" />
+	</contextMenu>
+</contextMenus>
+</customUI>

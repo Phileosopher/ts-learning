@@ -1,0 +1,9 @@
+    <dropDown id="drpBoro" label="City Borough"
+        supertip="Select City Borough"
+        onAction="onActionBoro">
+        <item id="M" label="Manhattan" />
+        <item id="B" label="Brooklyn" />
+        <item id="Q" label="Queens" />
+        <item id="I" label="Staten Island" />
+        <item id="X" label="Bronx" />
+    </dropDown>

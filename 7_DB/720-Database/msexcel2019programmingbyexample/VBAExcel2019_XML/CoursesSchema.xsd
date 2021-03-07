@@ -1,0 +1,18 @@
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<xsd:element nillable="true" name="Courses">
+<xsd:complexType>
+<xsd:sequence minOccurs="0">
+<xsd:element minOccurs="0" maxOccurs="unbounded" nillable="true" name="Course" form="unqualified">
+<xsd:complexType><xsd:sequence minOccurs="0">
+<xsd:element minOccurs="0" nillable="true" type="xsd:string" name="Title" form="unqualified">
+</xsd:element><xsd:element minOccurs="0" nillable="true" type="xsd:string" name="Startdate" form="unqualified">
+</xsd:element><xsd:element minOccurs="0" nillable="true" type="xsd:integer" name="Sessions" form="unqualified">
+</xsd:element>
+</xsd:sequence><xsd:attribute name="ID" form="unqualified" type="xsd:string">
+</xsd:attribute>
+</xsd:complexType>
+</xsd:element>
+</xsd:sequence>
+</xsd:complexType>
+</xsd:element>
+</xsd:schema>

@@ -1,0 +1,9 @@
+<separator id="OtherControlsDiv1" />
+    <labelControl id="TitleForBox1" label="Show or Hide Screen 
+     Elements" />
+    <box id="boxLayout1">
+        <checkBox id="chkGridlines" label="Gridlines" visible="true" 
+           getPressed="onGetPressed" onAction="DoSomething" />
+        <checkBox id="chkFormulaBar" label="Formula Bar" visible="true" 
+           getPressed="onGetPressed" onAction="DoSomething" />
+    </box>

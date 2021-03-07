@@ -1,0 +1,2 @@
+<button id="btnWordWizard" label="Use Thesaurus" size="normal"
+       getImage="onGetBitmap" onAction="DoDefaultPlus" />

@@ -1,0 +1,11 @@
+WEB
+1
+https://www.x-rates.com/historical/?from=USD&amount=1&date=2019-03-23
+
+Selection=AllTables
+Formatting=None
+PreFormattedTextToColumns=True
+ConsecutiveDelimitersAsOne=True
+SingleBlockTextImport=False
+DisableDateRecognition=False
+DisableRedirections=False

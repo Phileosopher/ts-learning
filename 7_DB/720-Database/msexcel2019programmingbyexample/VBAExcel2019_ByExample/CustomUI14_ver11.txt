@@ -1,0 +1,4 @@
+<checkBox id="chkFormulaBar" label="Formula Bar" visible="true" 
+   getPressed="onGetPressed" getEnabled="onGetEnabled"
+   onAction="DoSomething" />
+

@@ -1,0 +1,11 @@
+WEB
+1
+https://finance.yahoo.com/trending-tickers
+
+Selection=AllTables
+Formatting=None
+PreFormattedTextToColumns=False
+ConsecutiveDelimitersAsOne=False
+SingleBlockTextImport=False
+DisableDateRecognition=False
+DisableRedirections=True

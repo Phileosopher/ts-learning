@@ -1,0 +1,4 @@
+<dialogBoxLauncher>
+   <button id="Launch1" screentip="Show Auto Correct Dialog"
+    onAction="onActionLaunch" />
+</dialogBoxLauncher>

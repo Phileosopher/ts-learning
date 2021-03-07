@@ -1,0 +1,17 @@
+<splitButton id="btnSplit1" size="large">
+   <button id="btnGoTo" label="Navigate To..." imageMso="GoTo" />
+   <menu id="mnuGoTo" label="Spreadsheet Navigation" itemSize="normal">
+      <menuSeparator id="mnuDiv1" title="Formulas and Constants" />
+         <button id="btnFormulas" label="Select Formulas" 
+           onAction="GoToSpecial" />
+         <button id="btnNumbers" label="Select Numbers Only" 
+           onAction="GoToSpecial" />
+         <button id="btnText" label="Select Text Only" 
+           onAction="GoToSpecial" />
+      <menuSeparator id="mnuDiv2" title="Special Cells" />
+         <button id="btnBlanks" label="Select blank cells" 
+           onAction="GoToSpecial" />
+         <button id="btnLast" label="Select last cell" 
+           onAction="GoToSpecial" />
+   </menu>
+</splitButton>

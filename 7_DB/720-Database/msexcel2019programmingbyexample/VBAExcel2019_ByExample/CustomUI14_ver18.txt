@@ -1,0 +1,42 @@
+<backstage>
+    <button id="btnSync" label="Synchronize" imageMso="SyncNow" isDefinitive="true" 
+     insertBeforeMso="FileClose" onAction="onActionCopyToArchive" />
+    <tab id="mySpecialTab" label="Endless Possibilities" insertAfterMso="TabRecent">
+     <firstColumn>
+       <group id="grp01" label="Home Group" helperText="This is group 1 help text">
+            <topItems>
+               <button id="myButton1" label="My button" />
+            </topItems>
+      </group>
+      <group id="gr02" label="Cheat Sheet">
+            <topItems>
+               <button id="myButton2" label="Cheat Ideas" />
+            </topItems>
+            <bottomItems>
+              <layoutContainer id="set1" layoutChildren="horizontal" >
+                 <editBox id="item1" label="Cheat Item 1"  />
+                 <editBox id="item2" label="Cheat Item 2"  />
+              </layoutContainer>
+            </bottomItems>
+      </group>
+    </firstColumn>
+    <secondColumn>
+      <group id="grpHyperlinks" label="Frequently Accessed Websites" visible="true">
+        <primaryItem>
+         <button id="top1" label="Primary Button" imageMso="HyperlinkProperties" />
+        </primaryItem>
+       <topItems>
+           <button id="msft" label="Microsoft" onAction="onActionExecHyperlink" />
+           <layoutContainer id="set2" layoutChildren="vertical" >
+              <hyperlink id="YouTube" label="http://www.YouTube.com" 
+                  onAction="onActionExecHyperlink" />
+              <hyperlink id="amazon" label="http://www.amazon.com" 
+                  onAction="onActionExecHyperlink" />
+              <hyperlink id="merc" label="http://www.merclearning.com" 
+                  onAction="onActionExecHyperlink" />
+           </layoutContainer>
+       </topItems>
+      </group>
+     </secondColumn>
+  </tab>
+ </backstage>

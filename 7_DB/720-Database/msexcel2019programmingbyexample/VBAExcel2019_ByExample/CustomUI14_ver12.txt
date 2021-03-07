@@ -1,0 +1,4 @@
+<!-- Built-in commands section -->
+<commands>
+    <command idMso="NameManager" onAction="DisableNameManager" />
+</commands>

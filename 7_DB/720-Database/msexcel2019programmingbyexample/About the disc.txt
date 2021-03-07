@@ -1,0 +1,61 @@
+====================================================================================
+Julitta Korol. Microsoft Excel 2019 Programming by Example with VBA, XML, and ASP.
+ISBN: 978-1-68392-400-5 | Copyright 2019 by Mercury Learning and Information
+====================================================================================
+
+SYSTEM REQUIREMENTS
+-------------------
+Operating System: Windows 7 / Windows 8 / Windows 10
+Internet access: required for downloading additional recommended materials
+
+
+SOFTWARE REQUIREMENTS
+---------------------
+Standalone Microsoft Excel 2019 / Office 365 Home or Personal Edition
+
+
+WHAT'S ON THIS CD-ROM DISC?
+---------------------------
+This companion disc contains the source code and supplemental files for the Hands-On exercises and custom projects presented in the book. The CD also contains all the figures used in the book.
+
+
+The CD directory structure and contents is shown below:
+
+****************************
+* VBAPrimerExcel_ByExample *
+****************************
+This folder contains files that were created by working with the book's Hands-On exercises and custom projects in Chapters 1 through 9. 
+
+
+****************************
+* VBAExcel2019_ByExample   *
+****************************
+This folder contains files created in Chapters 10 - 22, 24-26. The GetTransform subfolder contains files created in Chapter 23.
+
+
+****************************
+* VBAExcel2019_ASP_Classic *
+****************************
+This folder contains files created in Chapter 27.
+
+
+****************************
+* VBAExcel2019_XML         *
+****************************
+This folder contains files created in Chapter 28.
+
+
+*********************************
+* VBAExcel2019_ByExample_Figures *
+*********************************
+This folder contains all the figures used for presenting the concepts discussed and demonstrated in the book. For easy access, all figures are organized into corresponding chapters. There are no figures in Chapter 10. 
+
+ 
+
+ 
+
+
+
+
+
+ 
