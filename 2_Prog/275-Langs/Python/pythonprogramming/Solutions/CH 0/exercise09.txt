@@ -1,0 +1,19 @@
+9.  What is the value of the ASCII code for the character 
+   ‘1’ minus the code for the character ‘0’? 
+    What is ‘2’-‘0’? What does this say about converting 
+    from the character form of a number into its numeric 
+    value in general?
+
+    code for '1' is 49 (base 10)
+    code for '0' is 48
+
+    '1' - '0' = 49 - 48 = 1
+
+    code for '2' is 50
+    code for '0' is 48
+
+    '2' - '0' = 50 - 48 = 2
+
+The number for any single digit character equals its 
+ASCII code - the code for '0'
+    

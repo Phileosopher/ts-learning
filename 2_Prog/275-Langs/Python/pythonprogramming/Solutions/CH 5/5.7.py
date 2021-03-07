@@ -1,0 +1,7 @@
+s = input ("Enter the name of a local image file: ")
+fil = open("disp.html", "w")
+fil.write ("<html>\n  <head> \n    <title> Display an Image. </title>\n</head>\n")
+fil.write ('<body>\n<img width=90% src="')
+fil.write (s)
+fil.write ('">\n<body>\n</html>\n')
+fil.close()

@@ -1,0 +1,34 @@
+5.  Ada Countess of Lovelace is generally considered 
+    to be the first programmer, but some contrary 
+    information has come to light recently. Search the 
+    literature for two articles on each side of the argument 
+    and formulate a conclusion. Was she?
+
+There are many possible answers here.
+
+Obvious online sources include:
+
+http://www.biography.com/people/ada-lovelace-20825323
+http://mentalfloss.com/article/53131/ada-lovelace-first-computer-programmer
+https://en.wikipedia.org/wiki/Ada_Lovelace
+
+
+
+
+Bromley, Allan G. (1990). "Difference and Analytical Engines". 
+In Aspray, William. Computing Before Computers. Ames: Iowa State 
+University Press. pp. 59–98. 
+
+Essinger, James (2015) "Ada's Algorithm: How Lord Byron's Daughter 
+Ada Lovelace Launched the Digital Age". Melville House; Reprint 
+edition (September 28, 2015)
+
+Kim, Eugene; Toole, Betty Alexandra (1999). "Ada and the First 
+Computer". Scientific American. 280 (5): 76–81.
+
+Lethbridge, Lucy . (2004) "Ada Lovelace: The Computer Wizard of 
+Victorian England", Short Books Ltd (May 20, 2004)
+
+Stein, Dorothy K. (1984). "Lady Lovelace's Notes: Technical 
+Text and Cultural Context". Victorian Studies. 28 (1): 33–67. 
+p. 34.

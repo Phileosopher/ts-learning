@@ -1,0 +1,12 @@
+3. Core memory would not erase itself when its power 
+   source was removed. Give reasons why this is a 
+   valuable property.
+
+There are many acceptable answers here. In mission 
+critical situations such as spacecraft or even automobiles 
+it would permit the system to restart quickly without loss
+of data. Complex calculations could be continued from the point
+where power had stopped. One could analyze the cause of any
+problems that might be the result of a programming error. It
+would permit operators to cut the power as a means of stopping
+the computer in an emergency.

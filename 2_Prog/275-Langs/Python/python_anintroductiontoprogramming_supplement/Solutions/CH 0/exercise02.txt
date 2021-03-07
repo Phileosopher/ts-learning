@@ -1,0 +1,9 @@
+2.	Convert the following decimal numbers into binary:
+
+a.	10	      01010
+		
+c.	64	   01000000		
+	
+e.	254	   11111110
+
+g.	999	01111100111			

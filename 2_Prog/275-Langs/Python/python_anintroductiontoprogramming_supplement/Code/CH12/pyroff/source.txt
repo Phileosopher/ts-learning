@@ -1,0 +1,25 @@
+This is sample text for testing Pyroff. The default is to right adjust 
+continuously, but embedded commands can change this.
+.ll 30
+Now the line width should be 30 characters, and so the left margin will pulled back.
+.ce 1
+This line is centered
+.sp 2
+.ti +4
+.xx not a command.
+Indented 4 characters.
+.in 2
+The idea behind top-down programming is that the higher levels of abstraction are 
+described first. A description of what he entire program is to do is written in a 
+kind-of English/computer hybrid language (pseudocode), and this description involves 
+making calls to functions that have not yet been written but whose function is known. 
+.in 0
+.ls 2
+.bp
+When the highest level description is acceptable, then the functions used are described. 
+In this way the high level decisions are described in terms of the lower level, whose 
+implementation is postponed until the details are appropriate. The process repeats until 
+all parts have been described, at which time the translation of the pseudocode into a 
+real programming language can proceed, and should be straightforward. This can result 
+in many distinct programs, but all should do basically the same thing, simply in somewhat 
+different ways.

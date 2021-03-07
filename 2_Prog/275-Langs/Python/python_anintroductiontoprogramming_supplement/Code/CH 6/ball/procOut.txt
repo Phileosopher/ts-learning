@@ -1,0 +1,75 @@
+
+New speed is 3.2 and height starts at 11.84
+New speed is 6.4 and height starts at 11.360001
+New speed is 9.6 and height starts at 10.56
+New speed is 12.8 and height starts at 9.440001
+New speed is 16.0 and height starts at 8.0
+New speed is 19.2 and height starts at 6.24
+New speed is 22.400002 and height starts at 4.16
+New speed is 25.600002 and height starts at 1.7599995
+Bounces at time 0.06602538
+New speed is -15.456408 and height starts at 0.48000038
+New speed is -12.256408 and height starts at 1.8656412
+New speed is -9.056408 and height starts at 2.931282
+New speed is -5.856408 and height starts at 3.6769228
+New speed is -2.656408 and height starts at 4.102564
+Peak
+New speed is 0.0 and height starts at 4.2082047
+New speed is 3.2 and height starts at 4.048205
+New speed is 6.4 and height starts at 3.5682049
+New speed is 9.6 and height starts at 2.7682047
+New speed is 12.8 and height starts at 1.6482047
+New speed is 16.0 and height starts at 0.20820463
+Bounces at time 0.012847722
+New speed is -9.21723 and height starts at 0.72934383
+New speed is -6.01723 and height starts at 1.4910668
+New speed is -2.81723 and height starts at 1.9327898
+Peak
+New speed is 0.0 and height starts at 2.0545127
+New speed is 3.2 and height starts at 1.8945128
+New speed is 6.4 and height starts at 1.4145128
+New speed is 9.6 and height starts at 0.6145127
+Bounces at time 0.058339268
+New speed is -6.453417 and height starts at 0.22241442
+New speed is -3.2534168 and height starts at 0.7077561
+New speed is -0.05341673 and height starts at 0.8730978
+Peak
+New speed is 0.0 and height starts at 0.71843946
+New speed is 3.2 and height starts at 0.55843943
+New speed is 6.4 and height starts at 0.078439415
+Bounces at time 0.011902019
+New speed is -4.092155 and height starts at 0.29583988
+New speed is -0.89215493 and height starts at 0.5450554
+Peak
+New speed is 0.0 and height starts at 0.47427088
+New speed is 3.2 and height starts at 0.31427085
+Bounces at time 0.07216831
+New speed is -3.3095665 and height starts at 0.06297708
+New speed is -0.10956645 and height starts at 0.23393375
+Peak
+New speed is 0.0 and height starts at 0.08489038
+Bounces at time 0.072839886
+New speed is -1.9358066 and height starts at 0.02628837
+Peak
+New speed is 0.0 and height starts at 0.05986903
+Bounces at time 0.06117037
+New speed is -1.6503844 and height starts at 0.032041915
+Peak
+New speed is 0.0 and height starts at 0.037080355
+Bounces at time 0.04814065
+New speed is -1.3747452 and height starts at 0.0356467
+Peak
+New speed is 0.0 and height starts at 0.01312121
+Bounces at time 0.028636962
+New speed is -1.0702595 and height starts at 0.038188487
+Bounces at time 0.09265193
+New speed is -1.1717585 and height starts at 0.0034006834
+Bounces at time 0.0760304
+New speed is -0.89224285 and height starts at 0.007884694
+Bounces at time 0.063522905
+New speed is -0.7378833 and height starts at 0.010691474
+Bounces at time 0.05769883
+New speed is -0.603187 and height starts at 0.010572827
+Bounces at time 0.050726056
+New speed is -0.46420512 and height starts at 0.009801931
+Bounces at time 0.043195374

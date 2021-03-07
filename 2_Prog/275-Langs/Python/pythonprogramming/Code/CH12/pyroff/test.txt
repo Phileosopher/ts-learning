@@ -1,0 +1,42 @@
+This line has no indenting, with justification, and it is being filled.
+.in 2
+These lines are indented by 2 characters.
+These lines are indented by 2 characters.
+These lines are indented by 2 characters.
+These lines are indented by 2 characters.
+These lines are indented by 2 characters.
+These lines are indented by 2 characters.
+.in 4
+These lines are indented by 4 characters.
+These lines are indented by 4 characters.
+These lines are indented by 4 characters.
+These lines are indented by 4 characters.
+These lines are indented by 4 characters.
+These lines are indented by 4 characters.
+These lines are indented by 4 characters.
+These lines are indented by 4 characters.
+These lines are indented by 4 characters.
+These lines are indented by 4 characters.
+These lines are indented by 4 characters.
+These lines are indented by 4 characters.
+These lines are indented by 4 characters.
+These lines are indented by 4 characters.
+These lines are indented by 4 characters.
+These lines are indented by 4 characters.
+These lines are indented by 4 characters.
+These lines are indented by 4 characters.
+These lines are indented by 4 characters.
+These lines are indented by 4 characters.
+These lines are indented by 4 characters.
+These lines are indented by 4 characters.
+These lines are indented by 4 characters.
+These lines are indented by 4 characters.
+These lines are indented by 4 characters.
+These lines are indented by 4 characters.
+These lines are indented by 4 characters.
+These lines are indented by 4 characters.
+These lines are indented by 4 characters.
+These lines are indented by 4 characters.
+.nf
+So, what is the indenting here and in the line that follows?
+This line should be the same.

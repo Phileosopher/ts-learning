@@ -1,0 +1,10 @@
+1.	Convert the following binary numbers into decimal:
+
+
+a.	0100000         32
+
+c.	0000111		 7
+	
+e.	0110100101      421			
+	
+g.	110110110  	438

@@ -1,0 +1,64 @@
+.sp 10
+.sz 24
+.ce 1
+Computer Vision:
+.ce 1
+A Practical Introduction
+.bp
+.sp 4
+.ce 1
+Computer Vision:
+.ce 1
+A Practical Introduction
+.sp 3
+.ce 1
+J. R. Parker
+.ce 1
+The University of Calgary
+.ce 1
+Department of Computer Science
+.ce 1
+Calgary, Alberta, Canada
+.sp 18
+.nf
+	New York	Chichester	Brisbane	Toronto		Singapore
+.bp
+.sp 21
+.sz 8
+Copyright   (2016) by J Parker.
+.sp 1
+All rights reserved. Published simultaneously in Canada
+.sp 1
+Library of Congress Cataloging in Publication Data:
+.sp 1
+Parker, James Robert.
+.in +4
+Computer Vision: A Practical Introduction
+.sp 1
+Bibliography: p. 325
+.br
+Includes index.
+.br
+1. Computer Vision.  2. Image Processing  I. Title
+.in -4
+TA 1632.P92   1992  629.8'92  92-28763
+.sp 3
+Printed in the United States of America
+.sp 2
+10 9 8 7 6 5 4 3 2 1
+.bp
+.fi
+Preface
+.sp 5
+.ls 2
+.sp 1
+.ti 4
+Computer vision has become a high profile subject in recent times.
+The reason is clear enough - for those of us who are sighted, most of
+the information we acquire day to day is through vision. We are
+highly picture oriented beings, as demonstrated by the prevalance of
+television, motion pictures, magazenes, and books. Even in science
+much of the data has a visual aspect: photographs, spectrograms,
+chromatography images, and a host of other visual means of accessing data
+pervade all scientific disciplines. Indeed, when data is not visual
+we tend to make it so by drawing graphs and charts.
