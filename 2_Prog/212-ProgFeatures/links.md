@@ -1,0 +1,18 @@
+# Programming Features
+
+[Conversations with a six-year-old on functional programming | blog :: Brent -> \[String\]](https://byorgey.wordpress.com/2018/05/06/conversations-with-a-six-year-old-on-functional-programming/)
+[Comparison of programming languages - Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_programming_languages)
+[Being Popular](http://paulgraham.com/popular.html)
+[Class (computer programming) - Wikipedia](https://en.wikipedia.org/wiki/Class_(computer_programming))
+[Things I Was Wrong About: Types | Hacker News](https://news.ycombinator.com/item?id=24604943)
+[Write Libraries, Not Frameworks | Hacker News](https://news.ycombinator.com/item?id=23121192)
+[What's the Difference Between a Framework and Library?](https://www.freecodecamp.org/news/frameworks-vs-libraries/)
+[Why Arc Isn't Especially Object-Oriented](http://paulgraham.com/noop.html)
+[Learn Object Oriented Programming Basics in 30 Minutes: A Free Crash Course](https://www.freecodecamp.org/news/object-oriented-programming-crash-course/)
+[coding style - Where did the notion of "one return only" come from? - Software Engineering Stack Exchange](https://softwareengineering.stackexchange.com/questions/118703/where-did-the-notion-of-one-return-only-come-from)
+[Why OO Sucks by Joe Armstrong (2000) | Hacker News](https://news.ycombinator.com/item?id=19715191)
+[Ask HN: Go-to web stack today? | Hacker News](https://news.ycombinator.com/item?id=18829557)
+[A statistical analysis of React, Angular and Vue](https://www.freecodecamp.org/news/angular-react-vue/)
+[Thorsten Ball - Learn more programming languages, even if you won't use them](https://thorstenball.com/blog/2019/04/09/learn-more-programming-languages/)
+[Comparing the Same Project in Rust, Haskell, C++, Python, Scala and OCaml | Hacker News](https://news.ycombinator.com/item?id=20192645)
+[Beating the Averages](http://paulgraham.com/avg.html)

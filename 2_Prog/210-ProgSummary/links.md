@@ -1,0 +1,15 @@
+# Games
+
+[Learn to Code for Free – Grasshopper](https://learn.grasshopper.app/)
+[CodingBat Java](https://codingbat.com/java)
+[Elevator Saga - the elevator programming game](https://play.elevatorsaga.com/)
+[Coding Games and Programming Challenges to Code Better](https://www.codingame.com/start)
+[CodeCombat - Coding games to learn Python and JavaScript](https://codecombat.com/)
+[Rogue Bit walkthrough with explanations - YouTube](https://www.youtube.com/watch?v=u4RskXHDLzo)
+[CS50x](https://cs50.harvard.edu/x/)
+[What is Computer Programming? Defining Software Development.](https://www.freecodecamp.org/news/what-is-computer-programming-defining-software-development/)
+[faq - learnprogramming](https://www.reddit.com/r/learnprogramming/wiki/faq#wiki_getting_started)
+[Paul Ford: What Is Code? | Bloomberg](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/)
+[Peter Naur's view of programming | Hacker News](https://news.ycombinator.com/item?id=26027448)
+[How to Turn Google Sheets into a REST API and Use it with a React Application](https://www.freecodecamp.org/news/react-and-googlesheets/)
+[How can you not be romantic about programming? (2020) | Hacker News](https://news.ycombinator.com/item?id=26206921)
