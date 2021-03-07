@@ -1,0 +1,16 @@
+./AddDigits
+./ComputePower
+./ConvertDataTypes
+./CountDigits
+./DisplayDigits
+./DisplayPrimes
+./Factorial
+./Fib
+./FindChar1
+./FunctionParams
+./GCD
+./LCM
+./OldStyleFunction
+./PrintToBuffer
+./Simplec99
+./SingleArrayFunction

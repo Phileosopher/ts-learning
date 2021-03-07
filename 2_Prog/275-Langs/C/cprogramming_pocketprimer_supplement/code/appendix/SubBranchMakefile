@@ -1,0 +1,16 @@
+CC=gcc
+CFLAGS=-g -Wall
+RM=/bin/rm
+
+# 'goodbye' creates GoodbyeWorld
+goodbye: GoodbyeWorld.c
+        $(CC) $(CFLAGS) GoodbyeWorld.c -o GoodbyeWorld
+
+# 'GoodbyeWorld.o' creates GoodbyeWorld.o
+GoodbyeWorld.o: GoodbyeWorld.c
+        $(CC) $(CFLAGS) -c GoodbyeWorld.c
+
+# removes GoodbyeWorld and GoodbyeWorld.o
+clean:
+        $(RM) GoodbyeWorld GoodbyeWorld.o
+

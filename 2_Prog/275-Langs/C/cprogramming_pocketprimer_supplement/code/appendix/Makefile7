@@ -1,0 +1,23 @@
+CC=gcc
+CFLAGS=-g -Wall
+RM=/bin/rm
+
+# invokes targets mybin1, mybin2, and mybin3
+all: mybin1 mybin2 mybin3
+
+# 'mybin1' creates mybin1 
+mybin1: mybin1.o HelloWorld.o 
+        $(CC) $(CFLAGS) HelloWorld.c -o mybin1
+
+# 'mybin2' creates mybin2
+mybin2: mybin2.o HelloWorld.o 
+        $(CC) $(CFLAGS) HelloWorld.c -o mybin2
+
+# 'mybin3' creates mybin3
+mybin3: mybin3.o HelloWorld.o 
+        $(CC) $(CFLAGS) HelloWorld.c -o mybin3
+
+# removes mybin1, mybin2, and mybin3
+clean:
+        $(RM) mybin1 mybin2 mybin3
+

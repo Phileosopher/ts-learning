@@ -1,0 +1,128 @@
+
+[1] const Pointers
+Declaring constant pointers is a little tricky. For example, the declaration:
+const int result = 5;
+
+tells C that result is a constant so that: result = 10; /* Illegal */
+is illegal. The declaration:
+const char *answer_ptr = "Forty -Two";
+does not tell C that the variable answer_ptr is a constant. Instead, it tells C that the data pointed to by answer_ptr is a constant. The data cannot be changed, but the pointer can. Again we need to make sure we know the difference between "things" and "pointers to things."
+What's answer_ptr? A pointer. Can it be changed? Yes, it's just a pointer. What doesitpointto?Aconst chararray.Canthedatapointedtobyanswer_ptrbe changed? No, it's constant.
+In C this is:
+answer_ptr = "Fifty-One"; /* Legal (answer_ptr is a variable) */ *answer_ptr = 'X'; /* Illegal (*answer_ptr is a constant) */
+
+If we put the const after the * we tell C that the pointer is constant. For example:
+char *const name_ptr = "Test";
+What's name_ptr? It is a constant pointer. Can it be changed? No. What does it point to? A character. Can the data we pointed to by name_ptr be changed? Yes.
+name_ptr = "New"; /* Illegal (name_ptr is constant) */ *name_ptr = 'B'; /* Legal (*name_ptr is a char) */
+Finally, we can put const in both places, creating a pointer that cannot be changed to a data item that cannot be changed:
+const char *const title_ptr = "Title";
+
+C allows pointer arithmetic (addition and subtraction). Suppose we have:
+char array[5];
+char *array_ptr = &array[0];
+In this example, *array_ptr is the same asarray[0],*(array_ptr+1) is the same as array[1], *(array_ptr+2) is the same as array[2], and so on. Note the use of parentheses. Pointer arithmetic is represented graphically inFigure 13-7.
+
+However, (*array_ptr)+1 is not the same as array[1]. The +1 is outside the parentheses, so it is added after the dereference. So (*array_ptr)+1 is the same as array[0]+1.
+At first glance, this method may seem like a complex way of representing simple array indices. We are starting with simple pointer arithmetic. In later chapters we will use more complex pointers to handle more difficult functions efficiently.
+The elements of an array are assigned to consecutive addresses. For example, array[0] may be placed at address 0xff000024. Then array[1] would be placed at address 0xff000025, and so on. This structure means that a pointer can be used to find each element of the array. Example 13-3 prints out the elements and addresses of a simple character array.
+
+#include <stdio.h>
+#define ARRAY_SIZE 10
+char array[ARRAY_SIZE + 1] = "0123456789";
+int main() 
+{
+  int index ;
+  printf("&array[index] (array+index) array[index]\n");
+
+  for(index=0;index < ARRAY_SIZE;++index) {
+    printf("0x%-10p 0x%-10p 0x%x\n",, &array[index],(array+index),array[index]);
+  } 
+  return 0; 
+}
+
+Characters use one byte, so the elements in a character array will be assigned consecutive addresses. Ashort int font uses two bytes, so in an array of short int,
+the addresses increase by two. Does this mean that array+1 will not work for anything other than characters? No. C auto matically scales pointer arithmetic so
+that it works correctly. In this case, array+1 will point to element number 1. C provides a shorthand for dealing with arrays. Rather than writing: array_ptr = &array[0];
+we can write:
+array_ptr = array;
+C blurs the d istinction between pointers and arrays by treating them in the same manner in many cases. Here we use the variable array as a pointer, and C automatically does the necessary conversion.
+
+#include <stdio.h>
+int array[] = {4, 5, 8, 9, 8, 1, 0, 1, 9, 3}; int index;
+int main() 
+{
+index = 0;
+while (array[index] != 0)
+++index;
+printf("Number of elements before zero %d\n", index);
+return (0); 
+}
+Example 13-5 is a version of Example 13-4 that uses pointers.
+
+#include <stdio.h>
+int array[] = {4, 5, 8, 9, 8, 1, 0, 1, 9, 3}; int *array_ptr;
+int main() 
+{
+array_ptr = array;
+while ((*array_ptr) != 0) ++array_ptr;
+printf("Number of elements before zero %d\n", array_ptr - array);
+return (0); 
+}
+
+Notice that when we wish to examine the data in the array, we use the dereference operator (*). This operator is used in the statement:
+while ((*array_ptr) != 0)
+When we wish to change the pointer itself, no other operator is used. For example, the line:
+++array_ptr;
+increments the pointer, not the data.
+
+13.4 How Not to Use Pointers
+The major goal of this book is to teach you how to create clear, readable, maintainable code. Unfortunately, not everyone has read this book and some people still believe that you should make your code as compact as possible. This belief can result in programmers using the ++ and— operators inside other statements.
+
+/* This program shows programming practices that should **NOT** be used */
+/* Unfortunately, too many programmers use them */
+int array[10]; /* An array for our data */
+int main() {
+int *data_ptr; /* Pointer to the data */ int value; /* A data value */
+data_ptr = &array[0];/* Point to the first element */
+value = *data_ptr++; /* Get element #0, data_ptr points to element
+#1 */
+value = *++data_ptr; /* Get element #2, data_ptr points to element
+#2 */
+value = ++*data_ptr; /* Increment element #2, return its value */
+/* Leave data_ptr alone */
+To understand each of these statements, you must carefully dissect each expression to discover its hidden meaning. When I do maintenance programming, I don't want to have to worry about hidden meanings, so please don't code like this, and shoot anyone who does.
+
+Example 13-8 is a n example of the code you're more likely to run into. The program copies a string from the source (q) to the destination (p).
+Example 13-8. Cryptic Use of Pointers
+void copy_string(char *p, char *q) {
+while (*p++ = *q++); }
+Given time, a good programme r will decode this. However, understanding the program is much easier when we are a bit more verbose, as in Example 13-9.
+Example 13-9. Readable Use of Pointers
+void copy_string(char *dest, char *source)
+{
+while (1) {
+*dest = *source;
+/* Exit if we copied the end of string */ if (*dest == '\0')
+return;
+++dest;
+++source; }
+}
+13.5 Using Pointers to Split a String
+Suppose we are given a string of the form "Last/First." We want to split this into two strings, one containing the first name and one containing the last name.
+We need a function to find the slash in the name. The standard function strchr performs this job for us. In this program, we have chosen to duplicate this function to show you how it works.
+This function takes a pointer to a string (string_ptr) and a character to find (find ) as its arguments. It starts with a while loop that will continue until we find the character we are looking for (or we are stopped by some other code below).
+while (*string_ptr != find) {
+Next we test to see if we've run out of string. In this case, our pointer (stri ng_ptr ) points to the end-of-string character. If we have reached the end of string before finding the character, we returnNULL:
+
+if (*string_ptr == '\0') return (NULL);
+If we get this far, we have not found what we are looking for, and are not at theend of the string. So we move the pointer to the next character, and return to the top of the loop to try again:
+++string_ptr; 
+}
+
+Our main program reads in a single line, stripping the newline character from it. The function my_strchr is called to find the location of the slash (/).
+At this point, last_ptr points to the first character of the last name andfirst_ptr points to slash. We then split the string by replacing the slash (/) with an end of string (NUL or \0). Now last_ptr points to just the last name and first_ptr points to a null string. Moving first_ptr to the next character makes it point to the beginning of the first name.
+The sequence of steps in splitting the string is illustrated in Figure 13-9.
+HERE
+
+

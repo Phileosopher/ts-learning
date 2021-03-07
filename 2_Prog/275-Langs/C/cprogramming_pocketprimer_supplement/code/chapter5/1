@@ -1,0 +1,91 @@
+First item in numbers  = 2
+First item in numbers2 = 3
+strcat line  = New York pizza
+strncat line = New York pi
+VOWELS:    33
+CONSONANT: 66
+DIGITS:    4
+OTHERS:    29
+The first occurrence of z in 'New York Pizza' is 'zza'
+First Loop
+----------
+i : h
+i : e
+i : l
+i : l
+i : o
+
+Second Loop
+-----------
+char : hello
+char : ello
+char : llo
+char : lo
+char : o
+Number of elements before 9: 6
+x = 3
+y = 5
+x = 7
+y = 23
+&array[index] (array+index) array[index]
+0x0x1059ba020 0x0x1059ba020 0x30
+0x0x1059ba021 0x0x1059ba021 0x31
+0x0x1059ba022 0x0x1059ba022 0x32
+0x0x1059ba023 0x0x1059ba023 0x33
+0x0x1059ba024 0x0x1059ba024 0x34
+0x0x1059ba025 0x0x1059ba025 0x35
+0x0x1059ba026 0x0x1059ba026 0x36
+0x0x1059ba027 0x0x1059ba027 0x37
+0x0x1059ba028 0x0x1059ba028 0x38
+0x0x1059ba029 0x0x1059ba029 0x39
+Hello World
+Hello World
+Hello World
+Number of elements before 9: 6
+Display Command Line Arguments
+Argument 0 = "./PrintCmdLineArguments"
+Current Line: One two Three four
+Exact Match:  our
+
+Current Line: One two Three four
+Ignore case:  three
+Value of x:    7
+Value of x:    45
+Value of x:    1234
+Value of x:    7
+Value of x:    5678
+Value of ptr:  5678
+Value of ptr2: 5678
+Value of x:    7
+Value of ptr:  7
+Value of ptr2: 7
+Value of ptr3: 1506877752
+str:  thisisalongstring
+ptr2: thisisalongstring
+ptr3: thisisalongstring
+ptr4: thisisalongstring
+ 1: t
+ 2: th
+ 3: thi
+ 4: this
+ 5: thisi
+ 6: thisis
+ 7: thisisa
+ 8: thisisal
+ 9: thisisalo
+10: thisisalon
+11: thisisalong
+12: thisisalongs
+13: thisisalongst
+14: thisisalongstr
+15: thisisalongstri
+16: thisisalongstrin
+17: thisisalongstring
+Original
+Row 0: 1 2 3 
+Row 1: 4 5 6 
+Row 2: 7 8 9 
+Transpose
+Row 0: 1 4 7 
+Row 1: 2 5 8 
+Row 2: 3 6 9 

@@ -1,0 +1,14 @@
+RM=/bin/rm -f
+AR=/usr/bin/ar 
+MYLIB=mylib.a
+
+# only the 'hello' target
+all: lib
+
+# create a library with .o files
+lib: FindChar2.o FindMain2.o HelloWorld.o
+        $(AR) r $(MYLIB) $?
+
+clean:
+        $(RM) $(MYLIB) 2>/dev/null
+

@@ -1,0 +1,15 @@
+TAR=/usr/bin/tar
+CTFLAGS=-cvf
+XTFLAGS=-xvf
+TARFILE=mytar.tar
+
+ctarfile: 
+	@echo "### Listing of C Programs:"
+	@ls -l *.c
+	@echo "### Creating tar file:"
+	$(TAR) $(CTFLAGS) $(TARFILE) *.c
+
+xtarfile:
+	@echo "### Extracting tar file:"
+	$(TAR) $(XTFLAGS) $(TARFILE) 
+

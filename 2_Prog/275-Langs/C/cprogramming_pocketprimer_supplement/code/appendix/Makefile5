@@ -1,0 +1,18 @@
+CC=gcc
+CFLAGS=-g -Wall
+RM=/bin/rm -f
+
+OBJECTS = depend1.o depend2.o
+HEADERS = depend1.h depend2.h
+
+main1: $(OBJECTS) $(HEADERS)
+	$(CC) $(CFLAGS) $(OBJECTS) main1.c -o main1
+
+depend1.o: depend1.c
+	$(CC) -c depend1.c 
+
+depend2.o: depend2.c
+	$(CC) -c depend2.c 
+
+clean:
+	$(RM) main1 2>/dev/null

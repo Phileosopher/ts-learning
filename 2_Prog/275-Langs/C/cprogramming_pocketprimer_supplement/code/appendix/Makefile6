@@ -1,0 +1,21 @@
+CC=gcc
+CFLAGS=-g -Wall
+RM=/bin/rm -f
+
+EXEC = main1
+SRC = $(EXEC).c depend1.c depend2.c
+OBJ = $(SRC:.c=.o)
+LIB = $(SRC:.c=.h)
+
+all: $(EXEC)
+
+# this target generates FindMain2
+$(EXEC): $(OBJ)
+	$(CC) -o $@ $^ $(LDFLAGS) -lm
+
+%.o: $.c $(LIB)
+	$(CC) -o $@ -c $< $(CFLAGS)
+
+clean:
+	$(RM) main1 2>/dev/null
+

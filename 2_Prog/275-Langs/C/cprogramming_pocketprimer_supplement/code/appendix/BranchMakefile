@@ -1,0 +1,25 @@
+CC=gcc
+CFLAGS=-g -Wall
+RM=/bin/rm
+MAKE=/usr/bin/make
+BRANCH=./branch
+ECHO=echo
+
+# only the 'hello' target
+all: hello
+
+# 'hello' creates HelloWorld
+hello: HelloWorld.c
+        $(ECHO) top-level directory...
+        $(CC) $(CFLAGS) HelloWorld.c -o HelloWorld
+        $(ECHO) going to branch...
+        cd $(BRANCH); $(MAKE) -f BranchMakefile goodbye
+
+# 'Helloworld.o' creates HelloWorld.o
+HelloWorld.o: HelloWorld.c
+        $(CC) $(CFLAGS) -c HelloWorld.c
+
+# removes HelloWorld and HelloWorld.o
+clean:
+        $(RM) HelloWorld HelloWorld.o
+

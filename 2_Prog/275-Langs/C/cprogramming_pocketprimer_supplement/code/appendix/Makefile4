@@ -1,0 +1,18 @@
+CC=gcc
+CFLAGS=-g -Wall
+RM=/bin/rm -f
+MAKE=/usr/bin/make
+ECHO=echo
+
+# only the 'hello' target
+all: hello
+
+# just the 'hello' target
+hello: HelloWorld.c
+	$(ECHO) "Creating HelloWorld in target hello..."
+	$(CC) $(CFLAGS) HelloWorld.c -o HelloWorld
+
+# what to remove
+clean:
+	$(RM) HelloWorld
+

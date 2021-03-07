@@ -1,0 +1,12 @@
+CC=gcc
+CFLAGS=-g -Wall
+
+hello: HelloWorld.c
+	gcc HelloWorld.c -o HelloWorld
+
+hello2: HelloWorld.c
+	gcc -g -Wall HelloWorld.c -o HelloWorld
+
+hello3: HelloWorld.c
+	$(CC) $(CFLAGS) HelloWorld.c -o HelloWorld
+

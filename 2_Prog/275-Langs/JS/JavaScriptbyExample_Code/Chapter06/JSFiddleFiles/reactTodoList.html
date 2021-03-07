@@ -1,0 +1,71 @@
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/css/bootstrap.css">
+<app></app>
+<script src="https://unpkg.com/babel-standalone@6/babel.min.js"></script>
+<script src="https://unpkg.com/react@15/dist/react.js"></script>
+<script src="https://unpkg.com/react-dom@15/dist/react-dom.js"></script>
+<script type="text/babel" data-presets="react">
+const { Component } = React;
+
+const $app = document.querySelector('app');
+
+class App extends Component {
+
+  constructor() {
+  	super();
+
+    this.state = {
+    	tasks: [],
+      inputValue: "",
+    }
+    this.handleChange = this.handleChange.bind(this);
+    this.handleKeyUp = this.handleKeyUp.bind(this);
+  }
+
+  handleChange(event) {
+  	this.setState({inputValue: event.target.value});
+  }
+
+  handleKeyUp(event) {
+  	if(event.keyCode === 13) {
+    	if(this.state.inputValue) {
+        const newTasks = [...this.state.tasks, this.state.inputValue];
+        this.setState({tasks: newTasks, inputValue: ""});
+      } else {
+      	alert('Please add a Task!');
+      }
+    }
+  }
+
+	render() {
+  	return(
+    	<div className="container">
+        <h1>To Do List</h1>
+        <input type="text" name="newTask" value={this.state.inputValue} onChange={this.handleChange} onKeyUp={this.handleKeyUp}/>
+        <List tasks={this.state.tasks} />
+    	</div>
+    );
+  }
+}
+
+const List = ({tasks}) => (
+  <div className="container">
+    <ul className="list-group">
+      {
+        tasks.map((task, index) => <Task task={task} key={index}/>)
+      }
+    </ul>
+  </div>
+);
+
+const Task = ({task}) => (
+  <li>
+    {task}
+  </li>
+);
+
+ReactDOM.render(
+	<App/>,
+  $app
+);
+
+</script>

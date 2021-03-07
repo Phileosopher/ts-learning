@@ -1,0 +1,15 @@
+CC=gcc
+CFLAGS=-g -Wall
+RM=/bin/rm
+
+# only the 'hello' target
+all: hello
+
+# just the 'hello' target
+hello: HelloWorld.c
+        $(CC) $(CFLAGS) HelloWorld.c -o HelloWorld
+
+# what to remove
+clean:
+        $(RM) HelloWorld
+

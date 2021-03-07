@@ -1,0 +1,10 @@
+./AbsValues
+./AddArray
+./Arithmetic
+./HelloWorld
+./IntExample
+./MathValues
+./OtherBases
+./ReverseChars
+./SizeOfDataTypes
+./TrigValues

@@ -1,0 +1,8 @@
+all: hello now mymakefiles
+
+hello:
+	echo "hello world"; echo
+now:
+	@echo "now is `date`"; echo
+mymakefiles:
+	@echo "mymakefiles: `ls Makefile*`"; echo
