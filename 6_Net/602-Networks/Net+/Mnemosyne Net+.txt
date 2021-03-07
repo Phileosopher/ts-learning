@@ -1,0 +1,67 @@
+RADIUS acronym and purpose	Remote authentication dial-in user service<br><br>Holds all the credentials and permissions
+AAA meaning	authenticate, authorize, accounting/auditing<br><br>aka RADIUS server
+VLSM acronym and purpose	Variable Length Subnet Masks, change the length as needed
+Navigating a Cisco router	conf t (configure terminal)<br>interface gig 1/0 (whatever/0 is "interface configuration mode" for<br>that router)<br>ip address x.x.x.x x.x.x.x (the ip address, then the network mask) <br>exit
+DTLS acronym and purpose	Damage transport layer security, less overhead than SSL/TLS
+Cybersecurity ports	IPsec protocol 50<br><br>SSL/TLS port 443
+UTM acronym and meaning	unified threat management, system that does ALL netsec
+VPN concentrator	dedicated VPN hardware
+APIPA	automatic private IP addressing<br><br>the fallback when DHCP fails
+EUI64	extended unique identifier, 64--bit<br><br>APIPA for IPv6, uses multiple fallback IP addresses
+CIDR	classless inter-domain routing<br><br>demarcates how many bits are part of the subnet<br><br>e.g., /8, /16<br>
+VLSM	variable length subnet mask<br><br>changes the length of the subnet as needed
+CSMA/CD and CSMA/CA	carrier-sending multiple access - collision detection/avoidance<br><br>legacy tech now that we have switches
+ICMP	internet control message protocol, for sending error messages
+A/V protocols over networks	H.323<br>UDP port 1719<br>TCP port 1720<br>
+SIP	session information protocol<br><br>for streaming sessions<br><br>UDP port 5060<br>TCP port 5060 and 5061
+VNC	virtual network computing<br><br>remote access protocol<br><br>TCP port 5900-range
+PCoIP	PC over IP<br><br>remote VM access<br><br>TCP port 4172
+RDP	remote desktop protocol<br><br>Windows-specific<br><br>TCP port 3389
+LDAPS	lightweight directory access protocol secured<br><br>for managing a directory with many users, over SSL/TLS<br><br>TCP port 636
+SMB	server message block<br><br>shared access to stuff<br><br>TCP port 445
+HTTPS	hyper-text transfer protocol secured<br><br>for secure web services<br><br>TCP port 443<br><br>
+LDAP	lightweight directory access protocol<br><br>for managing a directory with many users<br><br>TCP/UDP port 389
+SNMP	simple network management protocol<br><br>for managing networks<br><br>TCP port 161
+IMAP	internet message access protocol<br><br>for receiving messages<br><br>TCP port 143
+NTP	network time protocol<br><br>UDP port 123
+POP3	post office protocol v3<br><br>for sending unsynchronized messages (somewhat legacy)<br><br>TCP port 110
+HTTP	hyper-text transfer protocol<br><br>for web services<br><br>TCP port 80
+TFTP	trivial file transfer protocol<br><br>usually for firmware, mostly legacy<br><br>UDP port 69
+DHCP	dynamic host control protocol<br><br>IPv4 address management<br>assigns IP addresses instead of static IP<br><br>UDP port 67 and 68
+DNS	domain name system<br><br>requests an IP address associated with a name<br><br>UDP port 53
+SMTP	simple mail transfer protocol<br><br>for sending messages<br><br>TCP port 25
+Telnet	CLI interaction, usually a bad idea now with SSH<br><br>TCP port 23
+SSH	secure shell<br><br>encrypted protocol to access a computer, often with CLI<br><br>TCP port 22
+SFTP	SSH file transfer protocol<br><br>TCP port 22
+FTP	file transfer protocol<br><br>for sending files<br><br>TCP ports 20 and 21
+IP	internet protocol<br><br>comes in IPv4 or IPv6
+UDP	user datagram protocol<br><br>connectionless, unreliable
+TCP	transmission control protocol<br><br>connection-oriented, reliable
+TCP/IP	catch-all protocol for a LOT of other protocols
+ARP	address resolution protocol<br><br>maps the MAC to an IP address
+NDP	neighbor discovery protocol<br><br>IPv6 version of ARP, looks for other computers and maps the MAC to an IP address<br><br>
+STP	spanning tree protocol<br><br>sends BPDUs (bridge protocol data units) to define the root bridge
+OSI layers	Physical<br>Data Link<br>Network (IP in TCP/IP)<br>Transport (TCP or UDP in TCP/IP)<br>Session<br>Presentation<br>Application
+IPv6 dynamic routing protocols	RIPng<br>OSPFv3
+Distance vector	the means of determining how "far" a connection is<br><br>e.g., RIP, routing by rumor (what other routers say)
+Link state	OSPF (open shortest path first) sends LSAs (link state advertisements) to find open IP addresses
+NAT/PAT	network/port address translation<br><br>converts one to another to make logical sense for a receiving network<br><br>NAT = usually 1:1 to translate IPs<br><br>PAT = usually many:1 to make tracking easier
+IPv6 link-local addresses	fe80::/64
+IPv6 All Nodes Address	ff02::1
+IPv6 All Routers Address	ff02::2
+DHCP-PD	DHCP prefix delegation<br>goes upstream to ISP for IP addresses
+CSU/DSU	Channel Service Unit/Digital Service Unit<br><br>terminus for a T1 line
+TDM	time division multiplexing<br><br>frames carrying a portion of every channel on each frame
+HDLC	high-level data link control<br><br>E1 and SONET use it to control information
+T1 channels and speed	24 channels, 1.544 Mbps
+T3 channels and speed	672 channels (28 of T1)<br>44.736 Mbps
+E1 channels and speed	32 channels<br>2.048 Mbps
+E3 channels and speed	512 channels (16 of E1)<br>34.368 Mbps
+SONET/SDH	synchronous optical network/synchronous digital hierarchy<br><br>the generalized standard for fiber
+PPP	point-to-point protocol<br><br>the base for PPPoE used in DSL
+RAS	remote access server<br><br>for non-internet connections<br><br>RRAS (routing and remote access service) for Windows
+VoIP standards	H.323, RTP, SIP
+RTP	real-time transport protocol<br><br>VoIP basis, most common
+SIP/H.323	session initiation protocol<br><br>runs on top of RTP<br>SIP uses TCP ports 5060 and 5061<br>H.323 uses port 1720
+RTSP	real-time streaming protocol<br><br>video streaming<br><br>TCP port 554
+The 4 things a computer needs to connect to the internet	legitimate IP address<br>subnet mask<br>default gateway<br>DNS address
