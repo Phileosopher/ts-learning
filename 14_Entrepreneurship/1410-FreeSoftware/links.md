@@ -6,3 +6,7 @@
 [Open-source, not open-contribution | Hacker News](https://news.ycombinator.com/item?id=25940195)
 [The MIT License, Line by Line | Hacker News](https://news.ycombinator.com/item?id=25979584)
 [Get Involved | LibreOffice - Free Office Suite - Based on OpenOffice - Compatible with Microsoft](https://www.libreoffice.org/community/get-involved/?pk_campaign=hub)
+
+## Nonprofits
+
+[Donate Unrestricted](http://paulgraham.com/donate.html)

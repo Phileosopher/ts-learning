@@ -1,6 +1,5 @@
 # Data
 
-[pytorch/opacus: Training PyTorch models with differential privacy](https://github.com/pytorch/opacus)
 [Pose Animator: SVG animation tool using real-time TensorFlow.js models | Hacker News](https://news.ycombinator.com/item?id=23124786)
 [Show HN: Igel – A CLI tool to run machine learning without writing code | Hacker News](https://news.ycombinator.com/item?id=24671525)
 [Introduction — Spinning Up documentation](https://spinningup.openai.com/en/latest/user/introduction.html)
@@ -26,3 +25,4 @@
 [Flattr - Contributors](https://flattr.com/)
 [Peter Sunde - Wikipedia](https://en.wikipedia.org/wiki/Peter_Sunde)
 [Online Compiler and Editor/IDE for Java, C/C++, PHP, Python, Perl, etc](https://www.jdoodle.com/)
+[Dolt is Git for Data: a SQL database that you can fork, clone, branch, merge](https://github.com/dolthub/dolt#dolt)

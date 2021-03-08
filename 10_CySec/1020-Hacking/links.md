@@ -35,6 +35,9 @@
 [30k U.S. organizations newly hacked via holes in Microsoft Exchange Server | Hacker News](https://news.ycombinator.com/item?id=26362178)
 
 
+DDoS
+[Let's Encrypt's performance is currently degraded due to a DDoS attack](https://news.ycombinator.com/item?id=26374430)
+
 Bug bounties
   https://www.bugcrowd.com/bug-bounty-list/
   https://www.hacker101.com/

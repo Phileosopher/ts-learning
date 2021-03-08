@@ -2,6 +2,7 @@
 
 # Vim
 
+[vim is turing complete](https://buttondown.email/hillelwayne/archive/vim-is-turing-complete/)
 [VimCharm: Approximating PyCharm on vim – Kevin Martin Jose](https://kevinmartinjose.com/2020/11/22/vimcharm-approximating-pycharm-on-vim/)
 [Learn VIM while playing a game - VIM Adventures](https://vim-adventures.com/)
 [7 Vim Tips That Changed My Life (With Demo)](https://www.freecodecamp.org/news/7-vim-tips-that-changed-my-life/)
@@ -20,6 +21,8 @@
 [Visual Studio Code Course – How to Increase Your Productivity in VS Code](https://www.freecodecamp.org/news/learn-visual-studio-code-to-increase-productivity/)
 [Visual Studio Code Snippets – the Definitive VS Code Snippet Guide for Beginners](https://www.freecodecamp.org/news/definitive-guide-to-snippets-visual-studio-code/)
 [How to Set Up VS Code for Web Development in A Few Simple Steps](https://www.freecodecamp.org/news/how-to-set-up-vs-code-for-web-development/)
+
+[IDEA vs VS Code](https://news.ycombinator.com/item?id=26367410)
 
 # emacs
 

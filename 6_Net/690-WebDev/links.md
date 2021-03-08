@@ -1,5 +1,6 @@
 # Deploying
 
+[Thanks HN - Lessons learned after Google nearly kille dmy website](https://news.ycombinator.com/item?id=26357033)
 [Learn the PERN Stack by building a web app - Full video course](https://www.freecodecamp.org/news/learn-the-pern-stack-full-course/)
 [Build an Accessible Web App with HTML, Sass, and JavaScript](https://www.freecodecamp.org/news/build-an-accessible-web-app-with-html-sass-and-javascript/)
 [How to deploy a static website for free in just 3 minutes straight from your Google Drive, using Fast.io](https://www.freecodecamp.org/news/how-to-deploy-a-static-website-for-free-in-only-3-minutes-with-google-drive/)
@@ -44,3 +45,4 @@
 [CDC website built by Deloitte at a cost of $44M is abandoned due to bugs | Hacker News](https://news.ycombinator.com/item?id=25975110)
 [Tailwind CSS tutorial: learn how to build websites using a utility-first CSS framework - Themesberg Blog](https://themesberg.com/blog/tailwind-css/tutorial)
 [TeaVM](http://teavm.org/)
+[FFMPEG from Zero to Hero](https://news.ycombinator.com/item?id=26370704)

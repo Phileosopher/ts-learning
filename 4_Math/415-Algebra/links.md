@@ -1,5 +1,5 @@
 # Algebra
-
+[Symbolics.jl: A Modern Computer Algebra System for a Modern Language](https://news.ycombinator.com/item?id=26356854)
 [A 2020 Vision of Linear Algebra | Hacker News](https://news.ycombinator.com/item?id=23150699)
 [Learn Linear Algebra with This 20-Hour Course and Free Textbook](https://www.freecodecamp.org/news/linear-algebra-full-course/)
 [Convolution Is Fancy Multiplication | Hacker News](https://news.ycombinator.com/item?id=25190770)

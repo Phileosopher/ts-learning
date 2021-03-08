@@ -2,6 +2,7 @@
 
 [Bitcoin now uses more electricity than Argentina | Hacker News](https://news.ycombinator.com/item?id=26088455)
 [I heat my home by mining crypto currencies | Hacker News](https://news.ycombinator.com/item?id=26235414)
+[why NFTs are a dangerous trap](https://news.ycombinator.com/item?id=26373108)
 
 # Torrenting
 

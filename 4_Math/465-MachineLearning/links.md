@@ -1,5 +1,6 @@
 # ML
 
+[Geoff Hinton Coursera Neural Networks (YouTube)](https://www.youtube.com/playlist?list=PLoRl3Ht4JOcdU872GhiYWf6jwrk_SNhz9)
 [MIT's Introduction to Deep Learning: A Free Online Course | Open Culture](https://www.openculture.com/2020/12/mits-introduction-to-deep-learning-a-free-online-course.html)
 [The Turing Test is obsolete. AI needs a new benchmark](https://www.fastcompany.com/90590042/turing-test-obsolete-ai-benchmark-amazon-alexa)
 [vijishmadhavan/ArtLine: A Deep Learning based project for creating line art portraits.](https://github.com/vijishmadhavan/ArtLine)
