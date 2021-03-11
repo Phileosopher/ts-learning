@@ -1,5 +1,6 @@
 # Dev
 
+[Amplification](https://amplication.com/)
 [GNU Bison - Wikipedia](https://en.wikipedia.org/wiki/GNU_Bison)
 [CodeSynthesis XSD - Wikipedia](https://en.wikipedia.org/wiki/CodeSynthesis_XSD)
 [CodeSynthesis XSD/e - Wikipedia](https://en.wikipedia.org/wiki/CodeSynthesis_XSD/e)
@@ -10,7 +11,7 @@
 [phpCodeGenie - Wikipedia](https://en.wikipedia.org/wiki/PhpCodeGenie)
 [SableCC - Wikipedia](https://en.wikipedia.org/wiki/SableCC)
 [SWIG - Wikipedia](https://en.wikipedia.org/wiki/SWIG)
-[^txt2regex$ - Wikipedia](https://en.wikipedia.org/wiki/%5Etxt2regex$)
+[txt2regex - Wikipedia](https://en.wikipedia.org/wiki/%5Etxt2regex$)
 [xmlbeansxx - Wikipedia](https://en.wikipedia.org/wiki/Xmlbeansxx)
 [YAKINDU Statechart Tools - Wikipedia](https://en.wikipedia.org/wiki/YAKINDU_Statechart_Tools)
 [cortex/examples/model-caching/python/translator at translator-example · cortexlabs/cortex · GitHub](https://github.com/cortexlabs/cortex/tree/translator-example/examples/model-caching/python/translator)

@@ -1,5 +1,7 @@
 # Deploying
 
+[webmention.io](https://news.ycombinator.com/item?id=26401955)
+[emoji email domain](https://news.ycombinator.com/item?id=26422799)
 [Thanks HN - Lessons learned after Google nearly kille dmy website](https://news.ycombinator.com/item?id=26357033)
 [Learn the PERN Stack by building a web app - Full video course](https://www.freecodecamp.org/news/learn-the-pern-stack-full-course/)
 [Build an Accessible Web App with HTML, Sass, and JavaScript](https://www.freecodecamp.org/news/build-an-accessible-web-app-with-html-sass-and-javascript/)
