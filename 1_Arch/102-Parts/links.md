@@ -1,5 +1,7 @@
 # Parts
 
+[But How do it know?](https://www.youtube.com/watch?v=HeYAtkbHvuQ&list=PLYE0XunAbwfDvfabOlNWLViRcMI54M6CR)
+
 [How to Speed Up Your Old Laptop - Using Stuff You Have Lying Around Your House](https://www.freecodecamp.org/news/speed-up-old-laptop/)
 [The Raspberry Pi 400 is a compact keyboard with a built-in computer - The Verge](https://www.theverge.com/2020/11/2/21542278/raspberry-pi-400-keyboard-computer-arm-release-date-news-features)
 [Show HN: Raspberry Pi 400 with a $2 IPS 240x240 micro display | Hacker News](https://news.ycombinator.com/item?id=25566132)

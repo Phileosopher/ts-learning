@@ -1,5 +1,6 @@
 # Freelancing
 
+[How to earn a living selling open-source web invoicing app](https://news.ycombinator.com/item?id=26423002)
 [Ask HN: What's a side project you built to make money that hasn't? | Hacker News](https://news.ycombinator.com/item?id=25580637)
 [Show HN: After 2.5 years on my side project, it has hit £500/month revenue | Hacker News](https://news.ycombinator.com/item?id=25372464)
 [GitPals - Find a team or team members for open-source development](https://www.gitpals.com/page/1)
