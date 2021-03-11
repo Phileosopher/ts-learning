@@ -1,5 +1,6 @@
 # UX/UI
 
+[UI Design, I swear](https://news.ycombinator.com/item?id=26381768)
 [Fantasy UI | Hacker News](https://news.ycombinator.com/item?id=25525290)
 [How we Build a Design System | Bits and Pieces](https://blog.bitsrc.io/how-we-build-our-design-system-15713a1f1833)
 [Learn UI design fundamentals with this free one-hour course](https://www.freecodecamp.org/news/learn-ui-design-fundamentals-with-this-free-one-hour-course/)

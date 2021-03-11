@@ -1,5 +1,7 @@
 # Rust
 
+[Debian running on Rust coreutils](https://news.ycombinator.com/item?id=26396798)
+[why asyncronous Rust doesn't work](https://news.ycombinator.com/item?id=26406989)
 [A half-hour to learn Rust | Hacker News](https://news.ycombinator.com/item?id=25610741)
 [Artichoke is a Ruby made with Rust that compiles to WebAssembly | Hacker News](https://news.ycombinator.com/item?id=25605470)
 [Rust After the Honeymoon | Hacker News](https://news.ycombinator.com/item?id=24747492)

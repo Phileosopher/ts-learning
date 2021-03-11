@@ -1,5 +1,7 @@
 # Hacking
 
+[Malicious Git repositories can execute remote code while cloning](https://news.ycombinator.com/item?id=26404830)
+[Hackers break into thousands of security cameras, exposing Tesla, jail, hospital](https://news.ycombinator.com/item?id=26405056)
 [Highly Evasive Attacker Leverages SolarWinds Supply Chain | Hacker News](https://news.ycombinator.com/item?id=25413053)
 [I Hacked into Facebook's Legal Department Admin Panel | Hacker News](https://news.ycombinator.com/item?id=25401294)
 [U.S. Treasury, Commerce Depts. Hacked Through SolarWinds Compromise | Hacker News](https://news.ycombinator.com/item?id=25419487)
@@ -33,7 +35,6 @@
 [Biggest Data Breaches of 2020 – and What Developers Should Learn From Them](https://www.freecodecamp.org/news/biggest-data-breaches-lessons-learned/)
 [SQL Injection Tutorial - What is SQL Injection and How to Prevent it](https://www.freecodecamp.org/news/what-is-sql-injection-how-to-prevent-it/)
 [30k U.S. organizations newly hacked via holes in Microsoft Exchange Server | Hacker News](https://news.ycombinator.com/item?id=26362178)
-
 
 DDoS
 [Let's Encrypt's performance is currently degraded due to a DDoS attack](https://news.ycombinator.com/item?id=26374430)

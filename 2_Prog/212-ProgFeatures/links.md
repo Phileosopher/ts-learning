@@ -1,6 +1,6 @@
 # Programming Features
-
-[Conversations with a six-year-old on functional programming | blog :: Brent -> \[String\]](https://byorgey.wordpress.com/2018/05/06/conversations-with-a-six-year-old-on-functional-programming/)
+[write libraries instead of services, where possible](https://news.ycombinator.com/item?id=26398960)
+[Conversations with a six-year-old on functional programming](https://byorgey.wordpress.com/2018/05/06/conversations-with-a-six-year-old-on-functional-programming/)
 [Comparison of programming languages - Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_programming_languages)
 [Being Popular](http://paulgraham.com/popular.html)
 [Class (computer programming) - Wikipedia](https://en.wikipedia.org/wiki/Class_(computer_programming))

@@ -1,5 +1,6 @@
 # Analysis
 
+[Excel never dies](https://news.ycombinator.com/item?id=26386419)
 [What is Data Analytics? A 30,000-Foot Intro to Key Data Analysis Concepts](https://www.freecodecamp.org/news/a-30-000-foot-introduction-to-data-analytics-and-its-foundational-components/)
 [Lightweight Alternatives to Google Analytics | Hacker News](https://news.ycombinator.com/item?id=23560823)
 [Umami: Self-hosted open-source alternative to Google Analytics | Hacker News](https://news.ycombinator.com/item?id=24198329)

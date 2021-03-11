@@ -13,3 +13,4 @@
 [Ask HN: Is all of FAANG like this? | Hacker News](https://news.ycombinator.com/item?id=23917131)
 [iiSM.org](https://iism.org/article/how-many-of-you-know-deep-down-that-the-team-is-working-on-something-that-no-customer-wants-54)
 [Why did I leave Google or, why did I stay so long? | Hacker News](https://news.ycombinator.com/item?id=26165809)
+[a year at Google Brains](https://news.ycombinator.com/item?id=26374143)

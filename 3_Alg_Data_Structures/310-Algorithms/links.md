@@ -1,5 +1,6 @@
 # Algorithms
 
+[new algorithm breaks speed limit for linear equations](https://news.ycombinator.com/item?id=26393795)
 [Minimax Algorithm Guide: How to Create an Unbeatable AI](https://www.freecodecamp.org/news/minimax-algorithm-guide-how-to-create-an-unbeatable-ai/)
 [Parsing Algorithms | Hacker News](https://news.ycombinator.com/item?id=24898210)
 [Algorithms, by Jeff Erickson | Hacker News](https://news.ycombinator.com/item?id=18805624)

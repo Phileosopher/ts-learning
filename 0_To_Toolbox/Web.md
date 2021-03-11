@@ -1,5 +1,6 @@
 # Web
 
+[whereami](https://github.com/kootenpv/whereami)
 [Screely - Generate Website Mockups](https://www.screely.com/)
 [Free Web and SEO Tools from WebNots](https://www.webnots.com/seo-tools/)
 [Show HN: Self-hosted offline Internet from your browsing history | Hacker News](https://news.ycombinator.com/item?id=25059554)
