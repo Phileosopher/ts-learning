@@ -1,5 +1,6 @@
 # Rust
 
+[speed of rust vs c](https://news.ycombinator.com/item?id=26443768)
 [Debian running on Rust coreutils](https://news.ycombinator.com/item?id=26396798)
 [why asyncronous Rust doesn't work](https://news.ycombinator.com/item?id=26406989)
 [A half-hour to learn Rust | Hacker News](https://news.ycombinator.com/item?id=25610741)

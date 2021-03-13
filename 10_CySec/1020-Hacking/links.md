@@ -1,5 +1,7 @@
 # Hacking
 
+[DVD Laser Scanner Microscope | Hacker News](https://news.ycombinator.com/item?id=26012652)
+[Turning a MacBook into a Touchscreen with $1 of Hardware · cat /var/log/life](https://www.anishathalye.com/2018/04/03/macbook-touchscreen/)
 [Malicious Git repositories can execute remote code while cloning](https://news.ycombinator.com/item?id=26404830)
 [Hackers break into thousands of security cameras, exposing Tesla, jail, hospital](https://news.ycombinator.com/item?id=26405056)
 [Highly Evasive Attacker Leverages SolarWinds Supply Chain | Hacker News](https://news.ycombinator.com/item?id=25413053)
@@ -40,6 +42,7 @@ DDoS
 [Let's Encrypt's performance is currently degraded due to a DDoS attack](https://news.ycombinator.com/item?id=26374430)
 
 Bug bounties
-  https://www.bugcrowd.com/bug-bounty-list/
-  https://www.hacker101.com/
-  https://hackerone.com/hacktivity
+[bug bounty list](https://www.bugcrowd.com/bug-bounty-list/)
+[hacker101](https://www.hacker101.com/)
+[hacktivity](https://hackerone.com/hacktivity)
+HackThisWebsite

@@ -1,5 +1,6 @@
 # Networks
 
+[Change your MAC address with a shell script · Josh Thompson](https://josh.works/shell-script-basics-change-mac-address?utm_source=tldrnewsletter)
 [Learn How Computer Networks Work with a Free 9-Hour Course](https://www.freecodecamp.org/news/free-computer-networking-course/)
 [BBS The Documentary: Episode 1 of 8: BAUD (The Beginning) - YouTube](https://www.youtube.com/watch?v=Dddbe9OuJLU)
 [Post Mortem of Google Outage on 14 December 2020 | Hacker News](https://news.ycombinator.com/item?id=25472455)

@@ -1,5 +1,6 @@
 # Virtualization
 
+[virtualbox vs hyper-v](https://www.diskinternals.com/vmfs-recovery/hyper-v-vs-virtualbox/)
 [“Let’s use Kubernetes.” Now you have eight problems | Hacker News](https://news.ycombinator.com/item?id=22491170)
 [Why is Kubernetes getting so popular? | Hacker News](https://news.ycombinator.com/item?id=23354418)
 [Container technologies at Coinbase: Why Kubernetes is not part of our stack | Hacker News](https://news.ycombinator.com/item?id=23460066)
