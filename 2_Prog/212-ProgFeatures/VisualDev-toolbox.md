@@ -1,5 +1,7 @@
-# Visual
+# Visual Dev
 
+[Show HN: Svelte NodeGUI, a lightweight Electron alternative with native UI](https://github.com/nodegui/svelte-nodegui)
+[Nodes.io – A new way to create with code](https://news.ycombinator.com/item?id=26371818) 
 [GitHub - ThasianX/ElegantTimeline-SwiftUI: Elegant demonstration of a multi-faceted timeline view with interactions between the calendar, list, and app theme.](https://github.com/ThasianX/ElegantTimeline-SwiftUI)
 [GitHub - tommyip/bootstrap-icons-vue: A Vue component library for Bootstrap icons.](https://github.com/tommyip/bootstrap-icons-vue)
 [Bootstrap · The most popular HTML, CSS, and JS library in the world.](https://getbootstrap.com/)

@@ -1,5 +1,6 @@
 # SQL-likes
 
+[what's new in SQLite 3.35](https://news.ycombinator.com/item?id=26440397)
 [What is SQL? What is a Database? Relational Database Management Systems (RDBMS) Explained in Plain English.](https://www.freecodecamp.org/news/sql-and-databases-explained-in-plain-english/)
 [GitHub - cloudquery/cloudquery: cloudquery transforms your cloud infrastructure into queryable SQL tables for easy monitoring, governance and security.](https://github.com/cloudquery/cloudquery)
 [SQLCourse - Interactive Online SQL Training for Beginners](https://www.sqlcourse.com/)

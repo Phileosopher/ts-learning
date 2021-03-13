@@ -1,6 +1,8 @@
 # Python
 
-[](https://www.freecodecamp.org/news/learn-how-to-build-12-python-projects-in-one-course/)
+[the python handbook](https://www.freecodecamp.org/news/the-python-handbook/)
+[flask framework](https://www.freecodecamp.org/news/learn-the-flask-python-web-framework-by-building-a-market-platform/)
+[12 python projects](https://www.freecodecamp.org/news/learn-how-to-build-12-python-projects-in-one-course/)
 [Algorithmic Trading with Python – Free 4-hour Course With Example Code Repos](https://www.freecodecamp.org/news/algorithmic-trading-using-python-course/)
 [How to Create a Discord Bot for Free with Python – Full Tutorial](https://www.freecodecamp.org/news/create-a-discord-bot-with-python/)
 [Learn How to Use the OpenCV Computer Vision Library](https://www.freecodecamp.org/news/opencv-full-course/)

@@ -1,5 +1,7 @@
 # Enterprise Systems
 
+[how to config linux servers](https://www.freecodecamp.org/news/linux-server-course-system-configuration-and-operation/)
+[Backblaze is now a Terraform provider](https://news.ycombinator.com/item?id=26426489)
 [56TB Zpool Upgrade | b3n.org](https://b3n.org/56tb-zpool-upgrade/)
 [Facebook Messenger, Instagram and WhatsApp Outage | Hacker News](https://news.ycombinator.com/item?id=25372309)
 [Ask HN: Is your company sticking to on-premise servers? Why? | Hacker News](https://news.ycombinator.com/item?id=23089999)

@@ -1,5 +1,6 @@
 # C
 
+[dennis ritchie's first C compiler (c.1972)](https://news.ycombinator.com/item?id=26419628)
 [Cosmopolitan Libc: build-once run-anywhere C library | Hacker News](https://news.ycombinator.com/item?id=25556286)
 [The C Beginner's Handbook: Learn C Programming Language basics in just a few hours](https://www.freecodecamp.org/news/the-c-beginners-handbook/)
 [Pointers in C Explained – They're Not as Difficult as You Think](https://www.freecodecamp.org/news/pointers-in-c-are-not-as-difficult-as-you-think/)
