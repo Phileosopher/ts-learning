@@ -1,5 +1,6 @@
 # Dist Sys/Supercomputers
 
+[why HN was down](https://news.ycombinator.com/item?id=5239673)
 [Distributed Systems Reading List | Hacker News](https://news.ycombinator.com/item?id=25327077)
 [Best Practices for Writing a Dockerfile | by Kasun Rajapakse | Dec, 2020 | Bits and Pieces](https://blog.bitsrc.io/best-practices-for-writing-a-dockerfile-68893706c3)
 [Back to the '70s with Serverless | Hacker News](https://news.ycombinator.com/item?id=25482410)

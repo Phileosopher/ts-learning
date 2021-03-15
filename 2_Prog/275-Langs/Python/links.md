@@ -1,5 +1,6 @@
 # Python
 
+[How to Build a Web App on Your Phone – Python & Pydroid Android App Tutorial](https://www.freecodecamp.org/news/how-to-code-on-your-phone-python-pydroid-android-app-tutorial/)
 [the python handbook](https://www.freecodecamp.org/news/the-python-handbook/)
 [flask framework](https://www.freecodecamp.org/news/learn-the-flask-python-web-framework-by-building-a-market-platform/)
 [12 python projects](https://www.freecodecamp.org/news/learn-how-to-build-12-python-projects-in-one-course/)

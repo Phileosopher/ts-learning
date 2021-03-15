@@ -1,6 +1,5 @@
 # Raspberry Pi - Arduino
 
-[Buy a Raspberry Pi – Raspberry Pi](https://www.raspberrypi.org/products/)
 [Best Raspberry Pi 4 starter kit – Kits That are on Top in 2019](https://www.raspberrypistarterkits.com/)
 [RPi VerifiedPeripherals - eLinux.org](https://elinux.org/RPi_VerifiedPeripherals)
 [PCI Express on the Raspberry Pi 4 | Hacker News](https://news.ycombinator.com/item?id=20399555)
