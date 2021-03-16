@@ -1,1 +1,4 @@
 [An Illustrated Guide to Useful Command Line Tools | Hacker News](https://news.ycombinator.com/item?id=21363121)
+[Java Tester - Other Testers](https://javatester.org/othertesters.html)
+[Seventh Sanctum - Welcome To The Page Of Generators!](https://www.seventhsanctum.com/gennexus.php)
+[Free Programming Libraries, Components and Source Code (thefreecountry.com)](https://www.thefreecountry.com/sourcecode/index.shtml)
