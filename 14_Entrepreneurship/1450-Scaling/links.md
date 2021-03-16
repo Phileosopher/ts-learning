@@ -1,5 +1,6 @@
 # Scaling
 
+[RethinkDB: why we failed(2017)](https://news.ycombinator.com/item?id=26443406)
 [Persisting as a solo founder | Hacker News](https://news.ycombinator.com/item?id=24251403)
 [Six Figures in 6 days | Hacker News](https://news.ycombinator.com/item?id=24637405)
 [Startup = Growth](http://paulgraham.com/growth.html)

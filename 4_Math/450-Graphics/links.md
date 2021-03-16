@@ -63,3 +63,7 @@
 [Finding Mona Lisa in the Game of Life](https://news.ycombinator.com/item?id=26384403)
 [Ray tracing in notepad.exe at 30 FPS | Hacker News](https://news.ycombinator.com/item?id=23246221)
 [donut math](https://www.a1k0n.net/2011/07/20/donut-math.html)
+
+[Reprojecting the Perseverance landing footage onto satellite imagery](https://news.ycombinator.com/item?id=26452504)
+
+- Will have many tools

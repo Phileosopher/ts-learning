@@ -9,6 +9,7 @@
 
 # Databases
 
+[Baserow.io – Self-hosted Airtable alternative](https://news.ycombinator.com/item?id=26448985)
 [cornell university database course](https://www.freecodecamp.org/news/watch-a-cornell-university-database-course-for-free/)
 [Show HN: Plotting 3 years of hourly data in 150ms | Hacker News](https://news.ycombinator.com/item?id=23045207)
 [Foundations of Databases (1995) | Hacker News](https://news.ycombinator.com/item?id=19726520)

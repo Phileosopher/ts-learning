@@ -1,5 +1,7 @@
 # Simple Cysec
 
+[Show HN: Your Social Media Fingerprint (maybe NSFW) | Hacker News](https://news.ycombinator.com/item?id=12692190)
+[security.txt](https://news.ycombinator.com/item?id=26455493)
 [UK's new internet snooping system](https://news.ycombinator.com/item?id=26430266)
 [I want a computer that I own](https://news.ycombinator.com/item?id=26393824)
 [White Pages Removal – How to Remove Your Information from Spokeo Search, WhitePages, MyLife, People Finder, and More (2020 Tutorial)](https://www.freecodecamp.org/news/white-pages-removal-remove-information-spokeo-peoplefinder-whitepages-opt-out/)

@@ -1,5 +1,6 @@
 # Git and Github
 
+[Broot – A new way to see and navigate directory trees](https://news.ycombinator.com/item?id=21998638)
 [read git code](https://www.freecodecamp.org/news/boost-programming-skills-read-git-code/)
 [GitHub Releases Dark Mode | Hacker News](https://news.ycombinator.com/item?id=25348506)
 [WSL2 corrupting Git repositories and shell history | Hacker News](https://news.ycombinator.com/item?id=25612962)

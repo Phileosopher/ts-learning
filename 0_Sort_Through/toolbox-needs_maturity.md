@@ -12,4 +12,8 @@ i.e., the site is either too new that it's barely useful, or I need to wait some
 
 [Text Blaze](https://blaze.today/)
 
-* needs more than just Chrome extension to be useful
+- needs more than just Chrome extension to be useful
+
+## Check Back 01/2022
+
+[The Mark Cuban Cost Plus Drug Company | Hacker News](https://news.ycombinator.com/item?id=25932233)
