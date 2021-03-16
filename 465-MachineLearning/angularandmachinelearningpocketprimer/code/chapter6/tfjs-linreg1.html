@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <script src="https://cdn.jsdelivr.net/npm/@tensorflow/tfjs/dist/tf.min.js"> </script>
+    <title>Hello from TensorFlowJS!</title>
+  </head>
+
+  <body>
+    <h3>Linear Regression and Some Predictions</h3>
+    <ul id="mylist"></ul>
+
+    <script>
+      async function LinearRegression(){
+        // 1) DEFINE THE MODEL:
+        const model = tf.sequential();
+
+        model.add(
+            tf.layers.dense({
+                units:1,
+                inputShape:[1],
+                bias: true
+            })
+        );
+
+        // 2) COMPILE THE MODEL:
+        // specify the loss, optimizer, and metrics:
+        model.compile({
+            loss:'meanSquaredError',
+            optimizer: 'sgd',
+            metrics: ['mse']
+        });
+
+        // 3) FIT/TRAIN THE MODEL:
+        // y = 2*x+1 (relationship between xs and ys)
+        const xs = tf.tensor1d([1,2,3,4,5,6,7,8,9,10]);
+        const ys = tf.tensor1d([3,5,7,9,11,13,15,17,19,21]);
+        await model.fit(xs, ys, {epochs:100});
+
+        // 4) MAKE SOME PREDICTIONS 
+        // 4a) PREDICT Y for X=-30:
+        var list1 = document.getElementById('mylist');
+        var item1 = document.createElement('li');
+        var pred1 = model.predict(tf.tensor1d([-30])).dataSync();
+        var data1 = document.createTextNode("Predict(-30):"+pred1);
+        item1.appendChild(data1);
+        list1.appendChild(item1);
+
+        // 4a) PREDICT Y for X=50:
+        var item2 = document.createElement('li');
+        var pred2 = model.predict(tf.tensor1d([50])).dataSync();
+        var data2 = document.createTextNode("Predict(50):"+pred2);
+        item2.appendChild(data2);
+        list1.appendChild(item2);
+
+        // 4c) PREDICT Y for X=100:
+        var item3 = document.createElement('li');
+        var pred3 = model.predict(tf.tensor1d([100])).dataSync();
+        var data3 = document.createTextNode("Predict(100):"+pred3);
+        item3.appendChild(data3);
+        list1.appendChild(item3);
+     }
+
+     LinearRegression();
+    </script>
+  </body>
+</html>
