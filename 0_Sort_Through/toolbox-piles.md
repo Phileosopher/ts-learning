@@ -1,8 +1,5 @@
 # Piles
-[ARPA2.net projects overview](http://arpa2.net/)
-[Software - GNU Project - Free Software Foundation](https://www.gnu.org/software/software.html)
 [Java Tester - Other Testers](https://javatester.org/othertesters.html)
-[An Illustrated Guide to Useful Command Line Tools | Hacker News](https://news.ycombinator.com/item?id=21363121)
 [Seventh Sanctum - Welcome To The Page Of Generators!](https://www.seventhsanctum.com/gennexus.php)
 [Seventh Sanctum - Welcome To The Page Of Generators!](https://www.seventhsanctum.com/)
 [Download Free Network Management & Free Network Monitoring Software from Solarwinds](https://www.solarwinds.com/downloads)
@@ -33,7 +30,7 @@
 [Freeware Tools and System Utilities for Windows](https://www.nirsoft.net/utils/index.html)
 [sigrok](https://sigrok.org/)
 [MSYS2](https://www.msys2.org/)
-[Category:Free file transfer software - Wikipedia](https://en.wikipedia.org/wiki/Category:Free_file_transfer_software)
+[Category:Free file transfer softwarhttps://commentpicker.com/facebook-tools.phpe - Wikipedia](https://en.wikipedia.org/wiki/Category:Free_file_transfer_software)
 [Mozilla Thunderbird - Wikipedia](https://en.wikipedia.org/wiki/Mozilla_Thunderbird)
 [Geary (e-mail client) - Wikipedia](https://en.wikipedia.org/wiki/Geary_(e-mail_client))
 [Category:Free Internet Relay Chat clients - Wikipedia](https://en.wikipedia.org/wiki/Category:Free_Internet_Relay_Chat_clients)
