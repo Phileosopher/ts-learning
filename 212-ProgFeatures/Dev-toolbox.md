@@ -1,5 +1,11 @@
 # Dev
 
+[Awfice – A collection of tiny office suite apps | Hacker News](https://news.ycombinator.com/item?id=24752546)
+
+[huginn/huginn: Create agents that monitor and act on your behalf. Your agents are standing by!](https://github.com/huginn/huginn)
+
+[Bedrock | WordPress Boilerplate | Roots](https://roots.io/bedrock/)
+[Photino](https://www.tryphotino.io)
 [Amplification](https://amplication.com/)
 [GNU Bison - Wikipedia](https://en.wikipedia.org/wiki/GNU_Bison)
 [CodeSynthesis XSD - Wikipedia](https://en.wikipedia.org/wiki/CodeSynthesis_XSD)
@@ -144,3 +150,4 @@
 [GitHub - sole/tween.js: Javascript tweening engine](https://github.com/sole/tween.js)
 [GitHub - rails/kredis: Higher-level data structures built on Redis](https://github.com/rails/kredis?utm_source=tldrnewsletter)
 [GitHub - bridgedxyz/github.surf: surf GitHub code with VS Code. (with CLI, chrome extensions)](https://github.com/bridgedxyz/github.surf?utm_source=tldrnewsletter)
+[Free Programming Libraries, Components and Source Code (thefreecountry.com)](https://www.thefreecountry.com/sourcecode/index.shtml)

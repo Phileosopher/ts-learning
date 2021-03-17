@@ -36,3 +36,5 @@
 ## Toolbox
 
 [Deskreen – Turn any device with a web browser to a second computer screen | Hacker News](https://news.ycombinator.com/item?id=25891464)
+[NetBox Documentation](https://netbox.readthedocs.io/en/stable/)
+[rConfig - Network Configuration Management!](https://www.rconfig.com/#pricing)

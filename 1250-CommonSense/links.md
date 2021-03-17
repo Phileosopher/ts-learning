@@ -1,5 +1,8 @@
 # Common Sense for CS People
 
+[Hate your tools](https://buttondown.email/hillelwayne/archive/no-seriously-hate-your-tools/)
+- The wisdom is that the tools are NOT the defining thing as much as everyone makes it out to be
+- Or, the axiom I've heard, "What worked for them doesn't necessarily work for you"
 [IT Runs on Java 8 | Hacker News](https://news.ycombinator.com/item?id=19877916)
 [Do not remain nameless to yourself (1966) | Hacker News](https://news.ycombinator.com/item?id=23808400)
 [Choose Boring Technology (2015) | Hacker News](https://news.ycombinator.com/item?id=26211721)

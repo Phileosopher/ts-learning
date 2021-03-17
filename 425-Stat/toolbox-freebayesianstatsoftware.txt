@@ -1,0 +1,8 @@
+https://en.wikipedia.org/wiki/ArviZ
+https://en.wikipedia.org/wiki/JASP
+https://en.wikipedia.org/wiki/Just_another_Gibbs_sampler
+https://en.wikipedia.org/wiki/LaplacesDemon
+https://en.wikipedia.org/wiki/MCSim
+https://en.wikipedia.org/wiki/OpenBUGS
+https://en.wikipedia.org/wiki/PyMC3
+https://en.wikipedia.org/wiki/Stan_(software)

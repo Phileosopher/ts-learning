@@ -10,3 +10,8 @@
 [Use mmap with care | Hacker News](https://news.ycombinator.com/item?id=19805675)
 [Porting Firefox to Apple Silicon | Hacker News](https://news.ycombinator.com/item?id=25848625)
 [What You Should Know Before Leaking a Zoom Meeting | Hacker News](https://news.ycombinator.com/item?id=25829748)
+
+
+## Free Software
+
+[QGIS - Wikipedia](https://en.wikipedia.org/wiki/QGIS)

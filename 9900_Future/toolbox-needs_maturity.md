@@ -14,6 +14,14 @@ i.e., the site is either too new that it's barely useful, or I need to wait some
 
 - needs more than just Chrome extension to be useful
 
+[Flow Browser](https://www.ekioh.com/flow-browser/)
+
+-   rebuilding a browser from the ground up for parallel processing
+
+[n8n.io - Free and Open Workflow Automation Tool](https://n8n.io/)
+
+- Maybe like IFTTT?
+
 ## Check Back 01/2022
 
 [The Mark Cuban Cost Plus Drug Company | Hacker News](https://news.ycombinator.com/item?id=25932233)

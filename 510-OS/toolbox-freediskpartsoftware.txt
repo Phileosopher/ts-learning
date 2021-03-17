@@ -1,0 +1,6 @@
+https://en.wikipedia.org/wiki/Fdisk
+https://en.wikipedia.org/wiki/GNOME_Disks
+https://en.wikipedia.org/wiki/GNU_Parted
+https://en.wikipedia.org/wiki/GParted
+https://en.wikipedia.org/wiki/KDE_Partition_Manager
+https://en.wikipedia.org/wiki/Ntfsresize

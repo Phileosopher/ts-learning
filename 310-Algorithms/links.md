@@ -1,5 +1,11 @@
 # Algorithms
 
+[discrete-cosine transform (DCT)](https://en.wikipedia.org/wiki/Discrete_cosine_transform)
+- different than Fourier transform in that there are no imaginary numbers
+- Allows converting a matrix of numbers (like, say, a B&W photo) into another matrix
+- the technique JPEG uses to shrink images
+[pHash](https://www.phash.org/)
+[MinHash](https://en.wikipedia.org/wiki/MinHash)
 [new algorithm breaks speed limit for linear equations](https://news.ycombinator.com/item?id=26393795)
 [Minimax Algorithm Guide: How to Create an Unbeatable AI](https://www.freecodecamp.org/news/minimax-algorithm-guide-how-to-create-an-unbeatable-ai/)
 [Parsing Algorithms | Hacker News](https://news.ycombinator.com/item?id=24898210)

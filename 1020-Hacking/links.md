@@ -1,5 +1,7 @@
 # Hacking
 
+[Wikipedia's List of security hacking incidents](https://en.wikipedia.org/wiki/List_of_security_hacking_incidents)
+[Rockstar thanks GTA Online player who fixed load times, official update coming](https://news.ycombinator.com/item?id=26469753)
 [DVD Laser Scanner Microscope | Hacker News](https://news.ycombinator.com/item?id=26012652)
 [Turning a MacBook into a Touchscreen with $1 of Hardware · cat /var/log/life](https://www.anishathalye.com/2018/04/03/macbook-touchscreen/)
 [Malicious Git repositories can execute remote code while cloning](https://news.ycombinator.com/item?id=26404830)

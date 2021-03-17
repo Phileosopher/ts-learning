@@ -1,5 +1,6 @@
 # Free Software
 
+[Portal:Free and open-source software - Wikipedia](https://en.wikipedia.org/wiki/Portal:Free_and_open-source_software)
 [What are the key differences between the GNU General Public license and the MIT License? - Quora](https://www.quora.com/What-are-the-key-differences-between-the-GNU-General-Public-license-and-the-MIT-License?share=1)
 [licensing - MIT vs GPL license - Stack Overflow](https://stackoverflow.com/questions/3902754/mit-vs-gpl-license#11752204)
 [FLOSS and FOSS - GNU Project - Free Software Foundation](https://www.gnu.org/philosophy/floss-and-foss.en.html)

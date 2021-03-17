@@ -1,0 +1,3 @@
+https://en.wikipedia.org/wiki/Gretl
+https://en.wikipedia.org/wiki/JMulTi
+https://en.wikipedia.org/wiki/X-12-ARIMA
