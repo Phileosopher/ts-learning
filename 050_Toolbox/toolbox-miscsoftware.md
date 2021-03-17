@@ -602,3 +602,5 @@ PC video game recording a capturing software for pro results
 
 [Windows 10 Manager 3.4.2](https://windows-10-manager.en.lo4d.com/windows "Windows 10 Manager 3.4.2")
 Windows operating system management utility with tweaks and repairs
+
+[Kontact](https://kontact.kde.org/)

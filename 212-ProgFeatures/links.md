@@ -1,4 +1,8 @@
 # Programming Features
+
+[Design and Code in Framer X - Design+Code](https://designcode.io/framer-x-course)
+[I reverse engineered Google Docs to play back any document's keystrokes (2014) | Hacker News](https://news.ycombinator.com/item?id=25545361)
+[Digital Tools I Wish Existed | Hacker News](https://news.ycombinator.com/item?id=25228089)
 [write libraries instead of services, where possible](https://news.ycombinator.com/item?id=26398960)
 [Conversations with a six-year-old on functional programming](https://byorgey.wordpress.com/2018/05/06/conversations-with-a-six-year-old-on-functional-programming/)
 [Comparison of programming languages - Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_programming_languages)

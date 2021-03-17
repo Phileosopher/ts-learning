@@ -1,0 +1,11 @@
+https://www.nirsoft.net/utils/search_my_files.html
+https://www.nirsoft.net/utils/drive_letter_view.html
+https://www.nirsoft.net/utils/disk_counters_view.html
+https://www.nirsoft.net/utils/app_read_write_counter.html
+https://www.nirsoft.net/utils/file_activity_watch.html
+https://www.nirsoft.net/utils/file_access_error_view.html
+https://www.nirsoft.net/utils/disk_smart_view.html
+https://www.nirsoft.net/utils/alternate_data_streams.html
+https://www.nirsoft.net/utils/alternate_stream_dump.html
+https://www.nirsoft.net/utils/ntfs_links_view.html
+https://www.nirsoft.net/utils/folrep.html

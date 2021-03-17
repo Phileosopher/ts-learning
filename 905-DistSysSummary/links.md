@@ -1,5 +1,6 @@
 # Dist Sys/Supercomputers
 
+[we don't use Docker](https://news.ycombinator.com/item?id=26472452)
 [why HN was down](https://news.ycombinator.com/item?id=5239673)
 [Distributed Systems Reading List | Hacker News](https://news.ycombinator.com/item?id=25327077)
 [Best Practices for Writing a Dockerfile | by Kasun Rajapakse | Dec, 2020 | Bits and Pieces](https://blog.bitsrc.io/best-practices-for-writing-a-dockerfile-68893706c3)
@@ -33,3 +34,23 @@
 [Help users in Iran reconnect to Signal | Hacker News](https://news.ycombinator.com/item?id=26026994)
 [Screenflow: an unfinished attempt at a cross-platform server-driven UI at Uber | by Artem Tyurin | Feb, 2021 | Medium](https://artem-tyurin.medium.com/screenflow-an-unfinished-attempt-at-a-cross-platform-server-driven-ui-at-uber-749c1bc1d89)
 [Google Cloud vs. AWS Onboarding Comparison | Hacker News](https://news.ycombinator.com/item?id=26252010)
+
+## Toolbox
+
+Clarify P2P alternatives to things
+  P2P banking
+  P2P file sharing
+  P2P Cloud storage
+  P2P web hosting
+
+[pexec - Wikipedia](https://en.wikipedia.org/wiki/Pexec)
+[OpenLava - Wikipedia](https://en.wikipedia.org/wiki/OpenLava)
+[HTCondor - Wikipedia](https://en.wikipedia.org/wiki/HTCondor)
+
+[Remmina - Wikipedia](https://en.wikipedia.org/wiki/Remmina)
+[UltraVNC - Wikipedia](https://en.wikipedia.org/wiki/UltraVNC)
+[TightVNC - Wikipedia](https://en.wikipedia.org/wiki/TightVNC)
+[RealVNC - Wikipedia](https://en.wikipedia.org/wiki/RealVNC)
+[Virtual Network Computing - Wikipedia](https://en.wikipedia.org/wiki/Virtual_Network_Computing)
+[Synergy (software) - Wikipedia](https://en.wikipedia.org/wiki/Synergy_(software))
+[rdesktop - Wikipedia](https://en.wikipedia.org/wiki/Rdesktop)

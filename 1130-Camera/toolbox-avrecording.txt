@@ -1,0 +1,7 @@
+https://www.nirsoft.net/utils/video_cache_view.html
+https://www.nirsoft.net/utils/rtmp_dump_helper.html
+https://www.nirsoft.net/utils/sound_volume_view.html
+https://www.nirsoft.net/utils/app_audio_config.html
+https://www.nirsoft.net/utils/volumouse.html
+https://www.nirsoft.net/utils/installed_codec.html
+https://www.nirsoft.net/utils/web_video_capture.html

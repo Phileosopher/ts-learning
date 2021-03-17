@@ -1,5 +1,17 @@
 # Visual Dev
 
+[My Favorite Chrome Dev Tools Tips and Tricks](https://www.freecodecamp.org/news/awesome-chrome-dev-tools-tips-and-tricks/)
+[Meta Tags — Preview, Edit and Generate](https://metatags.io/)
+[Changelog](https://www.changelog.site/)
+[Material Design for Bootstrap 5 & 4 - Material Design for Bootstrap](https://mdbootstrap.com/)
+[React Simple Maps | React Simple Maps](https://www.react-simple-maps.io/)
+[MVP.css - Minimalist stylesheet for HTML elements](https://andybrewer.github.io/mvp/)
+[V8 JavaScript engine](https://v8.dev/)
+[A Web Developer's Browser | Responsively App](https://responsively.app/)
+[TACHYONS - Css Toolkit](https://tachyons.io/)
+[Build a full site in Webflow - Design+Code](https://designcode.io/webflow-course)
+[H5P – Create and Share Rich HTML5 Content and Applications](https://h5p.org/)
+[Vite](https://vitejs.dev)
 [Show HN: Svelte NodeGUI, a lightweight Electron alternative with native UI](https://github.com/nodegui/svelte-nodegui)
 [Nodes.io – A new way to create with code](https://news.ycombinator.com/item?id=26371818) 
 [GitHub - ThasianX/ElegantTimeline-SwiftUI: Elegant demonstration of a multi-faceted timeline view with interactions between the calendar, list, and app theme.](https://github.com/ThasianX/ElegantTimeline-SwiftUI)
@@ -18,14 +30,14 @@
 [ARLOOPA - augmented and virtual reality app](https://app.arloopa.com/?utm_source=tldrnewsletter)
 [XAMPP Installers and Downloads for Apache Friends](https://www.apachefriends.org/index.html)
 
-## [](https://dev.to/simonholdorf/9-popular-github-repos-for-every-web-developer-31ej#realworld)Realworld
+## Realworld
 
 The first repository in this list is [Realworld](https://github.com/gothinkster/realworld). Its creators call it nothing less than “The Mother of all Demo Apps.” A bold statement, for sure, but I don’t think it’s an exaggeration.
 Realworld is an exemplary Medium.com clone. But not only that. The repository lets you choose between different front end and back end implementations, which you can happily mix.  
 Vue.js + Node/Express or React /Redux + Rust? They got it!
 Realworld shows you how the exact same blog app is built on almost any popular language or framework. How awesome is that?
 
-## [](https://dev.to/simonholdorf/9-popular-github-repos-for-every-web-developer-31ej#you-dont-know-js-yet)You Don’t Know JS Yet
+## You Don’t Know JS Yet
 
 This [repository](https://github.com/getify/You-Dont-Know-JS) is a popular book series by Kyle Simpson who is widely known under his alias, Getify. The books dive deep into the mechanics of JavaScript and cover the following topics:
 
@@ -38,7 +50,7 @@ This [repository](https://github.com/getify/You-Dont-Know-JS) is a popular book 
 
 The best thing? It’s completely free to read! It’s definitely one of the best series about JavaScript and it really helped me to understand what JS is really about. Even if you think you know JavaScript well — read the books! You will be surprised, I promise.
 
-## [](https://dev.to/simonholdorf/9-popular-github-repos-for-every-web-developer-31ej#airbnb-javascript-style-guide)Airbnb JavaScript Style Guide
+## Airbnb JavaScript Style Guide
 
 *A mostly reasonable approach to JavaScript.*
 
@@ -49,7 +61,7 @@ Here is an example from the docs regarding the use of const instead of var:
 
 ---
 
-## [](https://dev.to/simonholdorf/9-popular-github-repos-for-every-web-developer-31ej#storybook)Storybook
+## Storybook
 
 [Storybook](https://github.com/storybookjs/storybook) is a development environment for UI components. It allows you to browse a component library, view the different states of each component, and interactively develop and test components. It supports React, Vue, Angular, React Native, Ember, Web Components, and more!
 
@@ -58,7 +70,7 @@ You can find some great examples [here](https://storybook.js.org/docs/examples/)
 
 ---
 
-## [](https://dev.to/simonholdorf/9-popular-github-repos-for-every-web-developer-31ej#html5-boilerplate)HTML5 Boilerplate
+## HTML5 Boilerplate
 
 [HTML5 Boilerplate](https://github.com/h5bp/html5-boilerplate) is a professional, and one of the most popular, front-end templates around the web. It helps you build fast, robust, and adaptable websites or apps. Companies like Microsoft, NASA, and Nike use it.
 
@@ -74,7 +86,7 @@ Here are some of the key features:
 
 ---
 
-## [](https://dev.to/simonholdorf/9-popular-github-repos-for-every-web-developer-31ej#nodejs-best-practices)Node.js Best Practices
+## Node.js Best Practices
 
 This [repository](https://github.com/goldbergyoni/nodebestpractices) is a comprehensive collection of various best practices regarding Node.js development. It currently consists of more than 80 best practices, style guides, and architectural tips.
 
@@ -92,7 +104,7 @@ It definitely is a great repo and source of information. If you are into Node.js
 
 ---
 
-## [](https://dev.to/simonholdorf/9-popular-github-repos-for-every-web-developer-31ej#frontend-checklist)Front-End Checklist
+## Front-End Checklist
 
 Have you ever asked yourself what you need to have or test in your web application before launching it? [The Front-End Checklist repository](https://github.com/thedaviddias/Front-End-Checklist) has you covered!
 
@@ -115,7 +127,7 @@ Here’s an example for the Apple Web App MetaData:
 
 ---
 
-## [](https://dev.to/simonholdorf/9-popular-github-repos-for-every-web-developer-31ej#nwjs)NW.js
+## NW.js
 
 [NW.js](https://github.com/nwjs/nw.js) is an app runtime based on Chromium and node.js. You can write native apps in HTML and JavaScript with NW.js. It also lets you call Node.js modules directly from the DOM and enables a new way of writing native applications with all Web technologies.
 
@@ -128,7 +140,7 @@ Here are some of the key features:
 *   Available on Linux, Mac OS X, and Windows.
 
 ---
-## [](https://dev.to/simonholdorf/9-popular-github-repos-for-every-web-developer-31ej#fullpagejs)fullPage.js
+## fullPage.js
 
 [fullPage.js](https://alvarotrigo.com/fullPage/#examples) by Alvaro Trigo is a simple and easy-to-use library that lets you create SPA (Single Page Applications) and landscape sliders. It’s available for Vue, React and Angular and is fully responsive for mobile devices.
 
@@ -136,3 +148,6 @@ You can find some great examples [here](https://alvarotrigo.com/fullPage/#exampl
 
 The library is free to use in open source projects. However, if you want to use it in a commercial environment you have to buy a license.  
 It looks really cool so check it out!
+
+
+[krishdevdb/reseter.css: Reseter.css - A Futuristic CSS Reset/Normalizer](https://github.com/krishdevdb/reseter.css)

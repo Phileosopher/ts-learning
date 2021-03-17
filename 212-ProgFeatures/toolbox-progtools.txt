@@ -1,0 +1,5 @@
+https://www.nirsoft.net/utils/dll_export_viewer.html
+https://www.nirsoft.net/utils/gdi_handles.html
+https://www.nirsoft.net/utils/heap_memory_view.html
+https://www.nirsoft.net/utils/device_io_view.html
+https://www.nirsoft.net/utils/simple_program_debugger.html

@@ -1,5 +1,6 @@
 # Unix-Likes
 
+[Linux Productivity Tools (2019) \[pdf\] | Hacker News](https://news.ycombinator.com/item?id=23229241)
 [CentOS Project shifts focus to CentOS Stream | Hacker News](https://news.ycombinator.com/item?id=25345428)
 [Rocky Linux: A CentOS replacement by the CentOS founder | Hacker News](https://news.ycombinator.com/item?id=25445725)
 [New Linux port for the Nintendo 64 | Hacker News](https://news.ycombinator.com/item?id=25539319)

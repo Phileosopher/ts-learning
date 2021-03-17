@@ -9,3 +9,4 @@ https://www.scadacore.com/tools/modbus-tools/
 https://www.scadacore.com/tools/rf-path/rf-line-of-sight/
 https://www.scadacore.com/tools/rf-path/cell-tower-map-united-states/
 https://www.scadacore.com/tools/rf-path/cell-tower-map-canada/
+https://sigrok.org/

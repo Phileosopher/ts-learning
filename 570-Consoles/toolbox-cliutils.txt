@@ -1,0 +1,11 @@
+https://www.nirsoft.net/utils/nircmd.html
+https://www.nirsoft.net/utils/get_nir_command_line_tool.html
+https://www.nirsoft.net/utils/wireless_net_console.html
+https://www.nirsoft.net/utils/bluetoothcl.html
+https://www.nirsoft.net/utils/registry_file_offline_export.html
+https://www.nirsoft.net/utils/run_from_process.html
+https://www.nirsoft.net/utils/atnow.html
+https://www.nirsoft.net/utils/whosip.html
+https://www.nirsoft.net/utils/whoiscl.html
+https://www.nirsoft.net/dot_net_tools/strong_name_remove.html
+https://www.nirsoft.net/utils/dump_edid.html

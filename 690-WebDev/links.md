@@ -1,5 +1,8 @@
 # Deploying
 
+[The web is 30 years old today | Hacker News](https://news.ycombinator.com/item?id=25485651)
+[State Partitioning | Hacker News](https://news.ycombinator.com/item?id=26248595)
+[How to Build a Website in 2021: Complete Step-by-Step Guide](https://www.websiteplanet.com/)
 [webmention.io](https://news.ycombinator.com/item?id=26401955)
 [emoji email domain](https://news.ycombinator.com/item?id=26422799)
 [Thanks HN - Lessons learned after Google nearly kille dmy website](https://news.ycombinator.com/item?id=26357033)
@@ -11,7 +14,7 @@
 [JAMstack Tutorial – How to Build Fast, Secure Websites – a Free 4-hour course](https://www.freecodecamp.org/news/jamstack-full-course/)
 [Create a full-stack website with Strapi and GatsbyJS](https://www.freecodecamp.org/news/create-a-full-stack-website-with-strapi-and-gatsbyjs/)
 [Jekyll • Simple, blog-aware, static sites | Transform your plain text into static websites and blogs](https://jekyllrb.com/)
-[List of Internet top-level domains - Wikipedia](https://en.wikipedia.org/wiki/List_of_Internet_top-level_domains)
+[List of Internet top-level do[Firefox Was Always Enough | Hacker News](https://news.ycombinator.com/item?id=25443152)mains - Wikipedia](https://en.wikipedia.org/wiki/List_of_Internet_top-level_domains)
 [How to Put a Website Online – Template, Hosting, Custom Domain + Email, and Website Creation Guide](https://www.freecodecamp.org/news/how-to-put-a-website-online-guide-to-website-creation-custom-domain-and-hosting/)
 [GitHub - microsoft/Web-Dev-For-Beginners: 24 Lessons, 12 Weeks, Get Started as a Web Developer](https://github.com/microsoft/Web-Dev-For-Beginners)
 [API pagination design | Hacker News](https://news.ycombinator.com/item?id=25547716)
@@ -48,3 +51,7 @@
 [Tailwind CSS tutorial: learn how to build websites using a utility-first CSS framework - Themesberg Blog](https://themesberg.com/blog/tailwind-css/tutorial)
 [TeaVM](http://teavm.org/)
 [FFMPEG from Zero to Hero](https://news.ycombinator.com/item?id=26370704)
+
+## Browsers
+
+[Firefox Was Always Enough | Hacker News](https://news.ycombinator.com/item?id=25443152)

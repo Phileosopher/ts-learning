@@ -10,3 +10,4 @@
 [I Just Hit $100k/year On GitHub Sponsors | Hacker News](https://news.ycombinator.com/item?id=23613719)
 [How I Collected a Debt from an Unscrupulous Merchant | Hacker News](https://news.ycombinator.com/item?id=25320941)
 [Here's How I Bootstrapped a SaaS to 10k MRR - Bannerbear](https://www.bannerbear.com/journey-to-10k-mrr/)
+[Resources for chief technology officers, with the emphasis on startups | Hacker News](https://news.ycombinator.com/item?id=26284750)

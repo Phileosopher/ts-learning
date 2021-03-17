@@ -8,6 +8,8 @@
 [The MIT License, Line by Line | Hacker News](https://news.ycombinator.com/item?id=25979584)
 [Get Involved | LibreOffice - Free Office Suite - Based on OpenOffice - Compatible with Microsoft](https://www.libreoffice.org/community/get-involved/?pk_campaign=hub)
 
+https://wiki.gnome.org/Apps
+https://wiki.gnome.org/Projects
 ## Nonprofits
 
 [Donate Unrestricted](http://paulgraham.com/donate.html)

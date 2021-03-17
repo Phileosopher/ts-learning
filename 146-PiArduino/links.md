@@ -10,3 +10,4 @@
 [Show HN: TinyPilot – Build a KVM over IP using a Raspberry Pi | Hacker News](https://news.ycombinator.com/item?id=23927380)
 [Raspberry Pi as a local server for self hosting applications](https://cri.dev/posts/2020-09-12-Raspberry-Pi-as-a-local-server-for-self-hosting-applications/)
 [I bought 200 Raspberry Pi Model B’s and I’m going to fix them | Hacker News](https://news.ycombinator.com/item?id=25885348)
+[Wasmino = WASM + Arduino (Running Arduino code in browser) – Yifan Gu's Blog](https://blog.yifangu.com/2020/12/30/wasmino-wasm-arduino-running-arduino-code-in-browser/)

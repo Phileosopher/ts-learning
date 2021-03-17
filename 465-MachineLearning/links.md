@@ -1,5 +1,10 @@
 # ML
 
+[GitHub - google/tf-quant-finance: High-performance TensorFlow library for quantitative finance.](https://github.com/google/tf-quant-finance)
+[puddingcool](https://pudding.cool/)
+
+- Has some interesting reads, worth reading recreationally once I understand machine learning
+
 [Geoff Hinton Coursera Neural Networks (YouTube)](https://www.youtube.com/playlist?list=PLoRl3Ht4JOcdU872GhiYWf6jwrk_SNhz9)
 [MIT's Introduction to Deep Learning: A Free Online Course | Open Culture](https://www.openculture.com/2020/12/mits-introduction-to-deep-learning-a-free-online-course.html)
 [The Turing Test is obsolete. AI needs a new benchmark](https://www.fastcompany.com/90590042/turing-test-obsolete-ai-benchmark-amazon-alexa)
@@ -75,3 +80,4 @@
 [GitHub - ebhy/budgetml: Deploy a ML inference service on a budget in less than 10 lines of code.](https://github.com/ebhy/budgetml)
 [jalammar/ecco: Visualize and explore NLP language models. Ecco creates interactive visualizations directly in Jupyter notebooks explaining the behavior of Transformer-based language models (like GPT2).](https://github.com/jalammar/ecco)
 [microsoft/hummingbird: Hummingbird compiles trained ML models into tensor computation for faster inference.](https://github.com/Microsoft/hummingbird)
+[GitHub - adamerose/PandasGUI: A GUI for Pandas DataFrames](https://github.com/adamerose/pandasgui)

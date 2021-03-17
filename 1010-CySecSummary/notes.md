@@ -1,3 +1,6 @@
+NOTE: when making any purchase online, MAKE ABSOLUTELY SURE that you're seeing the "lock" symbol in the top left
+  (must research what that actually means, I'm presuming a certified certificate)
+
 https://thebestvpn.com - consider all the VPNs available and a plan on how to do it
   A could cycle through all the free VPNs
   B could be using THE best

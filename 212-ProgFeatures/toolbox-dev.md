@@ -1,6 +1,10 @@
 # Dev
 
+[ASP.NET | Open-source web framework for .NET](https://dotnet.microsoft.com/apps/aspnet)
+[Developer and Power Users Tool List for Windows | Hacker News](https://news.ycombinator.com/item?id=25534258)
 [Awfice – A collection of tiny office suite apps | Hacker News](https://news.ycombinator.com/item?id=24752546)
+[MIT Hacker Tools: a lecture series on programmer tools | Hacker News](https://news.ycombinator.com/item?id=19078281)
+[Ask HN: What overlooked class of tools should a self-taught programmer look into | Hacker News](https://news.ycombinator.com/item?id=19900955)
 
 [huginn/huginn: Create agents that monitor and act on your behalf. Your agents are standing by!](https://github.com/huginn/huginn)
 
