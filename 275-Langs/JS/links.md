@@ -1,5 +1,6 @@
 # JS
 
+[user auth in node.js](https://www.freecodecamp.org/news/learn-to-implement-user-authentication-in-node-apps-using-passport-js/)
 [Show HN: This website is valid JSON | Hacker News](https://news.ycombinator.com/item?id=25352385)
 [10 JavaScript Hacks Every Web Developer Should Know](https://www.freecodecamp.org/news/javascript-hacks/)
 [JavaScript Performance in the Wild 2020 | CatchJS](https://catchjs.com/Blog/PerformanceInTheWild)

@@ -1,5 +1,7 @@
 # Git and Github
 
+[What is Git?](https://www.freecodecamp.org/news/what-is-git-learn-git-version-control/)
+[git in 16 minutes](https://vickyikechukwu.hashnode.dev/introduction-to-git-in-16-minutes)
 [Broot – A new way to see and navigate directory trees](https://news.ycombinator.com/item?id=21998638)
 [read git code](https://www.freecodecamp.org/news/boost-programming-skills-read-git-code/)
 [GitHub Releases Dark Mode | Hacker News](https://news.ycombinator.com/item?id=25348506)

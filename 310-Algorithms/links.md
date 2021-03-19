@@ -1,5 +1,6 @@
 # Algorithms
 
+[alg/data structures course](https://www.freecodecamp.org/news/algorithms-and-data-structures-free-treehouse-course/)
 [discrete-cosine transform (DCT)](https://en.wikipedia.org/wiki/Discrete_cosine_transform)
 - different than Fourier transform in that there are no imaginary numbers
 - Allows converting a matrix of numbers (like, say, a B&W photo) into another matrix

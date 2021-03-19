@@ -1,5 +1,6 @@
 # Simple Cysec
 
+[interview with CEO of rsync.net: no firewalls and no routers"](https://news.ycombinator.com/item?id=26504287)
 [Show HN: Your Social Media Fingerprint (maybe NSFW) | Hacker News](https://news.ycombinator.com/item?id=12692190)
 [security.txt](https://news.ycombinator.com/item?id=26455493)
 [I want a computer that I own](https://news.ycombinator.com/item?id=26393824)

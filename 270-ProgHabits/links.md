@@ -1,5 +1,8 @@
 # Programming Habits
 
+[modularize automation code](https://medium.com/swlh/why-you-should-modularise-your-automation-code-7703c45fdbe8)
+[you don't always need to follow best practices](https://dev-tester.com/you-dont-always-need-to-follow-best-practices/)
+[coding on linux](https://opensource.com/article/21/2/linux-programming)
 [Software Architecture Is Overrated, Clear and Simple Design Is Underrated](https://news.ycombinator.com/item?id=21001676)
 [COnSUME LESS CREATE MORE](https://news.ycombinator.com/item?id=20781463)
 [Show HN: A Senior Engineer's CheckList](https://news.ycombinator.com/item?id=20914236)

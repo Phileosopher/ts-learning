@@ -1,5 +1,6 @@
 # Enterprise Systems
 
+[RCE in Google Cloud](https://www.ezequiel.tech/2020/05/rce-in-cloud-dm.html)
 [how to config linux servers](https://www.freecodecamp.org/news/linux-server-course-system-configuration-and-operation/)
 [Backblaze is now a Terraform provider](https://news.ycombinator.com/item?id=26426489)
 [56TB Zpool Upgrade | b3n.org](https://b3n.org/56tb-zpool-upgrade/)

@@ -13,3 +13,4 @@ https://wiki.gnome.org/Projects
 ## Nonprofits
 
 [Donate Unrestricted](http://paulgraham.com/donate.html)
+https://www.freecodecamp.org/news/quincy-larson-interview-changelog-podcast/

@@ -1,5 +1,6 @@
 # Software Redesign
 
+[alternatives to manual testing](https://www.linkedin.com/pulse/alternatives-manual-testing-michael-bolton)
 [What is a Software Post-Mortem and How Do You Write One?](https://www.freecodecamp.org/news/what-is-a-software-post-mortem/)
 [GitHub - abhivaikar/howtheytest: A collection of public resources about how software companies test their software](https://github.com/abhivaikar/howtheytest)
 [GitHub - intuit/karate: Test Automation Made Simple](https://github.com/intuit/karate)
