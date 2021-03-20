@@ -11,3 +11,4 @@
 [Renaming files with mv without typing the name two times | Hacker News](https://news.ycombinator.com/item?id=22859935)
 [CLI Guidelines – A guide to help you write better command-line programs | Hacker News](https://news.ycombinator.com/item?id=25304257)
 [Kitty – A fast, featureful, GPU based terminal emulator | Hacker News](https://news.ycombinator.com/item?id=24643008)
+[Show HN: Editly – Declarative command-line video editing | Hacker News](https://news.ycombinator.com/item?id=23006794)

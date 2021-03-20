@@ -1,5 +1,6 @@
 # Python
 
+[Comprehensive Python Cheatsheet (2018) | Hacker News](https://news.ycombinator.com/item?id=19075325)
 [How to Build a Web App on Your Phone – Python & Pydroid Android App Tutorial](https://www.freecodecamp.org/news/how-to-code-on-your-phone-python-pydroid-android-app-tutorial/)
 [the python handbook](https://www.freecodecamp.org/news/the-python-handbook/)
 [flask framework](https://www.freecodecamp.org/news/learn-the-flask-python-web-framework-by-building-a-market-platform/)

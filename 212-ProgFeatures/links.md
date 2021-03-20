@@ -20,3 +20,4 @@
 [Thorsten Ball - Learn more programming languages, even if you won't use them](https://thorstenball.com/blog/2019/04/09/learn-more-programming-languages/)
 [Comparing the Same Project in Rust, Haskell, C++, Python, Scala and OCaml | Hacker News](https://news.ycombinator.com/item?id=20192645)
 [Beating the Averages](http://paulgraham.com/avg.html)
+[“User Engagement” Is Code for “Addiction” | Hacker News](https://news.ycombinator.com/item?id=26153331)

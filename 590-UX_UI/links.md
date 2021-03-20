@@ -1,5 +1,6 @@
 # UX/UI
 
+[Show HN: Nightmare – Simple browser automation | Hacker News](https://news.ycombinator.com/item?id=8416693)
 [UI Design, I swear](https://news.ycombinator.com/item?id=26381768)
 [Fantasy UI | Hacker News](https://news.ycombinator.com/item?id=25525290)
 [How we Build a Design System | Bits and Pieces](https://blog.bitsrc.io/how-we-build-our-design-system-15713a1f1833)

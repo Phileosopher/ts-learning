@@ -1,8 +1,5 @@
 # Sort 4
 
-[https://news.ycombinator.com/item?id=16442888](https://news.ycombinator.com/item?id=16442888)
-[https://news.ycombinator.com/item?id=15017126](https://news.ycombinator.com/item?id=15017126)
-[https://news.ycombinator.com/item?id=10004678](https://news.ycombinator.com/item?id=10004678)
 [Hacker News](https://news.ycombinator.com/item?id=9531265)
 [Hacker News](https://news.ycombinator.com/item?id=10477721)
 [Hacker News](https://news.ycombinator.com/item?id=12958445)

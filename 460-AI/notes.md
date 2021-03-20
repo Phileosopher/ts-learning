@@ -55,3 +55,7 @@ Python Roadmap
   This course is part of our new Artificial Intelligence Professional Program.
   Questions? Contact us at any time at 650-204-3984 or scpd-ai-proed@stanford.edu. 
   STANFORD COURSE
+
+[What I learned from looking at every AI/ML tool I could find | Hacker News](https://news.ycombinator.com/item?id=23620757)
+[Hacker's Guide to Numerical Analysis | Hacker News](https://news.ycombinator.com/item?id=26516081)
+[Show HN: I'm a 14 year-old dev who has programmed an artificial intelligence bot | Hacker News](https://news.ycombinator.com/item?id=9386004)

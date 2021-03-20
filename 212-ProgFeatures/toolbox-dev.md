@@ -155,3 +155,9 @@
 [GitHub - rails/kredis: Higher-level data structures built on Redis](https://github.com/rails/kredis?utm_source=tldrnewsletter)
 [GitHub - bridgedxyz/github.surf: surf GitHub code with VS Code. (with CLI, chrome extensions)](https://github.com/bridgedxyz/github.surf?utm_source=tldrnewsletter)
 [Free Programming Libraries, Components and Source Code (thefreecountry.com)](https://www.thefreecountry.com/sourcecode/index.shtml)
+[Netlify Dev](https://news.ycombinator.com/item?id=19615546)
+
+[Launch HN: Fly.io (YC W20) – Deploy app servers close to your users](https://news.ycombinator.com/item?id=22616857)
+[Devops/Sysadmin Cheatsheet | Hacker News](https://news.ycombinator.com/item?id=5043231)
+[Show HN: Python package to collect normalized news from almost any website | Hacker News](https://news.ycombinator.com/item?id=23255732)
+[ClickHouse as an alternative to Elasticsearch for log storage and analysis | Hacker News](https://news.ycombinator.com/item?id=26316401)

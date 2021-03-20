@@ -33,3 +33,4 @@
 [Many small queries are efficient in SQLite | Hacker News](https://news.ycombinator.com/item?id=26151302)
 [dolthub/dolt: Dolt – It's Git for Data](https://github.com/dolthub/dolt?utm_source=tldrnewsletter)
 
+[Falcon is a free, open-source SQL editor with inline data visualization | Hacker News](https://news.ycombinator.com/item?id=22883429)

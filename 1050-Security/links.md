@@ -12,3 +12,5 @@
 [Pirate Bay founder thinks Parler’s inability to stay online is 'embarrassing' | Hacker News](https://news.ycombinator.com/item?id=25769730)
 [Website Fingerprinting on Early QUIC Traffic | Hacker News](https://news.ycombinator.com/item?id=25969886)
 [GitHub - sdushantha/wifi-password: Quickly fetch your WiFi password and if needed, generate a QR code of your WiFi to allow phones to easily connect](https://github.com/sdushantha/wifi-password)
+[Age: A simple, modern and secure file encryption tool | Hacker News](https://news.ycombinator.com/item?id=21895671)
+[Vault – A tool for managing secrets | Hacker News](https://news.ycombinator.com/item?id=9453754)

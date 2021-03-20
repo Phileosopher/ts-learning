@@ -1,5 +1,14 @@
 # Visual Dev
 
+[Show HN: A visual guide to the most popular CSS properties | Hacker News](https://news.ycombinator.com/item?id=13031492)
+[How to Map Mouse Position in CSS | CSS-Tricks](https://css-tricks.com/how-to-map-mouse-position-in-css/?utm_source=tldrnewsletter)
+[Show HN: I built an online image editor using WebGL and CSS transforms | Hacker News](https://news.ycombinator.com/item?id=20982161)
+[Show HN: Gutenberg – Modern CSS framework to print the web correctly | Hacker News](https://news.ycombinator.com/item?id=13763469)
+[Show HN: Building terminal dashboards using ASCII/ANSI art and JavaScript | Hacker News](https://news.ycombinator.com/item?id=8888089)
+[Show HN: A flask app to make dashboards, easily | Hacker News](https://news.ycombinator.com/item?id=12466625)
+[Favicon Cheatsheet | Hacker News](https://news.ycombinator.com/item?id=6315664)
+[FlexBox Cheatsheet | Hacker News](https://news.ycombinator.com/item?id=14483429)
+[Introducing Lottie: Airbnb's tool for adding animations to native apps | Hacker News](https://news.ycombinator.com/item?id=13543927)
 [Charts.css](https://news.ycombinator.com/item?id=26494819)
 [My Favorite Chrome Dev Tools Tips and Tricks](https://www.freecodecamp.org/news/awesome-chrome-dev-tools-tips-and-tricks/)
 [Meta Tags — Preview, Edit and Generate](https://metatags.io/)
@@ -31,15 +40,8 @@
 [ARLOOPA - augmented and virtual reality app](https://app.arloopa.com/?utm_source=tldrnewsletter)
 [XAMPP Installers and Downloads for Apache Friends](https://www.apachefriends.org/index.html)
 
-## Realworld
-
-The first repository in this list is [Realworld](https://github.com/gothinkster/realworld). Its creators call it nothing less than “The Mother of all Demo Apps.” A bold statement, for sure, but I don’t think it’s an exaggeration.
-Realworld is an exemplary Medium.com clone. But not only that. The repository lets you choose between different front end and back end implementations, which you can happily mix.  
-Vue.js + Node/Express or React /Redux + Rust? They got it!
-Realworld shows you how the exact same blog app is built on almost any popular language or framework. How awesome is that?
-
-## You Don’t Know JS Yet
-
+The first repository in this list is [Realworld](https://github.com/gothinkster/realworld). Its creators call it nothing less than “The Mother of all Demo Apps.” A bold statement, for sure, but I don’t think it’s an exaggeration. Realworld is an exemplary Medium.com clone. But not only that. The repository lets you choose between different front end and back end implementations, which you can happily mix. Vue.js + Node/Express or React /Redux + Rust? They got it! Realworld shows you how the exact same blog app is built on almost any popular language or framework. How awesome is that?
+---
 This [repository](https://github.com/getify/You-Dont-Know-JS) is a popular book series by Kyle Simpson who is widely known under his alias, Getify. The books dive deep into the mechanics of JavaScript and cover the following topics:
 
 *   Get Started
@@ -85,8 +87,6 @@ Here are some of the key features:
 *   Default print styles, performance-optimized.
 *   An optimized version of the Google Universal Analytics snippet.
 
----
-
 ## Node.js Best Practices
 
 This [repository](https://github.com/goldbergyoni/nodebestpractices) is a comprehensive collection of various best practices regarding Node.js development. It currently consists of more than 80 best practices, style guides, and architectural tips.
@@ -102,13 +102,9 @@ You can find information about:
 *   Performance Practices
 
 It definitely is a great repo and source of information. If you are into Node.js development, check this one out!
-
----
-
 ## Front-End Checklist
 
 Have you ever asked yourself what you need to have or test in your web application before launching it? [The Front-End Checklist repository](https://github.com/thedaviddias/Front-End-Checklist) has you covered!
-
 Many of the items listed are mandatory for the majority of projects and organized as follows:
 
 *   Head

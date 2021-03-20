@@ -1,5 +1,9 @@
 # Business Ideas
 
+[Show HN: Profit Hunt - Get inspired by profitable online projects | Hacker News](https://news.ycombinator.com/item?id=22441289)
+[My Show HN Project got acquired after 6 months | Hacker News](https://news.ycombinator.com/item?id=21692165)
+[Show HN: Incorporate your startup online with YC's forms (built by two lawyers) | Hacker News](https://news.ycombinator.com/item?id=5357618)
+[If I Launched a Startup - Cheat Sheet | Hacker News](https://news.ycombinator.com/item?id=2925222)
 [Ask HN: What are you surprised isn’t being worked on more? | Hacker News](https://news.ycombinator.com/item?id=25559571)
 [YC Startup School for future founders who aren't quite ready to start yet | Hacker News](https://news.ycombinator.com/item?id=24944460)
 [Startup School - The Best Resource for Founders](https://www.startupschool.org/)

@@ -10,7 +10,9 @@
 [Use mmap with care | Hacker News](https://news.ycombinator.com/item?id=19805675)
 [Porting Firefox to Apple Silicon | Hacker News](https://news.ycombinator.com/item?id=25848625)
 [What You Should Know Before Leaking a Zoom Meeting | Hacker News](https://news.ycombinator.com/item?id=25829748)
-
+[Google Maps' Moat Is Evaporating | Hacker News](https://news.ycombinator.com/item?id=25568335)
+[Show HN: Give 7B people an instant physical address | Hacker News](https://news.ycombinator.com/item?id=12260958)
+[Meshtastic: Open-source, off-grid, hiking, climbing, GPS mesh communicator | Hacker News](https://news.ycombinator.com/item?id=25981327)
 
 ## Free Software
 

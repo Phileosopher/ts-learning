@@ -28,3 +28,5 @@
 [Show HN: Ht – HTTPie Clone in Rust | Hacker News](https://news.ycombinator.com/item?id=26042463)
 [Rust Foundation: Hello, World | Hacker News](https://news.ycombinator.com/item?id=26067118)
 [Tauri: An Electron alternative written in Rust | Hacker News](https://news.ycombinator.com/item?id=26194990)
+[Rust Language Cheat Sheet | Hacker News](https://news.ycombinator.com/item?id=20611390)
+[Show HN: Alacritty, a GPU-accelerated terminal emulator written in Rust | Hacker News](https://news.ycombinator.com/item?id=13338592)

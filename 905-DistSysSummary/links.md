@@ -34,3 +34,4 @@
 [Help users in Iran reconnect to Signal | Hacker News](https://news.ycombinator.com/item?id=26026994)
 [Screenflow: an unfinished attempt at a cross-platform server-driven UI at Uber | by Artem Tyurin | Feb, 2021 | Medium](https://artem-tyurin.medium.com/screenflow-an-unfinished-attempt-at-a-cross-platform-server-driven-ui-at-uber-749c1bc1d89)
 [Google Cloud vs. AWS Onboarding Comparison | Hacker News](https://news.ycombinator.com/item?id=26252010)
+[Show HN: Baxx – Unix-friendly backup service | Hacker News](https://news.ycombinator.com/item?id=19482280)

@@ -2,3 +2,4 @@
 
 [Programming language theory - Wikipedia](https://en.wikipedia.org/wiki/Programming_language_theory)
 [Programming Language Checklist](https://www.famicol.in/language_checklist.html)
+[Show HN: Crafting Interpreters – A handbook for making programming languages | Hacker News](https://news.ycombinator.com/item?id=13406081)

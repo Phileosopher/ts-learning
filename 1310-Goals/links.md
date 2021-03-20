@@ -24,3 +24,4 @@
 [The median employee age at top tech companies in America: CHART - Business Insider](https://www.businessinsider.com/median-tech-employee-age-chart-2017-8)
 [We don't need data scientists, we need data engineers | Hacker News](https://news.ycombinator.com/item?id=25775872)
 [GitHub - therealsreehari/Learn-Datascience-For-Free](https://github.com/therealsreehari/Learn-Datascience-For-Free?utm_source=tldrnewsletter)
+[Show HN: Whoishiring.io – all tech jobs mapped out | Hacker News](https://news.ycombinator.com/item?id=13500701)

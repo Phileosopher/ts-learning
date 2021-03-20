@@ -42,3 +42,4 @@
 [Dynamic Programming for Beginners – How to Solve Coding Challenges with Memoization and Tabulation](https://www.freecodecamp.org/news/learn-dynamic-programing-to-solve-coding-challenges/)
 [What I’ve Learned in 45 Years in the Software Industry | Hacker News](https://news.ycombinator.com/item?id=25658216)
 [TypeCodeFaster | Typing test for coders](https://typecodefast.vercel.app/)
+[Ask HN: Which tools have made you a much better programmer? | Hacker News](https://news.ycombinator.com/item?id=23468193)

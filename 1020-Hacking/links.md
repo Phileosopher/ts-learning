@@ -1,5 +1,8 @@
 # Hacking
 
+[Hackers release a new jailbreak tool for almost every iPhone | TechCrunch](https://techcrunch.com/2021/03/01/hackers-unc0ver-jailbreak-iphone/)
+[Reverse engineering guide for beginners: Methodology and tools | Hacker News](https://news.ycombinator.com/item?id=14537506)
+[20GB leak of Intel data: whole Git repositories, dev tools, backdoor mentions | Hacker News](https://news.ycombinator.com/item?id=24074588)
 [Wikipedia's List of security hacking incidents](https://en.wikipedia.org/wiki/List_of_security_hacking_incidents)
 [Rockstar thanks GTA Online player who fixed load times, official update coming](https://news.ycombinator.com/item?id=26469753)
 [DVD Laser Scanner Microscope | Hacker News](https://news.ycombinator.com/item?id=26012652)

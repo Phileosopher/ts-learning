@@ -5,7 +5,8 @@
 [why NFTs are a dangerous trap](https://news.ycombinator.com/item?id=26373108)
 [Vitalik escalates ETH 2.0 merge as miners plan a 51% attack](https://news.ycombinator.com/item?id=26441399)
 [Endnotes on 2020: Crypto and Beyond](https://vitalik.ca/general/2020/12/28/endnotes.html)
-
+[HoweyCoins – An educational tool to alert investors to possible fraud | Hacker News](https://news.ycombinator.com/item?id=17085232)
+[Show HN: An educational blockchain implementation in Python | Hacker News](https://news.ycombinator.com/item?id=15945490)
 # Torrenting
 
 [BitTorrent v2 | Hacker News](https://news.ycombinator.com/item?id=24401999)

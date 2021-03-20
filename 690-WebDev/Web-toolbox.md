@@ -23,3 +23,6 @@
 [Upptime – GitHub-powered open-source uptime monitor and status page | Hacker News](https://news.ycombinator.com/item?id=25553445)
 [Hotwire: a radical new old way to build web apps | Medium](https://delitescere.medium.com/hotwire-html-over-the-wire-2c733487268c)
 [Sumo: The #1 FREE email capture tool](https://sumo.com/)
+[Can I use... Support tables for HTML5, CSS3, etc](https://caniuse.com/)
+[Visual Cheatsheet for CSS Grid Layout | Hacker News](https://news.ycombinator.com/item?id=17730726)
+[A beginner's cheat sheet for web development | Hacker News](https://news.ycombinator.com/item?id=6418469)

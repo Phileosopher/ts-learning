@@ -11,3 +11,6 @@
 [How I Collected a Debt from an Unscrupulous Merchant | Hacker News](https://news.ycombinator.com/item?id=25320941)
 [Here's How I Bootstrapped a SaaS to 10k MRR - Bannerbear](https://www.bannerbear.com/journey-to-10k-mrr/)
 [Resources for chief technology officers, with the emphasis on startups | Hacker News](https://news.ycombinator.com/item?id=26284750)
+[Employee Scheduling | Hacker News](https://news.ycombinator.com/item?id=22582444)
+[Ask HN: What are your favorite low-coding apps / tools as a developer? | Hacker News](https://news.ycombinator.com/item?id=22786853)
+[A solo journey to $100k in sales | Hacker News](https://news.ycombinator.com/item?id=26262989)

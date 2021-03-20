@@ -1,5 +1,8 @@
 # Simple Cysec
 
+[LastPass Android app has got 7 trackers in it | Hacker News](https://news.ycombinator.com/item?id=26313254)
+[Are Xiaomi browsers spyware? Yes, they are (2020) | Hacker News](https://news.ycombinator.com/item?id=26306661)
+[/e/OS Application Checker - e Foundation - deGoogled unGoogled smartphone operating systems and online services - your data is your data](https://e.foundation/e-os-available-applications/)
 [interview with CEO of rsync.net: no firewalls and no routers"](https://news.ycombinator.com/item?id=26504287)
 [Show HN: Your Social Media Fingerprint (maybe NSFW) | Hacker News](https://news.ycombinator.com/item?id=12692190)
 [security.txt](https://news.ycombinator.com/item?id=26455493)

@@ -1,5 +1,7 @@
 # Deploying
 
+[Show HN: Web Design in 4 minutes | Hacker News](https://news.ycombinator.com/item?id=12166687)
+[What happens when you launch Google Chrome for the first time? | Hacker News](https://news.ycombinator.com/item?id=20794937)
 [The web is 30 years old today | Hacker News](https://news.ycombinator.com/item?id=25485651)
 [State Partitioning | Hacker News](https://news.ycombinator.com/item?id=26248595)
 [How to Build a Website in 2021: Complete Step-by-Step Guide](https://www.websiteplanet.com/)

@@ -30,20 +30,4 @@
 [Element (Matrix chat app) suspended from the Google Play Store | Hacker News](https://news.ycombinator.com/item?id=25964226)
 [I Still Use RSS | Hacker News](https://news.ycombinator.com/item?id=26014344)
 [A visual guide to SSH tunnels | Hacker News](https://news.ycombinator.com/item?id=26053323)
-
-## Toolbox
-
-Look into free IP address management software
-
-[Revive Adserver - Wikipedia](https://en.wikipedia.org/wiki/Revive_Adserver)
-[Tox (protocol) - Wikipedia](https://en.wikipedia.org/wiki/Tox_(protocol))
-[Jami (software) - Wikipedia](https://en.wikipedia.org/wiki/Jami_(software))
-[Twinkle (software) - Wikipedia](https://en.wikipedia.org/wiki/Twinkle_(software))
-[slrn - Wikipedia](https://en.wikipedia.org/wiki/Slrn)
-[SipXecs - Wikipedia](https://en.wikipedia.org/wiki/SipXecs)
-[QuteCom - Wikipedia](https://en.wikipedia.org/wiki/QuteCom)
-[FreeSWITCH - Wikipedia](https://en.wikipedia.org/wiki/FreeSWITCH)
-[FreePBX - Wikipedia](https://en.wikipedia.org/wiki/FreePBX)
-[Conference XP - Wikipedia](https://en.wikipedia.org/wiki/Conference_XP)
-[Ekiga - Wikipedia](https://en.wikipedia.org/wiki/Ekiga)
-[Asterisk (PBX) - Wikipedia](https://en.wikipedia.org/wiki/Asterisk_(PBX))
+[GitHub - manzinello/mailgo: 💌 mailgo, a new concept of mailto and tel links](https://github.com/manzinello/mailgo)

@@ -1,5 +1,9 @@
 # Graphics
 
+[Gimp 2.99.2 – GTK3 user interface toolkit | Hacker News](https://news.ycombinator.com/item?id=25010462)
+[Show HN: Ascii to SVG | Hacker News](https://news.ycombinator.com/item?id=12621680)
+[Show HN: ThreadTone – Halftone images made of thread | Hacker News](https://news.ycombinator.com/item?id=13254029)
+[Show HN: Moqups - Vectorial mockups with HTML5 and SVG | Hacker News](https://news.ycombinator.com/item?id=4222992)
 [Hexagonal Grids (2013) | Hacker News](https://news.ycombinator.com/item?id=25340425)
 [Show HN: Mountain Peaks in WebGL | Hacker News](https://news.ycombinator.com/item?id=25537377)
 [SVG Path Editor | Hacker News](https://news.ycombinator.com/item?id=24998532)

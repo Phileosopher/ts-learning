@@ -1,12 +1,9 @@
 https://news.ycombinator.com/item?id=26036790
 
-
-
-
-http://nandgame.com/
-http://www.charlespetzold.com/code/
-https://www.coursera.org/learn/build-a-computer
-https://www.nand2tetris.org/
+[NandGame - Build a computer from scratch.](https://nandgame.com/)
+[Code: The Hidden Language of Computer Hardware and Software, by Charles Petzold](https://www.charlespetzold.com/code/)
+[Build a Modern Computer from First Principles: From Nand to Tetris (Project-Centered Course) | Coursera](https://www.coursera.org/learn/build-a-computer)
+[Home | nand2tetris](https://www.nand2tetris.org/)
 Nand2Tetris Part 1 Notes
   elements that you need the computer to do
     how are we going to specify our inxtructions?

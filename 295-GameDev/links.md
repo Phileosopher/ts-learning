@@ -8,3 +8,6 @@
 [Unreal Engine Course: Create a 2D Snake Game](https://www.freecodecamp.org/news/unreal-engine-course-create-a-2d-snake-game/)
 [How to Build A 2.5D Platformer Game With Unreal Engine – a Free 3-hour Course](https://www.freecodecamp.org/news/create-a-2-5d-platformer-game-with-unreal-engine/)
 [Making Games on Your Own as an Engineer | Hacker News](https://news.ycombinator.com/item?id=26246049)
+[The Fight for WorldBox | Hacker News](https://news.ycombinator.com/item?id=25557515)
+
+- Worth indicating that the game dev industry is a fierce, cutthroat, toxic place, where people steal IPs all day (distinguish b/w copyright and trademark)

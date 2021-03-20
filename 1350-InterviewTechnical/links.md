@@ -1,5 +1,6 @@
 # Technical Interviewing
 
+[Coding Interview Cheatsheet | Hacker News](https://news.ycombinator.com/item?id=15471061)
 [GitHub - linkedin/school-of-sre: At LinkedIn, we are using this curriculum for onboarding our entry level talents into the SRE role.](https://github.com/linkedin/school-of-sre)
 [anushka23g/Complete-Placement-Preparation: This repository consists of all the material required for cracking the coding rounds and technical interviews during placements.](https://github.com/anushka23g/Complete-Placement-Preparation)
 [Medium-hard SQL interview questions | Hacker News](https://news.ycombinator.com/item?id=23053981)
@@ -17,4 +18,5 @@
 [100 most asked JavaScript Interview Questions and Answers - Part 1](https://alimammiya.hashnode.dev/100-most-asked-javascript-interview-questions-and-answers-part-1?utm_source=tldrnewsletter)
 [why senior engineers hate coding interviews](https://medium.com/swlh/why-senior-engineers-hate-coding-interviews-d583d2855757)
 
-https://interviews.school/
+[interviews school](https://interviews.school/)
+[The Guerrilla Guide to Interviewing (version 3.0) – Joel on Software](https://www.joelonsoftware.com/2006/10/25/the-guerrilla-guide-to-interviewing-version-30/)
