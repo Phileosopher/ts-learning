@@ -13,6 +13,7 @@
 [Google Maps' Moat Is Evaporating | Hacker News](https://news.ycombinator.com/item?id=25568335)
 [Show HN: Give 7B people an instant physical address | Hacker News](https://news.ycombinator.com/item?id=12260958)
 [Meshtastic: Open-source, off-grid, hiking, climbing, GPS mesh communicator | Hacker News](https://news.ycombinator.com/item?id=25981327)
+[I Hate Coordinate Systems | Hacker News](https://news.ycombinator.com/item?id=24917394)
 
 ## Free Software
 

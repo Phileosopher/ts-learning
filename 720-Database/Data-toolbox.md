@@ -1,6 +1,7 @@
 # Data
 
-[Learn Microsoft Excel - Full Video Course](https://www.freecodecamp.org/news/learn-microsoft-excel/)
+[Show HN: Noms – A new decentralized database based on ideas from Git | Hacker News](https://news.ycombinator.com/item?id=12211754)
+[Show HN: OneBody Church Directory software I've been hacking on for 7 years | Hacker News](https://news.ycombinator.com/item?id=8085213)
 [Apache Beam](https://beam.apache.org/)
 [Apache Arrow 3.0 | Hacker News](https://news.ycombinator.com/item?id=26018187)
 [GitHub - airbytehq/airbyte: Airbyte is an open-source EL(T) platform that helps you replicate your data in your warehouses, lakes and databases.](https://github.com/airbytehq/airbyte)

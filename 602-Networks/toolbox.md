@@ -1,5 +1,10 @@
 # Toolbox
 
+[NetCut –arcai.com official Free download support for netcut | Arcai.com](https://arcai.com/netcut/)
+[Netdata | b3n.org](https://b3n.org/netdata/)
+[PeeringDB](https://www.peeringdb.com/)
+[Htop 3.0 | Hacker News](https://news.ycombinator.com/item?id=24341867)
+
 [Deskreen – Turn any device with a web browser to a second computer screen | Hacker News](https://news.ycombinator.com/item?id=25891464)
 [NetBox Documentation](https://netbox.readthedocs.io/en/stable/)
 [rConfig - Network Configuration Management!](https://www.rconfig.com/#pricing)
@@ -30,3 +35,5 @@
 [JXplorer - Wikipedia](https://en.wikipedia.org/wiki/JXplorer)
 [YaCy - Wikipedia](https://en.wikipedia.org/wiki/YaCy)
 [jetty load generator](https://qainsights.com/jetty-load-generator/)
+
+[jopohl/urh: Universal Radio Hacker: Investigate Wireless Protocols Like A Boss](https://github.com/jopohl/urh?utm_source=tldrnewsletter)

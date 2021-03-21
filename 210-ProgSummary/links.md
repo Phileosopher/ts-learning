@@ -13,3 +13,5 @@
 [Peter Naur's view of programming | Hacker News](https://news.ycombinator.com/item?id=26027448)
 [How to Turn Google Sheets into a REST API and Use it with a React Application](https://www.freecodecamp.org/news/react-and-googlesheets/)
 [How can you not be romantic about programming? (2020) | Hacker News](https://news.ycombinator.com/item?id=26206921)
+[Show HN: Bot Land, a game where you fight others via code | Hacker News](https://news.ycombinator.com/item?id=21101918)
+[Functorio | Hacker News](https://news.ycombinator.com/item?id=26157969)

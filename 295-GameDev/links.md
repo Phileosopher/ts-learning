@@ -11,3 +11,8 @@
 [The Fight for WorldBox | Hacker News](https://news.ycombinator.com/item?id=25557515)
 
 - Worth indicating that the game dev industry is a fierce, cutthroat, toxic place, where people steal IPs all day (distinguish b/w copyright and trademark)
+- [Publisher Nacon Cracked and Pirated Our Game: The Sinking City | Hacker News](https://news.ycombinator.com/item?id=26311522)
+
+[Why isn't Godot an ECS-based game engine? | Hacker News](https://news.ycombinator.com/item?id=26284158)
+[How fighting games use delay-based and rollback netcode (2019) | Hacker News](https://news.ycombinator.com/item?id=26289933)
+[20 Award-Winning 13-Kilobyte JavaScript Games You Can Play in Your Browser – js13k 2020 Winners](https://www.freecodecamp.org/news/20-award-winning-games-explained-code-breakdown/)

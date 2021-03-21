@@ -43,3 +43,4 @@
 [What I’ve Learned in 45 Years in the Software Industry | Hacker News](https://news.ycombinator.com/item?id=25658216)
 [TypeCodeFaster | Typing test for coders](https://typecodefast.vercel.app/)
 [Ask HN: Which tools have made you a much better programmer? | Hacker News](https://news.ycombinator.com/item?id=23468193)
+[Hands-Free Coding: How I develop software using dictation and eye-tracking | Hacker News](https://news.ycombinator.com/item?id=24846887)

@@ -8,3 +8,6 @@
 [Yenka.com](https://www.yenka.com/)
 [Glossary of mathematical symbols - Wikipedia](https://en.wikipedia.org/wiki/Glossary_of_mathematical_symbols)
 [Math Intuition Cheatsheet | Hacker News](https://news.ycombinator.com/item?id=8082434)
+[Show HN: I'm 12, learning JS, and wrote Wolfram's cellular automaton in Node | Hacker News](https://news.ycombinator.com/item?id=17871313)
+[Show HN: Markov chains explained visually | Hacker News](https://news.ycombinator.com/item?id=8103240)
+[The MathMap Image Processing Application](https://www.complang.tuwien.ac.at/schani/mathmap/)

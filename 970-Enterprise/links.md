@@ -10,3 +10,5 @@
 [Why Enterprise Software Sucks | Hacker News](https://news.ycombinator.com/item?id=21224209)
 [Amazon: Not OK – Why we had to change Elastic licensing | Hacker News](https://news.ycombinator.com/item?id=25833781)
 [Kubernetes Failure Stories | Hacker News](https://news.ycombinator.com/item?id=26106080)
+[Salesforce is in talks to buy Slack | Hacker News](https://news.ycombinator.com/item?id=25211262)
+[Google admits Kubernetes container tech is too complex | Hacker News](https://news.ycombinator.com/item?id=26271470)

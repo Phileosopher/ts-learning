@@ -61,6 +61,11 @@
 [Mathematical Etudes](https://old.etudes.ru/en/)
 [Mathlets : MIT Mathlets](https://mathlets.org/mathlets/)
 [Topology and Geometry](http://geometrygames.org/)
+[Show HN: 3D Vector Graphics | Hacker News](https://news.ycombinator.com/item?id=11019922)
+[Show HN: Ledonardo, my light painting hardware project | Hacker News](https://news.ycombinator.com/item?id=21134903)
+[Learn Data Visualization in This Free 17-Hour Course](https://www.freecodecamp.org/news/learn-data-visualization-in-this-free-17-hour-course/)
+[Raycasting engine in Factorio 1.0 (unmodded) \[video\] | Hacker News](https://news.ycombinator.com/item?id=24668360.)
+[Why not use GraphQL? | Hacker News](https://news.ycombinator.com/item?id=25014582)
 
 ## Has Many Terms I Don't Understand
 

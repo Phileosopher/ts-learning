@@ -34,3 +34,6 @@
 [dolthub/dolt: Dolt – It's Git for Data](https://github.com/dolthub/dolt?utm_source=tldrnewsletter)
 
 [Falcon is a free, open-source SQL editor with inline data visualization | Hacker News](https://news.ycombinator.com/item?id=22883429)
+[Show HN: ESQLate – Build minimum viable admin panels with just SQL | Hacker News](https://news.ycombinator.com/item?id=22073037)
+[Show HN: Visual SQL | Hacker News](https://news.ycombinator.com/item?id=22548217)
+[Show HN: SQL Police Department – Learn SQL while solving crimes | Hacker News](https://news.ycombinator.com/item?id=23066776)

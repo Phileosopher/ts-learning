@@ -1,5 +1,12 @@
 # Hacking
 
+[The Jargon File](http://catb.org/jargon/html/index.html)
+
+- Do this one first. It has some GREAT summary that could help the page immensely
+
+[I Made a Self-Quoting Tweet | Hacker News](https://news.ycombinator.com/item?id=25244872)
+[Show HN: Make a programmable mirror | Hacker News](https://news.ycombinator.com/item?id=10204018)
+[Show HN: Sorting Two Metric Tons of Lego | Hacker News](https://news.ycombinator.com/item?id=14226889)
 [Hackers release a new jailbreak tool for almost every iPhone | TechCrunch](https://techcrunch.com/2021/03/01/hackers-unc0ver-jailbreak-iphone/)
 [Reverse engineering guide for beginners: Methodology and tools | Hacker News](https://news.ycombinator.com/item?id=14537506)
 [20GB leak of Intel data: whole Git repositories, dev tools, backdoor mentions | Hacker News](https://news.ycombinator.com/item?id=24074588)
@@ -51,3 +58,13 @@ Bug bounties
 [hacker101](https://www.hacker101.com/)
 [hacktivity](https://hackerone.com/hacktivity)
 HackThisWebsite
+[Show HN: $200 Solar Self-Sufficiency  Without Your Landlord Noticing | Hacker News](https://news.ycombinator.com/item?id=14821478)
+[Show HN: Switch from Medium to your own blog | Hacker News](https://news.ycombinator.com/item?id=20060549)
+[Show HN: From Markdown to Video | Hacker News](https://news.ycombinator.com/item?id=22718854)
+[Show HN: Healthcare Is Dumb | Hacker News](https://news.ycombinator.com/item?id=24309237)
+[Firefox replaces Google Analytics with fake no-op in strict tracking protection | Hacker News](https://news.ycombinator.com/item?id=26280808)
+[Lotus 1-2-3 arbitrary resolution | Hacker News](https://news.ycombinator.com/item?id=26316637)
+[Turning an old Amazon Kindle into a eInk development platform | Hacker News](https://news.ycombinator.com/item?id=26073463)
+[Stealing Your Private YouTube Videos, One Frame at a Time | Hacker News](https://news.ycombinator.com/item?id=25728175)
+[An iOS zero-click radio proximity exploit odyssey | Hacker News](https://news.ycombinator.com/item?id=25270184)
+[Disclosure: Unlimited Chase Ultimate Rewards Points | Hacker News](https://news.ycombinator.com/item?id=24988301)

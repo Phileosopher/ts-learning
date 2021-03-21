@@ -7,7 +7,3 @@
 [Computer input latency from 1977-2017 (2017) | Hacker News](https://news.ycombinator.com/item?id=25290118)
 [PipeWire: The Linux audio/video bus | Hacker News](https://news.ycombinator.com/item?id=26327779)
 [Show HN: An attempt to rethink a music sequencer design | Hacker News](https://news.ycombinator.com/item?id=14212054)
-## Toolbox
-
-[GitHub - spotify/klio: Smarter data pipelines for audio.](https://github.com/spotify/klio)
-[SOUL, a new language now in V1.0, makes audio coding vastly more accessible | SOUL](https://soul-lang.github.io/SOUL/docs/SOUL_V1_Release.html)

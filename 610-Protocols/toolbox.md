@@ -15,3 +15,7 @@ Look into free IP address management software
 [Ekiga - Wikipedia](https://en.wikipedia.org/wiki/Ekiga)
 [Asterisk (PBX) - Wikipedia](https://en.wikipedia.org/wiki/Asterisk_(PBX))
 [Perkeep - Wikipedia](https://en.wikipedia.org/wiki/Perkeep)
+[QuickFIX - Wikipedia](https://en.wikipedia.org/wiki/QuickFIX)
+[JFin - Wikipedia](https://en.wikipedia.org/wiki/JFin)
+[EOS.IO - Wikipedia](https://en.wikipedia.org/wiki/EOS.IO)
+[Show HN: Trade stocks from the command line with no commission | Hacker News](https://news.ycombinator.com/item?id=23209142)

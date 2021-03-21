@@ -6,3 +6,5 @@
 [10 Best Coding Games to Advance Your Programming Skills - GeeksforGeeks](https://www.geeksforgeeks.org/10-best-coding-games-to-advance-your-programming-skills/?utm_source=tldrnewsletter)
 [Postman API Tutorial – How to Use Postman to Test an API \[Full Course\]](https://www.freecodecamp.org/news/learn-how-to-use-postman-to-test-apis/)
 [How I Built a Web Scraper with Beautiful Soup and Used it to Land My First Job](https://www.freecodecamp.org/news/how-i-used-a-side-project-to-land-a-job/)
+[Show HN: RegEx for Regular Folk – A visual, example-based introduction | Hacker News](https://news.ycombinator.com/item?id=23042079)
+[Speed Is the Killer Feature | Hacker News](https://news.ycombinator.com/item?id=26312516)

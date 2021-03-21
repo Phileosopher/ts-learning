@@ -36,3 +36,4 @@
 [I wasted $40k on a fantastic startup idea | Hacker News](https://news.ycombinator.com/item?id=25825917)
 [On the Loss of a Cofounder | Hacker News](https://news.ycombinator.com/item?id=25180377)
 [There’s no such thing as “a startup within a big company” | Hacker News](https://news.ycombinator.com/item?id=26178518)
+[Show HN: Open startups with their revenue, metrics, and stories | Hacker News](https://news.ycombinator.com/item?id=19025560)

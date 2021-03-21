@@ -23,6 +23,7 @@
     Author: howard941 | Comments
     Article URL: https://uspirg.org/blogs/blog/usp/nebraska-farmers-vote-overwhelmingly-right-repair
     Comments URL: https://news.ycombinator.com/item?id=21805633
+[Europe Is Guaranteeing Citizens the Right to Repair | Hacker News](https://news.ycombinator.com/item?id=25728453)
 
 # Gleaned Axioms
 

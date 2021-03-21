@@ -10,7 +10,18 @@
 
 https://wiki.gnome.org/Apps
 https://wiki.gnome.org/Projects
+
+[Demoscene accepted as UNESCO cultural heritage in Germany | Hacker News](https://news.ycombinator.com/item?id=26522681)
+[Show HN: I open-sourced my web app alternative to Illustrator | Hacker News](https://news.ycombinator.com/item?id=7116042)
+[Show HN: Open-sourcing my wedding website on my first anniversary | Hacker News](https://news.ycombinator.com/item?id=18556787)
+
+- Clarify how people tend to make things, but give them away free when their reputation can benefit more than that old thing (a bit like writing books then giving them away as promotions)
+- Consider step-by-step from Stripped documentary for how Free can be monetized
+
+[No More Free Work from Marak: Pay Me or Fork This | Hacker News](https://news.ycombinator.com/item?id=25032105)
+
 ## Nonprofits
 
 [Donate Unrestricted](http://paulgraham.com/donate.html)
 https://www.freecodecamp.org/news/quincy-larson-interview-changelog-podcast/
+[Congress should invest in open-source software | Hacker News](https://news.ycombinator.com/item?id=24789070)

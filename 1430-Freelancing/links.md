@@ -17,3 +17,4 @@
 [US Presidential Election $25,000 Database Bounty Review | DoltHub Blog](https://www.dolthub.com/blog/2021-02-15-election-bounty-review/)
 [LinkedIn is building a gig marketplace | Hacker News](https://news.ycombinator.com/item?id=26247278)
 [Open source projects should run office hours | Hacker News](https://news.ycombinator.com/item?id=26351053)
+[Show HN: Get Paid to Build Your Next Side Project | Hacker News](https://news.ycombinator.com/item?id=14552615)

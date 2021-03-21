@@ -16,3 +16,4 @@
 [Things I wished more developers knew about databases | Hacker News](https://news.ycombinator.com/item?id=22942278)
 [Let’s Build a Simple Database (2017) | Hacker News](https://news.ycombinator.com/item?id=19581721)
 [Designing Data-Intensive Applications (DDIA) — an O’Reilly book by Martin Kleppmann (The Wild Boar Book)](https://dataintensive.net/)
+[Learn Microsoft Excel - Full Video Course](https://www.freecodecamp.org/news/learn-microsoft-excel/)

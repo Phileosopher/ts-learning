@@ -6,3 +6,4 @@
 [Operating Systems: Three Easy Pieces | Hacker News](https://news.ycombinator.com/item?id=26051386)
 [We found and fixed a rare race condition in our session handling](https://news.ycombinator.com/item?id=26506920)
 [Why are tar.xz files 15x smaller when using Python's tar compared to macOS tar?](https://news.ycombinator.com/item?id=26459184)
+[Parsing can become accidentally quadratic because of sscanf | Hacker News](https://news.ycombinator.com/item?id=26302744)

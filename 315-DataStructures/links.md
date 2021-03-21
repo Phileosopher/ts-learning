@@ -18,3 +18,4 @@
 [5 Must Have Features for a Data Importer | Flatfile](https://flatfile.io/blog/5-must-have-features-for-a-data-importer)
 [OpenCV - OpenCV](https://opencv.org/)
 [Data structures and algorithms I actually used while working at tech companies | Hacker News](https://news.ycombinator.com/item?id=23841491)
+[Linus Torvalds' good taste argument for linked lists, explained | Hacker News](https://news.ycombinator.com/item?id=25326552)

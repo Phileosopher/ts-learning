@@ -14,3 +14,5 @@
 [Simpson's paradox - Wikipedia](https://en.wikipedia.org/wiki/Simpson%27s_paradox)
 [Power law - Wikipedia](https://en.wikipedia.org/wiki/Power_law#Lack_of_well-defined_average_value)
 [The Monty Hall Problem](https://www.philosophyexperiments.com/montyhall/Default.aspx)
+[Are You Trading or Gambling? | Hacker News](https://news.ycombinator.com/item?id=26283650)
+[Show HN: A Set of Dice That Follows the Gambler's Fallacy | Hacker News](https://news.ycombinator.com/item?id=14805265)

@@ -47,3 +47,4 @@
 [Foam – A Roam Research alternative with VSCode, Markdown and GitHub | Hacker News](https://news.ycombinator.com/item?id=23666950)
 [Radicle: A peer-to-peer alternative to GitHub | Hacker News](https://news.ycombinator.com/item?id=25313010)
 [EmacsConf 2020 Talks | Hacker News](https://news.ycombinator.com/item?id=25324311)
+[Show HN: OneDev – A Lightweight GitLab Alternative | Hacker News](https://news.ycombinator.com/item?id=22081419)

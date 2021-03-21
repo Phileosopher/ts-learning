@@ -25,3 +25,5 @@
 [GitHub - scandum/gridsort: A stable adaptive partitioning comparison sort.](https://github.com/scandum/gridsort?utm_source=tldrnewsletter)
 [Big-O Algorithm Complexity Cheat Sheet | Hacker News](https://news.ycombinator.com/item?id=5655075)
 [Show HN: Wave function collapse algorithm | Hacker News](https://news.ycombinator.com/item?id=12612246)
+[GitHub - rupa/z: z - jump around](https://github.com/rupa/z)
+[Show HN: A coloring book of data structures and algorithms | Hacker News](https://news.ycombinator.com/item?id=15201152)

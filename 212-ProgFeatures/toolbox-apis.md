@@ -1,5 +1,6 @@
 # APIs
 
+[Show HN: Free Company Logo API | Hacker News](https://news.ycombinator.com/item?id=9806319)
 ### [Face API JS](https://github.com/justadudewhohacks/face-api.js)
 
 JavaScript API for face detection and face recognition in the browser and Nodejs with tensorflow.js. Using this API, you can predict the age, color, and probable accuracy ratio. Demo projects are placed inside the link.

@@ -35,3 +35,7 @@
 [Screenflow: an unfinished attempt at a cross-platform server-driven UI at Uber | by Artem Tyurin | Feb, 2021 | Medium](https://artem-tyurin.medium.com/screenflow-an-unfinished-attempt-at-a-cross-platform-server-driven-ui-at-uber-749c1bc1d89)
 [Google Cloud vs. AWS Onboarding Comparison | Hacker News](https://news.ycombinator.com/item?id=26252010)
 [Show HN: Baxx – Unix-friendly backup service | Hacker News](https://news.ycombinator.com/item?id=19482280)
+[Internet Archive Infrastructure | Hacker News](https://news.ycombinator.com/item?id=26300191)
+[Show HN: Redbean – Single-file distributable web server | Hacker News](https://news.ycombinator.com/item?id=26271117)
+[Managing my personnal servers in 2020 with K3s | Hacker News](https://news.ycombinator.com/item?id=25001789)
+[Is a billion-dollar worth of server lying on the ground](https://cerebralab.com/Is_a_billion-dollar_worth_of_server_lying_on_the_ground)

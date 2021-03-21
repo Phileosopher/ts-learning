@@ -22,3 +22,4 @@
 [What is Fuzzing? Fuzz Testing Explained with Examples](https://www.freecodecamp.org/news/whats-fuzzing-fuzz-testing-explained/)
 [Why is it so hard to see code from 5 minutes ago? | Hacker News](https://news.ycombinator.com/item?id=26187881)
 [How I cut GTA Online loading times by 70% | Hacker News](https://news.ycombinator.com/item?id=26296339)
+[It Can Happen to You | Hacker News](https://news.ycombinator.com/item?id=26337046) - comments on GTA loading time drop

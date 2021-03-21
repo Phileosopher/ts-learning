@@ -1,5 +1,6 @@
 # JS
 
+[Show HN: The JavaScript Way, a book for learning modern JavaScript from scratch | Hacker News](https://news.ycombinator.com/item?id=14865043)
 [Show HN: 33 line React | Hacker News](https://news.ycombinator.com/item?id=22776753)
 [user auth in node.js](https://www.freecodecamp.org/news/learn-to-implement-user-authentication-in-node-apps-using-passport-js/)
 [Show HN: This website is valid JSON | Hacker News](https://news.ycombinator.com/item?id=25352385)

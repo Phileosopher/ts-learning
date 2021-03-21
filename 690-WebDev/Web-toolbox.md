@@ -1,7 +1,7 @@
 # Web
 
 [Structured Data Testing Tool](https://search.google.com/structured-data/testing-tool/)
-
+[Hearth | Decentralized website publishing](https://hearth.eternum.io/)
 [whereami](https://github.com/kootenpv/whereami)
 [Screely - Generate Website Mockups](https://www.screely.com/)
 [Free Web and SEO Tools from WebNots](https://www.webnots.com/seo-tools/)
@@ -17,12 +17,27 @@
 [The diaspora\* Project](https://diasporafoundation.org/)
 [codespaces-contrib/codeswing: VS Code extension for building web applications ("swings") using a interactive and editor-integrated coding environment](https://github.com/codespaces-contrib/codeswing)
 [GitHub - jerryscript-project/jerryscript: Ultra-lightweight JavaScript engine for the Internet of Things.](https://github.com/jerryscript-project/jerryscript)
-[The most advanced responsive front-end framework in the world. | Foundation](https://get.foundation/)
-[GitHub - jameslittle230/stork: 🔎 Impossibly fast web search, made for static sites.](https://github.com/jameslittle230/stork)
-[NameHunt](https://www.namehunt.dev/)
+[The most advancehttps://news.ycombinator.com/item?id=3742742/www.namehunt.dev/)
 [Upptime – GitHub-powered open-source uptime monitor and status page | Hacker News](https://news.ycombinator.com/item?id=25553445)
 [Hotwire: a radical new old way to build web apps | Medium](https://delitescere.medium.com/hotwire-html-over-the-wire-2c733487268c)
 [Sumo: The #1 FREE email capture tool](https://sumo.com/)
 [Can I use... Support tables for HTML5, CSS3, etc](https://caniuse.com/)
 [Visual Cheatsheet for CSS Grid Layout | Hacker News](https://news.ycombinator.com/item?id=17730726)
 [A beginner's cheat sheet for web development | Hacker News](https://news.ycombinator.com/item?id=6418469)
+[BabelEdit - Editor for JSON translation files for Angular & React](https://www.codeandweb.com/babeledit)
+[Glitch](https://glitch.com/)
+[Home page / Buzz](https://buzz.jaysalvat.com/)
+[Show HN: A guide to all HTML5 elements and attributes | Hacker News](https://news.ycombinator.com/item?id=13642662)
+[Show HN: I replaced Google Analytics with simple log-based analytics | Hacker News](https://news.ycombinator.com/item?id=19883876)
+[Show HN: Webflow - Design responsive websites visually | Hacker News](https://news.ycombinator.com/item?id=5407499)
+[Show HN: Image Processing for Everybody | Hacker News](https://news.ycombinator.com/item?id=10008637)
+
+## WEBDEV CYSEC
+
+[HTML5 Security Cheatsheet](https://html5sec.org/)
+[Mozilla Observatory](https://observatory.mozilla.org/)
+[SSL Server Test (Powered by Qualys SSL Labs)](https://www.ssllabs.com/ssltest/)
+[GitHub - yandex/csp-tester: This extension helps web masters to test web application behaviour with Content Security Policy (CSP) ver. 1.0 implemented.](https://github.com/yandex/csp-tester)
+[Certificate Transparency Monitoring - Facebook for Developers](https://developers.facebook.com/tools/ct/search/)
+[Parse + Open Source = ❤️](https://parseplatform.org/)
+[OnionShare makes it easy to publish anonymous, uncensorable websites | Hacker News](https://news.ycombinator.com/item?id=21260364)

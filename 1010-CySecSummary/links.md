@@ -35,8 +35,21 @@
 [Latest Firefox rolls out Enhanced Tracking Protection 2.0 | Hacker News](https://news.ycombinator.com/item?id=24061268)
 [Mullvad VPN - Privacy is a universal right](https://mullvad.net/en/)
 [Building Your Shield: Mapping the Cybersecurity Market](https://learn.stanford.edu/building-your-shield-webinar-ondemand.html?utm_medium=email&utm_source=other&utm_campaign=partner.1.opencourse.targetedmessages.marketing~partner.1.kjbcC8vjRU6cNtJ6hs6-CA)
+[SolarWinds CEO blames intern for password leak | Hacker News](https://news.ycombinator.com/item?id=26284782)
+[Use Touch ID for Sudo on Mac | Hacker News](https://news.ycombinator.com/item?id=26302139)
+
+[Show HN: What every browser knows about you | Hacker News](https://news.ycombinator.com/item?id=11407536)
+[SpotifyKeyDumper – Dump song decryption keys from the Windows Spotify client | Hacker News](https://news.ycombinator.com/item?id=25017167)
 
 ## Big Orgs
 
 [Facebook: Free as in Bullshit | Hacker News](https://news.ycombinator.com/item?id=25477734)
 [UK's new internet snooping system](https://news.ycombinator.com/item?id=26430266)
+[Show HN: Bloom – A free and open source 'Google' | Hacker News](https://news.ycombinator.com/item?id=20105567)
+[Little League wants all your information | Hacker News](https://news.ycombinator.com/item?id=26296845)
+[Apple Card Disabled My iCloud, App Store, and Apple ID Accounts | Hacker News](https://news.ycombinator.com/item?id=26310817)
+[Killing TurboTax | Hacker News](https://news.ycombinator.com/item?id=26330584)
+[Bring Your Own Client | Hacker News](https://news.ycombinator.com/item?id=26355779)
+[Google Analytics: Stop feeding the beast | Hacker News](https://news.ycombinator.com/item?id=26263149)
+[A free-as-in-freedom re-implementation of Google’s Android user space | Hacker News](https://news.ycombinator.com/item?id=25252598)
+[A tech antitrust problem no one is talking about: US broadband providers | Hacker News](https://news.ycombinator.com/item?id=24967472)

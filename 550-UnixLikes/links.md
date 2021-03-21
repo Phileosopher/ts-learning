@@ -43,6 +43,8 @@
 [Getting better at Linux with mini-projects | Hacker News](https://news.ycombinator.com/item?id=26002335)
 [GoboLinux | Hacker News](https://news.ycombinator.com/item?id=26002251)
 [Elive: Fast, Beautiful and Powerful OS](https://www.elivecd.org/)
+[Show HN: ZeroHTTPd: A web server to teach Linux performance, with benchmarks | Hacker News](https://news.ycombinator.com/item?id=20081488)
+[Show HN: Ultimate Plumber – a tool for writing Linux pipes with live preview | Hacker News](https://news.ycombinator.com/item?id=18291302)
 
 ## Specific Things
 
@@ -55,3 +57,7 @@
 [The Beauty of Unix Pipelines | Hacker News](https://news.ycombinator.com/item?id=23420786)
 [Why mmap is faster than system calls (2019) | Hacker News](https://news.ycombinator.com/item?id=25701959)
 [BeagleV – An affordable RISC-V computer designed to run Linux | Hacker News](https://news.ycombinator.com/item?id=25761469)
+[No support Linux hosting shutting down from hack | Hacker News](https://news.ycombinator.com/item?id=26076050)
+[When Amazon Switched from Sun to Linux | Hacker News](https://news.ycombinator.com/item?id=25693618)
+[Sick Codes - Linux, NetSec, VPS, Arch, Debian, CentOS Tweaks & Tips!](https://sick.codes/)
+[Introducing the next generation of Mac | Hacker News](https://news.ycombinator.com/item?id=25049528)

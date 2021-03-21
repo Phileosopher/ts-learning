@@ -7,11 +7,13 @@
 [Endnotes on 2020: Crypto and Beyond](https://vitalik.ca/general/2020/12/28/endnotes.html)
 [HoweyCoins – An educational tool to alert investors to possible fraud | Hacker News](https://news.ycombinator.com/item?id=17085232)
 [Show HN: An educational blockchain implementation in Python | Hacker News](https://news.ycombinator.com/item?id=15945490)
-# Torrenting
+[Bitcoin Is Time | Hacker News](https://news.ycombinator.com/item?id=26315923)
+
+## Torrenting
 
 [BitTorrent v2 | Hacker News](https://news.ycombinator.com/item?id=24401999)
 
-# Cryptocurrency
+## Cryptocurrency
 
 [Bitcoin is a disaster | Hacker News](https://news.ycombinator.com/item?id=25597891)
 [What is Blockchain and how does it work?](https://www.freecodecamp.org/news/what-is-blockchain-and-how-does-it-work/)

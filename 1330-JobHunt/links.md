@@ -7,3 +7,12 @@
 [LinkedIn’s Alternate Universe | Hacker News](https://news.ycombinator.com/item?id=25320536)
 [Find Jobs That Are Unaffixed](https://unaffixed.com/)
 [How to Use LinkedIn to Get Your First Developer Job – A Step-by-Step Guide](https://www.freecodecamp.org/news/linkedin-handbook-get-your-first-dev-job/)
+[Show HN: Hire an Oldster | Hacker News](https://news.ycombinator.com/item?id=13194074)
+[Show HN: Where is “Who is hiring?” hiring? | Hacker News](https://news.ycombinator.com/item?id=9348193)
+
+- may need to consider rebuilding the app myself from HN's data
+
+[Show HN: A job board for companies fighting ageism in tech | Hacker News](https://news.ycombinator.com/item?id=20252097)
+[Show HN: 30 Hour Jobs – a job board for shorter work weeks | Hacker News](https://news.ycombinator.com/item?id=19910691)
+[Show HN: “Who is hiring?” Map | Hacker News](https://news.ycombinator.com/item?id=9838955)
+[I followed my dreams to get demoted to software developer | Hacker News](https://news.ycombinator.com/item?id=26066918)

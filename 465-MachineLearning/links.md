@@ -81,3 +81,5 @@
 [jalammar/ecco: Visualize and explore NLP language models. Ecco creates interactive visualizations directly in Jupyter notebooks explaining the behavior of Transformer-based language models (like GPT2).](https://github.com/jalammar/ecco)
 [microsoft/hummingbird: Hummingbird compiles trained ML models into tensor computation for faster inference.](https://github.com/Microsoft/hummingbird)
 [GitHub - adamerose/PandasGUI: A GUI for Pandas DataFrames](https://github.com/adamerose/pandasgui)
+[Show HN: Tree of Reddit Sex Life | Hacker News](https://news.ycombinator.com/item?id=19640562)
+[Show HN: TensorFire | Hacker News](https://news.ycombinator.com/item?id=14894653)

@@ -31,6 +31,13 @@ i.e., the site is either too new that it's barely useful, or I need to wait some
 
 - AI-based summarization, great idea but really sucks
 
+[Show HN: Call a Dev – Pay Stack Overflow users $1/min for live programming help | Hacker News](https://news.ycombinator.com/item?id=26226805)
+[Show HN: Explore ideas whose patent protection expires today | Hacker News](https://news.ycombinator.com/item?id=13309025)
+
 ## Check Back 01/2022
 
 [The Mark Cuban Cost Plus Drug Company | Hacker News](https://news.ycombinator.com/item?id=25932233)
+[I'm Open Sourcing the Have I Been Pwned Code Base | Hacker News](https://news.ycombinator.com/item?id=24079682)
+[Show HN: I mapped US medical prices. Save thousands by driving a few miles | Hacker News](https://news.ycombinator.com/item?id=6864584)
+
+- will need to verify if anyone made a healthcare comparison app

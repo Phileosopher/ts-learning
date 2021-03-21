@@ -3,6 +3,7 @@
 [qemu vs kvm](https://www.packetflow.co.uk/what-is-the-difference-between-qemu-and-kvm/)
 [kvm](https://www.linux-kvm.org/page/Main_Page)
 [qemu](https://www.qemu.org/)
+[Show HN: QEMU front end for M1 and Intel Macs | Hacker News](https://news.ycombinator.com/item?id=26260390)
 
 [virtualbox vs hyper-v](https://www.diskinternals.com/vmfs-recovery/hyper-v-vs-virtualbox/)
 [“Let’s use Kubernetes.” Now you have eight problems | Hacker News](https://news.ycombinator.com/item?id=22491170)

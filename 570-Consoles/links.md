@@ -12,3 +12,4 @@
 [CLI Guidelines – A guide to help you write better command-line programs | Hacker News](https://news.ycombinator.com/item?id=25304257)
 [Kitty – A fast, featureful, GPU based terminal emulator | Hacker News](https://news.ycombinator.com/item?id=24643008)
 [Show HN: Editly – Declarative command-line video editing | Hacker News](https://news.ycombinator.com/item?id=23006794)
+[GitHub - spectresystems/spectre.console: A library that makes it easier to create beautiful console applications.](https://github.com/spectresystems/spectre.console)

@@ -20,3 +20,4 @@
 
 [interviews school](https://interviews.school/)
 [The Guerrilla Guide to Interviewing (version 3.0) – Joel on Software](https://www.joelonsoftware.com/2006/10/25/the-guerrilla-guide-to-interviewing-version-30/)
+[Show HN: Free, anonymous coding interview practice | Hacker News](https://news.ycombinator.com/item?id=7978075)

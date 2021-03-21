@@ -19,3 +19,4 @@
 [Don't Offer a Free Plan | Hacker News](https://news.ycombinator.com/item?id=26059517)
 [Netflix's Annual Reports (10-Ks) used to be a work of art. What happened? | Hacker News](https://news.ycombinator.com/item?id=26043294)
 [Abundant Capital | Hacker News](https://news.ycombinator.com/item?id=26226723)
+[How to Run a Ponzi Scheme for Tech People | Hacker News](https://news.ycombinator.com/item?id=25248563)

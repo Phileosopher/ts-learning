@@ -31,3 +31,6 @@
 [I Still Use RSS | Hacker News](https://news.ycombinator.com/item?id=26014344)
 [A visual guide to SSH tunnels | Hacker News](https://news.ycombinator.com/item?id=26053323)
 [GitHub - manzinello/mailgo: 💌 mailgo, a new concept of mailto and tel links](https://github.com/manzinello/mailgo)
+[Show HN: Super Mail Forward, an HTML email that evolves as you forward it | Hacker News](https://news.ycombinator.com/item?id=10944795)
+[Lyra audio codec enables high-quality voice calls at 3 kbps bitrate | Hacker News](https://news.ycombinator.com/item?id=26300229)
+[Gitter now speaks Matrix | Hacker News](https://news.ycombinator.com/item?id=25334246)
