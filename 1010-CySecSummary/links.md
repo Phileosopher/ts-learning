@@ -40,6 +40,7 @@
 
 [Show HN: What every browser knows about you | Hacker News](https://news.ycombinator.com/item?id=11407536)
 [SpotifyKeyDumper – Dump song decryption keys from the Windows Spotify client | Hacker News](https://news.ycombinator.com/item?id=25017167)
+[Show HN: Extension-blocking domains removed by threat from other blacklists | Hacker News](https://news.ycombinator.com/item?id=14997799)
 
 ## Big Orgs
 

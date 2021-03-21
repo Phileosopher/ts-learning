@@ -25,3 +25,4 @@
 [We don't need data scientists, we need data engineers | Hacker News](https://news.ycombinator.com/item?id=25775872)
 [GitHub - therealsreehari/Learn-Datascience-For-Free](https://github.com/therealsreehari/Learn-Datascience-For-Free?utm_source=tldrnewsletter)
 [Show HN: Whoishiring.io – all tech jobs mapped out | Hacker News](https://news.ycombinator.com/item?id=13500701)
+[Show HN: NomadList – The best cities to live and work remotely in | Hacker News](https://news.ycombinator.com/item?id=8107222)

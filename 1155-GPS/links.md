@@ -14,6 +14,7 @@
 [Show HN: Give 7B people an instant physical address | Hacker News](https://news.ycombinator.com/item?id=12260958)
 [Meshtastic: Open-source, off-grid, hiking, climbing, GPS mesh communicator | Hacker News](https://news.ycombinator.com/item?id=25981327)
 [I Hate Coordinate Systems | Hacker News](https://news.ycombinator.com/item?id=24917394)
+[OpenStreetMap proven to be a highly accurate map in top US cities | Hacker News](https://news.ycombinator.com/item?id=26082428)
 
 ## Free Software
 

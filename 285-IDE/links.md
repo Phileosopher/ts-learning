@@ -1,5 +1,7 @@
 # IDEs
 
+[Show HN: Carbide – A New Programming Environment | Hacker News](https://news.ycombinator.com/item?id=12355102)
+
 # Vim
 
 [vim is turing complete](https://buttondown.email/hillelwayne/archive/vim-is-turing-complete/)

@@ -13,3 +13,4 @@
 [The Kubernetes Handbook](https://www.freecodecamp.org/news/the-kubernetes-handbook/)
 [Etcd, or, why modern software makes me sad | Hacker News](https://news.ycombinator.com/item?id=23833362)
 [Proxmox vs ESXi | b3n.org](https://b3n.org/proxmox-vs-esxi/)
+[Show HN: A virtual machine made with Google Sheets formulas (no script) | Hacker News](https://news.ycombinator.com/item?id=14703098)

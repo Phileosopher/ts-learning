@@ -83,3 +83,5 @@
 [GitHub - adamerose/PandasGUI: A GUI for Pandas DataFrames](https://github.com/adamerose/pandasgui)
 [Show HN: Tree of Reddit Sex Life | Hacker News](https://news.ycombinator.com/item?id=19640562)
 [Show HN: TensorFire | Hacker News](https://news.ycombinator.com/item?id=14894653)
+[Computer vision basics in Excel, using just formulas | Hacker News](https://news.ycombinator.com/item?id=22357374)
+[Show HN: AI Dungeon 2 – AI-generated text adventure built with 1.5B param GPT-2 | Hacker News](https://news.ycombinator.com/item?id=21717022)

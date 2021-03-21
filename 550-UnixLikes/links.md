@@ -61,3 +61,6 @@
 [When Amazon Switched from Sun to Linux | Hacker News](https://news.ycombinator.com/item?id=25693618)
 [Sick Codes - Linux, NetSec, VPS, Arch, Debian, CentOS Tweaks & Tips!](https://sick.codes/)
 [Introducing the next generation of Mac | Hacker News](https://news.ycombinator.com/item?id=25049528)
+[Show HN: Twitch Installs Arch Linux – A cooperative text-based horror game | Hacker News](https://news.ycombinator.com/item?id=10477721)
+[Show HN: Primitive for macOS | Hacker News](https://news.ycombinator.com/item?id=12958445)
+[Show HN: Htop 2.0 released, now cross-platform | Hacker News](https://news.ycombinator.com/item?id=11077823)

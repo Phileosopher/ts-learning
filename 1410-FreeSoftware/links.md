@@ -19,6 +19,7 @@ https://wiki.gnome.org/Projects
 - Consider step-by-step from Stripped documentary for how Free can be monetized
 
 [No More Free Work from Marak: Pay Me or Fork This | Hacker News](https://news.ycombinator.com/item?id=25032105)
+[The Nintendo Switch uses my open source code | Hacker News](https://news.ycombinator.com/item?id=25186890)
 
 ## Nonprofits
 

@@ -45,8 +45,7 @@
 [Programming for Cats | Hacker News](https://news.ycombinator.com/item?id=26047238)
 [I'm the high QA guy. Let me test your website | Hacker News](https://news.ycombinator.com/item?id=26042416)
 [Complexity Explained | Hacker News](https://news.ycombinator.com/item?id=26045835)
-[Supercookie: Browser Fingerprinting via Favicon | Hacker News](https://news.ycombinator.com/item?id=26051370)
-[OpenStreetMap proven to be a highly accurate map in top US cities | Hacker News](https://news.ycombinator.com/item?id=26082428)
+
 [José Valim Reveals “Project Nx” (Numerical Elixir) \[audio\] | Hacker News](https://news.ycombinator.com/item?id=26076680)
 [Viral 'I'm not a cat' filter is decades-old software | Hacker News](https://news.ycombinator.com/item?id=26093070)
 [Timezone Bullshit | Hacker News](https://news.ycombinator.com/item?id=26087502)
@@ -60,8 +59,6 @@
 [Draw an iceberg and see how it would float in water | Hacker News](https://news.ycombinator.com/item?id=26201160)
 [“I will slaughter you” | Hacker News](https://news.ycombinator.com/item?id=26192025)
 [Lena | Hacker News](https://news.ycombinator.com/item?id=26224835)
-[Total Cookie Protection | Hacker News](https://news.ycombinator.com/item?id=26237404)
-[Bitfinex and Tether required to end all trading activity with New Yorkers | Hacker News](https://news.ycombinator.com/item?id=26236739)
 [Show HN: I wrote a book about using data science to solve “everyday” problems | Hacker News](https://news.ycombinator.com/item?id=26253281)
 [DigitalOcean S-1 | Hacker News](https://news.ycombinator.com/item?id=26262465)
 [The Framework Laptop | Hacker News](https://news.ycombinator.com/item?id=26263508)

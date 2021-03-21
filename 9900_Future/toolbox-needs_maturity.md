@@ -33,6 +33,7 @@ i.e., the site is either too new that it's barely useful, or I need to wait some
 
 [Show HN: Call a Dev – Pay Stack Overflow users $1/min for live programming help | Hacker News](https://news.ycombinator.com/item?id=26226805)
 [Show HN: Explore ideas whose patent protection expires today | Hacker News](https://news.ycombinator.com/item?id=13309025)
+[Show HN: CSSFX – Click-to-copy CSS effects | Hacker News](https://news.ycombinator.com/item?id=19858015)
 
 ## Check Back 01/2022
 
@@ -41,3 +42,7 @@ i.e., the site is either too new that it's barely useful, or I need to wait some
 [Show HN: I mapped US medical prices. Save thousands by driving a few miles | Hacker News](https://news.ycombinator.com/item?id=6864584)
 
 - will need to verify if anyone made a healthcare comparison app
+
+[Show HN: I made a platform for journalists to “open source” their fact checking | Hacker News](https://news.ycombinator.com/item?id=19572514)
+
+- May be something like my "news defaker", and may even be worth contacting once I'm more savvy

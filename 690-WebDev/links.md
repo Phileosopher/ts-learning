@@ -1,5 +1,9 @@
 # Deploying
 
+[1MB Club | Hacker News](https://news.ycombinator.com/item?id=25151773)
+
+- It's my dream to get AL, GIS, TLS, ES, maybe TS on that list
+
 [Show HN: Web Design in 4 minutes | Hacker News](https://news.ycombinator.com/item?id=12166687)
 [What happens when you launch Google Chrome for the first time? | Hacker News](https://news.ycombinator.com/item?id=20794937)
 [The web is 30 years old today | Hacker News](https://news.ycombinator.com/item?id=25485651)
@@ -51,9 +55,13 @@
 [HTTPWTF | Hacker News](https://news.ycombinator.com/item?id=26343577)
 [Show HN: Exposé – a static site generator for photos and videos | Hacker News](https://news.ycombinator.com/item?id=10376468)
 [Build an Instagram Clone with React Native, Firebase Firestore, Redux, and Expo](https://www.freecodecamp.org/news/build-an-instagram-clone-with-react-native-firebase-firestore-redux-and-expo/)
+[Show HN: This page exists only if someone is looking at it | Hacker News](https://news.ycombinator.com/item?id=9531265)
 
 ## Browsers
 
 [Firefox Was Always Enough | Hacker News](https://news.ycombinator.com/item?id=25443152)
 [luruke/browser-2020: Things you can do with a browser in 2020 ☕️](https://github.com/luruke/browser-2020)
 [MDN Web Docs](https://developer.mozilla.org/en-US/)
+[Show HN: Websites in 2018 | Hacker News](https://news.ycombinator.com/item?id=18284910)
+[Total Cookie Protection | Hacker News](https://news.ycombinator.com/item?id=26237404)
+[Supercookie: Browser Fingerprinting via Favicon | Hacker News](https://news.ycombinator.com/item?id=26051370)

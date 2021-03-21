@@ -5,6 +5,7 @@
 [Alan Kay's answer to ‘what are some forgotten books programmers should read?’ | Hacker News](https://news.ycombinator.com/item?id=20653453)
 [Ask HN: Best books you read in the past decade? | Hacker News](https://news.ycombinator.com/item?id=21900498)
 [Show HN: Top books mentioned in comments on Hacker News | Hacker News](https://news.ycombinator.com/item?id=12365693)
+[Show HN: DevFreeBooks – A collection of free books for developers | Hacker News](https://news.ycombinator.com/item?id=12909967)
 
 ## Online Interactive Books
 

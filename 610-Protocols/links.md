@@ -34,3 +34,4 @@
 [Show HN: Super Mail Forward, an HTML email that evolves as you forward it | Hacker News](https://news.ycombinator.com/item?id=10944795)
 [Lyra audio codec enables high-quality voice calls at 3 kbps bitrate | Hacker News](https://news.ycombinator.com/item?id=26300229)
 [Gitter now speaks Matrix | Hacker News](https://news.ycombinator.com/item?id=25334246)
+[Bitfinex and Tether required to end all trading activity with New Yorkers | Hacker News](https://news.ycombinator.com/item?id=26236739)

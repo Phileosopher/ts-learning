@@ -171,3 +171,4 @@
 [Show HN: Primo – all-in-one IDE, CMS, component library, static site generator | Hacker News](https://news.ycombinator.com/item?id=23820201)
 [Show HN: Firebase, a scalable real-time backend | Hacker News](https://news.ycombinator.com/item?id=3832877)
 [Show HN: Front-end framework optimized for internal apps | Hacker News](https://news.ycombinator.com/item?id=8699167)
+[Rebuilding our tech stack for the new facebook.com | Hacker News](https://news.ycombinator.com/item?id=23116300)

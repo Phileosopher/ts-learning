@@ -8,3 +8,4 @@
 [How I Built a Web Scraper with Beautiful Soup and Used it to Land My First Job](https://www.freecodecamp.org/news/how-i-used-a-side-project-to-land-a-job/)
 [Show HN: RegEx for Regular Folk – A visual, example-based introduction | Hacker News](https://news.ycombinator.com/item?id=23042079)
 [Speed Is the Killer Feature | Hacker News](https://news.ycombinator.com/item?id=26312516)
+[Show HN: %%30%30: A Game | Hacker News](https://news.ycombinator.com/item?id=10249362)

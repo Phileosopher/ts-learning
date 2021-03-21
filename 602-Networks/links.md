@@ -43,3 +43,4 @@
 [GitHub - jitsucom/eventnative: EventNative is an open-source data collection framework](https://github.com/jitsucom/eventnative)
 [Proxmox - Powerful open-source server solutions](https://www.proxmox.com/en/)
 [Show HN: Router7 – A pure-Go implementation of a small home internet router | Hacker News](https://news.ycombinator.com/item?id=17530086)
+[We can do better than DuckDuckGo | Hacker News](https://news.ycombinator.com/item?id=25127371)

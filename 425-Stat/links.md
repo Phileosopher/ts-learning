@@ -16,3 +16,4 @@
 [The Monty Hall Problem](https://www.philosophyexperiments.com/montyhall/Default.aspx)
 [Are You Trading or Gambling? | Hacker News](https://news.ycombinator.com/item?id=26283650)
 [Show HN: A Set of Dice That Follows the Gambler's Fallacy | Hacker News](https://news.ycombinator.com/item?id=14805265)
+[Better Bayesian Filtering](http://paulgraham.com/better.html)
