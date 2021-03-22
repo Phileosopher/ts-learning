@@ -54,3 +54,4 @@
 [Google Analytics: Stop feeding the beast | Hacker News](https://news.ycombinator.com/item?id=26263149)
 [A free-as-in-freedom re-implementation of Google’s Android user space | Hacker News](https://news.ycombinator.com/item?id=25252598)
 [A tech antitrust problem no one is talking about: US broadband providers | Hacker News](https://news.ycombinator.com/item?id=24967472)
+[Backblaze submitting names and sizes of files in B2 buckets to Facebook | Hacker News](https://news.ycombinator.com/item?id=26536019)

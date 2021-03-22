@@ -30,7 +30,7 @@
 [Beej's Guide to Network Programming | Hacker News](https://news.ycombinator.com/item?id=26100075)
 [How Cubans make island Internet work for them | Ars Technica](https://arstechnica.com/information-technology/2021/02/how-cubans-make-island-internet-work-for-them/?utm_source=tldrnewsletter)
 [How to install a VPN on your router | NordVPN](https://nordvpn.com/blog/setup-vpn-router/?utm_source=Onboarding&utm_medium=email&utm_campaign=Routers_S)
-[http://infocenter.cramsession.com/techlibrary/GetPrint.asp?ArticleID=1871&submit2.x=50&submit2.y=23 - Understanding Interference and Attenuation.pdf](https://www.toadworld.net/Student%20Info/Archive/Articles/Understanding%20Interference%20and%20Attenuation.pdf)
+[https://infocenter.cramsession.com/techlibrary/GetPrint.asp?ArticleID=1871&submit2.x=50&submit2.y=23 - Understanding Interference and Attenuation.pdf](https://www.toadworld.net/Student%20Info/Archive/Articles/Understanding%20Interference%20and%20Attenuation.pdf)
 [PeerJS - Simple peer-to-peer with WebRTC](https://peerjs.com/)
 [Termshark – A terminal UI for tshark, inspired by Wireshark | Hacker News](https://news.ycombinator.com/item?id=19725290)
 [GNUnet](https://gnunet.org/en/)

@@ -23,7 +23,7 @@ export class MyGraphics {
    public polyPts:any          = ""; 
 
    public colors = ["#ff0000","#00ff00","#ffc800","#0000ff"];
-   public svgns  = "http://www.w3.org/2000/svg";
+   public svgns  = "https://www.w3.org/2000/svg";
 
    private generateBarHeights() {
      for(let i=0; i<this.barCount; i++) { 

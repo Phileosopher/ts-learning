@@ -25,7 +25,7 @@ export class AuthService {
   private loginUrl = this.apiUrl + '/login';
 
   constructor(
-    private http: HttpClient,
+    private https: HttpClient,
     private router: Router) {}
 
   onRegister(user: User): Observable<User> {

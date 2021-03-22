@@ -88,7 +88,7 @@ static void setup_buffers(void)
 /* The Linux kernel way of error handling - via a 'centralized exit' path
  * via local goto's. Not convinced of it's efficacy? *Please* do read:
  * https://www.kernel.org/doc/html/v4.15/process/coding-style.html#centralized-exiting-of-functions
- * http://koblents.com/Ches/Links/Month-Mar-2013/20-Using-Goto-in-Linux-Kernel-Code/
+ * https://koblents.com/Ches/Links/Month-Mar-2013/20-Using-Goto-in-Linux-Kernel-Code/
  */
 static int setup_buffers_goto(void)
 {

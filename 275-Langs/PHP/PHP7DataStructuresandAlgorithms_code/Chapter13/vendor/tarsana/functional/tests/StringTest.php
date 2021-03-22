@@ -46,14 +46,14 @@ class StringTest extends \Tarsana\UnitTests\Functional\UnitTest {
 	}
 
 	public function test_startsWith() {
-		$http = F\startsWith('http://');
-		$this->assertEquals(true, $http('http://gitbub.com'));
+		$http = F\startsWith('https://');
+		$this->assertEquals(true, $http('https://gitbub.com'));
 		$this->assertEquals(false, $http('gitbub.com'));
 	}
 
 	public function test_endsWith() {
 		$dotCom = F\endsWith('.com');
-		$this->assertEquals(true, $dotCom('http://gitbub.com'));
+		$this->assertEquals(true, $dotCom('https://gitbub.com'));
 		$this->assertEquals(false, $dotCom('php.net'));
 	}
 

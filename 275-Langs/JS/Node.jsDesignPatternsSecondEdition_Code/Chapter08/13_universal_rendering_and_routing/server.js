@@ -33,5 +33,5 @@ server.listen(3000, (err) => {
   if (err) {
     return console.error(err);
   }
-  console.info('Server running on http://localhost:3000');
+  console.info('Server running on https://localhost:3000');
 });

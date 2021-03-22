@@ -43,7 +43,7 @@
 [GitHub - OWASP/CheatSheetSeries: The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics.](https://github.com/OWASP/CheatSheetSeries)
 [OpenVAS - OpenVAS - Open Vulnerability Assessment Scanner](https://www.openvas.org/)
 [pfSense® - World's Most Trusted Open Source Firewall](https://www.pfsense.org/)
-[Encrirc - Client independent encryption proxy for IRC](http://www.hping.org/encrirc/)
+[Encrirc - Client independent encryption proxy for IRC](https://www.hping.org/encrirc/)
 [KC Softwares](https://kcsoftwares.com/?masscert)
 [Explanation of the state of uBlock Origin and other blockers for Safari | Hacker News](https://news.ycombinator.com/item?id=21025252)
 [Ghidra, NSA's reverse-engineering tool | Hacker News](https://news.ycombinator.com/item?id=19315273)
@@ -52,3 +52,4 @@
 [Show HN: Airborn – Private Google Docs Alternative | Hacker News](https://news.ycombinator.com/item?id=15596304)
 [Okta to Acquire Auth0 for $6.5B | Hacker News](https://news.ycombinator.com/item?id=26334516)
 [Fake\_contacts: Android app to create fake phone contacts, to do data-poisoning | Hacker News](https://news.ycombinator.com/item?id=26286194)
+[cisagov/CHIRP: A forensic collection tool written in Python.](https://github.com/cisagov/CHIRP?utm_source=tldrnewsletter)

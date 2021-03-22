@@ -20,4 +20,4 @@ yarn install
 yarn start
 ```
 
-The web admin should be available at http://localhost:3000/
+The web admin should be available at https://localhost:3000/

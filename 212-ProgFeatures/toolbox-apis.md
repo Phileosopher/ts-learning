@@ -7,7 +7,7 @@ JavaScript API for face detection and face recognition in the browser and Nodejs
 
 ### [Zoom Video Call](https://marketplace.zoom.us/docs/api-reference/zoom-api)
 
-The Zoom API is the primary means for developers to access a collection of resources from Zoom. The Zoom API allows developers to safely and securely access information from Zoom. You can use this API to build private services or public applications on the Zoom App Marketplace. To learn how to get your credentials and create private/public applications, read our Authorization Guide. All endpoints are available via HTTPS and are located at [api.zoom.us/v2](http://api.zoom.us/v2/).
+The Zoom API is the primary means for developers to access a collection of resources from Zoom. The Zoom API allows developers to safely and securely access information from Zoom. You can use this API to build private services or public applications on the Zoom App Marketplace. To learn how to get your credentials and create private/public applications, read our Authorization Guide. All endpoints are available via HTTPS and are located at [api.zoom.us/v2](https://api.zoom.us/v2/).
 
 ### [Human API](https://rapidapi.com/humanapi/api/human/endpoints)
 
@@ -93,7 +93,7 @@ IP geolocation with ChatOps integration.
 
 Freelance job board and management system. Upwork Developers Site offers you access to our web services to build your own applications and to integrate our features and workflow to your dashboards, websites, and management systems. Please read the Terms of use prior to using the Upwork Public API. This API lets you create Job Postings, manage existing contracts, make custom payments, close contracts, manage activities for your team, manage/send/receive messages, retrieve time and financial reports, manage work diary, and retrieve metadata information related to available categories/tests/skills and regions.
 
-### [The Open Movie Database](http://www.omdbapi.com/)
+### [The Open Movie Database](https://www.omdbapi.com/)
 
 The OMDb API is a RESTful web service to obtain movie information, all content and images on the site are contributed and maintained by our users. This API allows you to search a title by its name, year, plot and returns a response in either JSON or XML.
 
@@ -153,6 +153,6 @@ Embed codes for videos of all the latest goals and highlights. We decided to mak
 
 The foundation of all digital integrations with LinkedIn. The REST API is the heart of all programmatic interactions with LinkedIn. All other methods of interacting, such as the JavaScript and Mobile SDKs, are simply wrappers around the REST API to provide an added level of convenience for developers. As a result, even if you are doing mobile or JavaScript development, it's still worth taking the time to familiarize yourself with how the REST API works and what it can do for you...
 
-### [JSONPlaceholder](http://jsonplaceholder.typicode.com/)
+### [JSONPlaceholder](https://jsonplaceholder.typicode.com/)
 
 Fake data for testing and prototyping

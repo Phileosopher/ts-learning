@@ -2,7 +2,7 @@ using namespace System.Xml.Linq
 
 [XDocument]$xDocument = @"
 <?xml version="1.0"?>
-<cars xmlns:c="http://example/cars">
+<cars xmlns:c="https://example/cars">
     <car type="Saloon">
         <c:colour>Green</c:colour>
         <c:doors>4</c:doors>
@@ -15,7 +15,7 @@ using namespace System.Xml.Linq
 </cars>
 "@
 
-$xNScars = [XNameSpace]'http://example/cars'
+$xNScars = [XNameSpace]'https://example/cars'
 $xDocument.Descendants('car').ForEach( {
     $_.Element($xNScars + 'engine')
 } )

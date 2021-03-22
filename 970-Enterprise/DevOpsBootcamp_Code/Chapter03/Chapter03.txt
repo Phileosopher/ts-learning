@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
-<tomcat-users xmlns="http://tomcat.apache.org/xml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-xsi:schemaLocation="http://tomcat.apache.org/xml tomcat-users.xsd" version="1.0">
+<tomcat-users xmlns="https://tomcat.apache.org/xml" xmlns:xsi="https://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="https://tomcat.apache.org/xml tomcat-users.xsd" version="1.0">
 <!--
 NOTE: The sample user and role entries below are intended for use with the examples web application. They are wrapped in a comment and thus are ignored when reading this file. If you wish to configure these users for use with the examples web application, do not forget to remove the <!....> that surrounds them. You will also need to set the passwords to something appropriate.
 -->

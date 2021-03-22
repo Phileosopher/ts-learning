@@ -54,7 +54,7 @@ Why is modern web development so complicated
   https://www.vrk.dev/2019/07/11/why-is-modern-web-development-so-complicated-a-long-yet-hasty-explanation-part-1/
   https://news.ycombinator.com/item?id=20637849
 Learn how to write jekyll plugins
-http://webdevchecklist.com/ - Mobile
+https://webdevchecklist.com/ - Mobile
   Mobile-Friendly Test
     Mobile Friendly checker
   Use 'viewport' meta-tag

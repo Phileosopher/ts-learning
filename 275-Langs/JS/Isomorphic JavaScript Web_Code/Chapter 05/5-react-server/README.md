@@ -37,7 +37,7 @@ To build the project and start a development web server run:
 $ npm run serve
 ```
 
-Then open [http://localhost:3000/](http://localhost:3000/) in your browser to test the app.
+Then open [https://localhost:3000/](https://localhost:3000/) in your browser to test the app.
 
 ### Copyright
 

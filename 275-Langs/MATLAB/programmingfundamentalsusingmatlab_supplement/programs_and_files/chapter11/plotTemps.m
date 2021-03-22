@@ -50,7 +50,7 @@ months1 = months1.';
 x1 = (1:length(y1))/(24*4);
 % plot(x1,y1)
 % The line below is adapted
-% from http://www.mathworks.com/matlabcentral/answers/
+% from https://www.mathworks.com/matlabcentral/answers/
 % 43376-why-is-the-autocolor-green-of-plot-not-the-same-as-plotting-g
 plot(x1,y1(:,2),'color',[0 0.4 0.1])
 hold on

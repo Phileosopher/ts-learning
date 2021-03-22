@@ -20,7 +20,7 @@ import math
 
 # A Binary Search Tree.
 #
-# http://en.wikipedia.org/wiki/Binary_search_tree
+# https://en.wikipedia.org/wiki/Binary_search_tree
 #
 import collections.abc
 import weakref

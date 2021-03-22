@@ -1,9 +1,9 @@
 import lxml.html
 from lxml.etree import XPath
 
-baseUrl = "http://books.toscrape.com/"
-bookUrl = "http://books.toscrape.com/catalogue/category/books/food-and-drink_33/index.html"
-pageUrl = "http://books.toscrape.com/catalogue/category/books/food-and-drink_33/page-"
+baseUrl = "https://books.toscrape.com/"
+bookUrl = "https://books.toscrape.com/catalogue/category/books/food-and-drink_33/index.html"
+pageUrl = "https://books.toscrape.com/catalogue/category/books/food-and-drink_33/page-"
 
 dataSet = []
 page=1

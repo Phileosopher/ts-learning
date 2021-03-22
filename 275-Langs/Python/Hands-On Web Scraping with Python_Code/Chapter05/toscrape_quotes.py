@@ -1,6 +1,6 @@
 '''
 Listing Quotes from first 5 or less pages found
-from 'http://quotes.toscrape.com/'
+from 'https://quotes.toscrape.com/'
 '''
 
 import requests
@@ -8,7 +8,7 @@ import re
 from bs4 import BeautifulSoup
 import csv
 
-sourceUrl = 'http://quotes.toscrape.com/'
+sourceUrl = 'https://quotes.toscrape.com/'
 keys = ['quote_tags','author_url','author_name','born_date','born_location','quote_title']
 
 
@@ -39,7 +39,7 @@ def get_details(page, dataWriter):
                     print(title, ' : ', author,' : ',authorLink, ' : ',tags)
 
                     if authorLink:
-                        authorLink = 'http://quotes.toscrape.com' + authorLink
+                        authorLink = 'https://quotes.toscrape.com' + authorLink
                         linkDetail = read_url(authorLink)
                         soupInner = BeautifulSoup(linkDetail, 'lxml')
 

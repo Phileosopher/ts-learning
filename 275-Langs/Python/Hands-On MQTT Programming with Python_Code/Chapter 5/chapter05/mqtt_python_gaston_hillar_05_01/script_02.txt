@@ -1,6 +1,6 @@
 # Book: Hands-On MQTT Programming with Python
 # Author: Gaston C. Hillar - Twitter.com/gastonhillar
-# Publisher: Packt Publishing Ltd. - http://www.packtpub.com
+# Publisher: Packt Publishing Ltd. - https://www.packtpub.com
 # Replace 192.168.1.1 with the IP or hostname for the Mosquitto
 # or other MQTT server
 # Make sure the IP or hostname matches the value 

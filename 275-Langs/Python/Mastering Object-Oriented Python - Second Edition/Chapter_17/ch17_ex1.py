@@ -330,8 +330,8 @@ def ackermann(m: int, n: int) -> int:
     """Ackermann's Function
     ackermann(m, n) = $2 \\uparrow^{m-2} (n+3)-3$
 
-    See http://en.wikipedia.org/wiki/Ackermann_function and
-    http://en.wikipedia.org/wiki/Knuth%27s_up-arrow_notation.
+    See https://en.wikipedia.org/wiki/Ackermann_function and
+    https://en.wikipedia.org/wiki/Knuth%27s_up-arrow_notation.
 
     >>> from Chapter_17.ch17_ex1 import ackermann
     >>> ackermann(2,4)

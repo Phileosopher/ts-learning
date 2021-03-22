@@ -1,6 +1,6 @@
 #! /bin/sh
 
-transcode_url="http://localhost:8080/api/transcode/v1/flac"
+transcode_url="https://localhost:8080/api/transcode/v1/flac"
 date
 echo "encoding file 0"
 curl -X POST --data-binary @banjo0.mp3 $transcode_url/banjo0 &

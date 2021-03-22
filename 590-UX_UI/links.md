@@ -7,7 +7,7 @@
 [Learn UI design fundamentals with this free one-hour course](https://www.freecodecamp.org/news/learn-ui-design-fundamentals-with-this-free-one-hour-course/)
 [Responsive Web Design – How to Make a Website Look Good on Phones and Tablets](https://www.freecodecamp.org/news/responsive-web-design-how-to-make-a-website-look-good-on-phones-and-tablets/)
 [Scrollbar Blindness | Hacker News](https://news.ycombinator.com/item?id=24293421)
-[How to Create a WordPress Contact Form Without a Plugin | Wissam Dandan](http://wissamdandan.com/how-to-create-a-wordpress-contact-form-without-a-plugin/)
+[How to Create a WordPress Contact Form Without a Plugin | Wissam Dandan](https://wissamdandan.com/how-to-create-a-wordpress-contact-form-without-a-plugin/)
 [Full Screen Landing Page Design | Dark and Light Mode | Html, CSS and JavaScript Tutorial - YouTube](https://www.youtube.com/watch?v=mveB_KJ7m78&app=desktop)
 [How to Recreate the Ripple Effect of Material Design Buttons | CSS-Tricks](https://css-tricks.com/how-to-recreate-the-ripple-effect-of-material-design-buttons/)
 [What is a Wireframe? This UX Design Tutorial Will Show You.](https://www.freecodecamp.org/news/what-is-a-wireframe-ux-design-tutorial-website/)

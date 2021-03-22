@@ -4,4 +4,4 @@ https://tls-kdh.arpa2.net/
 https://realm-xover.arpa2.net/
 https://steamworks.arpa2.net/
 https://snitch.arpa2.net/
-http://reservoir.arpa2.net/
+https://reservoir.arpa2.net/

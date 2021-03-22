@@ -36,7 +36,7 @@ use Illuminate\Database\Eloquent\Model;
  *          property="picture",
  *          type="string",
  *          description="Bike image URL",
- *          example="http://www.sample.com/my.bike.jpg"
+ *          example="https://www.sample.com/my.bike.jpg"
  *    ),
  *    @SWG\Property(
  *          property="builder_id",

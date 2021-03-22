@@ -1,3 +1,3 @@
 """Definitions"""
 
-STATUS_ENDPOINT = "http://localhost:8080/mrstatus"
+STATUS_ENDPOINT = "https://localhost:8080/mrstatus"

@@ -23,12 +23,12 @@ export class AppComponent {
 //postData = [];
   postData:any = [];
 
-  constructor(@Inject(HttpClient) public http:HttpClient) { 
+  constructor(@Inject(HttpClient) public https:HttpClient) { 
   }
 
   httpRequest() {  
   //this.http.get('localhost:3000/authors')
-    this.http.get('http://localhost:3000/posts')
+    this.http.get('https://localhost:3000/posts')
       .subscribe(
         data => this.postData = JSON.stringify(data),
         err => console.log('error getting data: '+err),

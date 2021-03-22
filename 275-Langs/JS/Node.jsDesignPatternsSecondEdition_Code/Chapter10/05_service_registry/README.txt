@@ -19,9 +19,9 @@ Start a set of sample HTTP services
   node app webapp-service
   
 Hit the load balancer at the address:
-  http://localhost:8080
+  https://localhost:8080
 Or
-  http://localhost:8080/api
+  https://localhost:8080/api
   
 Try to start and stop the servers to see the load balancer automatically
 adapting to the changes.

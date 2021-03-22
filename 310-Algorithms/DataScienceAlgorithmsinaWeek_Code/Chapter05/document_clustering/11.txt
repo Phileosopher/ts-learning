@@ -105,7 +105,7 @@ We would prefer to send you this information by email.
 ******
 
 To access Project Gutenberg etexts, use any Web browser
-to view http://promo.net/pg.  This site lists Etexts by
+to view https://promo.net/pg.  This site lists Etexts by
 author and by title, and includes information about how
 to get involved with Project Gutenberg.  You could also
 download our past Newsletters, or subscribe here.  This
@@ -115,7 +115,7 @@ for a more complete list of our various sites.
 To go directly to the etext collections, use FTP or any
 Web browser to visit a Project Gutenberg mirror (mirror
 sites are available on 7 continents; mirrors are listed
-at http://promo.net/pg).
+at https://promo.net/pg).
 
 Mac users, do NOT point and click, typing works better.
 

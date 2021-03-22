@@ -5,7 +5,7 @@ To try the sample, first start the server:
   node app
   
 Then with a browser navigate to the url:
-  http://localhost:8000/say
+  https://localhost:8000/say
 
 The expected result should always be a message containing the current
 time, like the following:

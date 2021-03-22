@@ -15,7 +15,7 @@ import * as $ from "jquery";
 })
 export class AppComponent {
   imageCount = 4;
-  url = "http://api.flickr.com/services/feeds/photos_public.gne?jsoncallback=?";
+  url = "https://api.flickr.com/services/feeds/photos_public.gne?jsoncallback=?";
 
   constructor() {} 
 

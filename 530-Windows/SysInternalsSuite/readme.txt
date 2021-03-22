@@ -1,5 +1,5 @@
 The Sysinternals Troubleshooting Utilities have been rolled up into a single Suite of tools. This file contains the individual troubleshooting tools and help files. It does not contain non-troubleshooting tools like the BSOD Screen Saver or NotMyFault.
-For more information about Sysinternals and these utilities, please visit the website - http://technet.microsoft.com/sysinternals
+For more information about Sysinternals and these utilities, please visit the website - https://technet.microsoft.com/sysinternals
 
 The Suite is a bundling of the following selected Sysinternals Utilities:
 
@@ -27,13 +27,13 @@ ClockRes - View the resolution of the system clock, which is also the maximum ti
 
 Contig - Wish you could quickly defragment your frequently used files? Use Contig to optimize individual files, or to create new files that are contiguous.
 
-Coreinfo - Coreinfo is a new command-line utility that shows you the mapping between logical processors and the physical processor, NUMA node, and socket on which they reside, as well as the cache’s assigned to each logical processor.
+Coreinfo - Coreinfo is a new command-line utility that shows you the mapping between logical processors and the physical processor, NUMA node, and socket on which they reside, as well as the cacheï¿½s assigned to each logical processor.
 
 Ctrl2cap - This is a kernel-mode driver that demonstrates keyboard input filtering just above the keyboard class driver in order to turn caps-locks into control keys. Filtering at this level allows conversion and hiding of keys before NT even "sees" them. Ctrl2cap also shows how to use NtDisplayString() to print messages to the initialization blue-screen.
 
 DebugView - Another first from Sysinternals: This program intercepts calls made to DbgPrint by device drivers and OutputDebugString made by Win32 programs. It allows for viewing and recording of debug session output on your local machine or across the Internet without an active debugger.
 
-Desktops - This new utility enables you to create up to four virtual desktops and to use a tray interface or hotkeys to preview what’s on each desktop and easily switch between them.
+Desktops - This new utility enables you to create up to four virtual desktops and to use a tray interface or hotkeys to preview whatï¿½s on each desktop and easily switch between them.
 
 Disk2vhd - Disk2vhd simplifies the migration of physical systems into virtual machines (p2v).
 

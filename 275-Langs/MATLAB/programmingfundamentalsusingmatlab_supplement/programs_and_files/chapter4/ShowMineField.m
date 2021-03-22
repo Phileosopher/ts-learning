@@ -21,7 +21,7 @@
 % display a '.' (or '@' if there is a flag). If there are no mines 
 % around, show a space ' '. If there are mines around, show the number, 
 % e.g., '2'. If there is a mine there, show a '*'."
-% [http://carmaux.cs.gsu.edu/~mweeks/csc4630/hmwk2.html]
+% [https://carmaux.cs.gsu.edu/~mweeks/csc4630/hmwk2.html]
 %
 % Example:
 %   mines = [0, 1, 1; 1, -1, 2; 1, 2, -1];

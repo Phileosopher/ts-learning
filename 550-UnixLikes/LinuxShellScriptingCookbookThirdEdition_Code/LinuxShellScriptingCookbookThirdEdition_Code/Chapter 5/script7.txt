@@ -23,7 +23,7 @@ fi
 
 
 curl --silent \
- http://www.dictionaryapi.com/api/v1/references/learners/xml/$1?key=$apikey | \
+ https://www.dictionaryapi.com/api/v1/references/learners/xml/$1?key=$apikey | \
 
 grep -o \<dt\>.*\</dt\> | \
 

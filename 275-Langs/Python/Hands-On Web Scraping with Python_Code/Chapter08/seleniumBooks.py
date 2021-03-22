@@ -3,7 +3,7 @@ from selenium.common.exceptions import NoSuchElementException
 
 chrome_path = 'chromedriver'
 driver = webdriver.Chrome(executable_path=chrome_path)
-driver.get('http://books.toscrape.com/index.html')
+driver.get('https://books.toscrape.com/index.html')
 
 dataSet = []
 # select: Food and Drink

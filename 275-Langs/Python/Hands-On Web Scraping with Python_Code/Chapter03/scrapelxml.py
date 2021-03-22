@@ -1,6 +1,6 @@
 import lxml.html
   
-musicUrl= "http://books.toscrape.com/catalogue/category/books/music_14/index.html"
+musicUrl= "https://books.toscrape.com/catalogue/category/books/music_14/index.html"
 doc = lxml.html.parse(musicUrl)
 
 #base element
@@ -15,7 +15,7 @@ starRating = articles.xpath("//p[contains(@class,'star-rating')]/@class")
 
 #cleaning and formatting 
 stock = list(map(lambda stock:stock.strip(),availability))
-images = list(map(lambda img:img.replace('../../../..','http://books.toscrape.com'),imageUrl))
+images = list(map(lambda img:img.replace('../../../..','https://books.toscrape.com'),imageUrl))
 rating = list(map(lambda rating:rating.replace('star-rating ',''),starRating))
 
 print(title)

@@ -259,8 +259,8 @@ def ackermann(m, n):
     """Ackermann's Function
     ackermann(m, n) = $2 \\uparrow^{m-2} (n+3)-3$
 
-    See http://en.wikipedia.org/wiki/Ackermann_function and
-    http://en.wikipedia.org/wiki/Knuth%27s_up-arrow_notation.
+    See https://en.wikipedia.org/wiki/Ackermann_function and
+    https://en.wikipedia.org/wiki/Knuth%27s_up-arrow_notation.
 
     >>> ackermann(2,4)
     11

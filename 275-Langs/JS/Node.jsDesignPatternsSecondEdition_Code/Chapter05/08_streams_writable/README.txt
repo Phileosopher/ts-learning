@@ -7,4 +7,4 @@ To run the example you need to:
 
 than you will be able to point your browser to:
 
-  http://localhost:8080
+  https://localhost:8080

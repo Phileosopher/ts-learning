@@ -4,7 +4,7 @@ params = {'custname':'Mr. ABC','custtel':'','custemail':'abc@somedomain.com',
 headers={
     'Accept':'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
     'Content-Type':'application/x-www-form-urlencoded',
-    'Referer':'http://httpbin.org/forms/post'
+    'Referer':'https://httpbin.org/forms/post'
     }
-response = requests.post('http://httpbin.org/post',data=params,headers=headers).json()
+response = requests.post('https://httpbin.org/post',data=params,headers=headers).json()
 print(response)

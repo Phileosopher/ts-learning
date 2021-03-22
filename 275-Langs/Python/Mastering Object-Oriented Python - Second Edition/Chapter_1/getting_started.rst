@@ -5,19 +5,19 @@ In order to run the examples mentioned in this book you require the following so
 We'll look at some additional packages. These include PyYaml, SQLAlchemy, and Jinja2.
 We'll use pytest for doing unit testing.
 
-- http://pyyaml.org
+- https://pyyaml.org
 
-- http://www.sqlalchemy.org When building this, check the installation guide, http://docs.sqlalchemy.org/en/rel_0_9/intro.html#installation. Using the --without-cextensions option can simplify installation.
+- https://www.sqlalchemy.org When building this, check the installation guide, https://docs.sqlalchemy.org/en/rel_0_9/intro.html#installation. Using the --without-cextensions option can simplify installation.
 
-- http://jinja.pocoo.org/
+- https://jinja.pocoo.org/
 
 We'll also look at some tools:
 
 - https://docs.pytest.org/en/latest/index.html
 
-- http://sphinx-doc.org
+- https://sphinx-doc.org
 
-- http://mypy-lang.org
+- https://mypy-lang.org
 
 - https://www.pylint.org
 
@@ -28,7 +28,7 @@ There two alternative approaches to these installations.
 
 -   From Python.org
 
-    1.  Install Python 3.7 from http://www.python.org. This will change your OS-level ``PATH`` settings.
+    1.  Install Python 3.7 from https://www.python.org. This will change your OS-level ``PATH`` settings.
         This usually means you need to start a new terminal session to make your new Python tools available.
 
     2.  Use your new pip3 to install the other packages:

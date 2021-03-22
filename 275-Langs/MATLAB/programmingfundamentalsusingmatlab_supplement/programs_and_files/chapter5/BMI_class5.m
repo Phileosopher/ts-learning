@@ -48,7 +48,7 @@ classdef BMI_class5
         function obj = getBMI(obj)
             
             % Calculate Body Mass Index, and return it
-            % For the formula, see http://
+            % For the formula, see https://
             % www.cdc.gov/healthyweight/assessing/bmi/adult_bmi/index.html
             bmi = obj.weight * 703 / (obj.height * obj.height);
             disp(bmi);

@@ -8,7 +8,7 @@ from bs4 import BeautifulSoup
 
 import concurrent.futures
 
-URL = 'http://localhost:8000/'
+URL = 'https://localhost:8000/'
 DEFAULT_PHRASE = 'python'
 
 

@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 
 <%@ page session="false" %>
-<%@ taglib prefix="spring" uri="http://www.springframework.org/tags" %>
-<%@ taglib prefix="fmt" uri="http://java.sun.com/jsp/jstl/fmt" %>
+<%@ taglib prefix="spring" uri="https://www.springframework.org/tags" %>
+<%@ taglib prefix="fmt" uri="https://java.sun.com/jsp/jstl/fmt" %>
 <%@ taglib prefix="petclinic" tagdir="/WEB-INF/tags" %>
 
 

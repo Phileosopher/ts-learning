@@ -12,7 +12,7 @@
   -------------------
 
    JRE:
-     1.8 or above (http://java.com/getjava/)
+     1.8 or above (https://java.com/getjava/)
 
    Packet Tracer 7.0 or above
 

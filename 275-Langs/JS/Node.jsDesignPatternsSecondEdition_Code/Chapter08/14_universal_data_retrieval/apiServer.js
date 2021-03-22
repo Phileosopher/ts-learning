@@ -37,5 +37,5 @@ server.listen(3001, (err) => {
   if (err) {
     return console.error(err);
   }
-  console.info('API Server running on http://localhost:3001');
+  console.info('API Server running on https://localhost:3001');
 });

@@ -7,7 +7,7 @@ BUFFER_SIZE = 1024
 
 
 def parse_url(url):
-    return url.replace('http://', '').split('/', 1)
+    return url.replace('https://', '').split('/', 1)
 
 
 def get_ip(host, port=HTTP_PORT):
@@ -35,7 +35,7 @@ def fetch(url):
 
 def main():
     wait_for_networking()
-    html = fetch('http://micropython.org/ks/test.html')
+    html = fetch('https://micropython.org/ks/test.html')
     print(html)
 
 

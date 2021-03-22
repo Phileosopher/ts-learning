@@ -2,7 +2,7 @@
 # |Creates a dataset from raw text files           |
 # |------------------------------------------------|
 # |Dataset: OpenSubtitles                          |
-# |Url: http://opus.lingfil.uu.se/OpenSubtitles.php|
+# |Url: https://opus.lingfil.uu.se/OpenSubtitles.php|
 # |Credits to: Nemanja Tomic (https://github.com/Nemzy/language-translation)
 # |------------------------------------------------|
 

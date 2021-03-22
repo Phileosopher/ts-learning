@@ -12,7 +12,7 @@ agent.maxSockets = count;
 const query = process.argv[2] ? process.argv[2] : 'item=book';
 const id = setInterval(() => {
   request({
-    url: 'http://localhost:8000?'+query,
+    url: 'https://localhost:8000?'+query,
     pool: agent
   },
   (err, res) => {

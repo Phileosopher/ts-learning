@@ -1,6 +1,6 @@
 from pyquery import PyQuery as pq
 
-sourceUrl = 'http://quotes.toscrape.com/tag/books/'
+sourceUrl = 'https://quotes.toscrape.com/tag/books/'
 dataSet = list()
 keys = ['quote_tags','author_url','author_name','born_date','born_location','quote_title']
 
@@ -30,7 +30,7 @@ def get_details(page):
             tags = quote.find('.tags [itemprop="keywords"]').attr('content')
 
             if authorLink:
-                authorLink = 'http://quotes.toscrape.com' + authorLink
+                authorLink = 'https://quotes.toscrape.com' + authorLink
                 linkDetail = read_url(authorLink)
                 born_date = linkDetail.find('.author-born-date').text()
                 born_location = linkDetail.find('.author-born-location').text()

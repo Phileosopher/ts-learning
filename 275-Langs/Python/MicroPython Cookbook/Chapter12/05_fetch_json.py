@@ -2,7 +2,7 @@ from netcheck import wait_for_networking
 import urequests
 import time
 
-ISS_API_URL = 'http://api.open-notify.org/iss-now.json'
+ISS_API_URL = 'https://api.open-notify.org/iss-now.json'
 
 
 def track_space_station():

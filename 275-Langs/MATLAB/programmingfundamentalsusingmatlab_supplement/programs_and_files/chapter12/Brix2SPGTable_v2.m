@@ -5,7 +5,7 @@
 % Polarimetry, Saccharimetry and the Sugars
 % by Frederick J. Bates and Associates
 % May 1, 1942, pages 632-636
-% http://www.boulder.nist.gov/div838/SelectedPubs/Circular%20440%20Table%20114.pdf
+% https://www.boulder.nist.gov/div838/SelectedPubs/Circular%20440%20Table%20114.pdf
 %
 % This version uses a trick: instead of a 2-D table, the 
 % values are in an array. The index, divided by 10, is the Brix value.

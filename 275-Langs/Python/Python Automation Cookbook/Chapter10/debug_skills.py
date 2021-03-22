@@ -21,7 +21,7 @@ for name in NAMES:
         'custname': name,
     }
     # Request the name from the server
-    result = requests.get('http://httpbin.org/post', json=data)
+    result = requests.get('https://httpbin.org/post', json=data)
     if result.status_code != 200:
         raise Exception(f'Error accessing server: {result}')
     # Obtain a raw name

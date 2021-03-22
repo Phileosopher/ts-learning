@@ -2,7 +2,7 @@ import requests
 import json
 dataSet = []
 
-url = 'http://universities.hipolabs.com/search?name='
+url = 'https://universities.hipolabs.com/search?name='
 
 def readUrl(search):
     results = requests.get(url+search)
@@ -26,14 +26,14 @@ if __name__=="__main__":
 Status Code:  200
 Headers: Content-Type:  application/json
 Total Universities Found:  10
-[['University of Wales', 'http://www.wales.ac.uk/'],
- ['University of Wales Institute, Cardiff', 'http://www.uwic.ac.uk/'], 
- ['University of Wales College of Medicine', 'http://www.uwcm.ac.uk/'], 
- ['Johnson & Wales University', 'http://www.jwu.edu/'], 
- ['University of New South Wales', 'http://www.unsw.edu.au/'], 
- ['University of Wales, Newport', 'http://www.newport.ac.uk/'], 
- ['University of Wales, Swansea', 'http://www.swan.ac.uk/'], 
- ['University of Wales, Aberystwyth', 'http://www.aber.ac.uk/'], 
- ['University of Wales, Lampeter', 'http://www.lamp.ac.uk/'],
-  ['University of Wales, Bangor', 'http://www.bangor.ac.uk/']]
+[['University of Wales', 'https://www.wales.ac.uk/'],
+ ['University of Wales Institute, Cardiff', 'https://www.uwic.ac.uk/'], 
+ ['University of Wales College of Medicine', 'https://www.uwcm.ac.uk/'], 
+ ['Johnson & Wales University', 'https://www.jwu.edu/'], 
+ ['University of New South Wales', 'https://www.unsw.edu.au/'], 
+ ['University of Wales, Newport', 'https://www.newport.ac.uk/'], 
+ ['University of Wales, Swansea', 'https://www.swan.ac.uk/'], 
+ ['University of Wales, Aberystwyth', 'https://www.aber.ac.uk/'], 
+ ['University of Wales, Lampeter', 'https://www.lamp.ac.uk/'],
+  ['University of Wales, Bangor', 'https://www.bangor.ac.uk/']]
 '''

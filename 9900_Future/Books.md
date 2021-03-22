@@ -13,6 +13,6 @@
 - Has lots of how-to with circuits
 - Great for understanding electrical circuits
 
-[Sam Zeloof's First IC](http://sam.zeloof.xyz/first-ic/)
+[Sam Zeloof's First IC](https://sam.zeloof.xyz/first-ic/)
 - How he built his first integrated circuit
 - Very, VERY in-depth about many aspects, worth a read

@@ -2,7 +2,7 @@
 
 let main = (() => {
   var ref = _asyncToGenerator(function* () {
-    let html = yield getPageHtml('http://google.com');
+    let html = yield getPageHtml('https://google.com');
     console.log(html);
   });
 

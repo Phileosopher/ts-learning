@@ -83,7 +83,7 @@ if __name__ == '__main__':
     parser = argparse.ArgumentParser()
     parser.add_argument(dest='url', type=str,
                         help='Base site url. '
-                              'Use  "http://localhost:8000/" '
+                              'Use  "https://localhost:8000/" '
                               'for the recipe example')
     parser.add_argument('-p', type=str,
                         help=f'Sentence to search, default: {DEFAULT_PHRASE}',

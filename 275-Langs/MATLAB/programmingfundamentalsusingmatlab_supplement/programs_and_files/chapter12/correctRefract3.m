@@ -40,7 +40,7 @@ while (FG < OG)
     %disp(sprintf(' the corrected Refractometer reading is %6.3f', w));
     
     % This is from
-    % http://seanterrill.com/2011/04/07/refractometer-fg-results/
+    % https://seanterrill.com/2011/04/07/refractometer-fg-results/
     % a blog by Sean Terrill, who seems to have already solved this problem.
     d = [1.0000, -0.0044993, 0.00027581, -0.0000072800,   0.011774, -0.0012717, 0.000063293];
     v(i) = d(1) + d(2) .* x + d(3) .* x.^2 + d(4) .* x.^3 + d(5) .* y + d(6) .* y.^2 + d(7) .* y.^3;

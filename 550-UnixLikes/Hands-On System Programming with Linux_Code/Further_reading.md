@@ -8,7 +8,7 @@ Here, we present, in a chapter-wise format, additional online as well as book re
 
 ## Chapter 1, Linux System Architecture : Further Reading
 
- -  UNIX | History and Timeline: [http://www.​unix.org/what_is_unix/history_timeline.html](http://www.unix.org/what_is_unix/history_timeline.html)
+ -  UNIX | History and Timeline: [https://www.​unix.org/what_is_unix/history_timeline.html](https://www.unix.org/what_is_unix/history_timeline.html)
  -  Unix-such as OSes: [https://en.wikipedia.org/wiki/Unix](https://en.wikipedia.org/wiki/Unix)
  - Low-Level Software Design : [https://kaiwantech.wordpress.com/2017/01/03/low-level-software-design/](https://kaiwantech.wordpress.com/2017/01/03/low-level-software-design/)
  - Application Binary Interface (ABI) docs and their meaning: [https://kaiwantech.wordpress.com/2018/05/07/application-binary-interface-abi-docs-and-their-meaning/](https://kaiwantech.wordpress.com/2018/05/07/application-binary-interface-abi-docs-and-their-meaning/)
@@ -70,10 +70,10 @@ is): 'Debugging the kernel using Ftrace - part 1': [https://lwn.net/Articles/365
 - Undefined behavior
 	- 'Undefined Behavior in 2017', Cuoq & Regehr: [https://blog.regehr.org/archives/1520](https://blog.regehr.org/archives/1520)
 	- C Programming Language standards - the ISO/IEC 9899:201x
-Committee Draft dated 02 Dec 2010 : [http://www.open-std.org/jtc1/sc22/wg14/www/docs/n1548.pdf](http://www.open-std.org/jtc1/sc22/wg14/www/docs/n1548.pdf)
+Committee Draft dated 02 Dec 2010 : [https://www.open-std.org/jtc1/sc22/wg14/www/docs/n1548.pdf](https://www.open-std.org/jtc1/sc22/wg14/www/docs/n1548.pdf)
 	- CWE-658 - 'Weaknesses in Software Written in C' : [https://cwe.mitre.org/data/definitions/658.html](https://cwe.mitre.org/data/definitions/658.html)
 - InfoSec:
-	- Heartbleed: [http://heartbleed.com/](http://heartbleed.com/)
+	- Heartbleed: [https://heartbleed.com/](https://heartbleed.com/)
 	- A succinct comic-book explanation of the infamous
 Heartbleed bug—a case of read overflow—on XKCD: [https://xkcd.com/1354/](https://xkcd.com/1354/)
 	-	*A must-read*: 'How to Prevent the next Heartbleed', David Wheeler : [https://dwheeler.com/essays/heartbleed.html](https://dwheeler.com/essays/heartbleed.html)
@@ -83,7 +83,7 @@ Heartbleed bug—a case of read overflow—on XKCD: [https://xkcd.com/1354/](htt
 - A list of static analysis tools for C and C++ : [https://en.wikipedia.org/wiki/List_of_tools_for_static_code_analysis#C,_C++](https://en.wikipedia.org/wiki/List_of_tools_for_static_code_analysis#C,_C++)
 - This blog article offers an interesting comparison of some popular static
 analysis tools (cppcheck, Clang-tidy) on a real-world open source codebase:
-'Lots o' static' : [http://btorpey.github.io/blog/2017/09/17/lotso-static/](http://btorpey.github.io/blog/2017/09/17/lotso-static/)
+'Lots o' static' : [https://btorpey.github.io/blog/2017/09/17/lotso-static/](https://btorpey.github.io/blog/2017/09/17/lotso-static/)
 - Shadow memory:
 	- The kernel address sanitizer, LWN : [https://lwn.net/Articles/612153/](https://lwn.net/Articles/612153/)
 	- AddressSanitizerAlgorithm : [https://github.com/google/sanitizers/wiki/AddressSanitizerAlgorithm](https://github.com/google/sanitizers/wiki/AddressSanitizerAlgorithm)
@@ -107,7 +107,7 @@ and Security Advisories : https://www.wireshark.org/security/
 	- Interesting! 'A bunch of links related to Linux kernel
 exploitation' : https://github.com/xairy/linux-kernel-exploitation
 	- 'This is what a root debug backdoor in a Linux kernel
-looks like', The Register : http://www.theregister.co.uk/2016/05/09/allwinners_allloser_custom_kernel_has_a_nasty_root_backdoor/
+looks like', The Register : https://www.theregister.co.uk/2016/05/09/allwinners_allloser_custom_kernel_has_a_nasty_root_backdoor/
 - Linux proc filesystem (CentOS) : https://www.centos.org/docs/5/html/Deployment_Guide-en-US/ch-proc.html
 
 ## Ch 9, Process Execution and Ch 10, Process Creation : Further Reading
@@ -141,7 +141,7 @@ paper on the new timers and HRT implementation on 2.6 Linux : https://www.landle
 interfaces: https://www.unix.com/man-page/all/3LIB/librt/
 - How Fast is Fast?
 	- 'Latency Numbers Every Programmer Should Know' : https://gist.github.com/nvartolomei/2864150
-	- CPU Caches animated demo: http://www.overbyte.com.au/misc/Lesson3/CacheFun.html
+	- CPU Caches animated demo: https://www.overbyte.com.au/misc/Lesson3/CacheFun.html
 	- Average Human Reaction Times: https://backyardbrains.com/experiments/reactiontime
 - Blog article: 'Using the Watchdog Timer in Linux' : https://www.jann.cc/2013/02/02/linux_watchdog.html
 
@@ -150,14 +150,14 @@ interfaces: https://www.unix.com/man-page/all/3LIB/librt/
 
 - Perf
 	- 'Linux Profiling at Netflix', Brendan Gregg : https://www.slideshare.net/brendangregg/scale2015-linux-perfprofiling
-	- 'Linux Perf' : http://www.brendangregg.com/linuxperf.html
+	- 'Linux Perf' : https://www.brendangregg.com/linuxperf.html
 	- Tutorial: Linux kernel profiling with perf: https://perf.wiki.kernel.org/index.php/Tutorial
 - A timeline of UNIX history: https://commons.wikimedia.org/wiki/File:Unix_history-simple.svg
 - NGINX blog : 'Thread Pools in NGINX Boost Performance 9x!', June 2015: https://www.nginx.com/blog/thread-pools-boost-performance-9x/
-- Threading models, an article: 'Threading models: So many different ways to get stuff done' : http://timetobleed.com/threading-models-so-many-different-ways-to-get-stuff-done/
+- Threading models, an article: 'Threading models: So many different ways to get stuff done' : https://timetobleed.com/threading-models-so-many-different-ways-to-get-stuff-done/
 - Stack size matters; read about this experience (you might need to scroll down to the answer starting with "My team inherited a CGI-based, multi-threaded C++ web app. The main platform was Windows; a distant, secondary platform was Solaris with Posix threads") : https://stackoverflow.com/questions/169713/whats-the-toughest-bug-you-ever-found-and-fixed#
 - The GDB Debugger:
-	- Beej's Quick Guide to GDB: http:/​/​beej.​us/​guide/​bggdb/​
+	- Beej's Quick Guide to GDB: https:/​/​beej.​us/​guide/​bggdb/​
 	- Book: *The Art of Debugging with GDB, DDD, and Eclipse*,
 Matloff and Salzman.
 
@@ -175,16 +175,16 @@ https://www.kernel.org/doc/Documentation/robust-futexes.txt
 	- *Books*
 		- *Unix Network Programming: Interprocess Communications - Vol.2 : Interprocess Communications*, W. Richard Stevens. A classic.
 		- *The Linux Programming Interface – A Linux and UNIX System Programming Handbook*, M Kerrisk.
-	- *Beej's Guide to UNIX IPC*, 'Beej' : http://beej.us/guide/bgipc/
+	- *Beej's Guide to UNIX IPC*, 'Beej' : https://beej.us/guide/bgipc/
 - Watchdog Timer
 	- Linux kernel documentation on Watchdog : https://www.kernel.org/doc/Documentation/watchdog/
 	- 'Using the Watchdog Timer in Linux' : https://www.jann.cc/2013/02/02/linux_watchdog.html
 - The Mars Pathfinder mission and Priority Inversion
 	- 'What really happened on Mars ?' Glenn Reeves : https://cs.unc.edu/~anderson/teach/comp790/papers/mars_pathfinder_long_version.html
-	- A must-read (PDF): *What the Media Couldn't Tell You About Mars Pathfinder* : http://people.cs.ksu.edu/~hatcliff/842/Docs/Course-Overview/pathfinder-robotmag.pdf
-	- Detailed paper (PDF): *Mars Pathfinder: Priority Inversion Problem*, R.M. Pathan :  http://www.cse.chalmers.se/edu/year/2015/course/EDA222/Documents/Misc/Report_MarsPathFinder.pdf
+	- A must-read (PDF): *What the Media Couldn't Tell You About Mars Pathfinder* : https://people.cs.ksu.edu/~hatcliff/842/Docs/Course-Overview/pathfinder-robotmag.pdf
+	- Detailed paper (PDF): *Mars Pathfinder: Priority Inversion Problem*, R.M. Pathan :  https://www.cse.chalmers.se/edu/year/2015/course/EDA222/Documents/Misc/Report_MarsPathFinder.pdf
 	- More recently (May 2015), with respect to the NASA Curiosity Rover: *13 engineering truths proved by NASA's Curiosity Rover*, EDN :  https://www.edn.com/electronics-blogs/now-hear-this/4439386/13-engineering-truths-proved-by-NASA-s-CuriosityRover?mc=NL_EDN_EDT_EDN_funfriday_20150508&cid=NL_EDN_EDT_EDN_funfriday_20150508&elq=75871e4437784010b51f12e4c3be00a2&elqCampaignId=22919&elqaid=25798&elqat=1&elqTrackId=8e848e14bf3e41b58e660c804b335b07
-- 'Helgrind: a thread error detector' : http://valgrind.org/docs/manual/hg-manual.html
+- 'Helgrind: a thread error detector' : https://valgrind.org/docs/manual/hg-manual.html
 
 ## Ch 16, Multithreading Part III : Further Reading
 
@@ -193,21 +193,21 @@ https://www.kernel.org/doc/Documentation/robust-futexes.txt
 - Thread-Local Storage (TLS)
 	- GCC page on *Thread-Local Storage* : https://gcc.gnu.org/onlinedocs/gcc/Thread-Local.html
 	- Linux's thread-local storage implementation: https://stackoverflow.com/questions/2459692/linuxs-thread-local-storage-implementation
-- Using *Thread-Specific Data (TSD)* : http://elias.rhi.hi.is/libc/Thread-Specific-Data.html
+- Using *Thread-Specific Data (TSD)* : https://elias.rhi.hi.is/libc/Thread-Specific-Data.html
 - A list of cancellation points (APIs) from the Open Group POSIX.1c
 documentation on threads (scroll down to the section on *Cancellation Points*
-) : http://pubs.opengroup.org/onlinepubs/009695399/functions/xsh_chap02_09.html
+) : https://pubs.opengroup.org/onlinepubs/009695399/functions/xsh_chap02_09.html
 - Debugging Races in pthreads applications
-	- With *Helgrind* : http://valgrind.org/docs/manual/hg-manual.html
+	- With *Helgrind* : https://valgrind.org/docs/manual/hg-manual.html
 	- (Modern) TSan (Thread Sanitizer, part of the Sanitizer toolset we  mentioned in *Chapter 6, Debugging Tools for Memory Issues*) : https://github.com/google/sanitizers/wiki/AddressSanitizer
-- Blog article: 'Threads and fork(): think twice before mixing them' : http://www.linuxprogrammingblog.com/threads-and-fork-think-twice-before-using-them
+- Blog article: 'Threads and fork(): think twice before mixing them' : https://www.linuxprogrammingblog.com/threads-and-fork-think-twice-before-using-them
 - *Books*
 	-  *Programming with POSIX Threads*, David R. Butenhof
 	- *Multithreaded Programming with Pthreads*, Bil Lewis and Daniel J. Berg.
 
 ## Ch 17, CPU Scheduling : Further Reading
 
-- *VDC Survey on real-time response* : The Embedded Muse, 341, 03 Jan 2018, Jack Ganssle: http://www.ganssle.com/tem/tem341.html#article3
+- *VDC Survey on real-time response* : The Embedded Muse, 341, 03 Jan 2018, Jack Ganssle: https://www.ganssle.com/tem/tem341.html#article3
 - Blog article: 'Algorithm time complexity and big O notation' : https://medium.com/@StueyGK/algorithm-time-complexity-and-big-o-notation-51502e612b4d
 - Book: *Automate This: How Algorithms Came to Rule Our World*, Christopher
 Steiner 
@@ -225,7 +225,7 @@ called *linux-ftools* is available on github here : https://github.com/david415/
 - Using the controversial *goto* for error handling within the Linux kernel
 codebase:
 	- https://www.kernel.org/doc/html/v4.10/process/coding-style.html#centralized-exiting-of-functions
-	- http://koblents.com/Ches/Links/Month-Mar-2013/20-Using-Goto-in-Linux-Kernel-Code/
+	- https://koblents.com/Ches/Links/Month-Mar-2013/20-Using-Goto-in-Linux-Kernel-Code/
 - Blog article: 'Page Cache, the Affair Between Memory and Files' : https://manybutfinite.com/post/page-cache-the-affair-between-memory-and-files/
 - The Linux IO stack - a more detailed view (see the diagram on page 2, *1.1 The Linux I/O Stack*) : https://www.tau.ac.il/~stoledo/BudilovskyMScThesis.pdf
 - Zero-Copy Technique (particularly on using the sendfile(2) syscall):
@@ -240,17 +240,17 @@ codebase:
 	- Blog article: 'Thread Pools in NGINX Boost Performance 9x!', NGINX : https://www.nginx.com/blog/thread-pools-boost-performance-9x/
 	- Article: *Boost application performance using asynchronous I/O: Learn when and how to use the POSIX AIO API*, IBM DeveloperWorks : https://www.ibm.com/developerworks/library/l-async/index.html
 - Linux Performance page, Brendan Gregg
-	- http://www.brendangregg.com/linuxperf.html
-	- iosnoop For Linux : http://www.brendangregg.com/blog/2014-07-16/iosnoop-for-linux.html
-	- Linux iosnoop Latency Heat Maps : http://www.brendangregg.com/blog/2014-07-23/linux-iosnoop-latency-heat-maps.html
+	- https://www.brendangregg.com/linuxperf.html
+	- iosnoop For Linux : https://www.brendangregg.com/blog/2014-07-16/iosnoop-for-linux.html
+	- Linux iosnoop Latency Heat Maps : https://www.brendangregg.com/blog/2014-07-23/linux-iosnoop-latency-heat-maps.html
 - Blog article: 'Using cgroups to limit I/O' : https://andrestc.com/post/cgroups-io/
 
 ## Ch 19, Troubleshooting and Best Practices : Further Reading
 
 - Perf
-	- *Linux Performance page*, Brendan Gregg : http://www.brendangregg.com/linuxperf.html
+	- *Linux Performance page*, Brendan Gregg : https://www.brendangregg.com/linuxperf.html
 	- *Linux Performance Tools, Brendan Gregg, part 1 of 2, Velocity 2015*, YouTube video : https://www.youtube.com/watch?v=FJW8nGV4jxY&t=4s
-	- Perf Flame Graphs : http://www.brendangregg.com/flamegraphs.html
+	- Perf Flame Graphs : https://www.brendangregg.com/flamegraphs.html
 	- FYI, *Using Perf on Android* : https://wiki.linaro.org/LMG/Engineering/UsingPerfOnAndroid
 - 'Linux Performance and Tuning Guidelines', IBM/Lenovo Redpaper : https://lenovopress.com/redp4285.pdf
 - Blog article: 'Linux tracing systems & how they fit together', J Evans
@@ -260,7 +260,7 @@ codebase:
 - The Linux *proc* filesystem
 	- "T H E /proc F I L E S Y S T E M" : https://www.kernel.org/doc/Documentation/filesystems/proc.txt
 	- "Chapter 3. The proc File System", CentOS : https://www.centos.org/docs/5/html/Deployment_Guide-en-US/ch-proc.html
-	- the man page on proc(5) : http://man7.org/linux/man-pages/man5/proc.5.html
+	- the man page on proc(5) : https://man7.org/linux/man-pages/man5/proc.5.html
 - Blog articles
 	- 'The Worst Computer Bugs in History: Losing $460m in 45 minutes' : https://blog.bugsnag.com/bug-day-460m-loss/
 	- 'The Worst Computer Bugs in History: The Ariane 5 Disaster' : https://blog.bugsnag.com/bug-day-ariane-5-disaster/
@@ -282,9 +282,9 @@ codebase:
 
 - 'File locking in Linux' - a tutorial : https://gavv.github.io/blog/file-locks/
 - An article describing the stdbuf(1) utility: buffering in standard
-streams: [http://www.pixelbeat.org/programming/stdio_buffering/](http://www.pixelbeat.org/programming/stdio_buffering/)
+streams: [https://www.pixelbeat.org/programming/stdio_buffering/](https://www.pixelbeat.org/programming/stdio_buffering/)
 - 'Using setvbuf() with STDIN stream' : https://stackoverflow.com/questions/5876373/using-setvbuf-with-stdin-stream
-- The popen(3) man page : http://man7.org/linux/man-pages/man3/popen.3.html
+- The popen(3) man page : https://man7.org/linux/man-pages/man3/popen.3.html
 - 'Systemd Essentials: Working with Services, Units, and the Journal', 
 DigitalOcean: https://www.digitalocean.com/community/tutorials/systemd-essentials-working-with-services-units-and-the-journal
 
@@ -296,8 +296,8 @@ developer on how exactly to create both the "old-style" traditional and the mode
 	- Article, DigitalOcean: 'Systemd Essentials: Working with Services,
 Units, and the Journal' : https://www.digitalocean.com/community/tutorials/systemd-essentials-working-with-services-units-and-the-journal
 	- Article, DigitalOcean: 'Understanding Systemd Units and Unit Files' :  https://www.digitalocean.com/community/tutorials/understanding-systemd-units-and-unit-files
-	- Systemd Documentation : http://0pointer.de/blog/projects/systemd-docs.html
+	- Systemd Documentation : https://0pointer.de/blog/projects/systemd-docs.html
 	- Systemd FAQs : https://www.freedesktop.org/wiki/Software/systemd/FrequentlyAskedQuestions/
-- *Debug a daemon process* with Valgrind-GDB (vgdb) debugging. Look up this chapter of Valgrind's manual: *Using and understanding the Valgrind core: Advanced Topics* : http://valgrind.org/docs/manual/manual-core-adv.html
+- *Debug a daemon process* with Valgrind-GDB (vgdb) debugging. Look up this chapter of Valgrind's manual: *Using and understanding the Valgrind core: Advanced Topics* : https://valgrind.org/docs/manual/manual-core-adv.html
 
 [End of Doc]

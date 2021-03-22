@@ -30,7 +30,7 @@ http.createServer((req, res) => {
     const servers = [];
     Object.keys(services).filter(id => {
       if (services[id].Tags.indexOf(route.service) > -1) {
-        servers.push(`http://${services[id].Address}:${services[id].Port}`)
+        servers.push(`https://${services[id].Address}:${services[id].Port}`)
       }
     });
 

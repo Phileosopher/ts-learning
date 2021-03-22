@@ -50,7 +50,7 @@
 [Self-host your fonts for better performance | Hacker News](https://news.ycombinator.com/item?id=25300396)
 [Web Scraping Is Vital to Democracy | Hacker News](https://news.ycombinator.com/item?id=25298697)
 [My Google Traffic Has Fallen to Zero | Hacker News](https://news.ycombinator.com/item?id=25640217)
-[TeaVM](http://teavm.org/)
+[TeaVM](https://teavm.org/)
 [FFMPEG from Zero to Hero](https://news.ycombinator.com/item?id=26370704)
 [HTTPWTF | Hacker News](https://news.ycombinator.com/item?id=26343577)
 [Show HN: Exposé – a static site generator for photos and videos | Hacker News](https://news.ycombinator.com/item?id=10376468)

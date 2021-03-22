@@ -23,6 +23,6 @@ https://wiki.gnome.org/Projects
 
 ## Nonprofits
 
-[Donate Unrestricted](http://paulgraham.com/donate.html)
+[Donate Unrestricted](https://paulgraham.com/donate.html)
 https://www.freecodecamp.org/news/quincy-larson-interview-changelog-podcast/
 [Congress should invest in open-source software | Hacker News](https://news.ycombinator.com/item?id=24789070)

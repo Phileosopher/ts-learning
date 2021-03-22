@@ -21,7 +21,7 @@ spec:
         lifecycle:
           postStart:
             httpGet:
-              path: http://my.registration-server.com/register/
+              path: https://my.registration-server.com/register/
               port: 80
           preStop:
             exec:

@@ -5,10 +5,10 @@ To start the server, run:
   node app
 
 Then try to send one or more request to trigger the subset sum task:
-  curl -G http://localhost:8000/subsetSum --data-urlencode "data=[116,119,101,101,-116,109,101,-105,-102,117,-115,-97,119,-116,-104,-105,115]" --data-urlencode "sum=0"
+  curl -G https://localhost:8000/subsetSum --data-urlencode "data=[116,119,101,101,-116,109,101,-105,-102,117,-115,-97,119,-116,-104,-105,115]" --data-urlencode "sum=0"
   
 While a subset sum task is running, you can check the responsiveness of the server with a command like this:
-  curl -G http://localhost:8000
+  curl -G https://localhost:8000
   
 If the subset sum takes too long on your machine or is too fast for trying to check the responsiveness of the server, try to reduce or increase the number of items of the array given as input.
 

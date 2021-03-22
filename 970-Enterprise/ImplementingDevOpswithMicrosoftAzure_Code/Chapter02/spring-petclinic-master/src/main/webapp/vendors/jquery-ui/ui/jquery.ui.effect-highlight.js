@@ -1,12 +1,12 @@
 /*!
  * jQuery UI Effects Highlight 1.10.4
- * http://jqueryui.com
+ * https://jqueryui.com
  *
  * Copyright 2014 jQuery Foundation and other contributors
  * Released under the MIT license.
- * http://jquery.org/license
+ * https://jquery.org/license
  *
- * http://api.jqueryui.com/highlight-effect/
+ * https://api.jqueryui.com/highlight-effect/
  *
  * Depends:
  *	jquery.ui.effect.js

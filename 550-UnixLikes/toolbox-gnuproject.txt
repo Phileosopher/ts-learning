@@ -153,14 +153,14 @@ https://gnutls.org/
 https://www.gnu.org/software/gnutrition/
 https://www.gnu.org/software/gnuzilla/
 https://www.gnu.org/software/goptical/
-http://gnustep.org/experience/Gorm.html
+https://gnustep.org/experience/Gorm.html
 https://www.gnu.org/software/gpaint/
 https://www.gnu.org/software/gperf/
 https://www.gprolog.org/
 https://sourceforge.net/projects/phpgrabcomics/
 https://www.gnu.org/software/greg/
 https://www.gnu.org/software/grep/
-http://gretl.sourceforge.net/
+https://gretl.sourceforge.net/
 https://www.gnu.org/software/groff/
 https://www.gnu.org/software/grub/
 https://www.gnu.org/software/gsasl/

@@ -1,7 +1,7 @@
 """
 Python Regular Expressions: re
 https://regexone.com/references/python
-http://www.regular-expressions.info/python.html
+https://www.regular-expressions.info/python.html
 https://developers.google.com/edu/python/regular-expressions
 # Anchors: ^ begining of Line, $ end of line
 # re.search(pattern,str,re.I|re.MULTILINE|re.M)

@@ -1,5 +1,5 @@
 $namespaceManager = New-Object System.Xml.XmlNamespaceManager($xml.NameTable)
-$namespaceManager.AddNamespace('c', 'http://example/cars')
+$namespaceManager.AddNamespace('c', 'https://example/cars')
 $xml.SelectNodes(
     '//car[c:colour="Green"]/c:engine',
     $namespaceManager

@@ -201,7 +201,7 @@ print(categories)
 
 import requests
 
-url = 'http://maps.googleapis.com/maps/api/directions/json'
+url = 'https://maps.googleapis.com/maps/api/directions/json'
 
 params = dict(
     origin='Chicago,IL',
@@ -214,11 +214,11 @@ resp = requests.get(url=url, params=params)
 data = resp.json() # Check the JSON Response Content documentation below
 
 
- with urllib.request.urlopen('http://www.python.org/') as f:
+ with urllib.request.urlopen('https://www.python.org/') as f:
 ...     print(f.read(100).decode('utf-8'))
 
  >>> import urllib.request
->>> local_filename, headers = urllib.request.urlretrieve('http://python.org/')
+>>> local_filename, headers = urllib.request.urlretrieve('https://python.org/')
 >>> html = open(local_filename)
 >>> html.close()
 

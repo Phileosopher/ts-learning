@@ -5,14 +5,14 @@ metadata:
 spec:
   rules:
   - host: a.whale.hey
-    http:
+    https:
       paths:
       - path: /
         backend:
           serviceName: whale-svc-a
           servicePort: 80
   - host: b.whale.hey
-    http:
+    https:
       paths:
       - path: /
         backend:

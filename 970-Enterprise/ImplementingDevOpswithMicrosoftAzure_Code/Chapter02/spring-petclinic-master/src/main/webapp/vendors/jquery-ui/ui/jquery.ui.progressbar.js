@@ -1,12 +1,12 @@
 /*!
  * jQuery UI Progressbar 1.10.4
- * http://jqueryui.com
+ * https://jqueryui.com
  *
  * Copyright 2014 jQuery Foundation and other contributors
  * Released under the MIT license.
- * http://jquery.org/license
+ * https://jquery.org/license
  *
- * http://api.jqueryui.com/progressbar/
+ * https://api.jqueryui.com/progressbar/
  *
  * Depends:
  *   jquery.ui.core.js

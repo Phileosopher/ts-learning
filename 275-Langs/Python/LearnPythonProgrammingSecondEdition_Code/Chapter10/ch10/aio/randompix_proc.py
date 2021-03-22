@@ -6,7 +6,7 @@ import requests
 
 
 PICS_FOLDER = 'pics'
-URL = 'http://lorempixel.com/640/480/'
+URL = 'https://lorempixel.com/640/480/'
 # URL = 'https://lorempizza.com/640/480/'
 
 

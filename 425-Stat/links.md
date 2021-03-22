@@ -2,8 +2,8 @@
 
 [What is Statistical Significance? P Value Defined and How to Calculate It](https://www.freecodecamp.org/news/what-is-statistical-significance-p-value-defined-and-how-to-calculate-it/)
 [Exploring Histograms](https://tinlizzie.org/histograms/)
-[Possibility Space](http://www.possibilityspace.org/tutorial-sampling/index.html)
-[Possibility Space](http://www.possibilityspace.org/tutorial-generative-possibility-space/)
+[Possibility Space](https://www.possibilityspace.org/tutorial-sampling/index.html)
+[Possibility Space](https://www.possibilityspace.org/tutorial-generative-possibility-space/)
 [Permutation and Combination: The Difference Explained with Formula Examples](https://www.freecodecamp.org/news/permutation-and-combination-the-difference-explained-with-formula-examples/)
 [What is a Correlation Coefficient? The r Value in Statistics Explained](https://www.freecodecamp.org/news/what-is-a-correlation-coefficient-r-value-in-statistics-explains/)
 [Seeing Theory: A visual introduction to probability and statistics (2017) | Hacker News](https://news.ycombinator.com/item?id=18769099)
@@ -16,4 +16,4 @@
 [The Monty Hall Problem](https://www.philosophyexperiments.com/montyhall/Default.aspx)
 [Are You Trading or Gambling? | Hacker News](https://news.ycombinator.com/item?id=26283650)
 [Show HN: A Set of Dice That Follows the Gambler's Fallacy | Hacker News](https://news.ycombinator.com/item?id=14805265)
-[Better Bayesian Filtering](http://paulgraham.com/better.html)
+[Better Bayesian Filtering](https://paulgraham.com/better.html)

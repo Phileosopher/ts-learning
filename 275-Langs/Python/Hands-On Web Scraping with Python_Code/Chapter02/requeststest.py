@@ -313,7 +313,7 @@ import urllib
 
 import urllib2
 
-url = "http://www.example.com"
+url = "https://www.example.com"
 
 values = {"firstname":" abc ", "lastname":" xyz "}
 

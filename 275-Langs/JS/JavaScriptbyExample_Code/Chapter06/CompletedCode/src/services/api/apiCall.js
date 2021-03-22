@@ -23,7 +23,7 @@ export default function apiCall(route, body = {}, method='POST') {
       }
     }
 
-    const serverURL = process.env.REACT_APP_SERVER_URL || `http://localhost:3000`;
+    const serverURL = process.env.REACT_APP_SERVER_URL || `https://localhost:3000`;
 
     fetch(`${serverURL}/${route}`, requestDetails)
       .then(handleErrors)

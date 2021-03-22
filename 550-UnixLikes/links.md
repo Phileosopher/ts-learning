@@ -37,7 +37,7 @@
 [Running a Unix-like OS on a home-built CPU with a home-built C compiler | Hacker News](https://news.ycombinator.com/item?id=24680109)
 [Linux Fu: Send In The (Cloud) Clones | Hackaday](https://hackaday.com/2020/11/10/linux-fu-send-in-the-cloud-clones/)
 [What's in a Linux executable? - fasterthanli.me](https://fasterthanli.me/series/making-our-own-executable-packer/part-1)
-[Welcome to Linux From Scratch!](http://www.linuxfromscratch.org/)
+[Welcome to Linux From Scratch!](https://www.linuxfromscratch.org/)
 [Kids find a security flaw in Linux Mint by mashing keys | Hacker News](https://news.ycombinator.com/item?id=25843874)
 [What is Linux? - Linux.com](https://www.linux.com/what-is-linux/)
 [Getting better at Linux with mini-projects | Hacker News](https://news.ycombinator.com/item?id=26002335)

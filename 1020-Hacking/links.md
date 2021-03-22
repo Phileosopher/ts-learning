@@ -1,6 +1,7 @@
 # Hacking
 
-[The Jargon File](http://catb.org/jargon/html/index.html)
+[“Expert” hackers used 11 0-days to infect Windows, iOS, and Android users | Ars Technica](https://arstechnica.com/information-technology/2021/03/expert-hackers-used-11-zerodays-to-infect-windows-ios-and-android-users/)
+[The Jargon File](https://catb.org/jargon/html/index.html)
 
 - Do this one first. It has some GREAT summary that could help the page immensely
 

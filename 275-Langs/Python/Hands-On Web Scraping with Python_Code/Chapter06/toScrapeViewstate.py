@@ -1,10 +1,10 @@
 from pyquery import PyQuery as pq
 import requests
 
-mainurl = "http://toscrape.com/"
-searchurl = "http://quotes.toscrape.com/search.aspx"
-filterurl = "http://quotes.toscrape.com/filter.aspx"
-quoteurl = "http://quotes.toscrape.com/"
+mainurl = "https://toscrape.com/"
+searchurl = "https://quotes.toscrape.com/search.aspx"
+filterurl = "https://quotes.toscrape.com/filter.aspx"
+quoteurl = "https://quotes.toscrape.com/"
 authorTags = [('Albert Einstein', 'success'), ('Thomas A. Edison', 'inspirational')]
 
 def processRequests(url, params={}, customheaders={}):

@@ -10,7 +10,7 @@
 	./mvnw tomcat7:run
 ```
 
-You can then access petclinic here: http://localhost:9966/petclinic/
+You can then access petclinic here: https://localhost:9966/petclinic/
 
 ## In case you find a bug/suggested improvement for Spring Petclinic
 Our issue tracker is available here: https://github.com/spring-projects/spring-petclinic/issues
@@ -32,12 +32,12 @@ docker run -e MYSQL_ROOT_PASSWORD=petclinic -e MYSQL_DATABASE=petclinic -p 3306:
 
 ### prerequisites
 The following items should be installed in your system:
-* Maven 3 (http://www.sonatype.com/books/mvnref-book/reference/installation.html)
+* Maven 3 (https://www.sonatype.com/books/mvnref-book/reference/installation.html)
 * git command line tool (https://help.github.com/articles/set-up-git)
-* Eclipse with the m2e plugin (m2e is installed by default when using the STS (http://www.springsource.org/sts) distribution of Eclipse)
+* Eclipse with the m2e plugin (m2e is installed by default when using the STS (https://www.springsource.org/sts) distribution of Eclipse)
 
 Note: when m2e is available, there is an m2 icon in Help -> About dialog.
-If m2e is not there, just follow the install process here: http://eclipse.org/m2e/download/
+If m2e is not there, just follow the install process here: https://eclipse.org/m2e/download/
 
 
 ### Steps:
@@ -103,7 +103,7 @@ File -> Import -> Maven -> Existing Maven project
   <tr>
     <td>Thymeleaf branch</td>
     <td>
-      <a href="http://www.thymeleaf.org/petclinic.html">See here</a></td>
+      <a href="https://www.thymeleaf.org/petclinic.html">See here</a></td>
   </tr>
   <tr>
     <td>Branch using GemFire and Spring Data GemFire instead of ehcache (thanks Bijoy Choudhury)</td>
@@ -210,7 +210,7 @@ Here is a list of them:
 
 The [issue tracker](https://github.com/spring-projects/spring-petclinic/issues) is the preferred channel for bug reports, features requests and submitting pull requests.
 
-For pull requests, editor preferences are available in the [editor config](https://github.com/spring-projects/spring-petclinic/blob/master/.editorconfig) for easy use in common text editors. Read more and download plugins at <http://editorconfig.org>.
+For pull requests, editor preferences are available in the [editor config](https://github.com/spring-projects/spring-petclinic/blob/master/.editorconfig) for easy use in common text editors. Read more and download plugins at <https://editorconfig.org>.
 
 
 

@@ -40,5 +40,5 @@ server.get('*', (req, res) => {
 });
 
 server.listen(port, () => console.log(
-  `Node.js server is listening at http://localhost:${port}/`
+  `Node.js server is listening at https://localhost:${port}/`
 ));

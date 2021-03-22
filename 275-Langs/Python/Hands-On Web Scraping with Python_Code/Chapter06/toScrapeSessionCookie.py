@@ -1,15 +1,15 @@
 from pyquery import PyQuery as pq
 import requests
-mainUrl = "http://toscrape.com/"
-loginUrl = "http://quotes.toscrape.com/login"
-quoteUrl = "http://quotes.toscrape.com/"
+mainUrl = "https://toscrape.com/"
+loginUrl = "https://quotes.toscrape.com/login"
+quoteUrl = "https://quotes.toscrape.com/"
 
 def getCustomHeaders(cookieHeader):
     return {
         'Host': 'quotes.toscrape.com',
         'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0',
         'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
-        'Referer': 'http://quotes.toscrape.com/login',
+        'Referer': 'https://quotes.toscrape.com/login',
         'Content-Type': 'application/x-www-form-urlencoded',
         'Cookie': cookieHeader,
     }

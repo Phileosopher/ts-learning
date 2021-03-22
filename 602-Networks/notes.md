@@ -1,5 +1,5 @@
 [TeachYourselfCS2] [project] Wireshark labs
-  http://www-net.cs.umass.edu/wireshark-labs/
+  https://www-net.cs.umass.edu/wireshark-labs/
 [TeachYourselfCS1 alt] [video] Introduction to Computer Networking (Lagunitas)
   https://lagunita.stanford.edu/dashboard
   https://lagunita.stanford.edu/courses/Engineering/Networking-SP/SelfPaced/about
@@ -7,7 +7,7 @@
   an HTTP server
   a UDP-based chat app
   a mini TCP stack
-    http://jvns.ca/blog/2014/08/12/what-happens-if-you-write-a-tcp-stack-in-python/
+    https://jvns.ca/blog/2014/08/12/what-happens-if-you-write-a-tcp-stack-in-python/
   a proxy or load balancer
   a distributed hash table
 DNS Network Settings

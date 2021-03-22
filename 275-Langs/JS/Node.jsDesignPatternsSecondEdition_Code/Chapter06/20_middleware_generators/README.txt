@@ -7,5 +7,5 @@ then you can start the server with
 
   node app
 
-and access it with your browser on http://localhost:3000
+and access it with your browser on https://localhost:3000
 Try to refresh the page several times very quickly to reach the rate limit error and display the error.

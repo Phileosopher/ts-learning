@@ -1,7 +1,7 @@
 This sample demonstrates how to integrate a chat application using ZMQ
 
 As pre-requisite to this sample, you first need to install the ZMQ binaries:
-  http://zeromq.org/intro:get-the-software
+  https://zeromq.org/intro:get-the-software
 
 To try the sample install the dependencies:
   npm install
@@ -13,6 +13,6 @@ Then run (in separate terminals):
   
 You can try to access those three addresses at the same time, and
 see how messages are exchanged from one instance to the others:
-  http://localhost:8080
-  http://localhost:8081
-  http://localhost:8082
+  https://localhost:8080
+  https://localhost:8081
+  https://localhost:8082

@@ -1,7 +1,7 @@
 ﻿renderIcon: function(component) {
     var prefix = "slds-";
-    var svgns = "http://www.w3.org/2000/svg";
-    var xlinkns = "http://www.w3.org/1999/xlink";
+    var svgns = "https://www.w3.org/2000/svg";
+    var xlinkns = "https://www.w3.org/1999/xlink";
     var size = component.get("v.size");
     var name = component.get("v.name");
     var classname = component.get("v.class");

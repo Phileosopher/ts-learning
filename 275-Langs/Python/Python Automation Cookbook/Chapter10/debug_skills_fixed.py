@@ -22,8 +22,8 @@ for name in NAMES:
     }
     # Request the name from the server
     # ERROR step 2. Using .get when it should be .post
-    # (old) result = requests.get('http://httpbin.org/post', json=data)
-    result = requests.post('http://httpbin.org/post', json=data)
+    # (old) result = requests.get('https://httpbin.org/post', json=data)
+    result = requests.post('https://httpbin.org/post', json=data)
     if result.status_code != 200:
         raise Exception(f'Error accessing server: {result}')
     # Obtain a raw name

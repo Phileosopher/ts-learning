@@ -12,7 +12,7 @@ export class MouseMove {
    radiusY = 50;
 
    mouseMove(event) {
-     var svgns = "http://www.w3.org/2000/svg";
+     var svgns = "https://www.w3.org/2000/svg";
      var svg   = document.getElementById("svg");
      var colors = ["#ff0000", "#88ff00", "#3333ff"];
 

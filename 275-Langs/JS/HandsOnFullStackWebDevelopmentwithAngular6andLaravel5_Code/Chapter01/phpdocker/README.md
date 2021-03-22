@@ -24,7 +24,7 @@ You can access your application via **`localhost`**, if you're running the conta
 
 Service|Address outside containers
 ------|---------|-----------
-Webserver|[localhost:8081](http://localhost:8081)
+Webserver|[localhost:8081](https://localhost:8081)
 MySQL|**host:** `localhost`; **port:** `8083`
 
 ## Hosts within your environment ##

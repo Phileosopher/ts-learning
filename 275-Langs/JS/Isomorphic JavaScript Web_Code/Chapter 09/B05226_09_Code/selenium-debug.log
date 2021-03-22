@@ -22,8 +22,8 @@ Starting ChromeDriver 2.27.440174 (e97a722caafc2d3a8b807ee115bfb307f7d2cfd9) on 
 Only local connections are allowed.
 12:22:36.462 INFO - Detected dialect: OSS
 12:22:36.491 INFO - Done: [new session: Capabilities [{acceptSslCerts=true, browserName=chrome, javascriptEnabled=true, platform=ANY}]]
-12:22:36.506 INFO - Executing: [get: http://localhost:8080])
-12:22:36.805 INFO - Done: [get: http://localhost:8080]
+12:22:36.506 INFO - Executing: [get: https://localhost:8080])
+12:22:36.805 INFO - Done: [get: https://localhost:8080]
 12:22:36.813 INFO - Executing: [find elements: By.cssSelector: body])
 12:22:36.849 INFO - Done: [find elements: By.cssSelector: body]
 12:22:36.858 INFO - Executing: [find element: By.cssSelector: .repos-link])
@@ -36,8 +36,8 @@ Only local connections are allowed.
 12:22:37.020 INFO - Done: [get text: 2 [[ChromeDriver: chrome on MAC (1fe1caaeebfe59fa95003c6b515f1bb2)] -> css selector: .repos-title]]
 12:22:37.025 INFO - Executing: [get current url])
 12:22:37.032 INFO - Done: [get current url]
-12:22:37.038 INFO - Executing: [get: http://localhost:8080/repos])
-12:22:37.191 INFO - Done: [get: http://localhost:8080/repos]
+12:22:37.038 INFO - Executing: [get: https://localhost:8080/repos])
+12:22:37.191 INFO - Done: [get: https://localhost:8080/repos]
 12:22:37.200 INFO - Executing: [find elements: By.cssSelector: .repos-title])
 12:22:37.210 INFO - Done: [find elements: By.cssSelector: .repos-title]
 12:22:37.216 INFO - Executing: [get text: 3 [[ChromeDriver: chrome on MAC (1fe1caaeebfe59fa95003c6b515f1bb2)] -> css selector: .repos-title]])

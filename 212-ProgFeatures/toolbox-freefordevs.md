@@ -80,7 +80,7 @@
 ## [Source Code Repos](https://free-for.dev/#/?id=source-code-repos)
 
 [bitbucket.org](https://bitbucket.org/) — Unlimited public and private Git repos for up to 5 users with Pipelines for CI/CD
-[chiselapp.com](http://chiselapp.com/) — Unlimited public and private Fossil repositories
+[chiselapp.com](https://chiselapp.com/) — Unlimited public and private Fossil repositories
 [codebasehq.com](https://www.codebasehq.com/) — One free project with 100 MB space and 2 users
 [codeberg.org](https://codeberg.org/) - Unlimited public and private Git repos
 [gitea.com](https://www.gitea.com/) - Unlimited public and private Git repos
@@ -188,13 +188,13 @@
 [Vattly](https://vattly.com/) - Highly available, fast and secure VAT validation API, that provides full European Union coverage. 10 free API calls per day.
 [Webhook.site](https://webhook.site) - Easily test HTTP webhooks with this handy tool that displays requests instantly.
 [wit.ai](https://wit.ai/) — NLP for developers.
-[wolfram.com](http://wolfram.com/language/) — Built-in knowledge-based algorithms in the cloud.
+[wolfram.com](https://wolfram.com/language/) — Built-in knowledge-based algorithms in the cloud.
 [wrapapi.com](https://wrapapi.com/) — Turn any website into a parameterized API. 30k API calls per month.
 [Zenscrape](https://zenscrape.com/web-scraping-api) — Web scraping API with headless browsers, residentials IPs and simple pricing. 1000 free API calls/month, extra free credits for students and non-profits.
 [ip-api](https://ip-api.com) — IP Geolocation API, Free for non-commercial use, no API key required, limited to 45 req/minute from the same IP address for the free plan.
 [WebScraping.AI](https://webscraping.ai) - Simple Web Scraping API with built-in parsing, Chrome rendering and proxies. 5000 free API calls per month.
 [Zipcodebase](https://zipcodebase.com) - Free Zip Code API, access to Worldwide Postal Code Data. 10000 free requests/month.
-[EVA](http://eva.pingutil.com/) - Free email validator API, which helps to identify whether an email is disposable and having valid MX records.
+[EVA](https://eva.pingutil.com/) - Free email validator API, which helps to identify whether an email is disposable and having valid MX records.
 [happi.dev](https://happi.dev) - Freemium api services collection (Music, Exchange Rate, Key value store, Language Detection, Password Generator, QRCode Generator, Lyrics). 8000 free API calls per month.
 
 ## [Artifact Repos](https://free-for.dev/#/?id=artifact-repos)
@@ -524,7 +524,7 @@
 
 [algolia.com](https://www.algolia.com/) — Hosted search-as-you-type (instant). Free hacker plan up to 10,000 documents and 100,000 operations. Bigger free plans available for community/Open Source projects
 [bonsai.io](https://bonsai.io/) — Free 1 GB memory and 1 GB storage
-[searchly.com](http://www.searchly.com/) — Free 2 indices and 20 MB storage
+[searchly.com](https://www.searchly.com/) — Free 2 indices and 20 MB storage
 [pagedart.com](https://pagedart.com/) - AI search as a service the free tier includes 1000 Documents, 50000 searches. Larger free tiers are possible for worthwhile projects.
 
 ## [Email](https://free-for.dev/#/?id=email)
@@ -542,7 +542,7 @@
 [elasticemail.com](https://elasticemail.com) — 100 free emails/day. 1,000 emails for $0.09 through API (pay as you go).
 [forwardemail.net](https://forwardemail.net) — Free email forwarding for custom domains. Create and forward an unlimited amount of email addresses with your domain name (**note**: You must pay if you use .casa, .cf, .click, .email, .fit, .ga, .gdn, .gq, .loan, .london, .men, .ml, .pl, .rest, .ru, .tk, .top, .work TLDs due to spam)
 [ImprovMX](https://improvmx.com) – Free email forwarding
-[inumbo.com](http://inumbo.com/) — SMTP based spam filter, free for 10 users
+[inumbo.com](https://inumbo.com/) — SMTP based spam filter, free for 10 users
 [kickbox.io](https://kickbox.io/) — Verify 100 emails free, real-time API available
 [mailazy.com](https://mailazy.com/) — 250 emails/day free
 [mail-tester.com](https://www.mail-tester.com) — Test if email's dns/spf/dkim/dmarc settings are correct, 20 free/month
@@ -578,7 +578,7 @@
 [Verifalia](https://verifalia.com/email-verification-api) — Real-time email verification API with mailbox confirmation and disposable email address detector; 25 free email verifications/day.
 [verimail.io](https://verimail.io/) — Bulk and API email verification service. 100 free verifications/month
 [Yandex.Connect](https://connect.yandex.com/pdd/) — Free email and DNS hosting for up to 1,000 users
-[yopmail.fr](http://www.yopmail.fr/en/) — Disposable email addresses
+[yopmail.fr](https://www.yopmail.fr/en/) — Disposable email addresses
 [zoho.com](https://www.zoho.com/mail/) — Free Webmail and collaboration for up to 5 users
 [SimpleLogin](https://simplelogin.io/) – Open source, self-hostable email alias/forwarding solution. Free 5 Aliases, unlimited bandwith, unlimited reply/send. Free for educational staffs (student, researcher, etc).
 
@@ -624,7 +624,7 @@
 - [TryCloudflare](https://developers.cloudflare.com/argo-tunnel/trycloudflare) — Expose local HTTP servers through Argo Tunnel to public.
 [ddos-guard.net](https://ddos-guard.net/store/web) — Free CDN, DDoS protection and SSL certificate
 [developers.google.com](https://developers.google.com/speed/libraries/) — The Google Hosted Libraries is a content distribution network for the most popular, Open Source JavaScript libraries
-[jare.io](http://www.jare.io) — CDN for images. Uses AWS CloudFront
+[jare.io](https://www.jare.io) — CDN for images. Uses AWS CloudFront
 [jsdelivr.com](https://www.jsdelivr.com/) — CDN of OSS (JS, CSS, fonts) for developers and webmasters, accepts PRs to add more
 [Microsoft Ajax](https://docs.microsoft.com/en-us/aspnet/ajax/cdn/overview) — The Microsoft Ajax CDN hosts popular third-party JavaScript libraries such as jQuery and enables you to easily add them to your Web application
 [netdepot.com](https://www.netdepot.com/cdn/) — First 100 GB free/month
@@ -712,7 +712,7 @@
 [Drive To Web](https://drv.tw) — Host directly to the web from Google Drive & OneDrive. Static sites only. Free forever. One site per Google/Microsoft account.
 [Endless Hosting](https://theendlessweb.com/) — 300 MB storage, Free SSL, PHP, MySQL, FTP, free sub-domains, E-Mail, DNS, beatiful panel UI. One of the best!
 [Fenix Web Server](https://preview.fenixwebserver.com) - A developer desktop app for hosting sites locally and sharing them publically (in realtime). Work however you like, using its beautiful user interface, API, and/or CLI.
-[Free Hosting](http://freehostingnoads.net/) — Free Hosting With PHP 5, Perl, CGI, MySQL, FTP, File Manager, POP E-Mail, free sub-domains, free domain hosting, DNS Zone Editor, Web Site Statistics, FREE Online Support and many more features not offered by other free hosts.
+[Free Hosting](https://freehostingnoads.net/) — Free Hosting With PHP 5, Perl, CGI, MySQL, FTP, File Manager, POP E-Mail, free sub-domains, free domain hosting, DNS Zone Editor, Web Site Statistics, FREE Online Support and many more features not offered by other free hosts.
 [Freehostia](https://www.freehostia.com) — FreeHostia offers free hosting services incl. an industry-best Control Panel & a 1-click installation of 50+ free apps. Instant setup. No forced ads.
 [heliohost.org](https://www.heliohost.org) — Community powered free hosting for everyone.
 [hostman.com](https://hostman.com) — Deploy up to 3 static sites from your GitHub repository for free.
@@ -801,7 +801,7 @@
 [segment.com](https://segment.com/) — Hub to translate and route events to other third-party services. 100,000 events/month free
 [stun:global.stun.twilio.com:3478?transport=udp](stun:global.stun.twilio.com:3478?transport=udp) — Twilio STUN
 [stun:stun.l.google.com:19302](stun:stun.l.google.com:19302) — Google STUN
-[webhookrelay.com](https://webhookrelay.com) — Manage, debug, fan-out and proxy all your webhooks to public or internal (ie: localhost) destinations. Also, expose servers running in a private network over a tunnel by getting a public HTTP endpoint (`https://yoursubdomain.webrelay.io <----> http://localhost:8080`).
+[webhookrelay.com](https://webhookrelay.com) — Manage, debug, fan-out and proxy all your webhooks to public or internal (ie: localhost) destinations. Also, expose servers running in a private network over a tunnel by getting a public HTTP endpoint (`https://yoursubdomain.webrelay.io <----> https://localhost:8080`).
 [Xirsys](https://www.xirsys.com) — Global network of STUN / TURN servers with a generous free tier.
 [ZeroTier](https://www.zerotier.com) — FOSS managed virtual Ethernet as a service. Unlimited end-to-end encrypted networks of 100 clients on free plan. Clients for desktop/mobile/NA; web interface for configuration of custom routing rules and approval of new client nodes on private networks.
 
@@ -986,7 +986,7 @@
 [jetbrains.com](https://jetbrains.com/products.html) — Productivity tools, IDEs and deploy tools (aka [IntelliJ IDEA](https://www.jetbrains.com/idea/), [PyCharm](https://www.jetbrains.com/pycharm/), etc). Free license for students, teachers, Open Source and user groups.
 [jsbin.com](https://jsbin.com) — JS Bin is another playground and code sharing site of front end web (HTML, CSS and JavaScript. Also supports Markdown, Jade and Sass).
 [jsfiddle.net](https://jsfiddle.net/) — JS Fiddle is a playground and code sharing site of front end web, support collaboration as well.
-[JSONPlaceholder](http://jsonplaceholder.typicode.com/) Some REST API endpoints that return some fake data in JSON format. The source code is also available if you would like to run the server locally.
+[JSONPlaceholder](https://jsonplaceholder.typicode.com/) Some REST API endpoints that return some fake data in JSON format. The source code is also available if you would like to run the server locally.
 [Katacoda](https://katacoda.com) — Interactive learning and training platform for software engineers helping developers learn and companies increase adoption.
 [micro-jaymock](https://micro-jaymock.now.sh/) - Tiny API mocking microservice for generating fake JSON data.
 [mockable.io](https://www.mockable.io/) — Mockable is a simple configurable service to mock out RESTful API or SOAP web-services. This online service allows you to quickly define REST API or SOAP endpoints and have them return JSON or XML data.
@@ -1099,7 +1099,7 @@
 ## [Browser based hardware emulation written in Javascript](https://free-for.dev/#/?id=browser-based-hardware-emulation-written-in-javascript)
 
 [JsLinux](https://bellard.org/jslinux) — a really fast x86 virtual machine capable of running Linux and Windows 2k.
-[Jor1k](http://s-macke.github.io/jor1k/demos/main.html) — a OpenRISC virtual machine capable of running Linux with network support.
+[Jor1k](https://s-macke.github.io/jor1k/demos/main.html) — a OpenRISC virtual machine capable of running Linux with network support.
 [v86](https://copy.sh/v86) — a x86 virtual machine capable of running Linux and other OS directly into the browser.
 
 ## [Miscellaneous](https://free-for.dev/#/?id=miscellaneous)

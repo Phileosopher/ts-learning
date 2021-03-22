@@ -38,7 +38,7 @@ Well, it dependes on your needs. FP and OOP are very different. Personally I lik
 
 **Just Googled and found many FP libraries for PHP. Why are you writing a new one ?**
 
-This library is inspired by [Ramda](http://ramdajs.com/) which is a FP library for Javascript. Ramda was created after [underscore](http://underscorejs.org/) and [lodash](https://lodash.com/) and it has a better Functional API then others. [This talk explains how](https://www.youtube.com/watch?v=m3svKOdZijA&app=desktop). So I wanted a library with the same philisophy as Ramda supporting old versions of PHP (from version 5.4).
+This library is inspired by [Ramda](https://ramdajs.com/) which is a FP library for Javascript. Ramda was created after [underscore](https://underscorejs.org/) and [lodash](https://lodash.com/) and it has a better Functional API then others. [This talk explains how](https://www.youtube.com/watch?v=m3svKOdZijA&app=desktop). So I wanted a library with the same philisophy as Ramda supporting old versions of PHP (from version 5.4).
 
 # Get Started
 
@@ -63,7 +63,7 @@ $incrementAll([1, 2, 3]); //=> [2, 3, 4]
 
 The main features of this library are:
 
-- [Ramda](http://ramdajs.com/) like functional API with [curry()](https://github.com/tarsana/functional/blob/master/docs/functions.md#curry) and [__()](https://github.com/tarsana/functional/blob/master/docs/functions.md#__).
+- [Ramda](https://ramdajs.com/) like functional API with [curry()](https://github.com/tarsana/functional/blob/master/docs/functions.md#curry) and [__()](https://github.com/tarsana/functional/blob/master/docs/functions.md#__).
 
 - **100+** Functions covered with **140+** Tests Cases containing **390+** assertions.
 

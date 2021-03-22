@@ -9,7 +9,7 @@ def read_url(url):
 if __name__ == "__main__":
 
     dataSet=list()
-    sourceUrl = 'http://godfreysfeed.com/dealersandlocations.php'
+    sourceUrl = 'https://godfreysfeed.com/dealersandlocations.php'
     page = read_url(sourceUrl)
 
     pLatLng= r'var latLng = new google.maps.LatLng\((?P<lat>.*)\,\s*(?P<lng>.*)\)\;'

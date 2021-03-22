@@ -1,7 +1,7 @@
 # Deep Learning Quick Reference Chapter 11: Seq2Seq
 # Mike Bernico <mike.bernico@gmail.com>
 # This program expects english to french sentance pairs located in chapter_11/data/
-# Dataset can be found at http://www.manythings.org/anki/fra-eng.zip
+# Dataset can be found at https://www.manythings.org/anki/fra-eng.zip
 
 from keras.models import Model
 from keras.layers import Input, LSTM, Dense

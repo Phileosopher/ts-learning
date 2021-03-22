@@ -1,9 +1,9 @@
 from pyquery import PyQuery as pq
 import requests
-mainUrl = "http://testing-ground.scraping.pro"
-loginUrl = "http://testing-ground.scraping.pro/login"
-postUrl="http://testing-ground.scraping.pro/login?mode=login"
-logoutUrl = "http://testing-ground.scraping.pro/login?mode=logout"
+mainUrl = "https://testing-ground.scraping.pro"
+loginUrl = "https://testing-ground.scraping.pro/login"
+postUrl="https://testing-ground.scraping.pro/login?mode=login"
+logoutUrl = "https://testing-ground.scraping.pro/login?mode=logout"
 
 def responseCookies(response):
     headers = response.headers

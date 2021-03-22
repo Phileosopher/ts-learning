@@ -35,7 +35,7 @@ import io
 # - Everything is text, explicit conversions required
 
 # Example 1
-# From http://en.wikipedia.org/wiki/.properties
+# From https://en.wikipedia.org/wiki/.properties
 prop1 = """
 # You are reading the ".properties" entry.
 ! The exclamation mark can also mark text as comments.
@@ -53,7 +53,7 @@ tab : \\u0009
 """
 
 # Example 2
-# From http://docs.oracle.com/javase/7/docs/api/java/util/Properties.html
+# From https://docs.oracle.com/javase/7/docs/api/java/util/Properties.html
 prop2 = """
 \:\=
 Truth = Beauty
@@ -143,7 +143,7 @@ A test for the prop1 example. We can create a dict since each key is unique.
 ...    "language": "English",
 ...    "message": "Welcome to Wikipedia!",
 ...    "tab": "\\t",
-...    "website": "http://en.wikipedia.org/",
+...    "website": "https://en.wikipedia.org/",
 ... }
 >>> expected == actual
 True

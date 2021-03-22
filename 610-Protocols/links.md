@@ -4,7 +4,7 @@
 [Show HN: Hummingbard – decentralized communities built on Matrix | Hacker News](https://news.ycombinator.com/item?id=26277602)
 [The future of web software is HTML over WebSockets | Hacker News](https://news.ycombinator.com/item?id=26265999)
 [Deprecating scp | Hacker News](https://news.ycombinator.com/item?id=25005567)
-[An introduction to HTTP: everything you need to know](https://www.freecodecamp.org/news/http-and-everything-you-need-to-know-about-it/)
+[An introduction to https: everything you need to know](https://www.freecodecamp.org/news/http-and-everything-you-need-to-know-about-it/)
 [How HTTP Works and Why it's Important – Explained in Plain English](https://www.freecodecamp.org/news/how-the-internet-works/)
 [The Open Graph protocol](https://ogp.me/)
 [Show HN: Mkcert – Valid HTTPS certificates for localhost | Hacker News](https://news.ycombinator.com/item?id=18842218)

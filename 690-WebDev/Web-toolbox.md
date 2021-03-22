@@ -10,7 +10,7 @@
 [Show HN: CLI tool for saving web pages as a single file | Hacker News](https://news.ycombinator.com/item?id=20774322)
 [Matomo Analytics - The Google Analytics alternative that protects your data](https://matomo.org/)
 [Amplitude | Product Intelligence for Web and Mobile](https://amplitude.com/)
-[Open Web Analytics – Web Analytics – Open Source Web Analytics Framework](http://www.openwebanalytics.com/)
+[Open Web Analytics – Web Analytics – Open Source Web Analytics Framework](https://www.openwebanalytics.com/)
 [Simple Analytics - Simple, clean, and privacy-friendly analytics](https://simpleanalytics.com/)
 [Fast, simple and privacy-focused website analytics - Fathom Analytics](https://usefathom.com/)
 [NW.js](https://nwjs.io/)
@@ -31,6 +31,7 @@
 [Show HN: I replaced Google Analytics with simple log-based analytics | Hacker News](https://news.ycombinator.com/item?id=19883876)
 [Show HN: Webflow - Design responsive websites visually | Hacker News](https://news.ycombinator.com/item?id=5407499)
 [Show HN: Image Processing for Everybody | Hacker News](https://news.ycombinator.com/item?id=10008637)
+[Nyxt Browser | Hacker News](https://news.ycombinator.com/item?id=26509612)
 
 ## WEBDEV CYSEC
 

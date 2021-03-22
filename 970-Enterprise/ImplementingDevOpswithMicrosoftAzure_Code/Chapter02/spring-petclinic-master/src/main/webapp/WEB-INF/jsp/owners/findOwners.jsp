@@ -1,10 +1,10 @@
 <!DOCTYPE html>
 
 <%@ page session="false" %>
-<%@ taglib prefix="spring" uri="http://www.springframework.org/tags" %>
-<%@ taglib prefix="fmt" uri="http://java.sun.com/jsp/jstl/fmt" %>
-<%@ taglib prefix="form" uri="http://www.springframework.org/tags/form" %>
-<%@ taglib prefix="fn" uri="http://java.sun.com/jsp/jstl/functions" %>
+<%@ taglib prefix="spring" uri="https://www.springframework.org/tags" %>
+<%@ taglib prefix="fmt" uri="https://java.sun.com/jsp/jstl/fmt" %>
+<%@ taglib prefix="form" uri="https://www.springframework.org/tags/form" %>
+<%@ taglib prefix="fn" uri="https://java.sun.com/jsp/jstl/functions" %>
 <%@ taglib prefix="petclinic" tagdir="/WEB-INF/tags" %>
 
 <html lang="en">

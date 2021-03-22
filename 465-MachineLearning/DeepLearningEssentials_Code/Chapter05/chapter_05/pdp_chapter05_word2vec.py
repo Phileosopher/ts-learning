@@ -8,7 +8,7 @@
 # you may not use this file except in compliance with the License.
 # You may obtain a copy of the License at
 #
-#     http://www.apache.org/licenses/LICENSE-2.0
+#     https://www.apache.org/licenses/LICENSE-2.0
 #
 # =============================================================================
 """
@@ -33,7 +33,7 @@ from six.moves import xrange  # pylint: disable=redefined-builtin
 import tensorflow as tf
 
 # Step 1: Download the data.
-url = 'http://mattmahoney.net/dc/'
+url = 'https://mattmahoney.net/dc/'
 
 
 # pylint: disable=redefined-outer-name
@@ -179,7 +179,7 @@ with graph.as_default():
   # tf.nce_loss automatically draws a new sample of the negative labels each
   # time we evaluate the loss.
   # Explanation of the meaning of NCE loss:
-  #   http://mccormickml.com/2016/04/19/word2vec-tutorial-the-skip-gram-model/
+  #   https://mccormickml.com/2016/04/19/word2vec-tutorial-the-skip-gram-model/
   loss = tf.reduce_mean(
       tf.nn.nce_loss(weights=nce_weights,
                      biases=nce_biases,

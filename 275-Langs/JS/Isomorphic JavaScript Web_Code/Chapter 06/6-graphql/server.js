@@ -55,7 +55,7 @@ models.sync({ force: process.env.NODE_ENV !== 'production' })
   .catch(err => console.error(err.stack))
   .then(() => {
     app.listen(port, () => console.log(
-      `Node.js server is listening at http://localhost:${port}/`
+      `Node.js server is listening at https://localhost:${port}/`
     ));
   });
 /* eslint-enable no-console */

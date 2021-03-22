@@ -29,7 +29,7 @@
  * City Airport information. 
  */
 typedef struct {
-	char IATA_code[IATA_MAXSZ]; /* http://www.nationsonline.org/oneworld/IATA_Codes/ */
+	char IATA_code[IATA_MAXSZ]; /* https://www.nationsonline.org/oneworld/IATA_Codes/ */
 	char city[CITY_MAXSZ];      /* city name */
 	float latitude, longitude;  /* coordinates of the city airport */
 	unsigned int altitude;      /* metres */

@@ -15,4 +15,4 @@ spec:
       - image: williamyeh/boom
         name: boom
         command: ["/bin/sh","-c"]
-        args: ["while true ; do boom http://node-js-scale/ -c 10 -n 100 ; sleep 1 ; done"]
+        args: ["while true ; do boom https://node-js-scale/ -c 10 -n 100 ; sleep 1 ; done"]

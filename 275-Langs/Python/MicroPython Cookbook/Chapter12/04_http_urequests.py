@@ -4,7 +4,7 @@ import urequests
 
 def main():
     wait_for_networking()
-    url = 'http://micropython.org/ks/test.html'
+    url = 'https://micropython.org/ks/test.html'
     html = urequests.get(url).text
     print(html)
 

@@ -8,7 +8,7 @@
         "type": "chrome",
         "request": "launch",
         "name": "Chrome",
-        "url": "http://127.0.0.1:8887/examples",
+        "url": "https://127.0.0.1:8887/examples",
         "webRoot": "${workspaceRoot}"
       },
       {

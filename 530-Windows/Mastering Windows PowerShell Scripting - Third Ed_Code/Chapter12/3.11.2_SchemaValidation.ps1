@@ -5,7 +5,7 @@ $document.Load($path)
 
 # Add the schema to the XmlDocument
 $document.Schemas.Add(
-    'http://schemas.microsoft.com/maml/2004/10',
+    'https://schemas.microsoft.com/maml/2004/10',
     'C:\Windows\System32\WindowsPowerShell\v1.0\Schemas\PSMaml\maml.xsd'
 )
 

@@ -36,13 +36,13 @@ ACKNOWLEDGMENT AND CITATION
 
 We kindly ask  any users to  cite this data  in any published  material produced
 using this data,  and if possible  link web pages  to the CIAT-CSI  SRTM website
-(http://srtm.csi.cgiar.org).
+(https://srtm.csi.cgiar.org).
 
 Citations should be made as follows:
 
 Jarvis A., H.I. Reuter, A.  Nelson, E. Guevara, 2008, Hole-filled  seamless SRTM
 data V4, International  Centre for Tropical  Agriculture (CIAT), available  from
-http://srtm.csi.cgiar.org.
+https://srtm.csi.cgiar.org.
 
 REFERENCES
 

@@ -5,7 +5,7 @@ from tkinter import *
 
 # To-Do:  1. Symbolic names for special charaters (LEFT, RIGHT, etc)
 
-# http://zetcode.com/gui/tkinter/drawing/
+# https://zetcode.com/gui/tkinter/drawing/
 # These are global variables that are used by the user or are phantoms
 width = 100                   # Default canvas width
 height = 100                  # Default canvas height

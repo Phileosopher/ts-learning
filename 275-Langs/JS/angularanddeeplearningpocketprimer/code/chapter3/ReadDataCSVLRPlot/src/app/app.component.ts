@@ -36,7 +36,7 @@ export class AppComponent {
   public csvUrl  = 'assets/rand20.csv';
   public allTextLines:any = "";
 
-  constructor(@Inject(HttpClient) public http:HttpClient) {
+  constructor(@Inject(HttpClient) public https:HttpClient) {
      this.readCsvData (); 
   }
 

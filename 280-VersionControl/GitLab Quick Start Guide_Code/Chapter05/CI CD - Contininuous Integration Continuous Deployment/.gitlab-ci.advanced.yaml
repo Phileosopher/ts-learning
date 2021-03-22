@@ -60,7 +60,7 @@ deploy_production:
     - .composer/vendor/bin/envoy run deploy
   environment:
     name: production
-    url: http://192.168.0.1
+    url: https://192.168.0.1
   when: manual
   only:
     - master

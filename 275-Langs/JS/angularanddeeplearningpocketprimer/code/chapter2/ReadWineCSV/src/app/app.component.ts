@@ -31,7 +31,7 @@ export class AppComponent {
   public records: any = []; 
   public csvUrl = 'assets/wine.csv';
 
-  constructor(@Inject(HttpClient) public http:HttpClient) {
+  constructor(@Inject(HttpClient) public https:HttpClient) {
      this.readCsvData (); 
   }
 

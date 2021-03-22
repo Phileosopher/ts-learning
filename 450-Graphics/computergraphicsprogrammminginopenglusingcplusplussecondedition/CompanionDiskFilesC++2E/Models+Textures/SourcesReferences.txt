@@ -1,6 +1,6 @@
 starfield2048.jpg
 
-  Bourke, P., Representing star fields, 2001. http://paulbourke.net/miscellaneous/starfield/
+  Bourke, P., Representing star fields, 2001. https://paulbourke.net/miscellaneous/starfield/
   Permission secured by Mercury Learning for use and distribution with textbook.
 
 ------------------------------------
@@ -40,7 +40,7 @@ ice.jpg
 shuttle.obj
 spstob_1.jpg
 
-  NASA 3D Resources, http://nasa3d.arc.nasa.gov/
+  NASA 3D Resources, https://nasa3d.arc.nasa.gov/
   NASA website states these are available for public non-commercial and commercial use.
 
 --------------------------------------
@@ -59,7 +59,7 @@ squareMoonMap.jpg
 squareMoonNormal.jpg
 sunmap.jpg
 
-  Hastings-Trew, J., JHT’s Planetary Pixel Emporium. http://planetpixelemporium.com/
+  Hastings-Trew, J., JHTï¿½s Planetary Pixel Emporiumhttps:p://planetpixelemporium.com/
   Permission secured by Mercury Learning for use and distribution with textbook.
 
 ---------------------------------------

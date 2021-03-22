@@ -1,12 +1,12 @@
 /*!
  * jQuery UI Droppable 1.10.4
- * http://jqueryui.com
+ * https://jqueryui.com
  *
  * Copyright 2014 jQuery Foundation and other contributors
  * Released under the MIT license.
- * http://jquery.org/license
+ * https://jquery.org/license
  *
- * http://api.jqueryui.com/droppable/
+ * https://api.jqueryui.com/droppable/
  *
  * Depends:
  *	jquery.ui.core.js

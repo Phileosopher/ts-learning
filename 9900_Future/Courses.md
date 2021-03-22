@@ -27,4 +27,4 @@
 
 [Parrondo's paradox - Wikipedia](https://en.wikipedia.org/wiki/Parrondo%27s_paradox)
 [Chainstore paradox - Wikipedia](https://en.wikipedia.org/wiki/Chainstore_paradox)
-[The Allais Paradox – Game Theory 101](http://gametheory101.com/courses/game-theory-101/the-allais-paradox/)
+[The Allais Paradox – Game Theory 101](https://gametheory101.com/courses/game-theory-101/the-allais-paradox/)

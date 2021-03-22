@@ -4,7 +4,7 @@ from time import time
 
 N = 2500
 
-URLS = ['http://127.0.0.1:8000/quote'] * N
+URLS = ['https://127.0.0.1:8000/quote'] * N
 
 
 def load_url(url, timeout):

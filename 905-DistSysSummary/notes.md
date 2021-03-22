@@ -4,6 +4,6 @@
 [TeachYourselfCS3] [videos] MIT's 6.824
   https://www.youtube.com/watch?v=hBWfjkGKRas&list=PLkcQbKbegkMqiWf7nF8apfMRL4P4sw8UL
 [TeachYourselfCS4] Read papers
-  http://dsrg.pdos.csail.mit.edu/papers/
+  https://dsrg.pdos.csail.mit.edu/papers/
   Attend a local Papers We Love chapter
-    http://paperswelove.org/
+    https://paperswelove.org/

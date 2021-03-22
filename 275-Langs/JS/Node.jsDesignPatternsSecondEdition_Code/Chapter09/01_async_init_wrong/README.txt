@@ -5,7 +5,7 @@ To try the sample, first start the server:
   node app
   
 Then with a browser navigate to the url:
-  http://localhost:8000/say
+  https://localhost:8000/say
 
 Within 10 seconds from the startup of the server, 
 the expected result should be an error message like the following:

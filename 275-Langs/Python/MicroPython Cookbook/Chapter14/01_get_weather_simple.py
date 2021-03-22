@@ -1,6 +1,6 @@
 import urequests
 
-API_URL = 'http://api.openweathermap.org/data/2.5/weather'
+API_URL = 'https://api.openweathermap.org/data/2.5/weather'
 
 APPID = 'put-your-API-key(APPID)-here'
 city = 'Berlin'

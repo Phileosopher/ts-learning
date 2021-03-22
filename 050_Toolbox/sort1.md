@@ -28,7 +28,7 @@
 [If a MacBook Pro runs hot or shows high kernel CPU, try charging it on the right | Hacker News](https://news.ycombinator.com/item?id=22957573)
 [A ride that takes 10^20k years to complete in Roller Coaster Tycoon 2 \[video\] | Hacker News](https://news.ycombinator.com/item?id=24042305)
 [Kernel Density Estimation](https://mathisonian.github.io/kde/)
-[A Plan for Spam](http://paulgraham.com/spam.html)
+[A Plan for Spam](https://paulgraham.com/spam.html)
 [Six Months of Tiny Projects | Hacker News](https://news.ycombinator.com/item?id=25135752)
 [How do Spotify Codes work? - Boonedoggle](https://boonepeter.github.io/posts/2020-11-10-spotify-codes/)
 [Ask HN: What is the best money you have spent on professional development? | Hacker News](https://news.ycombinator.com/item?id=25136258)

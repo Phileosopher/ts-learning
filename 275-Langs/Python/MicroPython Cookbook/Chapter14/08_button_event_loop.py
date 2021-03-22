@@ -8,7 +8,7 @@ import random
 
 BUTTON_A_PIN = 0
 CONF_PATH = 'conf.json'
-API_URL = 'http://api.openweathermap.org/data/2.5/weather'
+API_URL = 'https://api.openweathermap.org/data/2.5/weather'
 CITIES = ['Berlin', 'London', 'Paris', 'Tokyo', 'Rome', 'Oslo', 'Bangkok']
 WEATHER = """\
 City: {city}

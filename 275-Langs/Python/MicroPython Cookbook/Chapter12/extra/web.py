@@ -27,7 +27,7 @@ def socket_listen():
 
 
 def serve_requests(sock, ip, handler):
-    print('webserver started on http://%s/' % ip)
+    print('webserver started on https://%s/' % ip)
     while True:
         conn, address = sock.accept()
         stream = conn.makefile('rwb')

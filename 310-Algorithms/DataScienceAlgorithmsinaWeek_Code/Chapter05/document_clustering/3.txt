@@ -7222,7 +7222,7 @@ Vyasa, Part 2, by Krishna-Dwaipayana Vyasa
 
 ***** This file should be named 7965.txt or 7965.zip *****
 This and all associated files of various formats will be found in:
-        http://www.gutenberg.org/7/9/6/7965/
+        https://www.gutenberg.org/7/9/6/7965/
 
 Produced by John B. Hare, David King, Juliet Sutherland,
 Charles Franks, and the Online Distributed Proofreading

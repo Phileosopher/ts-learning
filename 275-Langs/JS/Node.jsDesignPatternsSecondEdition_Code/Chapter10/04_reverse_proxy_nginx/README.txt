@@ -13,4 +13,4 @@ Then reload the server with:
   nginx -s reload
 
 Access the server at:
-  http://localhost
+  https://localhost

@@ -1,7 +1,7 @@
 This sample demonstrates how to integrate a chat application and a history service using AMQP
 
 As pre-requisite to this sample, you first need to install RabbitMQ
-  http://www.rabbitmq.com/download.html
+  https://www.rabbitmq.com/download.html
 
 To try the sample, install the dependencies:
   npm install
@@ -12,5 +12,5 @@ Then run (in separate terminals):
   node historySvc
   
 You can try to access at the same time those addresses:
-  http://localhost:8080
-  http://localhost:8081
+  https://localhost:8080
+  https://localhost:8081

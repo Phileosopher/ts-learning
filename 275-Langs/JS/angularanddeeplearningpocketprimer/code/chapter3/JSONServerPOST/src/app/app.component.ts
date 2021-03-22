@@ -38,7 +38,7 @@ export class AppComponent {
   newAuthor   = "";
   largestId   = 1000000;
 
-  constructor(@Inject(HttpClient) public http:HttpClient) {}
+  constructor(@Inject(HttpClient) public https:HttpClient) {}
 
   postAuthorData() {
   //this.newAuthorId = 0+this.largestId+this.idIncr;
@@ -52,7 +52,7 @@ export class AppComponent {
 
 //console.log("postNewAuthor: "+JSON.stringify(postNewAuthor));
 
-    $.post("http://localhost:3000/authors",
+    $.post("https://localhost:3000/authors",
        postNewAuthor,
        function(result, textStatus, jqXHR) {
   //console.log("2returned result: "+JSON.stringify(result));
@@ -67,7 +67,7 @@ export class AppComponent {
   }
 
   getAuthorData() {
-    this.http.get('http://localhost:3000/authors')
+    this.http.get('https://localhost:3000/authors')
       .subscribe(
         data => this.authorData = data,
         err => console.log('error: '+err),

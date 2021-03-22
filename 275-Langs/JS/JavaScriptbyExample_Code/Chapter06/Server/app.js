@@ -33,8 +33,8 @@ SwaggerExpress.create(config, function(err, swaggerExpress) {
   var port = process.env.PORT || 10010;
   app.listen(port);
 
-  console.log('The URL to be added in the .env file: http://127.0.0.1:' + port);
+  console.log('The URL to be added in the .env file: https://127.0.0.1:' + port);
 
-  console.log('Server Running! Visit http://127.0.0.1:' + port + '/docs for API documentation');
+  console.log('Server Running! Visit https://127.0.0.1:' + port + '/docs for API documentation');
 });
 

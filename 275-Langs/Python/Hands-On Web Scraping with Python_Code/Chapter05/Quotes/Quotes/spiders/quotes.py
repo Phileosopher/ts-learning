@@ -9,17 +9,17 @@ class QuotesSpider(scrapy.Spider):
     #To be used for pagination purpose.
 
     start_urls = (
-        'http://quotes.toscrape.com/',
+        'https://quotes.toscrape.com/',
     )
     '''
     #or
     start_urls = (
-        'http://quotes.toscrape.com/',
-        'http://quotes.toscrape.com/page/1/',
-        'http://quotes.toscrape.com/page/2/',
+        'https://quotes.toscrape.com/',
+        'https://quotes.toscrape.com/page/1/',
+        'https://quotes.toscrape.com/page/2/',
     )
     or
-    start_urls = ['http://quotes.toscrape.com/page/%s' % page for page in xrange(1, 5)]
+    start_urls = ['https://quotes.toscrape.com/page/%s' % page for page in xrange(1, 5)]
     '''
 
     '''Using XPath'''
@@ -36,7 +36,7 @@ class QuotesSpider(scrapy.Spider):
             item['quote'] = row.xpath('span[@itemprop="text"]/text()').extract_first()
             item['author_link'] = row.xpath('//a[contains(@href,"/author/")]/@href').extract_first()
             if len(item['author_link'])>0:
-                item['author_link'] = 'http://quotes.toscrape.com'+item['author_link']
+                item['author_link'] = 'https://quotes.toscrape.com'+item['author_link']
 
             yield item
 
@@ -44,7 +44,7 @@ class QuotesSpider(scrapy.Spider):
         if nextPage:
             print("Next Page URL: ",nextPage)
             #nextPage obtained from either XPath or CSS can be used.
-            yield scrapy.Request('http://quotes.toscrape.com'+nextPage,callback=self.parse)
+            yield scrapy.Request('https://quotes.toscrape.com'+nextPage,callback=self.parse)
 
         print('Completed')
 
@@ -64,7 +64,7 @@ class QuotesSpider(scrapy.Spider):
             item['quote'] = row.css('span[itemprop="text"]::text').extract_first()
             item['author_link'] = row.css('a:contains("(about)")::attr(href)').extract_first()
             if len(item['author_link'])>0:
-                item['author_link'] = 'http://quotes.toscrape.com'+item['author_link']
+                item['author_link'] = 'https://quotes.toscrape.com'+item['author_link']
 
             yield item
 
@@ -72,7 +72,7 @@ class QuotesSpider(scrapy.Spider):
         if nextPage:
             print("Next Page URL: ",nextPage)
             #nextPage obtained from either XPath or CSS can be used.
-            yield scrapy.Request('http://quotes.toscrape.com'+nextPage,callback=self.parse)
+            yield scrapy.Request('https://quotes.toscrape.com'+nextPage,callback=self.parse)
 
         print('Completed')
         '''

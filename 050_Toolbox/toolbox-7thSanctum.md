@@ -3,12 +3,12 @@
 ART SOURCES
 *      **Free**
 
-*   [Pixabay](http://pixabay.com) - A source for art that is free as well as royalty-free. There's a lot here, and much of it is professional.
+*   [Pixabay](https://pixabay.com) - A source for art that is free as well as royalty-free. There's a lot here, and much of it is professional.
 *   [Unsplash](https://unsplash.com) - A source for photos that are free as well as royalty-free. The quality is very high.
 
 *   **Royalty Free**
 
-*   [Canstockphoto](http://www.canstockphoto.com/) - A great source for royalty-free art, photos, and more. Has a subscription system and a pay-more-get-more credit system.
+*   [Canstockphoto](https://www.canstockphoto.com/) - A great source for royalty-free art, photos, and more. Has a subscription system and a pay-more-get-more credit system.
 *   [Shutterstock](https://shutterstock.com) - The classic source for royalty-free art, photos, and more. Has both monthly and specific purchases available.
 *   [The Noun Project](https://thenounproject.com/) - A fee or membership-based site for downloading a huge selection of royalty free icons! Once you pay for it or download it, it's royalty-free! Useful for all sorts of projects
 
@@ -16,7 +16,7 @@ Book Covers
 
 *   **Premade**
 
-*   [Go On Write](http://goonwrite.com/) - Premade covers for books - pick one that looks right and the artist will change the title and author appropriately. A great bargain, and even has series of covers at discount! Will do custom work to.
+*   [Go On Write](https://goonwrite.com/) - Premade covers for books - pick one that looks right and the artist will change the title and author appropriately. A great bargain, and even has series of covers at discount! Will do custom work to.
 
 *   **Services**
 
@@ -31,9 +31,9 @@ Book Reviewers
 
 *   **Review Sources**
 
-*   [Midwest book review](http://www.midwestbookreview.com/get_rev.htm) - Will review books for free, but it's a matter of choice.
+*   [Midwest book review](https://www.midwestbookreview.com/get_rev.htm) - Will review books for free, but it's a matter of choice.
 *   [Self Publishing Review](https://www.selfpublishingreview.com/) - A classic paid review service (where a pool of reviewers is available) for books. Not always a guarantee of the best reviews of course, so you take your risks . .
-*   [The Indie Review](http://www.theindieview.com/indie-reviewers/) - A large, constantly-updated list of indie book reviewers.
+*   [The Indie Review](https://www.theindieview.com/indie-reviewers/) - A large, constantly-updated list of indie book reviewers.
 
 Color Tools
 
@@ -47,7 +47,7 @@ Color Tools
 
 *   [Color At Adobe](https://color.adobe.com/) - A color theme creator that lets you create schemes, or even get one from a picture, and has a powerful interface.
 *   [Color Calculator](https://www.sessions.edu/color-calculator/) - A color scheme creator that also has useful advice and guides.
-*   [Colormind](http://colormind.io/) - A color theme creator that creates schemes with simple clicking, or get one from a photo.
+*   [Colormind](https://colormind.io/) - A color theme creator that creates schemes with simple clicking, or get one from a photo.
 *   [Colors at Halfpixel](https://color.hailpixel.com/) - A simple palette creator (with a mobile option) with intuitive controls.
 *   [Coolors](https://coolors.co/) - A useful and powerful color palette creator that's easy to use and powerful.
 *   [Huesnap](https://www.huesnap.com/) - A palette repository and creation tool
@@ -56,11 +56,11 @@ Contact Management
 
 *   **Mailing Lists**
 
-*   [Mailchimp](http://www.mailchimp.com/) - Mailchimp may have some restrictions, but it's the go-to for easy mailing list management, which is perfect for authors and artists. It also integrates well with other tools.
+*   [Mailchimp](https://www.mailchimp.com/) - Mailchimp may have some restrictions, but it's the go-to for easy mailing list management, which is perfect for authors and artists. It also integrates well with other tools.
 
 *   **Professional**
 
-*   [LinkedIn](http://www.linkedin.com/) - The classic business networking site, and pretty unavoidable for most professionals.
+*   [LinkedIn](https://www.linkedin.com/) - The classic business networking site, and pretty unavoidable for most professionals.
 
 Game Creation
 
@@ -80,30 +80,30 @@ Game Creation
 
 *   **RPGs**
 
-*   [RPG Maker](http://www.rpgmakerweb.com/) - Game creation tools - the original was RPG focused, but the company has also expanded into Visual Novels.
+*   [RPG Maker](https://www.rpgmakerweb.com/) - Game creation tools - the original was RPG focused, but the company has also expanded into Visual Novels.
 
 Generators
 
 *   **Generator Sites**
 
-*   [Chaotic Shiniy](http://www.chaoticshiny.com/) - A diverse source of generators in a variety of styles.
+*   [Chaotic Shiniy](https://www.chaoticshiny.com/) - A diverse source of generators in a variety of styles.
 *   [Darkest of Nights](https://www.darkestofnights.com/) - Fantasy-oriented generators.
-*   [Donjon](http://donjon.bin.sh/) - Generators for a variety of genres and game systems, some of which provide graphics as well!
-*   [Dropping-the-form](http://www.droppin-the-fork.com/genlinks.htm) - Generators for various settings.
+*   [Donjon](https://donjon.bin.sh/) - Generators for a variety of genres and game systems, some of which provide graphics as well!
+*   [Dropping-the-form](https://www.droppin-the-fork.com/genlinks.htm) - Generators for various settings.
 *   [DunGen](https://dungen.app/dungen/) - A powerful dungeon generation tool!
 *   [Eposic](https://www.trollmystic.com/pub/category/generators/) - Generators - among other imaginative efforts.
-*   [Fantasy Name Generators](http://www.fantasynamegenerators.com/) - And there are a LOT of them here. About anything you could want, and a few you didn't know you needed.
-*   [Feath](http://feath.com/) - Generators of various types, conveniently categorized.
-*   [Generator Blog](http://generatorblog.blogspot.com/) - Links out to many other generators.
-*   [Generatorland](http://www.generatorland.com/) - Lots of generators and generator tools.
+*   [Fantasy Name Generators](https://www.fantasynamegenerators.com/) - And there are a LOT of them here. About anything you could want, and a few you didn't know you needed.
+*   [Feath](https://feath.com/) - Generators of various types, conveniently categorized.
+*   [Generator Blog](https://generatorblog.blogspot.com/) - Links out to many other generators.
+*   [Generatorland](https://www.generatorland.com/) - Lots of generators and generator tools.
 *   [Mithril and mages](https://www.mithrilandmages.com/) - Generators for a variety of genres.
-*   [Name Pistol](http://www.namepistol.com/) - Band name generators.
-*   [RanGen](http://www.rangen.co.uk/) - Random generators, from fantasy to helpful writing tools.
-*   [Serendipity](http://nine.frenchboys.net/) - A generator site with some setting and name generators.
-*   [Seventh Sanctum](http://www.seventhsanctum.com/) - A gigantic collection of generators founded in 1999, with a focus on writing and RPGs.
-*   [Springhole.net](http://www.springhole.net/) - A site of generators and other creative tools.
+*   [Name Pistol](https://www.namepistol.com/) - Band name generators.
+*   [RanGen](https://www.rangen.co.uk/) - Random generators, from fantasy to helpful writing tools.
+*   [Serendipity](https://nine.frenchboys.net/) - A generator site with some setting and name generators.
+*   [Seventh Sanctum](https://www.seventhsanctum.com/) - A gigantic collection of generators founded in 1999, with a focus on writing and RPGs.
+*   [Springhole.net](https://www.springhole.net/) - A site of generators and other creative tools.
 *   [Squid.org](https://squid.org/rpg-random-generator) - Home of a complex name generator with many, many options.
-*   [The Force](http://www.thewingless.com/forge/) - A powerful name generator with multiple options.
+*   [The Force](https://www.thewingless.com/forge/) - A powerful name generator with multiple options.
 
 Graphics
 
@@ -123,7 +123,7 @@ Graphics
 
 *   **Graphic Tools - Painting**
 
-*   [BlackInk](http://blackink.bleank.com/) - A painting program, focusing on stylistic work as opposed to realistic
+*   [BlackInk](https://blackink.bleank.com/) - A painting program, focusing on stylistic work as opposed to realistic
 
 *   **Mac**
 
@@ -167,19 +167,19 @@ Self-Publishing
 
 *   **eBook**
 
-*   [Itch.io](http://itch.io) - Itch.io doesn't just do games - it also allows for people to publish books, and is very open-minded.
+*   [Itch.io](https://itch.io) - Itch.io doesn't just do games - it also allows for people to publish books, and is very open-minded.
 *   [Kobo Writing Life](https://www.kobo.com/us/en/p/writinglife) - Distribute your eBook via Kobo
-*   [Nook Press](http://www.nookpress.com) - Distribute your eBook via Nook
+*   [Nook Press](https://www.nookpress.com) - Distribute your eBook via Nook
 
 *   **eBook-Multiple**
 
-*   [Draft2Digital](http://www.draft2digital.com) - A service that distributes to multiple eBook platforms.
-*   [Smashwords](http://www.smashwords.com) - A wide-ranging ebook distribution service.
+*   [Draft2Digital](https://www.draft2digital.com) - A service that distributes to multiple eBook platforms.
+*   [Smashwords](https://www.smashwords.com) - A wide-ranging ebook distribution service.
 
 *   **Physical And Ebook**
 
-*   [Ingram Spark](http://www.ingramspark.com) - Ingram's eBook and physical book publishing platform. Wide reach, but may require some setup fees and has some limitations.
-*   [KDP](http://kdp.amazon.com) - Amazon's full-service print and Kindle publishing service. Warning, the eBook distribution is only through Amazon.
+*   [Ingram Spark](https://www.ingramspark.com) - Ingram's eBook and physical book publishing platform. Wide reach, but may require some setup fees and has some limitations.
+*   [KDP](https://kdp.amazon.com) - Amazon's full-service print and Kindle publishing service. Warning, the eBook distribution is only through Amazon.
 *   [Lulu.com](https://www.lulu.com/) - A print and eBook creation and distribution service.
 
 *   **RPGs**
@@ -188,7 +188,7 @@ Self-Publishing
 
 *   **Video Games**
 
-*   [Itch.io](http://itch.io) - Itch.io is a supportive, indie-oriented game store site. It also has a lot of self-published resources for game development, as well as supporting books of all kind.
+*   [Itch.io](https://itch.io) - Itch.io is a supportive, indie-oriented game store site. It also has a lot of self-published resources for game development, as well as supporting books of all kind.
 
 Website Creation
 
@@ -197,7 +197,7 @@ Website Creation
 *   [Squarespace](https://www.squarespace.com/) - The popular website creator with many options.
 *   [Weebly](https://www.weebly.com/) - Easy and simple to use website, blogs, and stores.
 *   [Wix](https://www.wix.com/) - A simple And effective website source, though paid options are reccomended.
-*   [Wordpress.com](http://www.wordpress.com/) - The classic site, with free and paid options. Obviously blog-focused.
+*   [Wordpress.com](https://www.wordpress.com/) - The classic site, with free and paid options. Obviously blog-focused.
 
 Writing Research
 
@@ -210,7 +210,7 @@ Writing Tools
 *   **Ebook Creation**
 
 *   [Calibre](https://calibre-ebook.com/) - A free ebook creation tool.
-*   [Jutoh](http://www.jutoh.com/) - Not only converts your book to various ebook formats, it's a powerful enough tool that you could even write books in it.
+*   [Jutoh](https://www.jutoh.com/) - Not only converts your book to various ebook formats, it's a powerful enough tool that you could even write books in it.
 
 *   **Word Processing**
 
@@ -223,7 +223,7 @@ Writing Tools
 *   [Related Words](https://relatedwords.org/) - Helps find words similar to or related to one you're using.
 *   [Rhyme Zone](https://www.rhymezone.com/) - A tool to help you find rhyming words.
 *   [Thesaurus.Com](https://thesaurus.com) - The classic online thesaurus, with plenty of useful options and displays
-*   [Wordsworth](http://www.wordsworth.us/) - A tool to see if words you're using fit the time period you're writing
+*   [Wordsworth](https://www.wordsworth.us/) - A tool to see if words you're using fit the time period you're writing
 
 *   **Writing**
 
@@ -232,5 +232,5 @@ Writing Tools
 *   **Writing Checking**
 
 *   [Grammarly](https://www.grammarly.com/) - A pricey but powerful service and software for checking grammar, spelling, and even plagarism if you need. There are free, limited options.
-*   [Hemmingway](http://www.hemingwayapp.com/) - A grammar checking tool with both web and desktop versions.
+*   [Hemmingway](https://www.hemingwayapp.com/) - A grammar checking tool with both web and desktop versions.
 *   [Pro Writing Aid](https://prowritingaid.com/) - A subscription-based writing checker service/tool.

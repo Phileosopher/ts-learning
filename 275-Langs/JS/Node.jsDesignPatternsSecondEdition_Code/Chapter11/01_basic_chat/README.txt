@@ -7,4 +7,4 @@ Then run:
   node app
   
 To access the application open a browser at the address:
-  http://localhost:8080
+  https://localhost:8080

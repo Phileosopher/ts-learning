@@ -1,6 +1,6 @@
 ## Solve Every Sudoku Puzzle
 
-## See http://norvig.com/sudoku.html
+## See https://norvig.com/sudoku.html
 
 ## Throughout this program we have:
 ##   r is a row,    e.g. 'A'

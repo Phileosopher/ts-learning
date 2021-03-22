@@ -1,5 +1,5 @@
 $params = @{
-    Uri = 'http://localhost:62369/Service.asmx'
+    Uri = 'https://localhost:62369/Service.asmx'
 }
 $service = New-WebServiceProxy @params
 $service.GetType().Namespace

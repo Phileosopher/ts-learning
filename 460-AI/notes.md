@@ -1,5 +1,5 @@
 [TeachYourselfCS] - AI Berkeley course (videos and Pacman projects)
-  http://ai.berkeley.edu/home.html
+  https://ai.berkeley.edu/home.html
   https://www.coursera.org/learn/machine-learning
 Python Roadmap
   Here's a Python road-map to take you from complete beginner to advanced with machine learning. I don't know what area of computer science you're interested in (AI, web dev, etc.) but I'd say do everything up to intermediate and then branch off. You'll need everything up to intermediate to have any chance of passing a tech interview if you want to do this as a career. Hopefully, this provides some framework for you to get started on:
@@ -46,7 +46,7 @@ Python Roadmap
 [course] Cornell's entire Machine Learning class (CS 4780) is now entirely on You Tube. Taught by one of the funniest and best professors I have ever had.
   https://www.youtube.com/playlist?list=PLl8OlHZGYOQ7bkVbuRthEsaLr7bONzbXS
   First Lecture Notes:
-  http://www.cs.cornell.edu/courses/cs4780/2018fa/syllabus/index.html
+  https://www.cs.cornell.edu/courses/cs4780/2018fa/syllabus/index.html
 [course] Natural Language Processing with Deep Learning (XCS224N)
   Natural language processing (NLP) is undergoing rapid evolution as new methods and toolsets converge with an ever-expanding availability of data. Our upcoming course, Natural Language Processing with Deep Learning, provides a thorough introduction to the modern neural network algorithms for the processing of linguistic information.
   "I have taken several online courses in AI, and most of them helped me learn something new. But, XCS224N goes right at the top of my list. It is one of the best advanced courses I have taken as it strikes a good balance between theory and practice, beginner and advanced concepts. It makes you work a lot harder than other courses, but the end result is worth it." --Ashish K.

@@ -73,7 +73,7 @@
         const path_data_1 = `M ${start_x} ${start_y} A 1 1 0 ${arc_flag_1} 1 ${end_x} ${end_y} L 0 0`;
 
         // create a <path> and append it to the <svg> element
-        const path_1 = document.createElementNS('http://www.w3.org/2000/svg', 'path');
+        const path_1 = document.createElementNS('https://www.w3.org/2000/svg', 'path');
         path_1.setAttribute('d', path_data_1);
         path_1.setAttribute('fill', 'red');
         svg.appendChild(path_1);
@@ -81,7 +81,7 @@
         //-------------------------------------------------------
         const path_data_2 = `M ${end_x} ${end_y} A 1 1 0 ${arc_flag_2} 1 ${start_x} ${start_y} L 0 0`;
 
-        const path_2 = document.createElementNS('http://www.w3.org/2000/svg', 'path');
+        const path_2 = document.createElementNS('https://www.w3.org/2000/svg', 'path');
         path_2.setAttribute('d', path_data_2);
         path_2.setAttribute('fill', 'blue');
         svg.appendChild(path_2);

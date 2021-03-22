@@ -20,5 +20,5 @@ console.log(int16);
 // Float32Array();
 // Float64Array();
 
-// http://www.html5rocks.com/en/tutorials/webgl/typed_arrays/
-// http://www.i-programmer.info/programming/javascript/6135-javascript-data-structures-typed-arrays.html
+// https://www.html5rocks.com/en/tutorials/webgl/typed_arrays/
+// https://www.i-programmer.info/programming/javascript/6135-javascript-data-structures-typed-arrays.html

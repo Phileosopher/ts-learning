@@ -1,6 +1,6 @@
 from lxml import html
 import requests
-response = requests.get('http://httpbin.org/forms/post')
+response = requests.get('https://httpbin.org/forms/post')
 print(type(response.text))
 # build the DOM Tree
 tree = html.fromstring(response.text)

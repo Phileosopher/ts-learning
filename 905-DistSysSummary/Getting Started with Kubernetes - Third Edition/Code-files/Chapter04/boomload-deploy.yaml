@@ -13,4 +13,4 @@ spec:
       - image: williamyeh/boom
         name: boom-deploy
         command: ["/bin/sh","-c"]
-        args: ["while true ; do boom http://node-js-deploy/ -c 100 -n 500 ; sleep 1 ; done"]
+        args: ["while true ; do boom https://node-js-deploy/ -c 100 -n 500 ; sleep 1 ; done"]

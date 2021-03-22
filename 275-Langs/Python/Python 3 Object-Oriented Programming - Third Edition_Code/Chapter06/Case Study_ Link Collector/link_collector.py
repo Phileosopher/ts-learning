@@ -9,7 +9,7 @@ LINK_REGEX = re.compile("<a [^>]*href=['\"]([^'\"]+)['\"][^>]*>")
 
 class LinkCollector:
     def __init__(self, url):
-        self.url = "http://%s" % urlparse(url).netloc
+        self.url = "https://%s" % urlparse(url).netloc
         self.collected_links = {}
         self.visited_links = set()
 
@@ -34,7 +34,7 @@ class LinkCollector:
                     queue.put(link)
 
     def normalize_url(self, path, link):
-        if link.startswith("http://"):
+        if link.startswith("https://"):
             return link.rstrip("/")
         elif link.startswith("/"):
             return self.url + link.rstrip("/")

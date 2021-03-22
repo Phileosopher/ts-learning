@@ -145,4 +145,4 @@ Five forces – a model for analyzing the competitive intensity and therefore at
 Kano model – a model for categorizing possible features to optimize resource allocation. Essentially partitions the product into gamechangers, showstoppers, and distractions.
   https://en.wikipedia.org/wiki/Kano_model
   See also: How to build great products.
-  http://www.defmacro.org/2013/09/26/products.html
+  https://www.defmacro.org/2013/09/26/products.html

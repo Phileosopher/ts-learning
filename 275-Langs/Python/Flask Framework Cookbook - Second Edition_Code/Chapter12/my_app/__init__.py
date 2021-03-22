@@ -24,7 +24,7 @@ mail = Mail(app)
 
 app.secret_key = 'some_random_key'
 
-es = Elasticsearch('http://localhost:9200/')
+es = Elasticsearch('https://localhost:9200/')
 es.indices.create('catalog', ignore=400)
 
 app.config.update(

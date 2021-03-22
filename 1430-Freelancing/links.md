@@ -4,7 +4,7 @@
 [Ask HN: What's a side project you built to make money that hasn't? | Hacker News](https://news.ycombinator.com/item?id=25580637)
 [Show HN: After 2.5 years on my side project, it has hit £500/month revenue | Hacker News](https://news.ycombinator.com/item?id=25372464)
 [GitPals - Find a team or team members for open-source development](https://www.gitpals.com/page/1)
-[What Startups Are Really Like](http://paulgraham.com/really.html)
+[What Startups Are Really Like](https://paulgraham.com/really.html)
 [The boring technology behind a one-person Internet company (2018) | Hacker News](https://news.ycombinator.com/item?id=20985875)
 [How to Become a Successful Freelancer: A Podcast Interview with Marketer-Turned-Freelance-Developer Kyle Prinsloo](https://www.freecodecamp.org/news/how-to-become-a-successful-freelancer-podcast/)
 [Going Solo, Successfully | Kevin Burke](https://kevin.burke.dev/kevin/going-solo-successfully/)

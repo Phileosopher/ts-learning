@@ -5,4 +5,4 @@ To run the sample code first install the dependencies:
   npm install
 
 Then execute the 'spider' module by providing a valid url (including the protocol)
-  node index http://www.example.com
+  node index https://www.example.com

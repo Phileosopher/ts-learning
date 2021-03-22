@@ -1,7 +1,7 @@
 from selenium import webdriver
 chrome_path='chromedriver'
 driver = webdriver.Chrome(executable_path=chrome_path)
-driver.get('http://automationpractice.com')
+driver.get('https://automationpractice.com')
 print("Current Page URL: ",driver.current_url)
 
 searchBox = driver.find_element_by_id('search_query_top')

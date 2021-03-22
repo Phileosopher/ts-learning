@@ -46,7 +46,7 @@ export_savedmodel(model, "savedmodel")
 serve_savedmodel('savedmodel', browse=TRUE)
 
 # open up a command prompt and enter the following (remove the # at start of the string)
-#curl -X POST -H "Content-Type: application/json" -d @json_image.json http://localhost:8089/serving_default/predict
+#curl -X POST -H "Content-Type: application/json" -d @json_image.json https://localhost:8089/serving_default/predict
 
 
 

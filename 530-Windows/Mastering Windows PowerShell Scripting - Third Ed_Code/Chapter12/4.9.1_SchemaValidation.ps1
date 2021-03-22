@@ -8,7 +8,7 @@ $xDocument = [XDocument]::Load(
 
 $xmlSchemaSet = [System.Xml.Schema.XmlSchemaSet]::new()
 $null = $xmlSchemaSet.Add(
-    'http://schemas.microsoft.com/maml/2004/10',
+    'https://schemas.microsoft.com/maml/2004/10',
     'C:\Windows\System32\WindowsPowerShell\v1.0\Schemas\PSMaml\maml.xsd'
 )
 [System.Xml.Schema.Extensions]::Validate(

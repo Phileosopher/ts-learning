@@ -4,11 +4,11 @@ This program trains a newsgroup classifier with a pretrained keras embedding lay
 'newsgroup_classifier__word_embeddings.py' which does not use pretrained GloVe vectors.
 
 GloVe embedding data can be found at:
-http://nlp.stanford.edu/data/glove.6B.zip
-(source page: http://nlp.stanford.edu/projects/glove/)
+https://nlp.stanford.edu/data/glove.6B.zip
+(source page: https://nlp.stanford.edu/projects/glove/)
 
 20 Newsgroup data can be found at:
-http://www.cs.cmu.edu/afs/cs.cmu.edu/project/theo-20/www/data/news20.html
+https://www.cs.cmu.edu/afs/cs.cmu.edu/project/theo-20/www/data/news20.html
 '''
 
 import os

@@ -21,7 +21,7 @@ module.exports = (path, cb) => {
     return queue.push([path, cb]);
   }
   i = (i + 1) % servers.length;
-  let url = 'http://' + servers[i].host + ':' +
+  let url = 'https://' + servers[i].host + ':' +
     servers[i].port + path;
   request(url, cb);
 };

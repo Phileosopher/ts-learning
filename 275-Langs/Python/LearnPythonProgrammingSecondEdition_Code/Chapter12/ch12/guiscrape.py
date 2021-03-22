@@ -102,7 +102,7 @@ if __name__ == "__main__":
     _url_frame.rowconfigure(0, weight=1)
 
     _url = StringVar()
-    _url.set('http://localhost:8000')
+    _url.set('https://localhost:8000')
     _url_entry = ttk.Entry(
         _url_frame, width=40, textvariable=_url)
     _url_entry.grid(row=0, column=0, sticky=(E, W, S, N), padx=5)

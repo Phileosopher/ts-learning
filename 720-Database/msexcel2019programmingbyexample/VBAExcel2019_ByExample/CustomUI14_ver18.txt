@@ -28,11 +28,11 @@
        <topItems>
            <button id="msft" label="Microsoft" onAction="onActionExecHyperlink" />
            <layoutContainer id="set2" layoutChildren="vertical" >
-              <hyperlink id="YouTube" label="http://www.YouTube.com" 
+              <hyperlink id="YouTube" label="https://www.YouTube.com" 
                   onAction="onActionExecHyperlink" />
-              <hyperlink id="amazon" label="http://www.amazon.com" 
+              <hyperlink id="amazon" label="https://www.amazon.com" 
                   onAction="onActionExecHyperlink" />
-              <hyperlink id="merc" label="http://www.merclearning.com" 
+              <hyperlink id="merc" label="https://www.merclearning.com" 
                   onAction="onActionExecHyperlink" />
            </layoutContainer>
        </topItems>

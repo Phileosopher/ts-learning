@@ -22,18 +22,18 @@ describe('Testing our app', function() {
     
     it('testing navigation to repos', function(client) {
       client
-        .url('http://localhost:8080')
+        .url('https://localhost:8080')
         .expect.element('body').to.be.present.before(1000);
       
       client.click('.repos-link', function () {
         client.expect.element('.repos-title').text.to.equal('Repos');
-        client.assert.urlEquals('http://localhost:8080/repos');
+        client.assert.urlEquals('https://localhost:8080/repos');
       })
     });
   
     it('testing url navigation to repos', function(client) {
       client
-        .url('http://localhost:8080/repos');
+        .url('https://localhost:8080/repos');
     
       // now we navigate to repos directly
       client.expect.element('.repos-title').text.to.equal('Repos');

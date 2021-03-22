@@ -12,7 +12,7 @@
 % (cilivian labe force only)
 %
 % Source: 
-% http://www.census.gov/population/www/socdemo/education/cps2007.html
+% https://www.census.gov/population/www/socdemo/education/cps2007.html
 %
 % Also, for each level, find the total percentage of the population.
 %

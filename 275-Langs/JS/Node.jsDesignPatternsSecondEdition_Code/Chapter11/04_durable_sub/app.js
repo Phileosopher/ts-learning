@@ -40,7 +40,7 @@ const wss = new WebSocketServer({server: server});
 wss.on('connection', ws => {
   console.log('Client connected');
   //query the history service
-  request('http://localhost:8090')
+  request('https://localhost:8090')
     .on('error', err => console.log(err))
     .pipe(JSONStream.parse('*'))
     .on('data', msg => ws.send(msg))

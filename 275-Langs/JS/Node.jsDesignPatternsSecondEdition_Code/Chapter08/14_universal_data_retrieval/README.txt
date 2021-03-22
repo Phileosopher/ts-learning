@@ -14,4 +14,4 @@ Then you need to run the server using babel-cli:
 
   node_modules/.bin/babel-cli server.js
 
-Finally you can point your browser to http://localhost:3000 to run the app.
+Finally you can point your browser to https://localhost:3000 to run the app.

@@ -1,7 +1,7 @@
 This sample demonstrates how run parallel tasks using ZMQ
 
 As pre-requisite to this sample, you first need to install the ZMQ binaries:
-  http://zeromq.org/intro:get-the-software
+  https://zeromq.org/intro:get-the-software
 
 To try the sample, install its dependencies:
   npm install

@@ -19,4 +19,4 @@ require('http').createServer((req, res) => {
     res.end('\nThe end...\n',() => console.log('All data was sent'));
   }
   generateMore();
-}).listen(8080, () => console.log('Listening on http://localhost:8080'));
+}).listen(8080, () => console.log('Listening on https://localhost:8080'));

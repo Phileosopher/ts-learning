@@ -183,8 +183,8 @@ function snakeCase() {
  * Checks if `$string` starts with `$token`.
  *
  * ```php
- * $http = F\startsWith('http://');
- * $http('http://gitbub.com'); //=> true
+ * $http = F\startsWith('https://');
+ * $http('https://gitbub.com'); //=> true
  * $http('gitbub.com'); //=> false
  * ```
  *
@@ -210,7 +210,7 @@ function startsWith() {
  *
  * ```php
  * $dotCom = F\endsWith('.com');
- * $dotCom('http://gitbub.com'); //=> true
+ * $dotCom('https://gitbub.com'); //=> true
  * $dotCom('php.net'); //=> false
  * ```
  *

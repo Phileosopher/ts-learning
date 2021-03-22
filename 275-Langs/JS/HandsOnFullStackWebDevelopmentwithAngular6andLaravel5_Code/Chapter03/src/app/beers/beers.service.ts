@@ -9,7 +9,7 @@ import { catchError } from 'rxjs/operators';
 export class BeersService {
   private url = 'https://api.punkapi.com/v2/beers?';
 
-  constructor(private http: HttpClient) { }
+  constructor(private https: HttpClient) { }
 
 
 /**

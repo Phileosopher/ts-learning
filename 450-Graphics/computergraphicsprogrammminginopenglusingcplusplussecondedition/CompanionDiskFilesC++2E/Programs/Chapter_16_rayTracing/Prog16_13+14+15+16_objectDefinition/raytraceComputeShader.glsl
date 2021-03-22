@@ -287,7 +287,7 @@ Collision intersect_plane_object(Ray r, Object o)
 //------------------------------------------------------------------------------
 // Checks if Ray r intersects the Box defined by Object o.box
 // This implementation is based on the following algorithm:
-// http://web.cse.ohio-state.edu/~shen.94/681/Site/Slides_files/basic_algo.pdf
+// https://web.cse.ohio-state.edu/~shen.94/681/Site/Slides_files/basic_algo.pdf
 //------------------------------------------------------------------------------
 Collision intersect_box_object(Ray r, Object o)
 {	// Compute the box's local-space to world-space transform matrices, and their inverse
@@ -468,7 +468,7 @@ Collision intersect_room_box_object(Ray r)
 //------------------------------------------------------------------------------
 // Checks if Ray r intersects the Sphere defined by Object o.sphere
 // This implementation is based on the following algorithm:
-// http://web.cse.ohio-state.edu/~shen.94/681/Site/Slides_files/basic_algo.pdf
+// https://web.cse.ohio-state.edu/~shen.94/681/Site/Slides_files/basic_algo.pdf
 //------------------------------------------------------------------------------
 Collision intersect_sphere_object(Ray r, Object o)
 {	float qa = dot(r.dir, r.dir);

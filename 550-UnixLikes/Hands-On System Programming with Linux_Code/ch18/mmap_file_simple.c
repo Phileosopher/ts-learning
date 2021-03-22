@@ -24,7 +24,7 @@
 #include "../common.h"
 
 /*--------------- Function hex_dump() sourced from:
-http://www.alexonlinux.com/hex-dump-functions
+https://www.alexonlinux.com/hex-dump-functions
 
 Added an start-offset, a 'verbose' parameter, and fixed a potential
 buffer overflow issue (by increasing the 'temp' array size to 20 (from just 8),

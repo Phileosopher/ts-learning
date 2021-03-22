@@ -4,7 +4,7 @@ This program trains a newsgroup classifier with a keras embedding layer. It cont
 'newsgroup_classifier_pretrained_word_embeddings.py' which uses pretrained GloVe vectors.
 
 20 Newsgroup data can be found at:
-http://www.cs.cmu.edu/afs/cs.cmu.edu/project/theo-20/www/data/news20.html
+https://www.cs.cmu.edu/afs/cs.cmu.edu/project/theo-20/www/data/news20.html
 '''
 
 import os

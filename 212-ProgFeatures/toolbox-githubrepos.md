@@ -86,7 +86,7 @@ Roadmap to becoming a web developer in 2021
 A collective list of free APIs for use in software and web development.
 
 [gitignore](https://github.com/github/gitignore)  
-This is GitHub’s collection of .gitignore file templates. We use this list to populate the .gitignore template choosers available in the [GitHub.com](http://GitHub.com) interface when creating new repositories and files.
+This is GitHub’s collection of .gitignore file templates. We use this list to populate the .gitignore template choosers available in the [GitHub.com](https://GitHub.com) interface when creating new repositories and files.
 
 [nw.js](https://github.com/nwjs/nw.js)  
 NW.js is an app runtime based on Chromium and node.js. You can write native apps in HTML and JavaScript with NW.js. It also lets you call Node.js modules directly from the DOM and enables a new way of writing native applications with all Web technologies.
@@ -118,7 +118,7 @@ Amazon Web Services — a practical guide A lot of information on AWS is already
 This guide is by and for engineers who use AWS. It aims to be a useful, living reference that consolidates links, tips, gotchas, and best practices. It arose from discussion and editing over beers by several engineers who have used AWS extensively.
 
 [realworld](https://github.com/gothinkster/realworld)  
-"The mother of all demo apps" — Exemplary fullstack [Medium.com](http://Medium.com) clone powered by React, Angular, Node, Django, and many more
+"The mother of all demo apps" — Exemplary fullstack [Medium.com](https://Medium.com) clone powered by React, Angular, Node, Django, and many more
 
 [awesome](https://github.com/sindresorhus/awesome)  
 Awesome lists about all kinds of interesting topics\\

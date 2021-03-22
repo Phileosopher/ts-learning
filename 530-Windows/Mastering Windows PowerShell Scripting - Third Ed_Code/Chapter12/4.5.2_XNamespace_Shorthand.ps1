@@ -1,1 +1,1 @@
-[XNamespace]'http://example/cars' + 'engine'
+[XNamespace]'https://example/cars' + 'engine'

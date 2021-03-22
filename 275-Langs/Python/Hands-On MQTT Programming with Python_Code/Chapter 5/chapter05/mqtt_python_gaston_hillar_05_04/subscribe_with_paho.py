@@ -1,7 +1,7 @@
 """
 Book: Hands-On MQTT Programming with Python
 Author: Gaston C. Hillar - Twitter.com/gastonhillar
-Publisher: Packt Publishing Ltd. - http://www.packtpub.com
+Publisher: Packt Publishing Ltd. - https://www.packtpub.com
 """
 from config import *
 import paho.mqtt.client as mqtt

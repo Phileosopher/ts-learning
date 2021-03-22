@@ -21607,7 +21607,7 @@ Vyasa - Adi Parva, by Kisari Mohan Ganguli
 
 ***** This file should be named 7864.txt or 7864.zip *****
 This and all associated files of various formats will be found in:
-        http://www.gutenberg.org/7/8/6/7864/
+        https://www.gutenberg.org/7/8/6/7864/
 
 Produced by David King, Juliet Sutherland, and Charles
 Franks, John B. Hare and the Online Distributed Proofreading

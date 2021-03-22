@@ -19,7 +19,7 @@ declare var $: any;
 export class AppComponent {
   employees : any;
 
-  constructor(@Inject(HttpClient) public http:HttpClient) {}
+  constructor(@Inject(HttpClient) public https:HttpClient) {}
 
   httpRequest() {  
     this.http.get('assets/employees.json')

@@ -1,5 +1,5 @@
 #!/bin/bash
-# http://www.thegeekstuff.com/2010/06/bash-array-tutorial 
+# https://www.thegeekstuff.com/2010/06/bash-array-tutorial 
 
 # method #1:
 fruits[0]="apple" 

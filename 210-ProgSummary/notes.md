@@ -9,7 +9,7 @@
     https://opendocs.github.io/sicp/sicp.pdf
     https://news.ycombinator.com/item?id=21299546
 [course] [TeachYourselfCS1alt]  PDF - How to Design Programs (DrRacket), much easier
-  http://www.htdp.org/
+  https://www.htdp.org/
 [course] [TeachYourselfCS1InferiorAlt] Composing Programs (uses Python)
   https://composingprograms.com/
 [exercises] [TeachYourselfCS2] Exercism.io exercises

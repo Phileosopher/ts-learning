@@ -186,7 +186,7 @@ test_post_get_patch = """
     True
     >>> response1.headers['Location'].endswith(document1['identifier'])
     True
-    >>> response1.headers['Location'].startswith('http://localhost/rolls/')
+    >>> response1.headers['Location'].startswith('https://localhost/rolls/')
     True
     
     >>> response2 = client.get(f"/rolls/{document1['identifier']}")

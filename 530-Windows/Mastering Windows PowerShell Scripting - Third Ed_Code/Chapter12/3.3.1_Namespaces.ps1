@@ -1,6 +1,6 @@
 $xml = @"
 <?xml version="1.0"?>
-<cars xmlns:c="http://example/cars">
+<cars xmlns:c="https://example/cars">
     <car type="Saloon">
         <c:colour>Green</c:colour>
         <c:doors>4</c:doors>
@@ -12,4 +12,4 @@ $xml = @"
     </car>
 </cars>
 "@
-Select-Xml '//car/c:engine' -Namespace @{c='http://example/cars'} -Xml $xml
+Select-Xml '//car/c:engine' -Namespace @{c='https://example/cars'} -Xml $xml

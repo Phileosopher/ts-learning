@@ -18,10 +18,10 @@ To start the server, run:
   node app
 
 Now, to obtain a new authentication token run:
-  curl -X POST -d '{"username": "alice", "password":"secret"}' http://localhost:3000/login -H "Content-Type: application/json"
+  curl -X POST -d '{"username": "alice", "password":"secret"}' https://localhost:3000/login -H "Content-Type: application/json"
 
 To check the validity of a token:
-  curl -X GET -H "Accept: application/json" http://localhost:3000/checkToken?token=<TOKEN HERE>
+  curl -X GET -H "Accept: application/json" https://localhost:3000/checkToken?token=<TOKEN HERE>
   
 To invalidate a token:
-  curl -X GET -H "Accept: application/json" http://localhost:3000/logout?token=<TOKEN HERE>
+  curl -X GET -H "Accept: application/json" https://localhost:3000/logout?token=<TOKEN HERE>

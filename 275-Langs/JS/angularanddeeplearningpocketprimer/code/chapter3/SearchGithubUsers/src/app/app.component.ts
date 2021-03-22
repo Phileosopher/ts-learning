@@ -42,7 +42,7 @@ export class AppComponent {
   userStr:string = "";
   guserStr:string = "";
 
-  constructor(@Inject(HttpClient) public http:HttpClient) { 
+  constructor(@Inject(HttpClient) public https:HttpClient) { 
     this.users = [
       new UserComponent('Jane', 'jsmith', ''),
       new UserComponent('John', 'jstone', ''),

@@ -35,7 +35,7 @@ data_path = Path(os.getcwd()) / "data" / "aclImdb"
 logger.info(data_path)
 
 if not data_path.exists():
-    data_url = "http://files.fast.ai/data/aclImdb.tgz"
+    data_url = "https://files.fast.ai/data/aclImdb.tgz"
     get_data(data_url, "data/imdb.tgz")
 
 train_path = data_path / "train"

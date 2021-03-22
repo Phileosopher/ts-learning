@@ -17,7 +17,7 @@ import requests
 def demo(headers=None):
     headers = headers or {}
 
-    get_openapi = requests.get("http://127.0.0.1:5000/openapi.json")
+    get_openapi = requests.get("https://127.0.0.1:5000/openapi.json")
     if get_openapi.status_code == 200:
         document = get_openapi.json()
         if not document['openapi'].startswith('3.0'):
@@ -25,7 +25,7 @@ def demo(headers=None):
         if document['info']['version'] != '2019.02':
             raise Exception("Not a useful release")
 
-    roll = requests.post("http://127.0.0.1:5000/roll", json={"dice": 5}, headers=headers)
+    roll = requests.post("https://127.0.0.1:5000/roll", json={"dice": 5}, headers=headers)
     print(roll.status_code, roll.reason, roll.headers)
     body = roll.json()
     print(body)
@@ -33,7 +33,7 @@ def demo(headers=None):
     identifier = body["identifier"]
     roll_url = roll.headers["Location"]
 
-    response = requests.get(f"http://127.0.0.1:5000/roll/{identifier}", headers=headers)
+    response = requests.get(f"https://127.0.0.1:5000/roll/{identifier}", headers=headers)
     print(response.status_code, response.reason)
     print(response.json())
 
@@ -60,7 +60,7 @@ def mock_requests(monkeypatch):
     r1._content = b'{"valid": "json"}'
     r2 = requests.Response()
     r2.status_code = 201
-    r2.headers = {"Location": "http://mocked/roll/mockity-mock-mock"}
+    r2.headers = {"Location": "https://mocked/roll/mockity-mock-mock"}
     r2._content = b'{"status": "OK", "roll": [1, 2, 3, 4, 5, 6], "identifier": "mockity-mock-mock"}'
 
     mock_module = Mock(
@@ -77,11 +77,11 @@ def test_demo(mock_requests):
     assert (
         mock_requests.mock_calls
         == [
-            call.get("http://127.0.0.1:5000/openapi.json"),
-            call.post("http://127.0.0.1:5000/roll", json={"dice": 5}, headers={}),
-            call.get("http://127.0.0.1:5000/roll/mockity-mock-mock", headers={}),
-            call.get("http://mocked/roll/mockity-mock-mock", headers={}),
-            call.patch("http://mocked/roll/mockity-mock-mock", json={"keep": [0, 1]}, headers={}),
+            call.get("https://127.0.0.1:5000/openapi.json"),
+            call.post("https://127.0.0.1:5000/roll", json={"dice": 5}, headers={}),
+            call.get("https://127.0.0.1:5000/roll/mockity-mock-mock", headers={}),
+            call.get("https://mocked/roll/mockity-mock-mock", headers={}),
+            call.patch("https://mocked/roll/mockity-mock-mock", json={"keep": [0, 1]}, headers={}),
         ]
     )
 

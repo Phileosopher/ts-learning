@@ -48,12 +48,12 @@ Quantum of utility – a rule of thumb for launching the product. A product poss
   https://news.ycombinator.com/item?id=542768
   Note: “Launch” can be defined as a private beta, or even giving the product to a friend. The point is to get it into the hands of someone who’s not in the building as soon as possible.
 Worse is better – a design philosophy which states that solving the customer’s problem and leaving unpolished rough edges empirically outperforms “beautiful” products.
-  http://dreamsongs.com/RiseOfWorseIsBetter.html
+  https://dreamsongs.com/RiseOfWorseIsBetter.html
   Example: Lisp Machines vs C/Unix.
   See also: Worse is worse.
-  http://www.defmacro.org/2013/09/26/products.html
+  https://www.defmacro.org/2013/09/26/products.html
 Target market – a predicate that partitions new leads into opportunities and distractions. A good target market function is terse, has a discoverable domain, and has a well defined probability of close in a specific time bound.
-  http://www.defmacro.org/2016/11/23/talking-to-users.html
+  https://www.defmacro.org/2016/11/23/talking-to-users.html
   Example: Anyone who has a Cisco password has a 50% probability of close within 30 days.
 https://knowem.com/edit-usernames.php
   useful for brand awareness

@@ -1,7 +1,7 @@
 from pyquery import PyQuery as pq
 import re
 
-sourceUrl = 'http://www.flyershistory.com/cgi-bin/ml-poffs.cgi'
+sourceUrl = 'https://www.flyershistory.com/cgi-bin/ml-poffs.cgi'
 dataSet = list()
 keys = ['year','month','day','game_date','team1', 'team1_score', 'team2', 'team2_score', 'game_status']
 

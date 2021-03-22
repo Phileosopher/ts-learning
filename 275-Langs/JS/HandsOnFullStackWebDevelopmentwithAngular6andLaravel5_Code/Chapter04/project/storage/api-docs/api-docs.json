@@ -46,7 +46,7 @@
                 "picture": {
                     "description": "Bike image URL",
                     "type": "string",
-                    "example": "http://www.sample.com/my.bike.jpg"
+                    "example": "https://www.sample.com/my.bike.jpg"
                 }
             }
         }

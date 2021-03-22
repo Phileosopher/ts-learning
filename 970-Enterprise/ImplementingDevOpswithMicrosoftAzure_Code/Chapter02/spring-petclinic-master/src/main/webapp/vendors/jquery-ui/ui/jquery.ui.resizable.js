@@ -1,12 +1,12 @@
 /*!
  * jQuery UI Resizable 1.10.4
- * http://jqueryui.com
+ * https://jqueryui.com
  *
  * Copyright 2014 jQuery Foundation and other contributors
  * Released under the MIT license.
- * http://jquery.org/license
+ * https://jquery.org/license
  *
- * http://api.jqueryui.com/resizable/
+ * https://api.jqueryui.com/resizable/
  *
  * Depends:
  *	jquery.ui.core.js
@@ -273,7 +273,7 @@ $.widget("ui.resizable", $.ui.mouse, {
 
 		this.resizing = true;
 
-		// bugfix for http://dev.jquery.com/ticket/1749
+		// bugfix for https://dev.jquery.com/ticket/1749
 		if ( (/absolute/).test( el.css("position") ) ) {
 			el.css({ position: "absolute", top: el.css("top"), left: el.css("left") });
 		} else if (el.is(".ui-draggable")) {

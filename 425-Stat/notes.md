@@ -9,7 +9,7 @@ Base rates – you can approximate the likelihood of a specific event occurring 
   Example: You caught an employee stealing, but they claim they need money to buy medication and it’s the first time they’ve ever stolen anything. Ask yourself, if you saw ten employee thefts a year, how many of them are likely to be first offences?
   Note: This method is especially useful to combat optimism and overconfidence biases, or when evaluating outcomes of events you’re emotionally close to.
   See also: Techniques for probability estimates, reference class forecasting, prior probability.
-  http://lesswrong.com/lw/3m6/techniques_for_probability_estimates/
+  https://lesswrong.com/lw/3m6/techniques_for_probability_estimates/
   https://en.wikipedia.org/wiki/Reference_class_forecasting
   https://en.wikipedia.org/wiki/Prior_probability
 Expected value – a simple model for evaluating uncertain events (multiply the probability of the event by its value).
@@ -18,6 +18,6 @@ Expected value – a simple model for evaluating uncertain events (multiply the 
   Example: Chance of winning NY lotto is 1 in 292,201,338 per game. Let’s say the grand prize is $150M and ticket price is $1. Then the expected value is roughly $0.5. Since $0.5 < $1, the model tells us the game isn’t worth playing.
   Warning: Looking at expected value often isn’t enough. You need to consider utility to make good decisions.
   See also: Techniques for probability estimates, shut up and multiply, scope insensitivity.
-  http://lesswrong.com/lw/3m6/techniques_for_probability_estimates/
+  https://lesswrong.com/lw/3m6/techniques_for_probability_estimates/
   https://wiki.lesswrong.com/wiki/Shut_up_and_multiply
-  http://lesswrong.com/lw/hw/scope_insensitivity/
+  https://lesswrong.com/lw/hw/scope_insensitivity/

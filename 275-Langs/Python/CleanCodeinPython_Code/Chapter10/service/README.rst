@@ -39,10 +39,10 @@ If no parameters are configured, the HTTP service will be running in port
 ``8080`` by default. Assuming data has been loaded, this can be tested with any
 HTTP client::
 
-    $ curl http://localhost:8080/status/1
+    $ curl https://localhost:8080/status/1
     {"id":1,"status":"dispatched","msg":"Order was dispatched on 2018-08-01T22:25:12+00:00"}
 
-    $ curl http://localhost:8080/status/99
+    $ curl https://localhost:8080/status/99
     Error: 99 was not found
 
 Structure

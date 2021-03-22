@@ -15,7 +15,7 @@ const app = new Express();
 const server = new http.Server(app);
 
 const proxy = httpProxy.createProxyServer({
-  target: 'http://localhost:3001'
+  target: 'https://localhost:3001'
 });
 
 app.set('view engine', 'ejs');
@@ -47,5 +47,5 @@ server.listen(3000, (err) => {
   if (err) {
     return console.error(err);
   }
-  console.info('WebServer running on http://localhost:3000');
+  console.info('WebServer running on https://localhost:3000');
 });

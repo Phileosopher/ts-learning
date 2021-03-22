@@ -7,7 +7,7 @@
  *     not use this file except in compliance with the License.  You may
  *     obtain a copy of the License at
  *
- *         http://www.apache.org/licenses/LICENSE-2.0
+ *         https://www.apache.org/licenses/LICENSE-2.0
  *
  *     Unless required by applicable law or agreed to in writing, software
  *     distributed under the License is distributed on an "AS IS" BASIS,
@@ -24,7 +24,7 @@
  *     not use this file except in compliance with the License. You may obtain
  *     a copy of the License at
  *
- *         http://www.apache.org/licenses/LICENSE-2.0
+ *         https://www.apache.org/licenses/LICENSE-2.0
  *
  *     Unless required by applicable law or agreed to in writing, software
  *     distributed under the License is distributed on an "AS IS" BASIS,
@@ -42,7 +42,7 @@
  *     2. The end-user documentation included with the redistribution, if any,
  *     must include the following acknowledgment: "This product includes color
  *     specifications and designs developed by Cynthia Brewer
- *     (http://colorbrewer.org/)." Alternately, this acknowledgment may appear
+ *     (https://colorbrewer.org/)." Alternately, this acknowledgment may appear
  *     in the software itself, if and wherever such third-party
  *     acknowledgments normally appear.
  *
@@ -593,8 +593,8 @@ var palette = (function() {
    *     cb-diverging    All ColorBrewer diverging schemes.
    *     cb-qualitative  All ColorBrewer qualitative schemes.
    *
-   * You can read more about Paul Tol's palettes at http://www.sron.nl/~pault/.
-   * You can read more about ColorBrewer at http://colorbrewer2.org.
+   * You can read more about Paul Tol's palettes at https://www.sron.nl/~pault/.
+   * You can read more about ColorBrewer at https://colorbrewer2.org.
    *
    * @param {string|!Array<string>} name A name of a colour scheme, of
    *     a group of colour schemes, or an array of any of those.
@@ -730,7 +730,7 @@ var palette = (function() {
    * @return {string} A lower-case RRGGBB representation of the colour.
    */
   palette.linearRgbColor = function(r, g, b) {
-    // http://www.brucelindbloom.com/index.html?Eqn_XYZ_to_RGB.html
+    // https://www.brucelindbloom.com/index.html?Eqn_XYZ_to_RGB.html
     return [r, g, b].map(function(v) {
       v = clamp(v);
       if (v <= 0.0031308) {
@@ -823,7 +823,7 @@ palette.SchemeType;
 })();
 
 /* Paul Tol's schemes start here. *******************************************/
-/* See http://www.sron.nl/~pault/ */
+/* See https://www.sron.nl/~pault/ */
 
 (function() {
   var rgb = palette.rgbColor;
@@ -885,7 +885,7 @@ palette.SchemeType;
 
   /**
    * Calculates a colour along Paul Tol's sequential colours axis.
-   * See <http://www.sron.nl/~pault/colourschemes.pdf> figure 7 and equation 1.
+   * See <https://www.sron.nl/~pault/colourschemes.pdf> figure 7 and equation 1.
    * @param {number} x Position of the colour on the axis in the [0, 1] range.
    * @return {string} An RRGGBB representation of the colour.
    */
@@ -900,7 +900,7 @@ palette.SchemeType;
 
   /**
    * Calculates a colour along Paul Tol's diverging colours axis.
-   * See <http://www.sron.nl/~pault/colourschemes.pdf> figure 8 and equation 2.
+   * See <https://www.sron.nl/~pault/colourschemes.pdf> figure 8 and equation 2.
    * @param {number} x Position of the colour on the axis in the [0, 1] range.
    * @return {string} An RRGGBB representation of the colour.
    */
@@ -916,7 +916,7 @@ palette.SchemeType;
 
   /**
    * Calculates a colour along Paul Tol's rainbow colours axis.
-   * See <http://www.sron.nl/~pault/colourschemes.pdf> figure 13 and equation 3.
+   * See <https://www.sron.nl/~pault/colourschemes.pdf> figure 13 and equation 3.
    * @param {number} x Position of the colour on the axis in the [0, 1] range.
    * @return {string} An RRGGBB representation of the colour.
    */
@@ -933,7 +933,7 @@ palette.SchemeType;
 
 
 /* Solarized colour schemes start here. *************************************/
-/* See http://ethanschoonover.com/solarized */
+/* See https://ethanschoonover.com/solarized */
 
 (function() {
   /*
@@ -952,7 +952,7 @@ palette.SchemeType;
 
 
 /* ColorBrewer colour schemes start here. ***********************************/
-/* See http://colorbrewer2.org/ */
+/* See https://colorbrewer2.org/ */
 
 (function() {
   var schemes = {
