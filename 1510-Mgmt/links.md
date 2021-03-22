@@ -9,3 +9,8 @@
 [System dynamics - Wikipedia](https://en.wikipedia.org/wiki/System_dynamics)
 [Mistakes I've Made as an Engineering Manager | Hacker News](https://news.ycombinator.com/item?id=26216016)
 [kuchin/awesome-cto: A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups](https://github.com/kuchin/awesome-cto?utm_source=tldrnewsletter)
+[Show HN: I wrote a book for engineers that want to become engineering managers | Hacker News](https://news.ycombinator.com/item?id=22033129)
+
+## Meetings
+
+[I’m deaf, and this is what happens when I get on a Zoom call | Hacker News](https://news.ycombinator.com/item?id=24940559)

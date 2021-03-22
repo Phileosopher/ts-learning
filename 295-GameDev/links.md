@@ -16,3 +16,5 @@
 [Why isn't Godot an ECS-based game engine? | Hacker News](https://news.ycombinator.com/item?id=26284158)
 [How fighting games use delay-based and rollback netcode (2019) | Hacker News](https://news.ycombinator.com/item?id=26289933)
 [20 Award-Winning 13-Kilobyte JavaScript Games You Can Play in Your Browser – js13k 2020 Winners](https://www.freecodecamp.org/news/20-award-winning-games-explained-code-breakdown/)
+[Show HN: Angeldust – a fast and efficient video game | Hacker News](https://news.ycombinator.com/item?id=21858226)
+[Minecraft's “Pack.png” Seed Reversal Methodology | Hacker News](https://news.ycombinator.com/item?id=24621303)

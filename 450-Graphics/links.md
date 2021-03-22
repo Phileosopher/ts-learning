@@ -66,6 +66,9 @@
 [Learn Data Visualization in This Free 17-Hour Course](https://www.freecodecamp.org/news/learn-data-visualization-in-this-free-17-hour-course/)
 [Raycasting engine in Factorio 1.0 (unmodded) \[video\] | Hacker News](https://news.ycombinator.com/item?id=24668360.)
 [Why not use GraphQL? | Hacker News](https://news.ycombinator.com/item?id=25014582)
+[Show HN: Metaballs | Hacker News](https://news.ycombinator.com/item?id=15492248)
+[Show HN: Something pointless I made | Hacker News](https://news.ycombinator.com/item?id=10646440)
+[Raytracing in One Weekend (2016) | Hacker News](https://news.ycombinator.com/item?id=25244301)
 
 ## Has Many Terms I Don't Understand
 

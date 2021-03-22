@@ -41,6 +41,11 @@
 [Show HN: What every browser knows about you | Hacker News](https://news.ycombinator.com/item?id=11407536)
 [SpotifyKeyDumper – Dump song decryption keys from the Windows Spotify client | Hacker News](https://news.ycombinator.com/item?id=25017167)
 [Show HN: Extension-blocking domains removed by threat from other blacklists | Hacker News](https://news.ycombinator.com/item?id=14997799)
+[Firefox 87 trims HTTP Referrers by default to protect user privacy | Hacker News](https://news.ycombinator.com/item?id=26539673)
+[System76 – Pangolin | Hacker News](https://news.ycombinator.com/item?id=25298795)
+[The Great Suspender: New maintainer is probably malicious | Hacker News](https://news.ycombinator.com/item?id=25622015)
+[GitHub - freedomofdevelopers/fod: Freedom of Developers](https://github.com/freedomofdevelopers/fod)
+[WhiteHat Jr’s founder files $2.6M defamation suit against critic | Hacker News](https://news.ycombinator.com/item?id=25176230)
 
 ## Big Orgs
 
@@ -55,3 +60,4 @@
 [A free-as-in-freedom re-implementation of Google’s Android user space | Hacker News](https://news.ycombinator.com/item?id=25252598)
 [A tech antitrust problem no one is talking about: US broadband providers | Hacker News](https://news.ycombinator.com/item?id=24967472)
 [Backblaze submitting names and sizes of files in B2 buckets to Facebook | Hacker News](https://news.ycombinator.com/item?id=26536019)
+[Moving from YouTube to PeerTube | Hacker News](https://news.ycombinator.com/item?id=24222661)

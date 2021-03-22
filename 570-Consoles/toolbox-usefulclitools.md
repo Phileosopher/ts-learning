@@ -8,3 +8,4 @@
 [DevTerm - An Open Source Portable Terminal for Every Dev | Hacker News](https://news.ycombinator.com/item?id=25185842)
 [Termux no longer updated on Google Play | Hacker News](https://news.ycombinator.com/item?id=25644964)
 [Show HN: Termtosvg – Record terminal sessions as SVG animations | Hacker News](https://news.ycombinator.com/item?id=17449810)
+[Brow.sh: a modern text-based browser | Hacker News](https://news.ycombinator.com/item?id=25129747)

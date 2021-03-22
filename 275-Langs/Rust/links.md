@@ -32,3 +32,4 @@
 [Show HN: Alacritty, a GPU-accelerated terminal emulator written in Rust | Hacker News](https://news.ycombinator.com/item?id=13338592)
 [Show HN: Rocket – Web Framework for Rust | Hacker News](https://news.ycombinator.com/item?id=13245475)
 [Show HN: A simple, fast and user-friendly alternative to find, written in Rust | Hacker News](https://news.ycombinator.com/item?id=15429390)
+[Ruffle – A Flash Player emulator written in Rust | Hacker News](https://news.ycombinator.com/item?id=25242115)

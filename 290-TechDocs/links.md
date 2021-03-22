@@ -10,3 +10,5 @@
 [Show HN: Convert screenshots of equations to LaTeX | Hacker News](https://news.ycombinator.com/item?id=16535358)
 [mkhan45/CalcuLaTeX: in progress pretty printing calculator language](https://github.com/mkhan45/CalcuLaTeX?utm_source=tldrnewsletter)
 [On Apple's Piss-Poor Documentation | Hacker News](https://news.ycombinator.com/item?id=25046691)
+[Architecture.md | Hacker News](https://news.ycombinator.com/item?id=26048784)
+[Kaitai: Describe the structure of data, not how you read or write it | Hacker News](https://news.ycombinator.com/item?id=25312999)

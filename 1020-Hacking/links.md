@@ -1,5 +1,11 @@
 # Hacking
 
+[Wobblepaint | Hacker News](https://news.ycombinator.com/item?id=24927001)
+[Dyson air purifier outperformed by cheap DIY box fan filter in Marketplace test | Hacker News](https://news.ycombinator.com/item?id=26101153)
+[Ordering burritos from my SPARC (1992) | Hacker News](https://news.ycombinator.com/item?id=25897535)
+
+[“I will slaughter you” | Hacker News](https://news.ycombinator.com/item?id=26192025)
+[Show HN: I spent a year making an electro-mechanical prototype of a liquid clock | Hacker News](https://news.ycombinator.com/item?id=10284321)
 [“Expert” hackers used 11 0-days to infect Windows, iOS, and Android users | Ars Technica](https://arstechnica.com/information-technology/2021/03/expert-hackers-used-11-zerodays-to-infect-windows-ios-and-android-users/)
 [The Jargon File](https://catb.org/jargon/html/index.html)
 
@@ -69,3 +75,8 @@ HackThisWebsite
 [Stealing Your Private YouTube Videos, One Frame at a Time | Hacker News](https://news.ycombinator.com/item?id=25728175)
 [An iOS zero-click radio proximity exploit odyssey | Hacker News](https://news.ycombinator.com/item?id=25270184)
 [Disclosure: Unlimited Chase Ultimate Rewards Points | Hacker News](https://news.ycombinator.com/item?id=24988301)
+[I built a lay-down desk | Hacker News](https://news.ycombinator.com/item?id=24687458)
+[Oisín Moran | How I Made a Self-Quoting Tweet](https://oisinmoran.com/quinetweet)
+[I spent eleven years working on this Line Rider track | Hacker News](https://news.ycombinator.com/item?id=25216499)
+[Booting from a vinyl record | Hacker News](https://news.ycombinator.com/item?id=25177045)
+[Pimp My Microwave | Hacker News](https://news.ycombinator.com/item?id=25093704)

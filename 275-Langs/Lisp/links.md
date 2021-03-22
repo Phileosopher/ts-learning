@@ -11,3 +11,4 @@
 [The Roots of Lisp](https://paulgraham.com/rootsoflisp.html)
 [What Made Lisp Different](https://paulgraham.com/diff.html)
 [An Intuition for Lisp Syntax | Hacker News](https://news.ycombinator.com/item?id=24892297)
+[Show HN: Parinfer – a simpler way to write Lisp | Hacker News](https://news.ycombinator.com/item?id=10547772)

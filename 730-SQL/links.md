@@ -37,3 +37,4 @@
 [Show HN: ESQLate – Build minimum viable admin panels with just SQL | Hacker News](https://news.ycombinator.com/item?id=22073037)
 [Show HN: Visual SQL | Hacker News](https://news.ycombinator.com/item?id=22548217)
 [Show HN: SQL Police Department – Learn SQL while solving crimes | Hacker News](https://news.ycombinator.com/item?id=23066776)
+[Show HN: Select Star SQL, an interactive SQL book | Hacker News](https://news.ycombinator.com/item?id=17905666)

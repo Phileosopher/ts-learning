@@ -8,3 +8,4 @@
 [Learn Calculus 1 in This Free 12-Hour Course](https://www.freecodecamp.org/news/learn-college-calculus-in-free-course/)
 [Calculus Explained with GIFs and Pics (2014) | Hacker News](https://news.ycombinator.com/item?id=21671112)
 [Learn Calculus 2 in This Free 7-Hour Course](https://www.freecodecamp.org/news/learn-calculus-2-in-this-free-7-hour-course/)
+[Show HN: Lunar lander-type game with computational fluid dynamics | Hacker News](https://news.ycombinator.com/item?id=17993933)

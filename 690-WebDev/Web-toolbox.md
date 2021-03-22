@@ -32,6 +32,8 @@
 [Show HN: Webflow - Design responsive websites visually | Hacker News](https://news.ycombinator.com/item?id=5407499)
 [Show HN: Image Processing for Everybody | Hacker News](https://news.ycombinator.com/item?id=10008637)
 [Nyxt Browser | Hacker News](https://news.ycombinator.com/item?id=26509612)
+[Show HN: Kimono – Never write a web scraper again | Hacker News](https://news.ycombinator.com/item?id=7066479)
+[Show HN: Ugliest.app – Ugly but good app platform | Hacker News](https://news.ycombinator.com/item?id=24992517)
 
 ## WEBDEV CYSEC
 

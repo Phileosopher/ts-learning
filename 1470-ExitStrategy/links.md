@@ -12,3 +12,4 @@
 [On the Use of a Life | Hacker News](https://news.ycombinator.com/item?id=24537865)
 [Startup Playbook (2015) | Hacker News](https://news.ycombinator.com/item?id=18917362)
 [Kenyan recycles plastic waste into bricks stronger than concrete | Hacker News](https://news.ycombinator.com/item?id=26093535)
+[I sold Baremetrics | Hacker News](https://news.ycombinator.com/item?id=25045325)

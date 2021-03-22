@@ -25,3 +25,4 @@ Clarify P2P alternatives to things
 
 [Scuttlebutt – A decentralized secure gossip platform | Hacker News](https://news.ycombinator.com/item?id=25713830)
 [Show HN: Sysadmin Casts – simple bite-sized sysadmin screencasts | Hacker News](https://news.ycombinator.com/item?id=8011081)
+[Cloudron - Complete solution for self-hosting web apps](https://www.cloudron.io/)

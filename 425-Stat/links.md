@@ -17,3 +17,7 @@
 [Are You Trading or Gambling? | Hacker News](https://news.ycombinator.com/item?id=26283650)
 [Show HN: A Set of Dice That Follows the Gambler's Fallacy | Hacker News](https://news.ycombinator.com/item?id=14805265)
 [Better Bayesian Filtering](https://paulgraham.com/better.html)
+[Show HN: Probabilistically Generating HN Post Titles | Hacker News](https://news.ycombinator.com/item?id=6815282)
+[Show HN: Observable Notebooks | Hacker News](https://news.ycombinator.com/item?id=16274686)
+[I tried to report scientific misconduct. How did it go? | Hacker News](https://news.ycombinator.com/item?id=25922799)
+[Kernel Density Estimation](https://mathisonian.github.io/kde/)

@@ -1,5 +1,6 @@
 # UX/UI
 
+[Building Your Color Palette | Hacker News](https://news.ycombinator.com/item?id=25180180)
 [Show HN: Nightmare – Simple browser automation | Hacker News](https://news.ycombinator.com/item?id=8416693)
 [UI Design, I swear](https://news.ycombinator.com/item?id=26381768)
 [Fantasy UI | Hacker News](https://news.ycombinator.com/item?id=25525290)

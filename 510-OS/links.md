@@ -7,3 +7,5 @@
 [We found and fixed a rare race condition in our session handling](https://news.ycombinator.com/item?id=26506920)
 [Why are tar.xz files 15x smaller when using Python's tar compared to macOS tar?](https://news.ycombinator.com/item?id=26459184)
 [Parsing can become accidentally quadratic because of sscanf | Hacker News](https://news.ycombinator.com/item?id=26302744)
+[Actually Portable Executable | Hacker News](https://news.ycombinator.com/item?id=26273960)
+[Best of show – abuse of libc | Hacker News](https://news.ycombinator.com/item?id=25690319)

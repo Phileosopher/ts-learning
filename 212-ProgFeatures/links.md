@@ -23,3 +23,8 @@
 [“User Engagement” Is Code for “Addiction” | Hacker News](https://news.ycombinator.com/item?id=26153331)
 [DuckDuckGo – two non-JavaScript versions of search results | Hacker News](https://news.ycombinator.com/item?id=26344358)
 [Actually Portable Executables | Hacker News](https://news.ycombinator.com/item?id=26292166)
+[TLA+ Action Properties • Hillel Wayne](https://www.hillelwayne.com/post/action-properties/?utm_source=hillelwayne&utm_medium=email)
+[The Framework Laptop | Hacker News](https://news.ycombinator.com/item?id=26263508)
+[Disqus, a dark commenting system | Hacker News](https://news.ycombinator.com/item?id=26033052)
+[I'm tired of this anti-Wayland horseshit | Hacker News](https://news.ycombinator.com/item?id=26001179)
+[How do Spotify Codes work? - Boonedoggle](https://boonepeter.github.io/posts/2020-11-10-spotify-codes/)

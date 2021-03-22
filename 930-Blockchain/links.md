@@ -8,6 +8,7 @@
 [HoweyCoins – An educational tool to alert investors to possible fraud | Hacker News](https://news.ycombinator.com/item?id=17085232)
 [Show HN: An educational blockchain implementation in Python | Hacker News](https://news.ycombinator.com/item?id=15945490)
 [Bitcoin Is Time | Hacker News](https://news.ycombinator.com/item?id=26315923)
+[Coinbase S-1 | Hacker News](https://news.ycombinator.com/item?id=26262170)
 
 ## Torrenting
 

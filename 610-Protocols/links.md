@@ -35,3 +35,7 @@
 [Lyra audio codec enables high-quality voice calls at 3 kbps bitrate | Hacker News](https://news.ycombinator.com/item?id=26300229)
 [Gitter now speaks Matrix | Hacker News](https://news.ycombinator.com/item?id=25334246)
 [Bitfinex and Tether required to end all trading activity with New Yorkers | Hacker News](https://news.ycombinator.com/item?id=26236739)
+[Horrifying PDF Experiments | Hacker News](https://news.ycombinator.com/item?id=25609321)
+[A Plan for Spam](https://paulgraham.com/spam.html)
+[Analog TV Station on ESP8266 | Hacker News](https://news.ycombinator.com/item?id=25330835)
+[Mutt 2.0 Release Notes | Hacker News](https://news.ycombinator.com/item?id=25019901)

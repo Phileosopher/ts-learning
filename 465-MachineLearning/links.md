@@ -85,3 +85,7 @@
 [Show HN: TensorFire | Hacker News](https://news.ycombinator.com/item?id=14894653)
 [Computer vision basics in Excel, using just formulas | Hacker News](https://news.ycombinator.com/item?id=22357374)
 [Show HN: AI Dungeon 2 – AI-generated text adventure built with 1.5B param GPT-2 | Hacker News](https://news.ycombinator.com/item?id=21717022)
+[arXiv Vanity – Read academic papers from arXiv as web pages](https://www.arxiv-vanity.com/)
+[SpaCy 3.0 | Hacker News](https://news.ycombinator.com/item?id=25988702)
+[GPT Neo: open-source GPT model, with pretrained 1.3B & 2.7B weight models | Hacker News](https://news.ycombinator.com/item?id=26534000)
+[DALL·E: Creating Images from Text | Hacker News](https://news.ycombinator.com/item?id=25649557)

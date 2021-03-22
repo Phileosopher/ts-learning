@@ -13,3 +13,5 @@
 [Obfuscated Tiny C Compiler | Hacker News](https://news.ycombinator.com/item?id=26141124)
 [Git's list of banned C functions | Hacker News](https://news.ycombinator.com/item?id=26347867)
 [Show HN: Space Invaders in C | Hacker News](https://news.ycombinator.com/item?id=21719575)
+[Redis 6.0 GA | Hacker News](https://news.ycombinator.com/item?id=23030685)
+[The End of the Redis Adventure | Hacker News](https://news.ycombinator.com/item?id=23689549)

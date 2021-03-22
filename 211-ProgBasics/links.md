@@ -9,3 +9,6 @@
 [Show HN: RegEx for Regular Folk – A visual, example-based introduction | Hacker News](https://news.ycombinator.com/item?id=23042079)
 [Speed Is the Killer Feature | Hacker News](https://news.ycombinator.com/item?id=26312516)
 [Show HN: %%30%30: A Game | Hacker News](https://news.ycombinator.com/item?id=10249362)
+[Implementing the Elo Rating System (2020) | Hacker News](https://news.ycombinator.com/item?id=26115665)
+[30 years later, QBasic is still the best | Hacker News](https://news.ycombinator.com/item?id=25239424)
+[Conquering freeCodeCamp's Curriculum - YouTube](https://www.youtube.com/playlist?list=PLgBH1CvjOA62oNEVgz-dECiCZCE_Q3ZFH)

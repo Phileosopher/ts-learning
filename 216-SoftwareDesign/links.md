@@ -22,6 +22,12 @@
 [Can you make a basic web app without Googling? I can’t | Hacker News](https://news.ycombinator.com/item?id=25961420)
 [Pony – High-Performance Safe Actor Programming | Hacker News](https://news.ycombinator.com/item?id=25957307)
 [Docker, Django, Traefik, and IntercoolerJS: My go-to stack for building a SaaS | Hacker News](https://news.ycombinator.com/item?id=25973242)
+[State machines are wonderful tools | Hacker News](https://news.ycombinator.com/item?id=25601821)
+[A Binder Full of Questions • Buttondown](https://buttondown.email/hillelwayne/archive/a-binder-full-of-questions/)
+[Show HN: I Rebuilt MySpace from 2007 | Hacker News](https://news.ycombinator.com/item?id=25245740)
+[CRDTs are the future | Hacker News](https://news.ycombinator.com/item?id=24617542)
+[Donald Knuth was framed | Hacker News](https://news.ycombinator.com/item?id=22406070)
+[A ride that takes 10^20k years to complete in Roller Coaster Tycoon 2 \[video\] | Hacker News](https://news.ycombinator.com/item?id=24042305)
 
 ## App Dev
 

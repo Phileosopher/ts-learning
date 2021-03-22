@@ -20,9 +20,14 @@ https://wiki.gnome.org/Projects
 
 [No More Free Work from Marak: Pay Me or Fork This | Hacker News](https://news.ycombinator.com/item?id=25032105)
 [The Nintendo Switch uses my open source code | Hacker News](https://news.ycombinator.com/item?id=25186890)
+[Octotree – Proprietary Firefox extension contains AGPL-licensed code | Hacker News](https://news.ycombinator.com/item?id=24953821)
+[Why do I care the open web is dying? | Hacker News](https://news.ycombinator.com/item?id=25261132)
+[After losing $38676+ as an Indie Hacker. I can't do it anymore. I quit.](https://www.indiehackers.com/post/after-losing-38676-as-an-indie-hacker-i-cant-do-it-anymore-i-quit-8673223598)
 
 ## Nonprofits
 
 [Donate Unrestricted](https://paulgraham.com/donate.html)
 https://www.freecodecamp.org/news/quincy-larson-interview-changelog-podcast/
 [Congress should invest in open-source software | Hacker News](https://news.ycombinator.com/item?id=24789070)
+[Richard Stallman is coming back to the board of the FSF | Hacker News](https://news.ycombinator.com/item?id=26535224)
+[The Lonely Work of Moderating Hacker News (2019) | Hacker News](https://news.ycombinator.com/item?id=25048415)

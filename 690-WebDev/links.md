@@ -56,6 +56,8 @@
 [Show HN: Exposé – a static site generator for photos and videos | Hacker News](https://news.ycombinator.com/item?id=10376468)
 [Build an Instagram Clone with React Native, Firebase Firestore, Redux, and Expo](https://www.freecodecamp.org/news/build-an-instagram-clone-with-react-native-firebase-firestore-redux-and-expo/)
 [Show HN: This page exists only if someone is looking at it | Hacker News](https://news.ycombinator.com/item?id=9531265)
+[Timezone Bullshit | Hacker News](https://news.ycombinator.com/item?id=26087502)
+[Just because I have a vertical screen doesn’t mean I’m on a phone | Hacker News](https://news.ycombinator.com/item?id=26000405)
 
 ## Browsers
 
@@ -65,3 +67,6 @@
 [Show HN: Websites in 2018 | Hacker News](https://news.ycombinator.com/item?id=18284910)
 [Total Cookie Protection | Hacker News](https://news.ycombinator.com/item?id=26237404)
 [Supercookie: Browser Fingerprinting via Favicon | Hacker News](https://news.ycombinator.com/item?id=26051370)
+[AVIF support enabled by default in Firefox 86 | Hacker News](https://news.ycombinator.com/item?id=25706284)
+[Don't touch my clipboard | Hacker News](https://news.ycombinator.com/item?id=22352674)
+[A List of Hacker News's Undocumented Features and Behaviors (2018) | Hacker News](https://news.ycombinator.com/item?id=23439437)

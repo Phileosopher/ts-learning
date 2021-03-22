@@ -15,3 +15,4 @@
 [How can you not be romantic about programming? (2020) | Hacker News](https://news.ycombinator.com/item?id=26206921)
 [Show HN: Bot Land, a game where you fight others via code | Hacker News](https://news.ycombinator.com/item?id=21101918)
 [Functorio | Hacker News](https://news.ycombinator.com/item?id=26157969)
+[Programming for Cats | Hacker News](https://news.ycombinator.com/item?id=26047238)

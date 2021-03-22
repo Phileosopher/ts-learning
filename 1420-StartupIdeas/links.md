@@ -38,3 +38,8 @@
 [There’s no such thing as “a startup within a big company” | Hacker News](https://news.ycombinator.com/item?id=26178518)
 [Show HN: Open startups with their revenue, metrics, and stories | Hacker News](https://news.ycombinator.com/item?id=19025560)
 [Show HN: A random startup generator | Hacker News](https://news.ycombinator.com/item?id=9427856)
+[Edsger Dijkstra – The Man Who Carried Computer Science on His Shoulders | Hacker News](https://news.ycombinator.com/item?id=24942671)
+
+- [also from that HN comment thread](https://www.quantamagazine.org/a-math-puzzle-worthy-of-freeman-dyson-20140326/)
+
+[Monolith First (2015) | Hacker News](https://news.ycombinator.com/item?id=26190584)

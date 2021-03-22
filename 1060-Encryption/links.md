@@ -17,3 +17,4 @@
 [Ask HN: Keybase Alternatives? | Hacker News](https://news.ycombinator.com/item?id=23103386)
 [The EU must protect the right to privacy and not attack end-to-end encryption | Hacker News](https://news.ycombinator.com/item?id=25940566)
 [Difference between Private Key and Public Key](https://www.tutorialspoint.com/difference-between-private-key-and-public-key)
+[Standing on our own two feet | Hacker News](https://news.ycombinator.com/item?id=25008748)

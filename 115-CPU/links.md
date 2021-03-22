@@ -15,3 +15,6 @@
 [M1 Macs: Truth and Truthiness | Hacker News](https://news.ycombinator.com/item?id=25288538)
 [Asahi Linux: Linux on Apple Silicon project | Hacker News](https://news.ycombinator.com/item?id=25649719)
 [Dissecting the Apple M1 GPU, part I | Hacker News](https://news.ycombinator.com/item?id=25673631)
+[Show HN: My x86 emulator written in JavaScript | Hacker News](https://news.ycombinator.com/item?id=6567967)
+[An ex-ARM engineer critiques RISC-V | Hacker News](https://news.ycombinator.com/item?id=24958423)
+[ECC matters | Hacker News](https://news.ycombinator.com/item?id=25622322)

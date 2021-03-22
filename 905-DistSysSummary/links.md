@@ -39,3 +39,5 @@
 [Show HN: Redbean – Single-file distributable web server | Hacker News](https://news.ycombinator.com/item?id=26271117)
 [Managing my personnal servers in 2020 with K3s | Hacker News](https://news.ycombinator.com/item?id=25001789)
 [Is a billion-dollar worth of server lying on the ground](https://cerebralab.com/Is_a_billion-dollar_worth_of_server_lying_on_the_ground)
+[DigitalOcean S-1 | Hacker News](https://news.ycombinator.com/item?id=26262465)
+[PeerTube v3 | Hacker News](https://news.ycombinator.com/item?id=25707059)
