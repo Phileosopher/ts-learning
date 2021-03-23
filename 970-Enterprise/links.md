@@ -13,3 +13,4 @@
 [Salesforce is in talks to buy Slack | Hacker News](https://news.ycombinator.com/item?id=25211262)
 [Google admits Kubernetes container tech is too complex | Hacker News](https://news.ycombinator.com/item?id=26271470)
 [Guide to running Elasticsearch in production | Hacker News](https://news.ycombinator.com/item?id=22396918)
+[The absolute worst scenario happened | Hacker News](https://news.ycombinator.com/item?id=26539495)
