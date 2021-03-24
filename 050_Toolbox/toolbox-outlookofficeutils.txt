@@ -1,7 +1,0 @@
-NOTE: WILL PROBABLY NEED A THUNDERBIRD/STANDALONE OPTION
-
-https://www.nirsoft.net/utils/outlook_nk2_edit.html
-https://www.nirsoft.net/utils/outlook_attachment.html
-https://www.nirsoft.net/utils/outlook_statistics.html
-https://www.nirsoft.net/utils/outlook_address_book_view.html
-https://www.nirsoft.net/utils/officeins.html

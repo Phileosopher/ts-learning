@@ -16,3 +16,14 @@
 [Epic Pen 3.9.117](https://epic-pen.en.lo4d.com/windows "Epic Pen 3.9.117") - Write and draw over any software with with a screen marker
 [Bandicam 5.0.2.1813](https://bandicam.en.lo4d.com/windows "Bandicam 5.0.2.1813") - Screen video recording software which can record a defined area
 [Snagit 21.2.0.7921](https://snagit.en.lo4d.com/windows "Snagit 21.2.0.7921") - Screen capture software that can take snapshots, record video and apply effects to final images and videos created with a ton of features
+https://webbrowsertools.com/convert-to-mp3/
+https://webbrowsertools.com/video-converter/
+https://webbrowsertools.com/audio-converter/
+https://webbrowsertools.com/video-audio-muxer/
+https://webbrowsertools.com/image-reader/
+https://webbrowsertools.com/text-to-image/
+https://webbrowsertools.com/image-vectorizer/
+https://webbrowsertools.com/image-to-base64/
+https://webbrowsertools.com/png-optimizer/
+https://webbrowsertools.com/gif-maker/
+https://webbrowsertools.com/image-resizer/

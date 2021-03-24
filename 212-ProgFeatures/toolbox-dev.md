@@ -185,3 +185,12 @@
 [XAMPP 8.0.2-0](https://xampp.en.lo4d.com/windows "XAMPP 8.0.2-0") - Apache web server for Windows which includes PHP, MySQL, Tomcat and optional installation of Perl, phpMyAdmin, Webalizer and some other options
 [Unity Game Engine 2020.2.7](https://unity-game-engine.en.lo4d.com/windows "Unity Game Engine 2020.2.7") - Tremendous gaming engine designed for beginners to get started coding
 [SvelteKit is in public beta](https://svelte.dev/blog/sveltekit-beta?utm_source=tldrnewsletter)
+https://webbrowsertools.com/binary-split-and-merge/
+https://webbrowsertools.com/secure-hash-generator/
+https://webbrowsertools.com/qrcode-reader/
+https://webbrowsertools.com/qrcode-generator/
+https://webbrowsertools.com/javascript/
+https://webbrowsertools.com/json-beautifier/
+https://webbrowsertools.com/code-beautifier/
+[Random String Generator - Quickly generate a random string](https://commentpicker.com/string-generator.php)
+[Reverse Text - Online Tool to flip text and words](https://commentpicker.com/reverse-text.php)

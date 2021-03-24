@@ -69,3 +69,6 @@
 [AdwCleaner 8.1.0](https://adwcleaner.en.lo4d.com/windows "AdwCleaner 8.1.0") - Effective, portable and fast adware and toolbar remover which scans for known adware which slows down or infects PCs
 [OpenSSL 1.1.1j](https://openssl.en.lo4d.com/windows "OpenSSL 1.1.1j") - Collection of command line utilities for creating private keys, along with a library of code for implementing encryption into development projects
 [Invisible 'Keyhole' Security Developed With Printable Electronics | IE](https://interestingengineering.com/invisible-keyhole-security-developed-with-printable-electronics?utm_source=tldrnewsletter)
+https://webbrowsertools.com/file-encryptor/
+[Random Password Generator - Strong & secure passwords](https://commentpicker.com/password-generator.php)
+[The No More Ransom Project](https://www.nomoreransom.org/)

@@ -57,3 +57,4 @@
 [Express Burn Free 10.03](https://express-burn.en.lo4d.com/windows "Express Burn Free 10.03") - Fast and simple CD and DVD burning program that supports audio CDs, video discs and data with handy support for drag and drop
 [z3x shell 4.8.3](https://z3x-shell.en.lo4d.com/windows "z3x shell 4.8.3") - Software for management of flashing and unlocking Samsung devices
 [Windows 10 Manager 3.4.2](https://windows-10-manager.en.lo4d.com/windows "Windows 10 Manager 3.4.2") - Windows operating system management utility with tweaks and repairs
+[Random UUID Generator - Generate list of random UUIDs or GUIDs](https://commentpicker.com/uuid-generator.php)

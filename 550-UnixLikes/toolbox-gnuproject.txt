@@ -359,3 +359,5 @@ https://www.gnu.org/software/xlogmaster/
 https://xnee.wordpress.com/
 https://www.gnu.org/software/xorriso/
 https://www.gnu.org/software/zile/
+[Kontact](https://kontact.kde.org/)
+[Enterprise Open Source and Linux | Ubuntu](https://ubuntu.com/)

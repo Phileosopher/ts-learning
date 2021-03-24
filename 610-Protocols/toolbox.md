@@ -19,3 +19,14 @@ Look into free IP address management software
 [JFin - Wikipedia](https://en.wikipedia.org/wiki/JFin)
 [EOS.IO - Wikipedia](https://en.wikipedia.org/wiki/EOS.IO)
 [Show HN: Trade stocks from the command line with no commission | Hacker News](https://news.ycombinator.com/item?id=23209142)
+https://webbrowsertools.com/video-audio-muxer/
+https://webbrowsertools.com/radio-player/
+https://webbrowsertools.com/podcast-player/
+https://webbrowsertools.com/meeting/
+https://webbrowsertools.com/sound-meter/
+https://webbrowsertools.com/media-player/
+https://webbrowsertools.com/video-recorder/
+https://webbrowsertools.com/audio-recorder/
+https://webbrowsertools.com/screen-recorder/
+https://webbrowsertools.com/audio-joiner/
+https://webbrowsertools.com/web-conference/

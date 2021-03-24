@@ -22,9 +22,4 @@
 [Here Are 115 Coursera Certificates You Can Now Earn for Free (During the Coronavirus Pandemic)](https://www.freecodecamp.org/news/coronavirus-coursera-free-certificate/)
 [University of the People: Tuition-Free, Accredited Online Degree Programs | Hacker News](https://news.ycombinator.com/item?id=23494366)
 [Show HN: HN.Academy – Top online courses recommended by Hacker News users | Hacker News](https://news.ycombinator.com/item?id=18816418)
-
-# Game Theory
-
-[Parrondo's paradox - Wikipedia](https://en.wikipedia.org/wiki/Parrondo%27s_paradox)
-[Chainstore paradox - Wikipedia](https://en.wikipedia.org/wiki/Chainstore_paradox)
-[The Allais Paradox – Game Theory 101](https://gametheory101.com/courses/game-theory-101/the-allais-paradox/)
+[Learn Anything](https://github.com/learn-anything)
