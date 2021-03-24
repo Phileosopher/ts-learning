@@ -179,3 +179,9 @@
 [Supabase (YC S20) – An open source Firebase alternative | Hacker News](https://news.ycombinator.com/item?id=23319901)
 [Modern storage is plenty fast, but the APIs are bad | Hacker News](https://news.ycombinator.com/item?id=25220892)
 [The Tech Stack of a One-Man SaaS | Hacker News](https://news.ycombinator.com/item?id=25186342)
+[Android Studio 4.1.2](https://android-studio.en.lo4d.com/windows "Android Studio 4.1.2") - Bundle of programming tools for developing Android apps
+[Android SDK 31.0.0](https://android-sdk.en.lo4d.com/windows "Android SDK 31.0.0") - Essential installation for anybody developing for Android
+[Android SDK Tools 31.0.0](https://android-sdk-tools.en.lo4d.com/windows "Android SDK Tools 31.0.0") - Official Google kit provides a set of development and debug tools
+[XAMPP 8.0.2-0](https://xampp.en.lo4d.com/windows "XAMPP 8.0.2-0") - Apache web server for Windows which includes PHP, MySQL, Tomcat and optional installation of Perl, phpMyAdmin, Webalizer and some other options
+[Unity Game Engine 2020.2.7](https://unity-game-engine.en.lo4d.com/windows "Unity Game Engine 2020.2.7") - Tremendous gaming engine designed for beginners to get started coding
+[SvelteKit is in public beta](https://svelte.dev/blog/sveltekit-beta?utm_source=tldrnewsletter)

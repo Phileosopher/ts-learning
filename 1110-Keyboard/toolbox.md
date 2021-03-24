@@ -1,0 +1,1 @@
+[XOutput 3.32](https://xoutput.en.lo4d.com/windows "XOutput 3.32") - Utility that allows you to play games with a XBox 360 controller by converting DirectInput to XInput with the latest Microsoft libraries

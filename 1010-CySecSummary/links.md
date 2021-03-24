@@ -46,6 +46,8 @@
 [The Great Suspender: New maintainer is probably malicious | Hacker News](https://news.ycombinator.com/item?id=25622015)
 [GitHub - freedomofdevelopers/fod: Freedom of Developers](https://github.com/freedomofdevelopers/fod)
 [WhiteHat Jr’s founder files $2.6M defamation suit against critic | Hacker News](https://news.ycombinator.com/item?id=25176230)
+[Google Removed ClearURLs Extension from Chrome Web Store | Hacker News](https://news.ycombinator.com/item?id=26564638)
+[Substack's UI and 1Password temporarily cost me $2k | Hacker News](https://news.ycombinator.com/item?id=26549307)
 
 ## Big Orgs
 

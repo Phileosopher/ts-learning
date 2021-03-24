@@ -15,6 +15,7 @@
 [Meshtastic: Open-source, off-grid, hiking, climbing, GPS mesh communicator | Hacker News](https://news.ycombinator.com/item?id=25981327)
 [I Hate Coordinate Systems | Hacker News](https://news.ycombinator.com/item?id=24917394)
 [OpenStreetMap proven to be a highly accurate map in top US cities | Hacker News](https://news.ycombinator.com/item?id=26082428)
+[Open Infrastructure Map](https://openinframap.org/#2/26/12)
 
 ## Free Software
 

@@ -39,3 +39,4 @@
 [A Plan for Spam](https://paulgraham.com/spam.html)
 [Analog TV Station on ESP8266 | Hacker News](https://news.ycombinator.com/item?id=25330835)
 [Mutt 2.0 Release Notes | Hacker News](https://news.ycombinator.com/item?id=25019901)
+[The S in IoT is for Security | Hacker News](https://news.ycombinator.com/item?id=26540007)

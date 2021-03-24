@@ -58,6 +58,7 @@
 [Show HN: This page exists only if someone is looking at it | Hacker News](https://news.ycombinator.com/item?id=9531265)
 [Timezone Bullshit | Hacker News](https://news.ycombinator.com/item?id=26087502)
 [Just because I have a vertical screen doesn’t mean I’m on a phone | Hacker News](https://news.ycombinator.com/item?id=26000405)
+[In 2020, two thirds of Google searches ended without a click | Hacker News](https://news.ycombinator.com/item?id=26543731)
 
 ## Browsers
 
@@ -70,3 +71,4 @@
 [AVIF support enabled by default in Firefox 86 | Hacker News](https://news.ycombinator.com/item?id=25706284)
 [Don't touch my clipboard | Hacker News](https://news.ycombinator.com/item?id=22352674)
 [A List of Hacker News's Undocumented Features and Behaviors (2018) | Hacker News](https://news.ycombinator.com/item?id=23439437)
+[Chrome’s address bar will use https:// by default | Hacker News](https://news.ycombinator.com/item?id=26555873)
