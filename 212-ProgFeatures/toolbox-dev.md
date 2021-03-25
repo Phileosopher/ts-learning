@@ -194,3 +194,4 @@ https://webbrowsertools.com/json-beautifier/
 https://webbrowsertools.com/code-beautifier/
 [Random String Generator - Quickly generate a random string](https://commentpicker.com/string-generator.php)
 [Reverse Text - Online Tool to flip text and words](https://commentpicker.com/reverse-text.php)
+[facebook/hermes: Hermes is a small and lightweight JavaScript engine optimized for running React Native on Android.](https://github.com/facebook/hermes?utm_source=tldrnewsletter)

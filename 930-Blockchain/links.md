@@ -27,3 +27,4 @@
 [The bitcoin blockchain is helping keep a botnet from being taken down | Ars Technica](https://arstechnica.com/information-technology/2021/02/crooks-use-the-bitcoin-blockchain-to-protect-their-botnets-from-takedown/?utm_source=tldrnewsletter)
 [What are Non-Fungible Tokens (NFT)? | Ledger](https://www.ledger.com/academy/what-are-nft)
 [Show HN: Cost of a 51% Attack on Popular Cryptocurrencies | Hacker News](https://news.ycombinator.com/item?id=17173051)
+[Visa Plans to Enable Bitcoin Payments at 70M Merchants | Hacker News](https://news.ycombinator.com/item?id=26496185)

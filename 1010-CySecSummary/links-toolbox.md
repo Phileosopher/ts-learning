@@ -72,3 +72,6 @@
 https://webbrowsertools.com/file-encryptor/
 [Random Password Generator - Strong & secure passwords](https://commentpicker.com/password-generator.php)
 [The No More Ransom Project](https://www.nomoreransom.org/)
+[Mine - The Future of Data Ownership](https://saymine.com/?ref=producthunt)
+[Jumbo: Take back control of your data and privacy](https://www.jumboprivacy.com/?ref=producthunt)
+[Rita - Your data, in your hands](https://ritapersonaldata.com/?ref=producthunt)

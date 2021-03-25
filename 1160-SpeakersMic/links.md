@@ -7,3 +7,4 @@
 [Computer input latency from 1977-2017 (2017) | Hacker News](https://news.ycombinator.com/item?id=25290118)
 [PipeWire: The Linux audio/video bus | Hacker News](https://news.ycombinator.com/item?id=26327779)
 [Show HN: An attempt to rethink a music sequencer design | Hacker News](https://news.ycombinator.com/item?id=14212054)
+[Groove Pizza | Hacker News](https://news.ycombinator.com/item?id=26539088)

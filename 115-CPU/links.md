@@ -18,3 +18,4 @@
 [Show HN: My x86 emulator written in JavaScript | Hacker News](https://news.ycombinator.com/item?id=6567967)
 [An ex-ARM engineer critiques RISC-V | Hacker News](https://news.ycombinator.com/item?id=24958423)
 [ECC matters | Hacker News](https://news.ycombinator.com/item?id=25622322)
+[TSMC: How a Taiwanese chipmaker became a linchpin of the global economy | Ars Technica](https://arstechnica.com/gadgets/2021/03/tsmc-how-a-taiwanese-chipmaker-became-a-linchpin-of-the-global-economy/?utm_source=tldrnewsletter)

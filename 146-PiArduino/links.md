@@ -12,3 +12,4 @@
 [I bought 200 Raspberry Pi Model B’s and I’m going to fix them | Hacker News](https://news.ycombinator.com/item?id=25885348)
 [Wasmino = WASM + Arduino (Running Arduino code in browser) – Yifan Gu's Blog](https://blog.yifangu.com/2020/12/30/wasmino-wasm-arduino-running-arduino-code-in-browser/)
 [Show HN: GreenPiThumb – A Raspberry Pi Gardening Bot | Hacker News](https://news.ycombinator.com/item?id=14644539)
+[The Raspberry Pi can boot off NVMe SSDs now | Hacker News](https://news.ycombinator.com/item?id=26558939)

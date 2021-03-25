@@ -18,3 +18,4 @@
 [The EU must protect the right to privacy and not attack end-to-end encryption | Hacker News](https://news.ycombinator.com/item?id=25940566)
 [Difference between Private Key and Public Key](https://www.tutorialspoint.com/difference-between-private-key-and-public-key)
 [Standing on our own two feet | Hacker News](https://news.ycombinator.com/item?id=25008748)
+[The solution of the Zodiac killer’s 340-character cipher | Hacker News](https://news.ycombinator.com/item?id=26570795)

@@ -48,6 +48,8 @@
 [WhiteHat Jr’s founder files $2.6M defamation suit against critic | Hacker News](https://news.ycombinator.com/item?id=25176230)
 [Google Removed ClearURLs Extension from Chrome Web Store | Hacker News](https://news.ycombinator.com/item?id=26564638)
 [Substack's UI and 1Password temporarily cost me $2k | Hacker News](https://news.ycombinator.com/item?id=26549307)
+[Firefox 87 introduces SmartBlock for Private Browsing | Hacker News](https://news.ycombinator.com/item?id=26565780)
+[TLS 1.0, 1.1 officially deprecated | Hacker News](https://news.ycombinator.com/item?id=26559869)
 
 ## Big Orgs
 
