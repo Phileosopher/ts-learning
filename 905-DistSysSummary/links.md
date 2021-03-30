@@ -41,3 +41,5 @@
 [Is a billion-dollar worth of server lying on the ground](https://cerebralab.com/Is_a_billion-dollar_worth_of_server_lying_on_the_ground)
 [DigitalOcean S-1 | Hacker News](https://news.ycombinator.com/item?id=26262465)
 [PeerTube v3 | Hacker News](https://news.ycombinator.com/item?id=25707059)
+[All my servers have an 8 GB empty file on disk | Hacker News](https://news.ycombinator.com/item?id=26583791)
+[How to Receive Emails from Your Site's "Contact Us" form Using AWS SES, Lambda, & API Gateway](https://www.freecodecamp.org/news/how-to-receive-emails-via-your-sites-contact-us-form-with-aws-ses-lambda-api-gateway/)

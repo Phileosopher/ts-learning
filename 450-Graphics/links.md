@@ -69,6 +69,7 @@
 [Show HN: Metaballs | Hacker News](https://news.ycombinator.com/item?id=15492248)
 [Show HN: Something pointless I made | Hacker News](https://news.ycombinator.com/item?id=10646440)
 [Raytracing in One Weekend (2016) | Hacker News](https://news.ycombinator.com/item?id=25244301)
+[PlenOctrees For Real-time Rendering of Neural Radiance Fields (NeRFs) | Hacker News](https://news.ycombinator.com/item?id=26597419)
 
 ## Has Many Terms I Don't Understand
 

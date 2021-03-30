@@ -14,3 +14,5 @@
 [Employee Scheduling | Hacker News](https://news.ycombinator.com/item?id=22582444)
 [Ask HN: What are your favorite low-coding apps / tools as a developer? | Hacker News](https://news.ycombinator.com/item?id=22786853)
 [A solo journey to $100k in sales | Hacker News](https://news.ycombinator.com/item?id=26262989)
+[Three Months to Scale NewsBlur - The NewsBlur Blog](https://blog.newsblur.com/post/45632737156/three-months-to-scale-newsblur)
+[Female Founder Secrets: Men Clamming Up | Hacker News](https://news.ycombinator.com/item?id=26612918)

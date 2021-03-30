@@ -41,3 +41,4 @@
 https://webbrowsertools.com/sqlite-viewer/
 https://webbrowsertools.com/sqlite-reader/
 https://webbrowsertools.com/sqlite-manager/
+[SQLite is not a toy database | Hacker News](https://news.ycombinator.com/item?id=26580614)

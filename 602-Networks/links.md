@@ -45,3 +45,4 @@
 [Proxmox - Powerful open-source server solutions](https://www.proxmox.com/en/)
 [Show HN: Router7 – A pure-Go implementation of a small home internet router | Hacker News](https://news.ycombinator.com/item?id=17530086)
 [We can do better than DuckDuckGo | Hacker News](https://news.ycombinator.com/item?id=25127371)
+[Socat – A utility for data transfer between two addresses (2018) | Hacker News](https://news.ycombinator.com/item?id=26577313)

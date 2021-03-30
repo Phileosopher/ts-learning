@@ -80,3 +80,5 @@ HackThisWebsite
 [I spent eleven years working on this Line Rider track | Hacker News](https://news.ycombinator.com/item?id=25216499)
 [Booting from a vinyl record | Hacker News](https://news.ycombinator.com/item?id=25177045)
 [Pimp My Microwave | Hacker News](https://news.ycombinator.com/item?id=25093704)
+[I tracked down my impostor | Hacker News](https://news.ycombinator.com/item?id=26604093)
+[I made an eInk newspaper | Hacker News](https://news.ycombinator.com/item?id=26611371)

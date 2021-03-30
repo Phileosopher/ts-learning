@@ -40,3 +40,4 @@
 [Analog TV Station on ESP8266 | Hacker News](https://news.ycombinator.com/item?id=25330835)
 [Mutt 2.0 Release Notes | Hacker News](https://news.ycombinator.com/item?id=25019901)
 [The S in IoT is for Security | Hacker News](https://news.ycombinator.com/item?id=26540007)
+[New 5G protocol vulnerabilities allow location tracking | Hacker News](https://news.ycombinator.com/item?id=26610705)

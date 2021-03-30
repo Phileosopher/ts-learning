@@ -28,3 +28,4 @@
 [Disqus, a dark commenting system | Hacker News](https://news.ycombinator.com/item?id=26033052)
 [I'm tired of this anti-Wayland horseshit | Hacker News](https://news.ycombinator.com/item?id=26001179)
 [How do Spotify Codes work? - Boonedoggle](https://boonepeter.github.io/posts/2020-11-10-spotify-codes/)
+[Formal Methods of Software Design an Online Course by Eric Hehner | Hacker News](https://news.ycombinator.com/item?id=26610221)

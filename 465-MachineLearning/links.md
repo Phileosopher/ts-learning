@@ -89,3 +89,4 @@
 [SpaCy 3.0 | Hacker News](https://news.ycombinator.com/item?id=25988702)
 [GPT Neo: open-source GPT model, with pretrained 1.3B & 2.7B weight models | Hacker News](https://news.ycombinator.com/item?id=26534000)
 [DALL·E: Creating Images from Text | Hacker News](https://news.ycombinator.com/item?id=25649557)
+[We're Building a Data Science Curriculum with Advanced Mathematics and Machine Learning](https://www.freecodecamp.org/news/building-a-data-science-curriculum-with-advanced-math-and-machine-learning/)

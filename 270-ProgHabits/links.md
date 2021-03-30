@@ -52,3 +52,5 @@
 [On Repl-Driven Programming | Hacker News](https://news.ycombinator.com/item?id=25620256)
 [No Config for Old Men | Hacker News](https://news.ycombinator.com/item?id=25238523)
 [Six Months of Tiny Projects | Hacker News](https://news.ycombinator.com/item?id=25135752)
+[How to Beat Coder's Block – Five Tips to Help You Stay Productive](https://www.freecodecamp.org/news/how-to-beat-coders-block-and-stay-productive/)
+[Why I’m a sucker for pen and paper | Hacker News](https://news.ycombinator.com/item?id=26596316)

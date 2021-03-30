@@ -34,6 +34,8 @@
 [Nyxt Browser | Hacker News](https://news.ycombinator.com/item?id=26509612)
 [Show HN: Kimono – Never write a web scraper again | Hacker News](https://news.ycombinator.com/item?id=7066479)
 [Show HN: Ugliest.app – Ugly but good app platform | Hacker News](https://news.ycombinator.com/item?id=24992517)
+[tinacms/tinacms: Tina is a open source editor to help building visual editing into React websites. Tina empowers developers to give their teams a contextual and intuitive editing experience without sacrificing code quality.](https://github.com/tinacms/tinacms?utm_source=tldrnewsletter)
+[Ask HN: Cheapest/easiest way to host a static site? | Hacker News](https://news.ycombinator.com/item?id=26594242)
 
 ## WEBDEV CYSEC
 

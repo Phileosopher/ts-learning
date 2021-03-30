@@ -72,3 +72,4 @@
 [If a MacBook Pro runs hot or shows high kernel CPU, try charging it on the right | Hacker News](https://news.ycombinator.com/item?id=22957573)
 [Type in the exact number of machines to proceed | Hacker News](https://news.ycombinator.com/item?id=24904204)
 [Servo’s new home | Hacker News](https://news.ycombinator.com/item?id=25125325)
+[Asahi Linux: Linux on Apple Silicon project | Hacker News](https://news.ycombinator.com/item?id=25649719)

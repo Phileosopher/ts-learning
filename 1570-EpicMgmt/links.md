@@ -8,3 +8,4 @@
 [Mistakes I've Made as an Engineering Manager | CSS-Tricks](https://css-tricks.com/mistakes-ive-made-as-an-engineering-manager/?utm_source=tldrnewsletter)
 [The Tragic Tale of DEC, the Computing Giant That Died Too Soon | Hacker News](https://news.ycombinator.com/item?id=25319539)
 [Why Segment Went Back to a Monolith | Hacker News](https://news.ycombinator.com/item?id=23017160)
+[Employees are happier when led by people with deep expertise (2016) | Hacker News](https://news.ycombinator.com/item?id=26591777)

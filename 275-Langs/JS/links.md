@@ -74,3 +74,7 @@
 [Faster JavaScript Calls | Hacker News](https://news.ycombinator.com/item?id=26143648)
 [JavaScript Array Methods Tutorial – The Most Useful Methods Explained with Examples](https://www.freecodecamp.org/news/complete-introduction-to-the-most-useful-javascript-array-methods/)
 [10 Years of Open-Source Visualization: Did I learn anything from D3.js? | Hacker News](https://news.ycombinator.com/item?id=26240339)
+[40 JavaScript Projects for Beginners – Easy Ideas to Get Started Coding JS](https://www.freecodecamp.org/news/javascript-projects-for-beginners/)
+[Create Pixel Effects with JavaScript and HTML Canvas](https://www.freecodecamp.org/news/create-pixel-effects-with-javascript-and-html-canvas/)
+[Functional Programming in JavaScript for Beginners](https://www.freecodecamp.org/news/functional-programming-in-javascript-for-beginners/)
+[Figma to React | Hacker News](https://news.ycombinator.com/item?id=26603097)

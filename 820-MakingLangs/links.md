@@ -5,3 +5,5 @@
 [Show HN: Crafting Interpreters – A handbook for making programming languages | Hacker News](https://news.ycombinator.com/item?id=13406081)
 [Show HN: A dependently-typed programming language with static memory management | Hacker News](https://news.ycombinator.com/item?id=23283880)
 [Show HN: Beef, a new performance-oriented programming language | Hacker News](https://news.ycombinator.com/item?id=21991382)
+[The Antipattern Scripting Language • Buttondown](https://buttondown.email/hillelwayne/archive/the-antipattern-scripting-language/)
+[Some Rambling About Structured Text • Buttondown](https://buttondown.email/hillelwayne/archive/some-rambling-about-structured-text-940/)

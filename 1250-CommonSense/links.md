@@ -8,6 +8,7 @@
 [Choose Boring Technology (2015) | Hacker News](https://news.ycombinator.com/item?id=26211721)
 [The Air Force is having to reverse engineer parts of its own stealth bomber | Hacker News](https://news.ycombinator.com/item?id=26333649)
 [folklore](https://www.folklore.org/index.py)
+[How to Criticize Computer Scientists (2001) | Hacker News](https://news.ycombinator.com/item?id=26609492)
 
 
 
@@ -16,6 +17,7 @@
 # Stories
 
 [How a janitor at Frito-Lay invented Flamin' Hot Cheetos (2017) | Hacker News](https://news.ycombinator.com/item?id=25510351)
+[Annie of Annie's Mac and Cheese | Hacker News](https://news.ycombinator.com/item?id=26595790)
 Ups lumber story
 
 Americans paid lots of money for a ballpoint pen in space, russians used a pencil

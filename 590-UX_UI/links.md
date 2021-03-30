@@ -30,3 +30,4 @@
 [UI / UX Design Tutorial – From Zero to Hero with Wireframe + Prototype + Design in Figma](https://www.freecodecamp.org/news/ui-ux-design-tutorial-from-zero-to-hero-with-wireframe-prototype-figma/)
 [Judge: Citibank isn't entitled to $500M it sent to various creditors last August | Hacker News](https://news.ycombinator.com/item?id=26180785)
 [“User engagement” is code for “addiction” | Hacker News](https://news.ycombinator.com/item?id=26346688)
+[Addiction to Outrage (2020) | Hacker News](https://news.ycombinator.com/item?id=26613482)

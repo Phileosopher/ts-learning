@@ -50,6 +50,10 @@
 [Substack's UI and 1Password temporarily cost me $2k | Hacker News](https://news.ycombinator.com/item?id=26549307)
 [Firefox 87 introduces SmartBlock for Private Browsing | Hacker News](https://news.ycombinator.com/item?id=26565780)
 [TLS 1.0, 1.1 officially deprecated | Hacker News](https://news.ycombinator.com/item?id=26559869)
+[Permission.site | Hacker News](https://news.ycombinator.com/item?id=26588480)
+[Apt Encounters of the Third Kind | Hacker News](https://news.ycombinator.com/item?id=26591669)
+[FileZilla now contains adware if you download from the official homepage | Hacker News](https://news.ycombinator.com/item?id=26601533)
+[Open Source Security Foundation | Hacker News](https://news.ycombinator.com/item?id=26602033)
 
 ## Big Orgs
 
@@ -65,3 +69,7 @@
 [A tech antitrust problem no one is talking about: US broadband providers | Hacker News](https://news.ycombinator.com/item?id=24967472)
 [Backblaze submitting names and sizes of files in B2 buckets to Facebook | Hacker News](https://news.ycombinator.com/item?id=26536019)
 [Moving from YouTube to PeerTube | Hacker News](https://news.ycombinator.com/item?id=24222661)
+[Only Google is really allowed to crawl the web | Hacker News](https://news.ycombinator.com/item?id=26592635)
+[Do you really want Linux phones | Hacker News](https://news.ycombinator.com/item?id=26574731)
+[Fairphone suggests Qualcomm is the biggest barrier to long-term Android support | Hacker News](https://news.ycombinator.com/item?id=26593274)
+[Does Amazon make more from ads than AWS? | Hacker News](https://news.ycombinator.com/item?id=26593223)
