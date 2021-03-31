@@ -12,3 +12,5 @@
 [Implementing the Elo Rating System (2020) | Hacker News](https://news.ycombinator.com/item?id=26115665)
 [30 years later, QBasic is still the best | Hacker News](https://news.ycombinator.com/item?id=25239424)
 [Conquering freeCodeCamp's Curriculum - YouTube](https://www.youtube.com/playlist?list=PLgBH1CvjOA62oNEVgz-dECiCZCE_Q3ZFH)
+[How to Recreate the Ripple Effect of Material Design Buttons | CSS-Tricks](https://css-tricks.com/how-to-recreate-the-ripple-effect-of-material-design-buttons/)
+[DesignCourse - YouTube](https://www.youtube.com/c/DesignCourse/featured)

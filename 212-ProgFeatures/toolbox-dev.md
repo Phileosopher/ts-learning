@@ -196,3 +196,5 @@ https://webbrowsertools.com/code-beautifier/
 [Reverse Text - Online Tool to flip text and words](https://commentpicker.com/reverse-text.php)
 [facebook/hermes: Hermes is a small and lightweight JavaScript engine optimized for running React Native on Android.](https://github.com/facebook/hermes?utm_source=tldrnewsletter)
 [Ohm – A library and language for building parsers, interpreters, compilers, etc. | Hacker News](https://news.ycombinator.com/item?id=26603393)
+[Show HN: An open-source, self-hostable Heroku and Netlify alternative | Hacker News](https://news.ycombinator.com/item?id=26624341)
+[Numi – Calculator app for Mac | Hacker News](https://news.ycombinator.com/item?id=26624386)

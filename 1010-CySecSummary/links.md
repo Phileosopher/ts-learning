@@ -54,6 +54,9 @@
 [Apt Encounters of the Third Kind | Hacker News](https://news.ycombinator.com/item?id=26591669)
 [FileZilla now contains adware if you download from the official homepage | Hacker News](https://news.ycombinator.com/item?id=26601533)
 [Open Source Security Foundation | Hacker News](https://news.ycombinator.com/item?id=26602033)
+[The Hitchhiker’s Guide to Online Anonymity | How I learned to start worrying and love privacy](https://anonymousplanet.org/?utm_source=tldrnewsletter)
+[Get Safe Online | Free online security advice](https://www.getsafeonline.org/)
+[Thinkuknow - home](https://www.thinkuknow.co.uk/)
 
 ## Big Orgs
 
@@ -73,3 +76,4 @@
 [Do you really want Linux phones | Hacker News](https://news.ycombinator.com/item?id=26574731)
 [Fairphone suggests Qualcomm is the biggest barrier to long-term Android support | Hacker News](https://news.ycombinator.com/item?id=26593274)
 [Does Amazon make more from ads than AWS? | Hacker News](https://news.ycombinator.com/item?id=26593223)
+[Google collects 20 times more telemetry from Android devices than Apple from iOS | Hacker News](https://news.ycombinator.com/item?id=26639261)

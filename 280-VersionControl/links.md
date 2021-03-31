@@ -49,3 +49,4 @@
 [EmacsConf 2020 Talks | Hacker News](https://news.ycombinator.com/item?id=25324311)
 [Show HN: OneDev – A Lightweight GitLab Alternative | Hacker News](https://news.ycombinator.com/item?id=22081419)
 [The Python Package Index is now a GitHub secret scanning integrator | Hacker News](https://news.ycombinator.com/item?id=26565970)
+[Terminal escape sequences in Git commit email field | Hacker News](https://news.ycombinator.com/item?id=26615938)

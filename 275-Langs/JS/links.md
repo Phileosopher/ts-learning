@@ -78,3 +78,4 @@
 [Create Pixel Effects with JavaScript and HTML Canvas](https://www.freecodecamp.org/news/create-pixel-effects-with-javascript-and-html-canvas/)
 [Functional Programming in JavaScript for Beginners](https://www.freecodecamp.org/news/functional-programming-in-javascript-for-beginners/)
 [Figma to React | Hacker News](https://news.ycombinator.com/item?id=26603097)
+[The Deno Company | Hacker News](https://news.ycombinator.com/item?id=26620116)

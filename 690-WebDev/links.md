@@ -59,6 +59,10 @@
 [Timezone Bullshit | Hacker News](https://news.ycombinator.com/item?id=26087502)
 [Just because I have a vertical screen doesn’t mean I’m on a phone | Hacker News](https://news.ycombinator.com/item?id=26000405)
 [In 2020, two thirds of Google searches ended without a click | Hacker News](https://news.ycombinator.com/item?id=26543731)
+[Responsive Web Design – How to Make a Website Look Good on Phones and Tablets](https://www.freecodecamp.org/news/responsive-web-design-how-to-make-a-website-look-good-on-phones-and-tablets/)
+[How to Create a WordPress Contact Form Without a Plugin | Wissam Dandan](https://wissamdandan.com/how-to-create-a-wordpress-contact-form-without-a-plugin/)
+[How to Make a Landing Page using HTML, SCSS, and JavaScript](https://www.freecodecamp.org/news/how-to-make-a-landing-page-using-html-scss-and-javascript/)
+[Full Screen Landing Page Design | Dark and Light Mode | Html, CSS and JavaScript Tutorial - YouTube](https://www.youtube.com/watch?v=mveB_KJ7m78&app=desktop)
 
 ## Browsers
 
@@ -72,3 +76,6 @@
 [Don't touch my clipboard | Hacker News](https://news.ycombinator.com/item?id=22352674)
 [A List of Hacker News's Undocumented Features and Behaviors (2018) | Hacker News](https://news.ycombinator.com/item?id=23439437)
 [Chrome’s address bar will use https:// by default | Hacker News](https://news.ycombinator.com/item?id=26555873)
+[A Brief History of Responsive Web Design](https://www.freecodecamp.org/news/history-of-responsive-web-design/)
+
+- left off at Media Queries

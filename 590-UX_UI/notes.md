@@ -1,1 +1,0 @@
-[CERT] freeCodeCamp - Data Visualization

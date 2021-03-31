@@ -47,3 +47,4 @@
 [12 requests per second: A realistic look at Python web frameworks | Hacker News](https://news.ycombinator.com/item?id=26188765)
 [Show HN: Interface for all digital aspects of my life | Hacker News](https://news.ycombinator.com/item?id=23101869)
 [Build Six Quick Python Projects](https://www.freecodecamp.org/news/build-six-quick-python-projects/)
+[Hello, HPy | Hacker News](https://news.ycombinator.com/item?id=26625398)

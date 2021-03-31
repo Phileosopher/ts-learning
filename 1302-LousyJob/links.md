@@ -16,3 +16,4 @@
 [a year at Google Brains](https://news.ycombinator.com/item?id=26374143)
 [Atlassian Cloud ToS section 3.3(I) prohibits discussing performance issues | Hacker News](https://news.ycombinator.com/item?id=25613937)
 [The dispassionate developer](https://blog.ploeh.dk/2021/03/22/the-dispassionate-developer/?utm_source=tldrnewsletter)
+[Everyone wants to do the model work, not the data work [pdf] | Hacker News](https://news.ycombinator.com/item?id=26616454)

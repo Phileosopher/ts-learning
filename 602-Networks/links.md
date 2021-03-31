@@ -46,3 +46,5 @@
 [Show HN: Router7 – A pure-Go implementation of a small home internet router | Hacker News](https://news.ycombinator.com/item?id=17530086)
 [We can do better than DuckDuckGo | Hacker News](https://news.ycombinator.com/item?id=25127371)
 [Socat – A utility for data transfer between two addresses (2018) | Hacker News](https://news.ycombinator.com/item?id=26577313)
+[Problems with low DNS TTLs | Hacker News](https://news.ycombinator.com/item?id=26620730)
+[USB 3.0* Radio Frequency Interference on 2.4 GHz Devices (2012) | Hacker News](https://news.ycombinator.com/item?id=26625356)
