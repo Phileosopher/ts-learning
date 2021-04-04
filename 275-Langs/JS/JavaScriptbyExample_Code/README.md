@@ -1,5 +1,5 @@
 # JavaScript by Example
-This is the code repository for [JavaScript by Example](https://www.packtpub.com/web-development/javascript-example?utm_source=github&utm_medium=repository&utm_campaign=9781788293969), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the book from start to finish.
+This is the code repository for [JavaScript by Example](https://www.packtpub.com/web-development/javascript-example), published by [Packt](https://www.packtpub.com). It contains all the supporting project files necessary to work through the book from start to finish.
 ## About the Book
 JavaScript is the programming language that all web developers need to learn. The first item on our JavaScript to-do list is building g a To-do list app, which you'll have done by the end of the first chapter. You'll explore DOM manipulation with JavaScript and work with event listeners. You'll work with images and text to build a Meme creator. You will also learn about ES (ECMAScript) classes, and will be introduced to layouts using the CSS3 Flexbox.
 
@@ -24,11 +24,11 @@ loadTasks() {
 
 
 ## Related Products
-* [JavaScript by Example [Video]](https://www.packtpub.com/web-development/javascript-example-video?utm_source=github&utm_medium=repository&utm_campaign=9781788293709)
+* [JavaScript by Example [Video]](https://www.packtpub.com/web-development/javascript-example-video)
 
-* [JavaScript: Functional Programming for JavaScript Developers](https://www.packtpub.com/web-development/javascript-functional-programming-javascript-developers?utm_source=github&utm_medium=repository&utm_campaign=9781787124660)
+* [JavaScript: Functional Programming for JavaScript Developers](https://www.packtpub.com/web-development/javascript-functional-programming-javascript-developers)
 
-* [JavaScript Design Patterns 20 Patterns for Advancing Your JavaScript Skills [Video]](https://www.packtpub.com/web-development/javascript-design-patterns-20-patterns-advancing-your-javascript-skills-video?utm_source=github&utm_medium=repository&utm_campaign=9781785888014)
+* [JavaScript Design Patterns 20 Patterns for Advancing Your JavaScript Skills [Video]](https://www.packtpub.com/web-development/javascript-design-patterns-20-patterns-advancing-your-javascript-skills-video)
 
 ### Suggestions and Feedback
 [Click here](https://docs.google.com/forms/d/e/1FAIpQLSe5qwunkGf6PUvzPirPDtuy1Du5Rlzew23UBp2S-P3wB-GcwQ/viewform) if you have any feedback or suggestions.

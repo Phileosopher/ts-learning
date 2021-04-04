@@ -33,7 +33,7 @@
 [Inkscape 1.0 Beta 1 | Hacker News](https://news.ycombinator.com/item?id=21001969)
 [Ditherpunk: The article I wish I had about monochrome image dithering | Hacker News](https://news.ycombinator.com/item?id=25633483)
 [Computer Graphics from Scratch | Hacker News](https://news.ycombinator.com/item?id=26017086)
-[Recreating Real-World Terrain With React, Three.js & WebGL Shaders](https://techblog.geekyants.com/recreating-real-world-terrain-with-react-threejs-and-webgl-shaders-1?utm_source=tldrnewsletter)
+[Recreating Real-World Terrain With React, Three.js & WebGL Shaders](https://techblog.geekyants.com/recreating-real-world-terrain-with-react-threejs-and-webgl-shaders-1)
 [Why are Soviet math textbooks so hardcore in comparison to US textbooks? (2017) | Hacker News](https://news.ycombinator.com/item?id=22941144)
 [The Remarkable Number 1/89 (2004) | Hacker News](https://news.ycombinator.com/item?id=24929726)
 [0.30000000000000004 | Hacker News](https://news.ycombinator.com/item?id=21686264)
@@ -70,6 +70,7 @@
 [Show HN: Something pointless I made | Hacker News](https://news.ycombinator.com/item?id=10646440)
 [Raytracing in One Weekend (2016) | Hacker News](https://news.ycombinator.com/item?id=25244301)
 [PlenOctrees For Real-time Rendering of Neural Radiance Fields (NeRFs) | Hacker News](https://news.ycombinator.com/item?id=26597419)
+[Voxel Space: Comanche's terrain rendering in less than 20 lines of code (2020) | Hacker News](https://news.ycombinator.com/item?id=26631995)
 
 ## Has Many Terms I Don't Understand
 

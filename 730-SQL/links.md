@@ -31,7 +31,7 @@
 [Why You Should Learn SQL – Even If You're Not a Developer](https://www.freecodecamp.org/news/why-learn-sql/)
 [Why I Built Litestream | Hacker News](https://news.ycombinator.com/item?id=26103776)
 [Many small queries are efficient in SQLite | Hacker News](https://news.ycombinator.com/item?id=26151302)
-[dolthub/dolt: Dolt – It's Git for Data](https://github.com/dolthub/dolt?utm_source=tldrnewsletter)
+[dolthub/dolt: Dolt – It's Git for Data](https://github.com/dolthub/dolt)
 
 [Falcon is a free, open-source SQL editor with inline data visualization | Hacker News](https://news.ycombinator.com/item?id=22883429)
 [Show HN: ESQLate – Build minimum viable admin panels with just SQL | Hacker News](https://news.ycombinator.com/item?id=22073037)

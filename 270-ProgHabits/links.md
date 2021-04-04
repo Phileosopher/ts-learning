@@ -54,5 +54,6 @@
 [Six Months of Tiny Projects | Hacker News](https://news.ycombinator.com/item?id=25135752)
 [How to Beat Coder's Block – Five Tips to Help You Stay Productive](https://www.freecodecamp.org/news/how-to-beat-coders-block-and-stay-productive/)
 [Why I’m a sucker for pen and paper | Hacker News](https://news.ycombinator.com/item?id=26596316)
-[How does the brain interpret computer languages? | Ars Technica](https://arstechnica.com/science/2021/03/how-does-the-brain-interpret-computer-languages/?utm_source=tldrnewsletter)
+[How does the brain interpret computer languages? | Ars Technica](https://arstechnica.com/science/2021/03/how-does-the-brain-interpret-computer-languages/)
 [Context switching costs more than we give it credit for | Hacker News](https://news.ycombinator.com/item?id=25817395)
+[Move Slow and Make Things | Hacker News](https://news.ycombinator.com/item?id=26668806)

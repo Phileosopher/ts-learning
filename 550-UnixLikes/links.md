@@ -73,3 +73,4 @@
 [Type in the exact number of machines to proceed | Hacker News](https://news.ycombinator.com/item?id=24904204)
 [Servo’s new home | Hacker News](https://news.ycombinator.com/item?id=25125325)
 [Asahi Linux: Linux on Apple Silicon project | Hacker News](https://news.ycombinator.com/item?id=25649719)
+[Pro1 X: A Linux smartphone with slideout keyboard | Hacker News](https://news.ycombinator.com/item?id=26659150)

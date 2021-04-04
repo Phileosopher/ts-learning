@@ -49,7 +49,7 @@
 [Padrino - The Elegant Ruby Web Framework](https://padrinorb.com/)
 [Sinatra](https://sinatrarb.com/)
 [GitHub - achillesrasquinha/pipupgrade: 🗽 Like yarn outdated/upgrade, but for pip. Upgrade all your pip packages and automate your Python Dependency Management.](https://github.com/achillesrasquinha/pipupgrade)
-[Open Sourcing the Netflix Domain Graph Service Framework: GraphQL for Spring Boot | by Netflix Technology Blog | Feb, 2021 | Netflix TechBlog](https://netflixtechblog.com/open-sourcing-the-netflix-domain-graph-service-framework-graphql-for-spring-boot-92b9dcecda18?utm_source=tldrnewsletter&gi=59bfb1dde178)
+[Open Sourcing the Netflix Domain Graph Service Framework: GraphQL for Spring Boot | by Netflix Technology Blog | Feb, 2021 | Netflix TechBlog](https://netflixtechblog.com/open-sourcing-the-netflix-domain-graph-service-framework-graphql-for-spring-boot-92b9dcecda18&gi=59bfb1dde178)
 [GitHub - openfaas/faasd: A lightweight & portable faas engine](https://github.com/openfaas/faasd)
 [GitHub - chriswalz/bit: Bit is a modern Git CLI](https://github.com/chriswalz/bit)
 [Code scanning is now available! - The GitHub Blog](https://github.blog/2020-09-30-code-scanning-is-now-available/)
@@ -85,8 +85,8 @@
 [FlightGear - Wikipedia](https://en.wikipedia.org/wiki/FlightGear)
 [List of open-source health software - Wikipedia](https://en.wikipedia.org/wiki/List_of_open-source_health_software)
 [Expat (library) - Wikipedia](https://en.wikipedia.org/wiki/Expat_(library))
-[Blitz.js - The Fullstack React Framework](https://blitzjs.com/?utm_source=tldrnewsletter)
-[GitHub - activeloopai/Hub: Fastest unstructured dataset management for TensorFlow/PyTorch. Stream data real-time & version-control it. https://activeloop.ai](https://github.com/activeloopai/Hub?utm_source=tldrnewsletter)
+[Blitz.js - The Fullstack React Framework](https://blitzjs.com/)
+[GitHub - activeloopai/Hub: Fastest unstructured dataset management for TensorFlow/PyTorch. Stream data real-time & version-control it. https://activeloop.ai](https://github.com/activeloopai/Hub)
 [Tree-sitter: an incremental parsing system for programming tools | Hacker News](https://news.ycombinator.com/item?id=26225298)
 [Low-code backend to build modern apps | Back4App](https://www.back4app.com/)
 [Nullsoft Scriptable Install System - Wikipedia](https://en.wikipedia.org/wiki/Nullsoft_Scriptable_Install_System)
@@ -127,7 +127,7 @@
 [GitHub - amplication/amplication: Create business applications, without coding. Build a fully functional Node.js server-side app with all your data models and a React client, in less than 5 minutes.](https://github.com/amplication/amplication)
 [Show HN: Caddy 2 | Hacker News](https://news.ycombinator.com/item?id=23070567)
 [Cloud Storage for $2 per TB per month | Hacker News](https://news.ycombinator.com/item?id=22506722)
-[GitHub - dapr/dapr: Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.](https://github.com/dapr/dapr?utm_source=tldrnewsletter)
+[GitHub - dapr/dapr: Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.](https://github.com/dapr/dapr)
 [Cockpit – Integrated, glanceable, web-based interface for servers | Hacker News](https://news.ycombinator.com/item?id=26197510)
 [Most Reliable App & Cross Browser Testing Platform | BrowserStack](https://www.browserstack.com/)
 [JSHint, a JavaScript Code Quality Tool](https://jshint.com/)
@@ -153,8 +153,8 @@
 [Apache Helix – Near-Realtime Rsync Replicated File System | Hacker News](https://news.ycombinator.com/item?id=24898911)
 [Project.net - Wikipedia](https://en.wikipedia.org/wiki/Project.net)
 [GitHub - sole/tween.js: Javascript tweening engine](https://github.com/sole/tween.js)
-[GitHub - rails/kredis: Higher-level data structures built on Redis](https://github.com/rails/kredis?utm_source=tldrnewsletter)
-[GitHub - bridgedxyz/github.surf: surf GitHub code with VS Code. (with CLI, chrome extensions)](https://github.com/bridgedxyz/github.surf?utm_source=tldrnewsletter)
+[GitHub - rails/kredis: Higher-level data structures built on Redis](https://github.com/rails/kredis)
+[GitHub - bridgedxyz/github.surf: surf GitHub code with VS Code. (with CLI, chrome extensions)](https://github.com/bridgedxyz/github.surf)
 [Free Programming Libraries, Components and Source Code (thefreecountry.com)](https://www.thefreecountry.com/sourcecode/index.shtml)
 [Netlify Dev](https://news.ycombinator.com/item?id=19615546)
 
@@ -184,7 +184,7 @@
 [Android SDK Tools 31.0.0](https://android-sdk-tools.en.lo4d.com/windows "Android SDK Tools 31.0.0") - Official Google kit provides a set of development and debug tools
 [XAMPP 8.0.2-0](https://xampp.en.lo4d.com/windows "XAMPP 8.0.2-0") - Apache web server for Windows which includes PHP, MySQL, Tomcat and optional installation of Perl, phpMyAdmin, Webalizer and some other options
 [Unity Game Engine 2020.2.7](https://unity-game-engine.en.lo4d.com/windows "Unity Game Engine 2020.2.7") - Tremendous gaming engine designed for beginners to get started coding
-[SvelteKit is in public beta](https://svelte.dev/blog/sveltekit-beta?utm_source=tldrnewsletter)
+[SvelteKit is in public beta](https://svelte.dev/blog/sveltekit-beta)
 https://webbrowsertools.com/binary-split-and-merge/
 https://webbrowsertools.com/secure-hash-generator/
 https://webbrowsertools.com/qrcode-reader/
@@ -194,7 +194,7 @@ https://webbrowsertools.com/json-beautifier/
 https://webbrowsertools.com/code-beautifier/
 [Random String Generator - Quickly generate a random string](https://commentpicker.com/string-generator.php)
 [Reverse Text - Online Tool to flip text and words](https://commentpicker.com/reverse-text.php)
-[facebook/hermes: Hermes is a small and lightweight JavaScript engine optimized for running React Native on Android.](https://github.com/facebook/hermes?utm_source=tldrnewsletter)
+[facebook/hermes: Hermes is a small and lightweight JavaScript engine optimized for running React Native on Android.](https://github.com/facebook/hermes)
 [Ohm – A library and language for building parsers, interpreters, compilers, etc. | Hacker News](https://news.ycombinator.com/item?id=26603393)
 [Show HN: An open-source, self-hostable Heroku and Netlify alternative | Hacker News](https://news.ycombinator.com/item?id=26624341)
 [Numi – Calculator app for Mac | Hacker News](https://news.ycombinator.com/item?id=26624386)

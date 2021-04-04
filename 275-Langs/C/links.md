@@ -15,3 +15,4 @@
 [Show HN: Space Invaders in C | Hacker News](https://news.ycombinator.com/item?id=21719575)
 [Redis 6.0 GA | Hacker News](https://news.ycombinator.com/item?id=23030685)
 [The End of the Redis Adventure | Hacker News](https://news.ycombinator.com/item?id=23689549)
+[Signed Char Lotte | Hacker News](https://news.ycombinator.com/item?id=26644838)

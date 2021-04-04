@@ -12,8 +12,8 @@
 [Show HN: My x86 emulator written in JavaScript | Hacker News](https://news.ycombinator.com/item?id=6567967)
 [An ex-ARM engineer critiques RISC-V | Hacker News](https://news.ycombinator.com/item?id=24958423)
 [ECC matters | Hacker News](https://news.ycombinator.com/item?id=25622322)
-[TSMC: How a Taiwanese chipmaker became a linchpin of the global economy | Ars Technica](https://arstechnica.com/gadgets/2021/03/tsmc-how-a-taiwanese-chipmaker-became-a-linchpin-of-the-global-economy/?utm_source=tldrnewsletter)
-[Arm’s first new architecture in a decade is designed for security and AI - The Verge](https://www.theverge.com/2021/3/30/22357951/arm-armv9-architecture-security-artificial-intelligence-performance?utm_source=tldrnewsletter)
+[TSMC: How a Taiwanese chipmaker became a linchpin of the global economy | Ars Technica](https://arstechnica.com/gadgets/2021/03/tsmc-how-a-taiwanese-chipmaker-became-a-linchpin-of-the-global-economy/)
+[Arm’s first new architecture in a decade is designed for security and AI - The Verge](https://www.theverge.com/2021/3/30/22357951/arm-armv9-architecture-security-artificial-intelligence-performance)
 
 ## M1
 

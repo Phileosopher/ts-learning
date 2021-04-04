@@ -34,7 +34,7 @@
 [Remote Code Execution in Slack desktop apps | Hacker News](https://news.ycombinator.com/item?id=24314098)
 [Latest Firefox rolls out Enhanced Tracking Protection 2.0 | Hacker News](https://news.ycombinator.com/item?id=24061268)
 [Mullvad VPN - Privacy is a universal right](https://mullvad.net/en/)
-[Building Your Shield: Mapping the Cybersecurity Market](https://learn.stanford.edu/building-your-shield-webinar-ondemand.html?utm_medium=email&utm_source=other&utm_campaign=partner.1.opencourse.targetedmessages.marketing~partner.1.kjbcC8vjRU6cNtJ6hs6-CA)
+[Building Your Shield: Mapping the Cybersecurity Market](https://learn.stanford.edu/building-your-shield-webinar-ondemand.html)
 [SolarWinds CEO blames intern for password leak | Hacker News](https://news.ycombinator.com/item?id=26284782)
 [Use Touch ID for Sudo on Mac | Hacker News](https://news.ycombinator.com/item?id=26302139)
 
@@ -54,9 +54,11 @@
 [Apt Encounters of the Third Kind | Hacker News](https://news.ycombinator.com/item?id=26591669)
 [FileZilla now contains adware if you download from the official homepage | Hacker News](https://news.ycombinator.com/item?id=26601533)
 [Open Source Security Foundation | Hacker News](https://news.ycombinator.com/item?id=26602033)
-[The Hitchhiker’s Guide to Online Anonymity | How I learned to start worrying and love privacy](https://anonymousplanet.org/?utm_source=tldrnewsletter)
+[The Hitchhiker’s Guide to Online Anonymity | How I learned to start worrying and love privacy](https://anonymousplanet.org/)
 [Get Safe Online | Free online security advice](https://www.getsafeonline.org/)
 [Thinkuknow - home](https://www.thinkuknow.co.uk/)
+[Covert Instruments | Hacker News](https://news.ycombinator.com/item?id=26678553)
+[Zero click vulnerability in Apple’s macOS Mail | Hacker News](https://news.ycombinator.com/item?id=26664714)
 
 ## Big Orgs
 
@@ -77,3 +79,4 @@
 [Fairphone suggests Qualcomm is the biggest barrier to long-term Android support | Hacker News](https://news.ycombinator.com/item?id=26593274)
 [Does Amazon make more from ads than AWS? | Hacker News](https://news.ycombinator.com/item?id=26593223)
 [Google collects 20 times more telemetry from Android devices than Apple from iOS | Hacker News](https://news.ycombinator.com/item?id=26639261)
+[533M Facebook users' phone numbers and personal data have been leaked online | Hacker News](https://news.ycombinator.com/item?id=26681969)

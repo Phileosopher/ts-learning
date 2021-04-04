@@ -6,4 +6,4 @@
 [System Design Interview Cheatsheet | Hacker News](https://news.ycombinator.com/item?id=11516923)
 [Software architecture cheat sheet | Hacker News](https://news.ycombinator.com/item?id=4612996)
 [Show HN: Alan – a low-code application platform | Hacker News](https://news.ycombinator.com/item?id=18166538)
-[Android Developers Blog: Announcing Jetpack Compose Beta!](https://android-developers.googleblog.com/2021/02/announcing-jetpack-compose-beta.html?utm_source=tldrnewsletter)
+[Android Developers Blog: Announcing Jetpack Compose Beta!](https://android-developers.googleblog.com/2021/02/announcing-jetpack-compose-beta.html)

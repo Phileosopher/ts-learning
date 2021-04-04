@@ -25,3 +25,9 @@
 [It Can Happen to You | Hacker News](https://news.ycombinator.com/item?id=26337046) - comments on GTA loading time drop
 [I'm the high QA guy. Let me test your website | Hacker News](https://news.ycombinator.com/item?id=26042416)
 [Null | Hacker News](https://news.ycombinator.com/item?id=25771953)
+[7 Reasons Why Software Developers Are Prone to Bugs | by Fabio Veronese | Mar, 2021 | Better Programming](https://betterprogramming.pub/7-reasons-why-software-developers-are-prone-to-bugs-bda2fa91e156)
+[An introduction to @testing-library: Part 1](https://blog.kieranroberts.dev/an-introduction-to-testing-library-part-1)
+[An Observability Platform for Developers - Ozcode](https://oz-code.com/blog/devops/an-observability-platform-for-developers)
+[The Importance of Testing for Cloud-Based Software Is Heavily Underestimated](https://www.testmonitor.com/blog/the-importance-of-testing-for-cloud-based-software-is-heavily-underestimated)
+[Changing the Culture of a Failed Test | mabl](https://www.mabl.com/blog/changing-the-culture-of-a-failed-test-mabl)
+[Why Property Testing Finds Bugs Unit Testing Does Not • Buttondown](https://buttondown.email/hillelwayne/archive/why-property-testing-finds-bugs-unit-testing-does/)

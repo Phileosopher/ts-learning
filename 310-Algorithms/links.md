@@ -22,7 +22,7 @@
 [Offline Algorithms in Low-Frequency Trading | Hacker News](https://news.ycombinator.com/item?id=25968348)
 [Algorithms by Jeff Erickson | Hacker News](https://news.ycombinator.com/item?id=26074289)
 [Shitbowl: The algorithmically powered in-home physical caching platform | Hacker News](https://news.ycombinator.com/item?id=26123726)
-[GitHub - scandum/gridsort: A stable adaptive partitioning comparison sort.](https://github.com/scandum/gridsort?utm_source=tldrnewsletter)
+[GitHub - scandum/gridsort: A stable adaptive partitioning comparison sort.](https://github.com/scandum/gridsort)
 [Big-O Algorithm Complexity Cheat Sheet | Hacker News](https://news.ycombinator.com/item?id=5655075)
 [Show HN: Wave function collapse algorithm | Hacker News](https://news.ycombinator.com/item?id=12612246)
 [GitHub - rupa/z: z - jump around](https://github.com/rupa/z)

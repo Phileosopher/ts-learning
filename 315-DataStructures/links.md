@@ -14,7 +14,7 @@
 [Introduction — Architecture Playbook](https://nocomplexity.com/documents/arplaybook/introduction.html)
 [Advanced Data Structures (2017) | Hacker News](https://news.ycombinator.com/item?id=20044876)
 [Understand Data Structures in C and C++](https://www.freecodecamp.org/news/understand-data-structures-in-c-and-cpp/)
-[How Spotify Optimized the Largest Dataflow Job Ever for Wrapped 2020 : Spotify Engineering](https://engineering.atspotify.com/2021/02/11/how-spotify-optimized-the-largest-dataflow-job-ever-for-wrapped-2020/?utm_source=tldrnewsletter)
+[How Spotify Optimized the Largest Dataflow Job Ever for Wrapped 2020 : Spotify Engineering](https://engineering.atspotify.com/2021/02/11/how-spotify-optimized-the-largest-dataflow-job-ever-for-wrapped-2020/)
 [5 Must Have Features for a Data Importer | Flatfile](https://flatfile.io/blog/5-must-have-features-for-a-data-importer)
 [OpenCV - OpenCV](https://opencv.org/)
 [Data structures and algorithms I actually used while working at tech companies | Hacker News](https://news.ycombinator.com/item?id=23841491)

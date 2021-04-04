@@ -23,7 +23,7 @@
 [maiot-io/zenml: ZenML: Bring Zen to your ML with reproducible pipelines](https://github.com/maiot-io/zenml)
 [GitHub - fbdesignpro/sweetviz: Visualize and compare datasets, target values and associations, with one line of code.](https://github.com/fbdesignpro/sweetviz)
 [JackBister/logsuck: Easy log aggregation, indexing and searching](https://github.com/jackbister/logsuck)
-[Microsoft Extends Low-Code Push with Power Fx Programming Language -- Visual Studio Magazine](https://visualstudiomagazine.com/articles/2021/03/02/power-fx.aspx?utm_source=tldrnewsletter)
+[Microsoft Extends Low-Code Push with Power Fx Programming Language -- Visual Studio Magazine](https://visualstudiomagazine.com/articles/2021/03/02/power-fx.aspx)
 [Geo for Bootstrap, a Timeless Theme by Divshot](https://code.divshot.com/geo-bootstrap/)
 [vinibiavatti1/TuiCss: Text-based user interface CSS library](https://github.com/vinibiavatti1/TuiCss)
 [Bootstrap](https://kristopolous.github.io/BOOTSTRA.386/)

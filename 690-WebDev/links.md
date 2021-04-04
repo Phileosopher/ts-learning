@@ -63,6 +63,8 @@
 [How to Create a WordPress Contact Form Without a Plugin | Wissam Dandan](https://wissamdandan.com/how-to-create-a-wordpress-contact-form-without-a-plugin/)
 [How to Make a Landing Page using HTML, SCSS, and JavaScript](https://www.freecodecamp.org/news/how-to-make-a-landing-page-using-html-scss-and-javascript/)
 [Full Screen Landing Page Design | Dark and Light Mode | Html, CSS and JavaScript Tutorial - YouTube](https://www.youtube.com/watch?v=mveB_KJ7m78&app=desktop)
+[Inside a viral website | Hacker News](https://news.ycombinator.com/item?id=26645813)
+[This Blog is now hosted on a GPS/LTE modem | Hacker News](https://news.ycombinator.com/item?id=26669749)
 
 ## Browsers
 

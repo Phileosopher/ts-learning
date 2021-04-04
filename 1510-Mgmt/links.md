@@ -8,8 +8,9 @@
 [If it will matter after today, don't talk about it in a chat room | Hacker News](https://news.ycombinator.com/item?id=25751808)
 [System dynamics - Wikipedia](https://en.wikipedia.org/wiki/System_dynamics)
 [Mistakes I've Made as an Engineering Manager | Hacker News](https://news.ycombinator.com/item?id=26216016)
-[kuchin/awesome-cto: A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups](https://github.com/kuchin/awesome-cto?utm_source=tldrnewsletter)
+[kuchin/awesome-cto: A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups](https://github.com/kuchin/awesome-cto)
 [Show HN: I wrote a book for engineers that want to become engineering managers | Hacker News](https://news.ycombinator.com/item?id=22033129)
+[If Management Isn’t A Promotion, Then Engineering Isn’t A Demotion – charity.wtf](https://charity.wtf/2020/09/06/if-management-isnt-a-promotion-then-engineering-isnt-a-demotion/)
 
 ## Meetings
 

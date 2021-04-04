@@ -19,9 +19,6 @@ This book covers the following exciting features:
 
 
 If you feel this book is for you, get your [copy](https://www.amazon.com/dp/1789531942) today!
- 
-<a href="https://www.packtpub.com/?utm_source=github&utm_medium=banner&utm_campaign=GitHubBanner"><img src="https://raw.githubusercontent.com/PacktPublishing/GitHub/master/GitHub.png" 
-alt="https://www.packtpub.com/" border="5" /></a>
 
 ## Instructions and Navigations
 All of the code is organized into folders. For example, Chapter02.
@@ -48,14 +45,14 @@ With the following software and hardware list you can run all code files present
 We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](https://www.packtpub.com/sites/default/files/downloads/9781789531947_ColorImages.pdf).
 
 ### Related product
-* Learn Python Programming - Second Edition [[Packt]](https://www.packtpub.com/application-development/learn-python-programming-second-edition?utm_source=github&utm_medium=repository&utm_campaign=9781788996662) [[Amazon]](https://www.amazon.com/dp/1788996666)
+* Learn Python Programming - Second Edition [[Packt]](https://www.packtpub.com/application-development/learn-python-programming-second-edition) [[Amazon]](https://www.amazon.com/dp/1788996666)
 
 ## Get to Know the Author
 **Cody Jackson**
 is a disabled military veteran, founder of Socius Consulting and co-founder of Top Men Technologies. He is currently employed at CACI International as the lead ICS/SCADA modeling and simulations engineer. He has been involved in the tech industry since 1994, when he left Gateway Computers to join the Navy as a nuclear chemist and radcon technician. Prior to joining CACI, he worked at ECPI University as a Computer Information Systems adjunct professor. He is a self-taught Python programmer, author of Learning to Program Using Python, and Secret Recipes of the Python Ninja. He holds an AS in Electromechanical Technology, a BS in Computer Engineering Technology, and an MS in IT Management, as well as numerous IT certifications.
 
 ## Other books by the author
-[Secret Recipes of the Python Ninja](https://www.packtpub.com/application-development/secret-recipes-python-ninja?utm_source=github&utm_medium=repository&utm_campaign=9781788294874)
+[Secret Recipes of the Python Ninja](https://www.packtpub.com/application-development/secret-recipes-python-ninja)
 
 ### Suggestions and Feedback
 [Click here](https://docs.google.com/forms/d/e/1FAIpQLSdy7dATC6QmEL81FIUuymZ0Wy9vH1jHkvpY57OiMeKGqib_Ow/viewform) if you have any feedback or suggestions.

@@ -1,4 +1,5 @@
 [general format]
+  HELLO WORLD to introduce the language syntax
   what it is, its history
   what it's really good at
   downsides of each of the languages

@@ -15,7 +15,7 @@
 [The dystopian world of software engineering interviews | Hacker News](https://news.ycombinator.com/item?id=22331804)
 [Interview Questions | CareerCup](https://www.careercup.com/page)
 [“I've had to relearn coding to get through the new interviews” | Hacker News](https://news.ycombinator.com/item?id=25298574)
-[100 most asked JavaScript Interview Questions and Answers - Part 1](https://alimammiya.hashnode.dev/100-most-asked-javascript-interview-questions-and-answers-part-1?utm_source=tldrnewsletter)
+[100 most asked JavaScript Interview Questions and Answers - Part 1](https://alimammiya.hashnode.dev/100-most-asked-javascript-interview-questions-and-answers-part-1)
 [why senior engineers hate coding interviews](https://medium.com/swlh/why-senior-engineers-hate-coding-interviews-d583d2855757)
 
 [interviews school](https://interviews.school/)

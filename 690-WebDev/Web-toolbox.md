@@ -17,7 +17,6 @@
 [The diaspora\* Project](https://diasporafoundation.org/)
 [codespaces-contrib/codeswing: VS Code extension for building web applications ("swings") using a interactive and editor-integrated coding environment](https://github.com/codespaces-contrib/codeswing)
 [GitHub - jerryscript-project/jerryscript: Ultra-lightweight JavaScript engine for the Internet of Things.](https://github.com/jerryscript-project/jerryscript)
-[The most advancehttps://news.ycombinator.com/item?id=3742742/www.namehunt.dev/)
 [Upptime – GitHub-powered open-source uptime monitor and status page | Hacker News](https://news.ycombinator.com/item?id=25553445)
 [Hotwire: a radical new old way to build web apps | Medium](https://delitescere.medium.com/hotwire-html-over-the-wire-2c733487268c)
 [Sumo: The #1 FREE email capture tool](https://sumo.com/)
@@ -34,8 +33,10 @@
 [Nyxt Browser | Hacker News](https://news.ycombinator.com/item?id=26509612)
 [Show HN: Kimono – Never write a web scraper again | Hacker News](https://news.ycombinator.com/item?id=7066479)
 [Show HN: Ugliest.app – Ugly but good app platform | Hacker News](https://news.ycombinator.com/item?id=24992517)
-[tinacms/tinacms: Tina is a open source editor to help building visual editing into React websites. Tina empowers developers to give their teams a contextual and intuitive editing experience without sacrificing code quality.](https://github.com/tinacms/tinacms?utm_source=tldrnewsletter)
+[tinacms/tinacms: Tina is a open source editor to help building visual editing into React websites. Tina empowers developers to give their teams a contextual and intuitive editing experience without sacrificing code quality.](https://github.com/tinacms/tinacms)
 [Ask HN: Cheapest/easiest way to host a static site? | Hacker News](https://news.ycombinator.com/item?id=26594242)
+[Input: Fonts for Code — Preview](https://input.djr.com/preview)
+[WeWeb | The New Standard in Website Creation](https://www.weweb.io/)
 
 ## WEBDEV CYSEC
 

@@ -12,4 +12,4 @@
 [How to Get Your First Dev Job – Insights from Reviewing Career Switchers' Résumés](https://www.freecodecamp.org/news/how-to-get-your-first-dev-job/)
 [Ask HN: Advice for finding an entry-level remote job? | Hacker News](https://news.ycombinator.com/item?id=26171008)
 [My experience as a Gazan girl getting into Silicon Valley companies | Hacker News](https://news.ycombinator.com/item?id=26251143)
-[Webinar: Getting What You Want](https://learn.stanford.edu/negotiation-webinar-on-demand.html?utm_medium=email&utm_source=other&utm_campaign=partner.1.opencourse.targetedmessages.marketing~partner.1.kjbcC8vjRU6cNtJ6hs6-CA)
+[Webinar: Getting What You Want](https://learn.stanford.edu/negotiation-webinar-on-demand.html)

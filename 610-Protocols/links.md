@@ -41,3 +41,4 @@
 [Mutt 2.0 Release Notes | Hacker News](https://news.ycombinator.com/item?id=25019901)
 [The S in IoT is for Security | Hacker News](https://news.ycombinator.com/item?id=26540007)
 [New 5G protocol vulnerabilities allow location tracking | Hacker News](https://news.ycombinator.com/item?id=26610705)
+[Reverse engineering a mysterious UDP stream in my hotel (2016) | Hacker News](https://news.ycombinator.com/item?id=26633792)

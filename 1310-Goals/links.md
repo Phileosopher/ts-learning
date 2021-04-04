@@ -1,7 +1,7 @@
 # Goal-Setting
 
 [Lambda School is the biggest mistake I made this year | Hacker News](https://news.ycombinator.com/item?id=25415017)
-[A Data-Driven Guide to Whether a Machine Will Be Doing Your Job By 2025](https://www.vice.com/en/article/88a575/a-data-driven-guide-to-whether-a-machine-will-be-doing-your-job-by-2025?utm_source=reddit.com)
+[A Data-Driven Guide to Whether a Machine Will Be Doing Your Job By 2025](https://www.vice.com/en/article/88a575/a-data-driven-guide-to-whether-a-machine-will-be-doing-your-job-by-2025)
 [How I Learned to Code (Without a CS Degree or Bootcamp)](https://www.freecodecamp.org/news/how-i-learned-to-code-without-a-cs-degree-or-bootcamp/)
 [To find great remote employees, prioritize candidates with strong writing skills | Hacker News](https://news.ycombinator.com/item?id=25120207)
 [How I Went from Sales to Front End Developer in 16 Months](https://www.freecodecamp.org/news/how-i-went-from-sales-to-frontend-developer-in-16-months/)
@@ -23,6 +23,6 @@
 [Pixar's Render Farm | Hacker News](https://news.ycombinator.com/item?id=25615888)
 [The median employee age at top tech companies in America: CHART - Business Insider](https://www.businessinsider.com/median-tech-employee-age-chart-2017-8)
 [We don't need data scientists, we need data engineers | Hacker News](https://news.ycombinator.com/item?id=25775872)
-[GitHub - therealsreehari/Learn-Datascience-For-Free](https://github.com/therealsreehari/Learn-Datascience-For-Free?utm_source=tldrnewsletter)
+[GitHub - therealsreehari/Learn-Datascience-For-Free](https://github.com/therealsreehari/Learn-Datascience-For-Free)
 [Show HN: Whoishiring.io – all tech jobs mapped out | Hacker News](https://news.ycombinator.com/item?id=13500701)
 [Show HN: NomadList – The best cities to live and work remotely in | Hacker News](https://news.ycombinator.com/item?id=8107222)

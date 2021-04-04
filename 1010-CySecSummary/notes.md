@@ -138,3 +138,9 @@ We can apply obfuscation in our own lives by using practices and technologies th
   The browser extension Go Rando, which randomly chooses your emotional “reactions” on Facebook, interfering with their emotional profiling and analysis.
   Playful experiments like Adam Harvey’s “HyperFace” project, finding patterns on textiles that fool facial recognition systems – not by hiding your face, but by creating the illusion of many faces.
 <li>Dial *67 in North America to make calls labeled as anonymous</li>
+
+
+Cyberattack:
+	NOP slide
+		null instructions/opcodes
+		"slide" in malicious code into (null) lines of code, since they're unattended cycles

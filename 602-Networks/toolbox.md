@@ -36,7 +36,7 @@
 [YaCy - Wikipedia](https://en.wikipedia.org/wiki/YaCy)
 [jetty load generator](https://qainsights.com/jetty-load-generator/)
 
-[jopohl/urh: Universal Radio Hacker: Investigate Wireless Protocols Like A Boss](https://github.com/jopohl/urh?utm_source=tldrnewsletter)
+[jopohl/urh: Universal Radio Hacker: Investigate Wireless Protocols Like A Boss](https://github.com/jopohl/urh)
 [Speedify 10.9.5](https://speedify.en.lo4d.com/windows "Speedify 10.9.5") - Provides the ability to use all available Internet connections for speed
 [Psiphon 3 3.163](https://psiphon-3.en.lo4d.com/windows "Psiphon 3 3.163") - Use Internet and access online services behind private IP addresses
 [Streamlabs OBS 1.0.1](https://streamlabs-obs.en.lo4d.com/windows "Streamlabs OBS 1.0.1") - Professional streaming software with advanced controls over bitrate, encoder and integration with YouTube and Twitch

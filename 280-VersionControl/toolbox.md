@@ -6,4 +6,4 @@
 [Show HN: I made a tool that made me faster at Git | Hacker News](https://news.ycombinator.com/item?id=17689014)
 [Show HN: Sublime Merge – A Git client from the makers of Sublime Text | Hacker News](https://news.ycombinator.com/item?id=18030446)
 [Show HN: git-bug – Distributed bug tracker embedded in git | Hacker News](https://news.ycombinator.com/item?id=17782121)
-[Create VS Code Themes Easily - Theme Studio - The VS Code Theme Editor](https://themes.vscode.one/?utm_source=tldrnewsletter)
+[Create VS Code Themes Easily - Theme Studio - The VS Code Theme Editor](https://themes.vscode.one/)

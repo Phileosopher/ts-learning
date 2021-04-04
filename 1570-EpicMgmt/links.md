@@ -5,7 +5,7 @@
 [Advice to new managers: don't joke about firing people | Hacker News](https://news.ycombinator.com/item?id=23477400)
 [No meetings, no deadlines, no full-time employees | Hacker News](https://news.ycombinator.com/item?id=25673275)
 [What Silicon Valley gets about engineers that traditional companies do not | Hacker News](https://news.ycombinator.com/item?id=25717390)
-[Mistakes I've Made as an Engineering Manager | CSS-Tricks](https://css-tricks.com/mistakes-ive-made-as-an-engineering-manager/?utm_source=tldrnewsletter)
+[Mistakes I've Made as an Engineering Manager | CSS-Tricks](https://css-tricks.com/mistakes-ive-made-as-an-engineering-manager/)
 [The Tragic Tale of DEC, the Computing Giant That Died Too Soon | Hacker News](https://news.ycombinator.com/item?id=25319539)
 [Why Segment Went Back to a Monolith | Hacker News](https://news.ycombinator.com/item?id=23017160)
 [Employees are happier when led by people with deep expertise (2016) | Hacker News](https://news.ycombinator.com/item?id=26591777)

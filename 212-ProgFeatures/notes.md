@@ -65,3 +65,22 @@ Libraries
   Thus, someone can MAKE something that has 1,000 commands, or they can just download a library and run 1 command that does that thing
 Frameworks
 Object-Oriented
+
+
+
+
+
+ASSEMBLY CODE FEATURES ALSO PRESENT IN OTHER LANGS
+  Working with registers and memory
+  Branching
+	Boolean expression to either jump or stay
+	Conditional jumps create a feature in programming called "branching" because it separates the flow into multiple possible outcomes.
+  Iteration
+	Iteration and recursion are somewhat similar things, but not entirely
+		they both repeat things over and over until they hit a desired requirement
+		iteration is using loops (a to b to c -> a to b to c -> a to b to c...)
+		recursion is (a to b to c(a to b to c(a to b to c(...)
+  Pointers
+  Input/Output
+
+https://blog.frankel.ch/six-interesting-features-programming-languages/
