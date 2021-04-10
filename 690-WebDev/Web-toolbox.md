@@ -37,6 +37,7 @@
 [Ask HN: Cheapest/easiest way to host a static site? | Hacker News](https://news.ycombinator.com/item?id=26594242)
 [Input: Fonts for Code — Preview](https://input.djr.com/preview)
 [WeWeb | The New Standard in Website Creation](https://www.weweb.io/)
+[Ask HN: What novel tools are you using to write web sites/apps? | Hacker News](https://news.ycombinator.com/item?id=26693959)
 
 ## WEBDEV CYSEC
 

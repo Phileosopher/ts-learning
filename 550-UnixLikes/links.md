@@ -74,3 +74,5 @@
 [Servo’s new home | Hacker News](https://news.ycombinator.com/item?id=25125325)
 [Asahi Linux: Linux on Apple Silicon project | Hacker News](https://news.ycombinator.com/item?id=25649719)
 [Pro1 X: A Linux smartphone with slideout keyboard | Hacker News](https://news.ycombinator.com/item?id=26659150)
+[Fed up with the Mac, I spent six months with a Linux laptop | Hacker News](https://news.ycombinator.com/item?id=26677035)
+[Initial M1 support merged into Linux SoC tree | Hacker News](https://news.ycombinator.com/item?id=26746983)

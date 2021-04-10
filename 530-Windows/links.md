@@ -8,3 +8,4 @@
 [I wrote Task Manager and I just remembered something | Hacker News](https://news.ycombinator.com/item?id=23304536)
 [Show HN: A Native Tiling Window Manager for Windows 10, Inspired by I3wm | Hacker News](https://news.ycombinator.com/item?id=26295100)
 [.NET 5.0 | Hacker News](https://news.ycombinator.com/item?id=25047409)
+[Windows 95 – How Does It Look Today? | Hacker News](https://news.ycombinator.com/item?id=26676957)

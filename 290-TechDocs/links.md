@@ -14,3 +14,4 @@
 [Kaitai: Describe the structure of data, not how you read or write it | Hacker News](https://news.ycombinator.com/item?id=25312999)
 [MiKTeX 21.2](https://miktex.en.lo4d.com/windows "MiKTeX 21.2") - Constantly-updated implementation of TeX and LaTeX, great for mathematics and formulae
 [TeXstudio 3.1.1](https://texstudio.en.lo4d.com/windows "TeXstudio 3.1.1") - A completely free LaTeX document editor and authoring tool
+[docuowl/docuowl: 🦉 A documentation generator](https://github.com/docuowl/docuowl?utm_source=tldrnewsletter)

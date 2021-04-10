@@ -43,3 +43,5 @@
 [PeerTube v3 | Hacker News](https://news.ycombinator.com/item?id=25707059)
 [All my servers have an 8 GB empty file on disk | Hacker News](https://news.ycombinator.com/item?id=26583791)
 [How to Receive Emails from Your Site's "Contact Us" form Using AWS SES, Lambda, & API Gateway](https://www.freecodecamp.org/news/how-to-receive-emails-via-your-sites-contact-us-form-with-aws-ses-lambda-api-gateway/)
+[Docker without Docker | Hacker News](https://news.ycombinator.com/item?id=26746280)
+[Screw it, I’ll host it myself | Hacker News](https://news.ycombinator.com/item?id=26725185)

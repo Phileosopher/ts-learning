@@ -90,3 +90,5 @@ HackThisWebsite
 [Whistleblower: Ubiquiti Breach “Catastrophic” | Hacker News](https://news.ycombinator.com/item?id=26638145)
 [Show HN: A Way To Hack HN's Karma | Hacker News](https://news.ycombinator.com/item?id=3742742)
 [Security Breach at US Universities | Hacker News](https://news.ycombinator.com/item?id=26656759)
+[Best hacking forums ? : Hacking_Tutorials](https://www.reddit.com/r/Hacking_Tutorials/comments/mlpooe/best_hacking_forums/)
+[How to bypass Cloudflare bot protection | Hacker News](https://news.ycombinator.com/item?id=26688390)

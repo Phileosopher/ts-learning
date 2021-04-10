@@ -30,3 +30,4 @@
 [How do Spotify Codes work? - Boonedoggle](https://boonepeter.github.io/posts/2020-11-10-spotify-codes/)
 [Formal Methods of Software Design an Online Course by Eric Hehner | Hacker News](https://news.ycombinator.com/item?id=26610221)
 [Developer tools can be magic but instead collect dust | Hacker News](https://news.ycombinator.com/item?id=26612894)
+[ElectroNeek: Robotic Process Automation for Managed Service Providers and IT teams](https://electroneek.com/)

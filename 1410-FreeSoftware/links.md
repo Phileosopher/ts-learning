@@ -24,6 +24,7 @@ https://wiki.gnome.org/Projects
 [Why do I care the open web is dying? | Hacker News](https://news.ycombinator.com/item?id=25261132)
 [After losing $38676+ as an Indie Hacker. I can't do it anymore. I quit.](https://www.indiehackers.com/post/after-losing-38676-as-an-indie-hacker-i-cant-do-it-anymore-i-quit-8673223598)
 [The Drivers Cooperative | Hacker News](https://news.ycombinator.com/item?id=26588607)
+[Google’s copying of the Java SE API was fair use [pdf] | Hacker News](https://news.ycombinator.com/item?id=26699106)
 
 ## Nonprofits
 

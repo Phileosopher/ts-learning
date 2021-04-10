@@ -12,3 +12,4 @@
 [Show HN: Markov chains explained visually | Hacker News](https://news.ycombinator.com/item?id=8103240)
 [The MathMap Image Processing Application](https://www.complang.tuwien.ac.at/schani/mathmap/)
 [Mathematicians Find a New Class of Digitally Delicate Primes | Quanta Magazine](https://www.quantamagazine.org/mathematicians-find-a-new-class-of-digitally-delicate-primes-20210330/)
+[The Unparalleled Genius of John von Neumann (2019) | Hacker News](https://news.ycombinator.com/item?id=26695502)

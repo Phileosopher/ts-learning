@@ -94,3 +94,5 @@
 [The matrix calculus you need for deep learning (2018) | Hacker News](https://news.ycombinator.com/item?id=26676729)
 [We're Building a Data Science Curriculum with Advanced Mathematics and Machine Learning](https://www.freecodecamp.org/news/building-a-data-science-curriculum-with-advanced-math-and-machine-learning/)
 [What is MLOps? Machine Learning Operations Explained](https://www.freecodecamp.org/news/what-is-mlops-machine-learning-operations-explained/)
+[CPU algorithm trains deep neural nets up to 15 times faster than top GPU trainers](https://techxplore.com/news/2021-04-rice-intel-optimize-ai-commodity.html?utm_source=tldrnewsletter)
+[Python scikit-learn Tutorial – Machine Learning Crash Course](https://www.freecodecamp.org/news/learn-scikit-learn/)

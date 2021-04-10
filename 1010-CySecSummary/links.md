@@ -59,6 +59,10 @@
 [Thinkuknow - home](https://www.thinkuknow.co.uk/)
 [Covert Instruments | Hacker News](https://news.ycombinator.com/item?id=26678553)
 [Zero click vulnerability in Apple’s macOS Mail | Hacker News](https://news.ycombinator.com/item?id=26664714)
+[An interview with the man who keeps uploading my feet to WikiFeet | Hacker News](https://news.ycombinator.com/item?id=26735665)
+[What is a Buffer Overflow Attack – and How to Stop it](https://www.freecodecamp.org/news/buffer-overflow-attacks/)
+[BleedingTooth: Linux Bluetooth Zero-Click Remote Code Execution | security-research](https://google.github.io/security-research/pocs/linux/bleedingtooth/writeup.html?utm_source=tldrnewsletter)
+[Ubiquiti all but confirms breach response iniquity | Hacker News](https://news.ycombinator.com/item?id=26692144)
 
 ## Big Orgs
 
@@ -80,3 +84,4 @@
 [Does Amazon make more from ads than AWS? | Hacker News](https://news.ycombinator.com/item?id=26593223)
 [Google collects 20 times more telemetry from Android devices than Apple from iOS | Hacker News](https://news.ycombinator.com/item?id=26639261)
 [533M Facebook users' phone numbers and personal data have been leaked online | Hacker News](https://news.ycombinator.com/item?id=26681969)
+[Twitch will ban users for 'severe misconduct' that occurs away from its site | Hacker News](https://news.ycombinator.com/item?id=26727975)

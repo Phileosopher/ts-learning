@@ -13,3 +13,5 @@
 [Kitty – A fast, featureful, GPU based terminal emulator | Hacker News](https://news.ycombinator.com/item?id=24643008)
 [Show HN: Editly – Declarative command-line video editing | Hacker News](https://news.ycombinator.com/item?id=23006794)
 [GitHub - spectresystems/spectre.console: A library that makes it easier to create beautiful console applications.](https://github.com/spectresystems/spectre.console)
+[Show HN: My personal website is a shell | Hacker News](https://news.ycombinator.com/item?id=26700770)
+[charmbracelet/lipgloss: Style definitions for nice terminal layouts 👄](https://github.com/charmbracelet/lipgloss/?utm_source=tldrnewsletter)

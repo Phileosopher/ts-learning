@@ -31,3 +31,6 @@
 [The Importance of Testing for Cloud-Based Software Is Heavily Underestimated](https://www.testmonitor.com/blog/the-importance-of-testing-for-cloud-based-software-is-heavily-underestimated)
 [Changing the Culture of a Failed Test | mabl](https://www.mabl.com/blog/changing-the-culture-of-a-failed-test-mabl)
 [Why Property Testing Finds Bugs Unit Testing Does Not • Buttondown](https://buttondown.email/hillelwayne/archive/why-property-testing-finds-bugs-unit-testing-does/)
+[Surprisingly Slow | Hacker News](https://news.ycombinator.com/item?id=26710763)
+[A Seasoned Tester's Crystal Ball: The Conflated Exploratory Testing](https://visible-quality.blogspot.com/2021/04/the-conflated-exploratory-testing.html?utm_source=Coding_Jag&utm_medium=web&utm_campaign=Coding_jag_31)
+[Breaking GitHub Private Pages for $35k | Hacker News](https://news.ycombinator.com/item?id=26709159)

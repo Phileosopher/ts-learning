@@ -16,3 +16,4 @@
 [A solo journey to $100k in sales | Hacker News](https://news.ycombinator.com/item?id=26262989)
 [Three Months to Scale NewsBlur - The NewsBlur Blog](https://blog.newsblur.com/post/45632737156/three-months-to-scale-newsblur)
 [Female Founder Secrets: Men Clamming Up | Hacker News](https://news.ycombinator.com/item?id=26612918)
+[kuchin/awesome-cto: A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups](https://github.com/kuchin/awesome-cto?utm_source=tldrnewsletter)

@@ -65,6 +65,9 @@
 [Full Screen Landing Page Design | Dark and Light Mode | Html, CSS and JavaScript Tutorial - YouTube](https://www.youtube.com/watch?v=mveB_KJ7m78&app=desktop)
 [Inside a viral website | Hacker News](https://news.ycombinator.com/item?id=26645813)
 [This Blog is now hosted on a GPS/LTE modem | Hacker News](https://news.ycombinator.com/item?id=26669749)
+[5 Mistakes Beginner Web Developers Make – And How to Fix Them](https://www.freecodecamp.org/news/common-mistakes-beginning-web-development-students-make/)
+[What is a PWA? Progressive Web Apps for Beginners](https://www.freecodecamp.org/news/what-are-progressive-web-apps/)
+[Django + Vue Course – Build an e-Commerce Website](https://www.freecodecamp.org/news/create-an-e-commerce-site-with-django-and-vue/)
 
 ## Browsers
 
@@ -81,3 +84,7 @@
 [A Brief History of Responsive Web Design](https://www.freecodecamp.org/news/history-of-responsive-web-design/)
 
 - left off at Media Queries
+
+[Why uBlock Origin works best on Firefox | Hacker News](https://news.ycombinator.com/item?id=26755252)
+[Eliminating Data Races in Firefox | Hacker News](https://news.ycombinator.com/item?id=26713037)
+[Show HN: PDFs from HTML | Hacker News](https://news.ycombinator.com/item?id=26691626)

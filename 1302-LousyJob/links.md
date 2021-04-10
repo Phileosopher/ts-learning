@@ -17,3 +17,10 @@
 [Atlassian Cloud ToS section 3.3(I) prohibits discussing performance issues | Hacker News](https://news.ycombinator.com/item?id=25613937)
 [The dispassionate developer](https://blog.ploeh.dk/2021/03/22/the-dispassionate-developer/)
 [Everyone wants to do the model work, not the data work [pdf] | Hacker News](https://news.ycombinator.com/item?id=26616454)
+[Google is accelerating reopening of offices and putting limits on remote work | Hacker News](https://news.ycombinator.com/item?id=26653867)
+[34% of remote workers would quit rather than return to full-time office work | Hacker News](https://news.ycombinator.com/item?id=26727678)
+[I hope work from home continues | Hacker News](https://news.ycombinator.com/item?id=26712524)
+
+# Motivation-Seeking
+
+[Ask HN: What tech job would let me get away with the least real work possible? | Hacker News](https://news.ycombinator.com/item?id=26721951)

@@ -48,3 +48,5 @@
 [Show HN: Interface for all digital aspects of my life | Hacker News](https://news.ycombinator.com/item?id=23101869)
 [Build Six Quick Python Projects](https://www.freecodecamp.org/news/build-six-quick-python-projects/)
 [Hello, HPy | Hacker News](https://news.ycombinator.com/item?id=26625398)
+[How to make a Python package in 2021 | Hacker News](https://news.ycombinator.com/item?id=26733423)
+[Django 3.2 | Hacker News](https://news.ycombinator.com/item?id=26710013)

@@ -29,3 +29,7 @@
 [Show HN: Cost of a 51% Attack on Popular Cryptocurrencies | Hacker News](https://news.ycombinator.com/item?id=17173051)
 [Visa Plans to Enable Bitcoin Payments at 70M Merchants | Hacker News](https://news.ycombinator.com/item?id=26496185)
 [How to Make an NFT and Render it on the OpenSea Marketplace](https://www.freecodecamp.org/news/how-to-make-an-nft-and-render-on-opensea-marketplace/)
+[The political case for a blanket cryptocurrency ban | Hacker News](https://news.ycombinator.com/item?id=26649050)
+[The Cult of CryptoPunks | TechCrunch](https://techcrunch.com/2021/04/08/the-cult-of-cryptopunks/?utm_source=tldrnewsletter)
+[Signal adds a payments feature with a privacy-focused cryptocurrency | Hacker News](https://news.ycombinator.com/item?id=26713827)
+[Et Tu, Signal? | Hacker News](https://news.ycombinator.com/item?id=26724237)

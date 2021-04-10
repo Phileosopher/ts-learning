@@ -71,6 +71,8 @@
 [Raytracing in One Weekend (2016) | Hacker News](https://news.ycombinator.com/item?id=25244301)
 [PlenOctrees For Real-time Rendering of Neural Radiance Fields (NeRFs) | Hacker News](https://news.ycombinator.com/item?id=26597419)
 [Voxel Space: Comanche's terrain rendering in less than 20 lines of code (2020) | Hacker News](https://news.ycombinator.com/item?id=26631995)
+[Wuffs’ PNG image decoder | Hacker News](https://news.ycombinator.com/item?id=26714831)
+[How did Microsoft make Flight Simulator seem so real? | Hacker News](https://news.ycombinator.com/item?id=26693909)
 
 ## Has Many Terms I Don't Understand
 

@@ -26,3 +26,4 @@
 [Kubernetes is deprecating Docker runtime support | Hacker News](https://news.ycombinator.com/item?id=25279924)
 [An update to storage policies across your Google Account | Hacker News](https://news.ycombinator.com/item?id=25294926)
 [AWS Training – Learn the Basics of Amazon Web Services](https://www.freecodecamp.org/news/learn-the-basics-of-amazon-web-services/)
+[My NAS exposes itself over the internet without permission | Hacker News](https://news.ycombinator.com/item?id=26681984)

@@ -43,3 +43,4 @@
 - [also from that HN comment thread](https://www.quantamagazine.org/a-math-puzzle-worthy-of-freeman-dyson-20140326/)
 
 [Monolith First (2015) | Hacker News](https://news.ycombinator.com/item?id=26190584)
+[The architecture behind a one-person tech startup | Hacker News](https://news.ycombinator.com/item?id=26737771)

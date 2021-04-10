@@ -21,3 +21,4 @@
 [ID2020 | Technical Certification Mark](https://id2020.org/technical-certification-mark)
 [Git Credential Manager Core: Building a universal authentication experience - The GitHub Blog](https://github.blog/2020-07-02-git-credential-manager-core-building-a-universal-authentication-experience/)
 [Authentication Cheat Sheet | Hacker News](https://news.ycombinator.com/item?id=8984266)
+[Infrared Radiation From Hands Could Encrypt Data | IE](https://interestingengineering.com/infrared-radiation-from-our-hands-could-be-the-future-of-encryption?utm_source=tldrnewsletter)

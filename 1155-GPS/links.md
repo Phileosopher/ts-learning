@@ -21,3 +21,4 @@
 ## Free Software
 
 [QGIS - Wikipedia](https://en.wikipedia.org/wiki/QGIS)
+[MapLibre GL is a free and open-source fork of mapbox-gl-JS | Hacker News](https://news.ycombinator.com/item?id=26670495)
