@@ -17,6 +17,7 @@
 [OpenStreetMap proven to be a highly accurate map in top US cities | Hacker News](https://news.ycombinator.com/item?id=26082428)
 [Open Infrastructure Map](https://openinframap.org/#2/26/12)
 [Redefining what a map can be with new information and AI | Hacker News](https://news.ycombinator.com/item?id=26653807)
+[Setting up Starlink | Hacker News](https://news.ycombinator.com/item?id=26760735)
 
 ## Free Software
 

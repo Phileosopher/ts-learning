@@ -15,3 +15,5 @@
 [Guide to running Elasticsearch in production | Hacker News](https://news.ycombinator.com/item?id=22396918)
 [The absolute worst scenario happened | Hacker News](https://news.ycombinator.com/item?id=26539495)
 [simplenetes-io/simplenetes: The sns tool is used to manage the full life cycle of your Simplenetes clusters. It integrates with the Simplenetes Podcompiler project podc to compile pods.](https://github.com/simplenetes-io/simplenetes?utm_source=tldrnewsletter)
+[Is It Pokemon or Big Data? | Hacker News](https://news.ycombinator.com/item?id=26767835)
+[AWS Lambda Edge changes duration billing granularity from 50ms down to 1ms | Hacker News](https://news.ycombinator.com/item?id=26752223)

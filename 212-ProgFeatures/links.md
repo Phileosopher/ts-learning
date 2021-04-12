@@ -31,3 +31,4 @@
 [Formal Methods of Software Design an Online Course by Eric Hehner | Hacker News](https://news.ycombinator.com/item?id=26610221)
 [Developer tools can be magic but instead collect dust | Hacker News](https://news.ycombinator.com/item?id=26612894)
 [ElectroNeek: Robotic Process Automation for Managed Service Providers and IT teams](https://electroneek.com/)
+[Everyone is still terrible at creating software at scale | Hacker News](https://news.ycombinator.com/item?id=26759680)

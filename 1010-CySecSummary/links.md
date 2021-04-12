@@ -63,6 +63,8 @@
 [What is a Buffer Overflow Attack – and How to Stop it](https://www.freecodecamp.org/news/buffer-overflow-attacks/)
 [BleedingTooth: Linux Bluetooth Zero-Click Remote Code Execution | security-research](https://google.github.io/security-research/pocs/linux/bleedingtooth/writeup.html?utm_source=tldrnewsletter)
 [Ubiquiti all but confirms breach response iniquity | Hacker News](https://news.ycombinator.com/item?id=26692144)
+[Clubhouse data leak: 1.3M user records leaked online for free | Hacker News](https://news.ycombinator.com/item?id=26768299)
+[Zoom zero-day discovery | Hacker News](https://news.ycombinator.com/item?id=26749350)
 
 ## Big Orgs
 
@@ -85,3 +87,7 @@
 [Google collects 20 times more telemetry from Android devices than Apple from iOS | Hacker News](https://news.ycombinator.com/item?id=26639261)
 [533M Facebook users' phone numbers and personal data have been leaked online | Hacker News](https://news.ycombinator.com/item?id=26681969)
 [Twitch will ban users for 'severe misconduct' that occurs away from its site | Hacker News](https://news.ycombinator.com/item?id=26727975)
+[Google’s lawyer accidentally made a sensitive document public | Hacker News](https://news.ycombinator.com/item?id=26770209)
+[I made a mobile app for my significant other and she won't use it | Hacker News](https://news.ycombinator.com/item?id=26765128)
+[Brave disables Chromium FLoC features | Hacker News](https://news.ycombinator.com/item?id=26765084)
+[Donation page "not compliant with Google Play Policies" | Hacker News](https://news.ycombinator.com/item?id=26761594)

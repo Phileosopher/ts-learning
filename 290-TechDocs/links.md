@@ -15,3 +15,4 @@
 [MiKTeX 21.2](https://miktex.en.lo4d.com/windows "MiKTeX 21.2") - Constantly-updated implementation of TeX and LaTeX, great for mathematics and formulae
 [TeXstudio 3.1.1](https://texstudio.en.lo4d.com/windows "TeXstudio 3.1.1") - A completely free LaTeX document editor and authoring tool
 [docuowl/docuowl: 🦉 A documentation generator](https://github.com/docuowl/docuowl?utm_source=tldrnewsletter)
+[Layout-Parser/layout-parser: A Python Library for Document Layout Understanding](https://github.com/Layout-Parser/layout-parser?utm_source=tldrnewsletter)

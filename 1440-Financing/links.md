@@ -21,3 +21,4 @@
 [Abundant Capital | Hacker News](https://news.ycombinator.com/item?id=26226723)
 [How to Run a Ponzi Scheme for Tech People | Hacker News](https://news.ycombinator.com/item?id=25248563)
 [Netflix Made Record Profits in 2020, Paid a Tax Rate of Less Than 1 Percent | Hacker News](https://news.ycombinator.com/item?id=26697269)
+[The Ponzi Career | Hacker News](https://news.ycombinator.com/item?id=26770562)

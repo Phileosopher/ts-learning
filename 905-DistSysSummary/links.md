@@ -45,3 +45,5 @@
 [How to Receive Emails from Your Site's "Contact Us" form Using AWS SES, Lambda, & API Gateway](https://www.freecodecamp.org/news/how-to-receive-emails-via-your-sites-contact-us-form-with-aws-ses-lambda-api-gateway/)
 [Docker without Docker | Hacker News](https://news.ycombinator.com/item?id=26746280)
 [Screw it, I’ll host it myself | Hacker News](https://news.ycombinator.com/item?id=26725185)
+[How to Start a New Country](https://1729.com/how-to-start-a-new-country/?utm_source=tldrnewsletter)
+[Docker without Docker | Hacker News](https://news.ycombinator.com/item?id=26746280)

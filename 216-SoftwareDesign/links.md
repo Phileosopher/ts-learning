@@ -28,6 +28,7 @@
 [CRDTs are the future | Hacker News](https://news.ycombinator.com/item?id=24617542)
 [Donald Knuth was framed | Hacker News](https://news.ycombinator.com/item?id=22406070)
 [A ride that takes 10^20k years to complete in Roller Coaster Tycoon 2 \[video\] | Hacker News](https://news.ycombinator.com/item?id=24042305)
+[Embrace the Grind | Hacker News](https://news.ycombinator.com/item?id=26747305)
 
 ## App Dev
 

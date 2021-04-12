@@ -45,3 +45,4 @@ https://webbrowsertools.com/sqlite-manager/
 [jhspetersson/fselect: Find files with SQL-like queries](https://github.com/jhspetersson/fselect?utm_source=tldrnewsletter)
 [Things I hate about PostgreSQL (2020) | Hacker News](https://news.ycombinator.com/item?id=26709019)
 [Securing a Postgres Database | Hacker News](https://news.ycombinator.com/item?id=26674756)
+[Best practices for writing SQL queries | Hacker News](https://news.ycombinator.com/item?id=26762206)

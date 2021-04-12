@@ -9,3 +9,4 @@
 [Parsing can become accidentally quadratic because of sscanf | Hacker News](https://news.ycombinator.com/item?id=26302744)
 [Actually Portable Executable | Hacker News](https://news.ycombinator.com/item?id=26273960)
 [Best of show – abuse of libc | Hacker News](https://news.ycombinator.com/item?id=25690319)
+[Making Librem 5 Apps [video] | Hacker News](https://news.ycombinator.com/item?id=26770486)

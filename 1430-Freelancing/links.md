@@ -18,3 +18,4 @@
 [LinkedIn is building a gig marketplace | Hacker News](https://news.ycombinator.com/item?id=26247278)
 [Open source projects should run office hours | Hacker News](https://news.ycombinator.com/item?id=26351053)
 [Show HN: Get Paid to Build Your Next Side Project | Hacker News](https://news.ycombinator.com/item?id=14552615)
+[AMA: Ivan Kutskir, creator of Photopea | Hacker News](https://news.ycombinator.com/item?id=26768550)

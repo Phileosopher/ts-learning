@@ -1,0 +1,1 @@
+[Ink 1.0 – Open-source scripting language for interactive narrative | Hacker News](https://news.ycombinator.com/item?id=26761100)
