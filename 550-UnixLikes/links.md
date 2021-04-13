@@ -74,5 +74,12 @@
 [Servo’s new home | Hacker News](https://news.ycombinator.com/item?id=25125325)
 [Asahi Linux: Linux on Apple Silicon project | Hacker News](https://news.ycombinator.com/item?id=25649719)
 [Pro1 X: A Linux smartphone with slideout keyboard | Hacker News](https://news.ycombinator.com/item?id=26659150)
+[Adventures of putting 16 GB of RAM in a motherboard that doesn’t support it | Hacker News](https://news.ycombinator.com/item?id=19573458)
+
+- left off at ACPI tables: /sys/firmware/acpi/tables
+- Needs more information, but I'm *nearly* licking this one
+
 [Fed up with the Mac, I spent six months with a Linux laptop | Hacker News](https://news.ycombinator.com/item?id=26677035)
 [Initial M1 support merged into Linux SoC tree | Hacker News](https://news.ycombinator.com/item?id=26746983)
+[Dissecting the Apple M1 GPU, part I | Hacker News](https://news.ycombinator.com/item?id=25673631)
+[Dissecting the Apple M1 GPU, Part II | Hacker News](https://news.ycombinator.com/item?id=25873887)

@@ -13,6 +13,9 @@
 
 
 [RFC 1925 - The Twelve Networking Truths](https://tools.ietf.org/html/rfc1925)
+[A preview of x64 emulation on Windows for ARM | Hacker News](https://news.ycombinator.com/item?id=25383524)
+
+- review comments, consider discussing how Innovator's Dilemma makes the "shiny, fancy" tech fall behind in marketability because it's downright more useful
 
 # Stories
 

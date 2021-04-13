@@ -10,3 +10,6 @@
 [Actually Portable Executable | Hacker News](https://news.ycombinator.com/item?id=26273960)
 [Best of show – abuse of libc | Hacker News](https://news.ycombinator.com/item?id=25690319)
 [Making Librem 5 Apps [video] | Hacker News](https://news.ycombinator.com/item?id=26770486)
+[Introduction to memory management — Memory Management Reference 4.0 documentation](https://www.memorymanagement.org/mmref/index.html)
+[What are L1, L2, L3 cache | Linux | cppsecrets.com](https://cppsecrets.com/users/3937989799107981011109910410111411511211111664103109971051084699111109/What-are-L1-L2-L3-cache.php)
+[x86 Bare Metal Examples | Hacker News](https://news.ycombinator.com/item?id=19428700)

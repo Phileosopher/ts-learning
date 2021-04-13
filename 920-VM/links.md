@@ -16,3 +16,4 @@
 [Show HN: A virtual machine made with Google Sheets formulas (no script) | Hacker News](https://news.ycombinator.com/item?id=14703098)
 [Show HN: Bocker – Docker implemented in 100 lines of bash | Hacker News](https://news.ycombinator.com/item?id=9925896)
 [Show HN: Dply – Free temporary Linux servers | Hacker News](https://news.ycombinator.com/item?id=13030603)
+[Vgpu_unlock: Unlock vGPU functionality for consumer grade GPUs | Hacker News](https://news.ycombinator.com/item?id=26754351)

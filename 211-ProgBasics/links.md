@@ -15,3 +15,4 @@
 [How to Recreate the Ripple Effect of Material Design Buttons | CSS-Tricks](https://css-tricks.com/how-to-recreate-the-ripple-effect-of-material-design-buttons/)
 [DesignCourse - YouTube](https://www.youtube.com/c/DesignCourse/featured)
 [Programming is hard | Hacker News](https://news.ycombinator.com/item?id=26711862)
+[An ex-ARM engineer critiques RISC-V | Hacker News](https://news.ycombinator.com/item?id=24958423)

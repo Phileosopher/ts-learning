@@ -24,3 +24,4 @@
 [Remix OS 3.0.207](https://remix-os.en.lo4d.com/windows "Remix OS 3.0.207") - An optimized version of the Android OS for Windows PC systems that can emulate cell phone or tablet apps
 [Genymotion 3.2](https://genymobile-genymotion.en.lo4d.com/windows "Genymotion 3.2") - Android emulator which supports phone and tablet simulation
 [DS4Windows 2.2.10](https://ds4windows-portable.en.lo4d.com/windows "DS4Windows 2.2.10") - Emulates DualShock 4 controllers from the PS4 system on Windows
+[Show HN: My x86 emulator written in JavaScript | Hacker News](https://news.ycombinator.com/item?id=6567967)
