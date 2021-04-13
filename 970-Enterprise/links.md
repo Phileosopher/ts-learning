@@ -17,3 +17,4 @@
 [simplenetes-io/simplenetes: The sns tool is used to manage the full life cycle of your Simplenetes clusters. It integrates with the Simplenetes Podcompiler project podc to compile pods.](https://github.com/simplenetes-io/simplenetes?utm_source=tldrnewsletter)
 [Is It Pokemon or Big Data? | Hacker News](https://news.ycombinator.com/item?id=26767835)
 [AWS Lambda Edge changes duration billing granularity from 50ms down to 1ms | Hacker News](https://news.ycombinator.com/item?id=26752223)
+[OpenSearch: AWS fork of Elasticsearch and Kibana | Hacker News](https://news.ycombinator.com/item?id=26780848)

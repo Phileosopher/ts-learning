@@ -75,3 +75,4 @@ https://webbrowsertools.com/file-encryptor/
 [Mine - The Future of Data Ownership](https://saymine.com/?ref=producthunt)
 [Jumbo: Take back control of your data and privacy](https://www.jumboprivacy.com/?ref=producthunt)
 [Rita - Your data, in your hands](https://ritapersonaldata.com/?ref=producthunt)
+[Oso - Batteries-Included Authorization](https://www.osohq.com/?utm_source=tldrnewsletter)

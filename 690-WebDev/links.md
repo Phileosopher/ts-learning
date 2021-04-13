@@ -68,6 +68,7 @@
 [5 Mistakes Beginner Web Developers Make – And How to Fix Them](https://www.freecodecamp.org/news/common-mistakes-beginning-web-development-students-make/)
 [What is a PWA? Progressive Web Apps for Beginners](https://www.freecodecamp.org/news/what-are-progressive-web-apps/)
 [Django + Vue Course – Build an e-Commerce Website](https://www.freecodecamp.org/news/create-an-e-commerce-site-with-django-and-vue/)
+[Neil Sardesai on Twitter: "Did you know you can put a whole game inside of a push notification https://t.co/LlMx2AjvHH" / Twitter](https://twitter.com/neilsardesai/status/1380649026186534913?utm_source=tldrnewsletter)
 
 ## Browsers
 

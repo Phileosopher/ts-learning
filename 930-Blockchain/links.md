@@ -33,3 +33,4 @@
 [The Cult of CryptoPunks | TechCrunch](https://techcrunch.com/2021/04/08/the-cult-of-cryptopunks/?utm_source=tldrnewsletter)
 [Signal adds a payments feature with a privacy-focused cryptocurrency | Hacker News](https://news.ycombinator.com/item?id=26713827)
 [Et Tu, Signal? | Hacker News](https://news.ycombinator.com/item?id=26724237)
+[std::unique_ptr implementation backed by Ethereum NFTs | Hacker News](https://news.ycombinator.com/item?id=26773637)

@@ -48,6 +48,9 @@ i.e., the site is either too new that it's barely useful, or I need to wait some
 
 - May be something like my "news defaker", and may even be worth contacting once I'm more savvy
 
+[Macro](https://www.usemacro.com/?ref=producthunt)
+[Routine](https://www.routine.co/?ref=producthunt)
+
 ## Check Back 12/2023
 
 [Samsung Foundry: New $17B Fab in the USA by Late 2023 | Hacker News](https://news.ycombinator.com/item?id=26094524)

@@ -45,3 +45,4 @@
 [Monolith First (2015) | Hacker News](https://news.ycombinator.com/item?id=26190584)
 [The architecture behind a one-person tech startup | Hacker News](https://news.ycombinator.com/item?id=26737771)
 [Evaluating Modest SaaS Business Ideas | Hacker News](https://news.ycombinator.com/item?id=26763521)
+[How People Get Rich Now | Hacker News](https://news.ycombinator.com/item?id=26781052)

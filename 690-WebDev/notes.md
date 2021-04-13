@@ -123,3 +123,8 @@ WebDevChecklist - Code quality
     W3C i18n checker
   Automated testing
     Testomato
+
+
+
+
+SPA - single page app
