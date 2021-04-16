@@ -18,6 +18,7 @@
 [Open Infrastructure Map](https://openinframap.org/#2/26/12)
 [Redefining what a map can be with new information and AI | Hacker News](https://news.ycombinator.com/item?id=26653807)
 [Setting up Starlink | Hacker News](https://news.ycombinator.com/item?id=26760735)
+[Time flies in Google Earth’s biggest update in years | Hacker News](https://news.ycombinator.com/item?id=26821356)
 
 ## Free Software
 

@@ -18,3 +18,5 @@
 [Is It Pokemon or Big Data? | Hacker News](https://news.ycombinator.com/item?id=26767835)
 [AWS Lambda Edge changes duration billing granularity from 50ms down to 1ms | Hacker News](https://news.ycombinator.com/item?id=26752223)
 [OpenSearch: AWS fork of Elasticsearch and Kibana | Hacker News](https://news.ycombinator.com/item?id=26780848)
+[How to Become a Certified Kubernetes Application Developer](https://www.freecodecamp.org/news/how-to-become-a-certified-kubernetes-application-developer/)
+[Paragon | Embedded Native SaaS Integrations](https://www.useparagon.com/?ref=producthunt)

@@ -91,3 +91,6 @@
 [I made a mobile app for my significant other and she won't use it | Hacker News](https://news.ycombinator.com/item?id=26765128)
 [Brave disables Chromium FLoC features | Hacker News](https://news.ycombinator.com/item?id=26765084)
 [Donation page "not compliant with Google Play Policies" | Hacker News](https://news.ycombinator.com/item?id=26761594)
+[DuckDuckGo Extension to Block FLoC, Google’s New Tracking Method in Chrome | Hacker News](https://news.ycombinator.com/item?id=26817034)
+[A top-grossing scam on the App Store | Hacker News](https://news.ycombinator.com/item?id=26794228)
+[GreatFire is tracking Apple iOS applications for instances of censorship | Hacker News](https://news.ycombinator.com/item?id=19072700)

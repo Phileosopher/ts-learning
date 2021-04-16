@@ -51,6 +51,13 @@ i.e., the site is either too new that it's barely useful, or I need to wait some
 [Macro](https://www.usemacro.com/?ref=producthunt)
 [Routine](https://www.routine.co/?ref=producthunt)
 
+## Check Back 04/2022
+
+[Aerotime - Find time for deep work.](https://www.aerotime.ai/?ref=producthunt)
+[Video-first async meetings inside your Calendar | Comeet.me](https://www.comeet.me/?ref=producthunt)
+[Routine](https://www.routine.co/?ref=producthunt)
+[Calendso | The Open Source Calendly Alternative](https://calendso.com/?ref=producthunt)
+
 ## Check Back 12/2023
 
 [Samsung Foundry: New $17B Fab in the USA by Late 2023 | Hacker News](https://news.ycombinator.com/item?id=26094524)

@@ -10,3 +10,4 @@
 [Groove Pizza | Hacker News](https://news.ycombinator.com/item?id=26539088)
 [Piano Practice Software Progress | Hacker News](https://news.ycombinator.com/item?id=26609482)
 [Every Noise at Once | Hacker News](https://news.ycombinator.com/item?id=26668426)
+[Higher quality audio makes people sound smarter | Hacker News](https://news.ycombinator.com/item?id=26818774)

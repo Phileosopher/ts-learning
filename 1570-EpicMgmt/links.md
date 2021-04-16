@@ -9,3 +9,4 @@
 [The Tragic Tale of DEC, the Computing Giant That Died Too Soon | Hacker News](https://news.ycombinator.com/item?id=25319539)
 [Why Segment Went Back to a Monolith | Hacker News](https://news.ycombinator.com/item?id=23017160)
 [Employees are happier when led by people with deep expertise (2016) | Hacker News](https://news.ycombinator.com/item?id=26591777)
+[Defragged](https://www.getclockwise.com/defragged/)

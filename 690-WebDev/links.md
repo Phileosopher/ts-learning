@@ -69,6 +69,8 @@
 [What is a PWA? Progressive Web Apps for Beginners](https://www.freecodecamp.org/news/what-are-progressive-web-apps/)
 [Django + Vue Course – Build an e-Commerce Website](https://www.freecodecamp.org/news/create-an-e-commerce-site-with-django-and-vue/)
 [Neil Sardesai on Twitter: "Did you know you can put a whole game inside of a push notification https://t.co/LlMx2AjvHH" / Twitter](https://twitter.com/neilsardesai/status/1380649026186534913?utm_source=tldrnewsletter)
+[How to Make a Website with WordPress - Full Course](https://www.freecodecamp.org/news/how-to-make-a-website-with-wordpress/)
+[Yamauchi No.10 Family Office | Hacker News](https://news.ycombinator.com/item?id=26803201)
 
 ## Browsers
 

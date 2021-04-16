@@ -13,6 +13,7 @@
 ## Torrenting
 
 [BitTorrent v2 | Hacker News](https://news.ycombinator.com/item?id=24401999)
+[Coinbase from YC to DPO | Hacker News](https://news.ycombinator.com/item?id=26808275)
 
 ## Cryptocurrency
 

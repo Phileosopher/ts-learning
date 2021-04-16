@@ -7,3 +7,4 @@
 [Native Mac APIs for Go | Hacker News](https://news.ycombinator.com/item?id=26026896)
 [Show HN: I wrote a book about Go | Hacker News](https://news.ycombinator.com/item?id=26568014)
 [ory/keto: Open Source (Go) implementation of "Zanzibar: Google's Consistent, Global Authorization System". Ships gRPC, REST APIs, newSQL, and an easy and granular permission language. Supports ACL, RBAC, and other access models.](https://github.com/ory/keto?utm_source=tldrnewsletter)
+[encoredev/encore: The Go backend framework with superpowers](https://github.com/encoredev/encore?utm_source=tldrnewsletter)

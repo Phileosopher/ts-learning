@@ -13,3 +13,4 @@
 [Startup Playbook (2015) | Hacker News](https://news.ycombinator.com/item?id=18917362)
 [Kenyan recycles plastic waste into bricks stronger than concrete | Hacker News](https://news.ycombinator.com/item?id=26093535)
 [I sold Baremetrics | Hacker News](https://news.ycombinator.com/item?id=25045325)
+[Dave Sullivan: IT Consulting](https://davesullivan.is/my_startup_failed_then_i_found_out_i_was_unemployable.html?utm_source=tldrnewsletter)

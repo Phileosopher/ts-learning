@@ -50,3 +50,4 @@
 [Show HN: OneDev – A Lightweight GitLab Alternative | Hacker News](https://news.ycombinator.com/item?id=22081419)
 [The Python Package Index is now a GitHub secret scanning integrator | Hacker News](https://news.ycombinator.com/item?id=26565970)
 [Terminal escape sequences in Git commit email field | Hacker News](https://news.ycombinator.com/item?id=26615938)
+[How To Create A Kickass GitHub Profile Page](https://catalins.tech/how-to-create-a-kickass-github-profile-page?utm_source=tldrnewsletter)
