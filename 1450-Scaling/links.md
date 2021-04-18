@@ -17,3 +17,4 @@
 [Three Months to Scale NewsBlur - The NewsBlur Blog](https://blog.newsblur.com/post/45632737156/three-months-to-scale-newsblur)
 [Female Founder Secrets: Men Clamming Up | Hacker News](https://news.ycombinator.com/item?id=26612918)
 [kuchin/awesome-cto: A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups](https://github.com/kuchin/awesome-cto?utm_source=tldrnewsletter)
+[Luca App: CCC calls for a moratorium | Hacker News](https://news.ycombinator.com/item?id=26832525)

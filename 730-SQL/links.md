@@ -46,3 +46,4 @@ https://webbrowsertools.com/sqlite-manager/
 [Things I hate about PostgreSQL (2020) | Hacker News](https://news.ycombinator.com/item?id=26709019)
 [Securing a Postgres Database | Hacker News](https://news.ycombinator.com/item?id=26674756)
 [Best practices for writing SQL queries | Hacker News](https://news.ycombinator.com/item?id=26762206)
+[SQLite the only database you will ever need in most cases | Hacker News](https://news.ycombinator.com/item?id=26816954)

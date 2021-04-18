@@ -94,3 +94,5 @@
 [DuckDuckGo Extension to Block FLoC, Google’s New Tracking Method in Chrome | Hacker News](https://news.ycombinator.com/item?id=26817034)
 [A top-grossing scam on the App Store | Hacker News](https://news.ycombinator.com/item?id=26794228)
 [GreatFire is tracking Apple iOS applications for instances of censorship | Hacker News](https://news.ycombinator.com/item?id=19072700)
+[Opting Your Website Out of Google's FLoC Network | Hacker News](https://news.ycombinator.com/item?id=26828967)
+[Google misled consumers about the collection and use of location data | Hacker News](https://news.ycombinator.com/item?id=26832123)

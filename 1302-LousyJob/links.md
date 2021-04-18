@@ -24,3 +24,4 @@
 # Motivation-Seeking
 
 [Ask HN: What tech job would let me get away with the least real work possible? | Hacker News](https://news.ycombinator.com/item?id=26721951)
+[Thanks for the Bonus, I Quit | Hacker News](https://news.ycombinator.com/item?id=26847780)

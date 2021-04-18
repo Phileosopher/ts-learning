@@ -26,3 +26,4 @@
 [GitHub - therealsreehari/Learn-Datascience-For-Free](https://github.com/therealsreehari/Learn-Datascience-For-Free)
 [Show HN: Whoishiring.io – all tech jobs mapped out | Hacker News](https://news.ycombinator.com/item?id=13500701)
 [Show HN: NomadList – The best cities to live and work remotely in | Hacker News](https://news.ycombinator.com/item?id=8107222)
+[Ask HN: How can a unhireable person get a job? | Hacker News](https://news.ycombinator.com/item?id=26825017)

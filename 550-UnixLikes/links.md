@@ -83,3 +83,6 @@
 [Initial M1 support merged into Linux SoC tree | Hacker News](https://news.ycombinator.com/item?id=26746983)
 [Dissecting the Apple M1 GPU, part I | Hacker News](https://news.ycombinator.com/item?id=25673631)
 [Dissecting the Apple M1 GPU, Part II | Hacker News](https://news.ycombinator.com/item?id=25873887)
+[Linus Torvalds on Rust support in kernel | Hacker News](https://news.ycombinator.com/item?id=26831841)
+[An RFC that adds support for Rust to the Linux kernel | Hacker News](https://news.ycombinator.com/item?id=26812047)
+[System76 Developing “Cosmic” Desktop Environment | Hacker News](https://news.ycombinator.com/item?id=26798080)
