@@ -91,3 +91,4 @@
 [Why uBlock Origin works best on Firefox | Hacker News](https://news.ycombinator.com/item?id=26755252)
 [Eliminating Data Races in Firefox | Hacker News](https://news.ycombinator.com/item?id=26713037)
 [Show HN: PDFs from HTML | Hacker News](https://news.ycombinator.com/item?id=26691626)
+[QUIC and HTTP/3 Support Now in Firefox Nightly and Beta | Hacker News](https://news.ycombinator.com/item?id=26838642)

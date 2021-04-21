@@ -65,6 +65,7 @@
 [Ubiquiti all but confirms breach response iniquity | Hacker News](https://news.ycombinator.com/item?id=26692144)
 [Clubhouse data leak: 1.3M user records leaked online for free | Hacker News](https://news.ycombinator.com/item?id=26768299)
 [Zoom zero-day discovery | Hacker News](https://news.ycombinator.com/item?id=26749350)
+[Microsoft says mandatory password changing is “ancient and obsolete” (2019) | Hacker News](https://news.ycombinator.com/item?id=26863907)
 
 ## Big Orgs
 
@@ -96,3 +97,4 @@
 [GreatFire is tracking Apple iOS applications for instances of censorship | Hacker News](https://news.ycombinator.com/item?id=19072700)
 [Opting Your Website Out of Google's FLoC Network | Hacker News](https://news.ycombinator.com/item?id=26828967)
 [Google misled consumers about the collection and use of location data | Hacker News](https://news.ycombinator.com/item?id=26832123)
+[Proposal: Treat FLoC as a security concern | Hacker News](https://news.ycombinator.com/item?id=26854073)

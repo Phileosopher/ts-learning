@@ -26,6 +26,7 @@ https://wiki.gnome.org/Projects
 [The Drivers Cooperative | Hacker News](https://news.ycombinator.com/item?id=26588607)
 [Google’s copying of the Java SE API was fair use [pdf] | Hacker News](https://news.ycombinator.com/item?id=26699106)
 [RMS addresses the free software community | Hacker News](https://news.ycombinator.com/item?id=26780192)
+[Grafana, Loki, and Tempo will be relicensed to AGPLv3 | Hacker News](https://news.ycombinator.com/item?id=26877528)
 
 ## Nonprofits
 

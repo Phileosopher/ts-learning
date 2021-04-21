@@ -39,6 +39,7 @@
 [WeWeb | The New Standard in Website Creation](https://www.weweb.io/)
 [Ask HN: What novel tools are you using to write web sites/apps? | Hacker News](https://news.ycombinator.com/item?id=26693959)
 [lindelof/awesome-web-effect: A series of exquisite and compact web page cool effects](https://github.com/lindelof/awesome-web-effect?utm_source=tldrnewsletter)
+[🎨 Moving Gradient animation with CSS](https://souravdey777.hashnode.dev/moving-gradient-animation-with-css?utm_source=tldrnewsletter)
 
 ## WEBDEV CYSEC
 

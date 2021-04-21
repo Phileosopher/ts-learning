@@ -35,3 +35,4 @@
 [Signal adds a payments feature with a privacy-focused cryptocurrency | Hacker News](https://news.ycombinator.com/item?id=26713827)
 [Et Tu, Signal? | Hacker News](https://news.ycombinator.com/item?id=26724237)
 [std::unique_ptr implementation backed by Ethereum NFTs | Hacker News](https://news.ycombinator.com/item?id=26773637)
+[Venmo’s new crypto service lets you buy and sell bitcoin, ether, and litecoin | Ars Technica](https://arstechnica.com/tech-policy/2021/04/venmos-new-crypto-service-lets-you-buy-and-sell-bitcoin-ether-and-litecoin/?utm_source=tldrnewsletter)

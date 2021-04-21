@@ -19,3 +19,4 @@
 [Learn Microsoft Excel - Full Video Course](https://www.freecodecamp.org/news/learn-microsoft-excel/)
 [CERT] freeCodeCamp - Data Visualization
 [The Norway Problem | Hacker News](https://news.ycombinator.com/item?id=26671136)
+[scottrogowski/mongita: "Mongita is to MongoDB as SQLite is to SQL"](https://github.com/scottrogowski/mongita?utm_source=tldrnewsletter)

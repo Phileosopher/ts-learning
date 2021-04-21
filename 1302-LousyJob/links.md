@@ -25,3 +25,7 @@
 
 [Ask HN: What tech job would let me get away with the least real work possible? | Hacker News](https://news.ycombinator.com/item?id=26721951)
 [Thanks for the Bonus, I Quit | Hacker News](https://news.ycombinator.com/item?id=26847780)
+
+# Examples of Bad Company Behavior
+
+[IBM employee forced to stop kernel work under personal email address | Hacker News](https://news.ycombinator.com/item?id=26869877)

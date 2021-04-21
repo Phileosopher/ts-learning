@@ -27,3 +27,4 @@
 [Show HN: Wave function collapse algorithm | Hacker News](https://news.ycombinator.com/item?id=12612246)
 [GitHub - rupa/z: z - jump around](https://github.com/rupa/z)
 [Show HN: A coloring book of data structures and algorithms | Hacker News](https://news.ycombinator.com/item?id=15201152)
+[The Endless Acid Banger: algorithmic self-composing acid techno music | Hacker News](https://news.ycombinator.com/item?id=26870666)

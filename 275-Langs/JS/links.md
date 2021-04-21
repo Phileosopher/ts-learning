@@ -81,3 +81,5 @@
 [The Deno Company | Hacker News](https://news.ycombinator.com/item?id=26620116)
 [Using GPU to Improve JavaScript Performance | by Chameera Dulanga | Mar, 2021 | Bits and Pieces](https://blog.bitsrc.io/using-gpu-to-improve-javascript-performance-e5a41c2e129b)
 [Learn Node.js and Express with This Free 8-hour Back End Development Course](https://www.freecodecamp.org/news/free-8-hour-node-express-course/)
+[Content-aware image resizing in JavaScript | Trekhleb](https://trekhleb.dev/blog/2021/content-aware-image-resizing-in-javascript/?utm_source=tldrnewsletter)
+[Introducing notebookJS: seamless integration between Python and JavaScript in Computational Notebooks | by Jorge Piazentin Ono | Apr, 2021 | Towards Data Science](https://towardsdatascience.com/introducing-notebookjs-seamless-integration-between-python-and-javascript-in-computational-e654ec3fbd18)
