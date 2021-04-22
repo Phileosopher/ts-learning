@@ -36,3 +36,4 @@
 [Et Tu, Signal? | Hacker News](https://news.ycombinator.com/item?id=26724237)
 [std::unique_ptr implementation backed by Ethereum NFTs | Hacker News](https://news.ycombinator.com/item?id=26773637)
 [Venmo’s new crypto service lets you buy and sell bitcoin, ether, and litecoin | Ars Technica](https://arstechnica.com/tech-policy/2021/04/venmos-new-crypto-service-lets-you-buy-and-sell-bitcoin-ether-and-litecoin/?utm_source=tldrnewsletter)
+[Bitcoin miners are buying power plants | Hacker News](https://news.ycombinator.com/item?id=26828479)

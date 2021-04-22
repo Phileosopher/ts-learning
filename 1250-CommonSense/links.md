@@ -17,6 +17,8 @@
 
 - review comments, consider discussing how Innovator's Dilemma makes the "shiny, fancy" tech fall behind in marketability because it's downright more useful
 
+[Technologies I thought my son would never use | Hacker News](https://news.ycombinator.com/item?id=26771623)
+
 # Stories
 
 [How a janitor at Frito-Lay invented Flamin' Hot Cheetos (2017) | Hacker News](https://news.ycombinator.com/item?id=25510351)

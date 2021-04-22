@@ -83,3 +83,4 @@
 [Learn Node.js and Express with This Free 8-hour Back End Development Course](https://www.freecodecamp.org/news/free-8-hour-node-express-course/)
 [Content-aware image resizing in JavaScript | Trekhleb](https://trekhleb.dev/blog/2021/content-aware-image-resizing-in-javascript/?utm_source=tldrnewsletter)
 [Introducing notebookJS: seamless integration between Python and JavaScript in Computational Notebooks | by Jorge Piazentin Ono | Apr, 2021 | Towards Data Science](https://towardsdatascience.com/introducing-notebookjs-seamless-integration-between-python-and-javascript-in-computational-e654ec3fbd18)
+[prisma/prisma: Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server & SQLite](https://github.com/prisma/prisma?utm_source=tldrnewsletter)

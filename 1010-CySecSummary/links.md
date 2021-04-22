@@ -66,6 +66,9 @@
 [Clubhouse data leak: 1.3M user records leaked online for free | Hacker News](https://news.ycombinator.com/item?id=26768299)
 [Zoom zero-day discovery | Hacker News](https://news.ycombinator.com/item?id=26749350)
 [Microsoft says mandatory password changing is “ancient and obsolete” (2019) | Hacker News](https://news.ycombinator.com/item?id=26863907)
+[Linux bans University of Minnesota for sending buggy patches in name of research | Hacker News](https://news.ycombinator.com/item?id=26889677)
+[UMN CS&E Statement on Linux Kernel Research | Hacker News](https://news.ycombinator.com/item?id=26895510)
+[“They introduce kernel bugs on purpose” | Hacker News](https://news.ycombinator.com/item?id=26887670)
 
 ## Big Orgs
 

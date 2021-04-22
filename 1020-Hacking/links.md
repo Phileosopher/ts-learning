@@ -92,3 +92,4 @@ HackThisWebsite
 [Security Breach at US Universities | Hacker News](https://news.ycombinator.com/item?id=26656759)
 [Best hacking forums ? : Hacking_Tutorials](https://www.reddit.com/r/Hacking_Tutorials/comments/mlpooe/best_hacking_forums/)
 [How to bypass Cloudflare bot protection | Hacker News](https://news.ycombinator.com/item?id=26688390)
+[Exploiting vulnerabilities in Cellebrite UFED and Physical Analyzer | Hacker News](https://news.ycombinator.com/item?id=26891811)

@@ -14,3 +14,4 @@
 [Kenyan recycles plastic waste into bricks stronger than concrete | Hacker News](https://news.ycombinator.com/item?id=26093535)
 [I sold Baremetrics | Hacker News](https://news.ycombinator.com/item?id=25045325)
 [Dave Sullivan: IT Consulting](https://davesullivan.is/my_startup_failed_then_i_found_out_i_was_unemployable.html?utm_source=tldrnewsletter)
+[My startup failed, then I found out I was unemployable | Hacker News](https://news.ycombinator.com/item?id=26792876)
