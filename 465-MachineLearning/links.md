@@ -98,3 +98,4 @@
 [Python scikit-learn Tutorial – Machine Learning Crash Course](https://www.freecodecamp.org/news/learn-scikit-learn/)
 [A common mistake when NumPy’s RNG with PyTorch | Hacker News](https://news.ycombinator.com/item?id=26767441)
 [CPU-based algorithm trains deep neural nets up to 15 times faster than top GPU | Hacker News](https://news.ycombinator.com/item?id=26745326)
+[ml-tooling/opyrator: 🪄 Turns your machine learning code into microservices with web API, interactive GUI, and more.](https://github.com/ml-tooling/opyrator?utm_source=tldrnewsletter)

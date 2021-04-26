@@ -50,3 +50,4 @@
 [Hello, HPy | Hacker News](https://news.ycombinator.com/item?id=26625398)
 [How to make a Python package in 2021 | Hacker News](https://news.ycombinator.com/item?id=26733423)
 [Django 3.2 | Hacker News](https://news.ycombinator.com/item?id=26710013)
+[Learn Data Structures by Building a Flask API with Python](https://www.freecodecamp.org/news/learn-data-structures-flask-api-python/)

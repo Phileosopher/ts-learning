@@ -20,3 +20,4 @@
 [CERT] freeCodeCamp - Data Visualization
 [The Norway Problem | Hacker News](https://news.ycombinator.com/item?id=26671136)
 [scottrogowski/mongita: "Mongita is to MongoDB as SQLite is to SQL"](https://github.com/scottrogowski/mongita?utm_source=tldrnewsletter)
+[dbgate/dbgate: Database manager for MySQL, PostgreSQL, SQL Server and MongoDB. Runs under Windows, Linux, Mac or as web application](https://github.com/dbgate/dbgate?utm_source=tldrnewsletter)

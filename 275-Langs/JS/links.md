@@ -84,3 +84,4 @@
 [Content-aware image resizing in JavaScript | Trekhleb](https://trekhleb.dev/blog/2021/content-aware-image-resizing-in-javascript/?utm_source=tldrnewsletter)
 [Introducing notebookJS: seamless integration between Python and JavaScript in Computational Notebooks | by Jorge Piazentin Ono | Apr, 2021 | Towards Data Science](https://towardsdatascience.com/introducing-notebookjs-seamless-integration-between-python-and-javascript-in-computational-e654ec3fbd18)
 [prisma/prisma: Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server & SQLite](https://github.com/prisma/prisma?utm_source=tldrnewsletter)
+[Learn How to Create an Instagram Clone Using React in Free 12-Hour Course](https://www.freecodecamp.org/news/learn-how-to-create-an-instagram-clone-using-react/)

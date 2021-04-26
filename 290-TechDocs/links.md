@@ -16,3 +16,6 @@
 [TeXstudio 3.1.1](https://texstudio.en.lo4d.com/windows "TeXstudio 3.1.1") - A completely free LaTeX document editor and authoring tool
 [docuowl/docuowl: 🦉 A documentation generator](https://github.com/docuowl/docuowl?utm_source=tldrnewsletter)
 [Layout-Parser/layout-parser: A Python Library for Document Layout Understanding](https://github.com/Layout-Parser/layout-parser?utm_source=tldrnewsletter)
+[Has UML died without anyone noticing? | Hacker News](https://news.ycombinator.com/item?id=26934577)
+[UML Diagram Course – How to Design Databases and Systems](https://www.freecodecamp.org/news/uml-diagrams-full-course/)
+[The Model View Controller Pattern – MVC Architecture and Frameworks Explained](https://www.freecodecamp.org/news/the-model-view-controller-pattern-mvc-architecture-and-frameworks-explained/)

@@ -101,3 +101,8 @@
 [Opting Your Website Out of Google's FLoC Network | Hacker News](https://news.ycombinator.com/item?id=26828967)
 [Google misled consumers about the collection and use of location data | Hacker News](https://news.ycombinator.com/item?id=26832123)
 [Proposal: Treat FLoC as a security concern | Hacker News](https://news.ycombinator.com/item?id=26854073)
+[Apple sued for terminating account with $25k worth of apps and videos | Hacker News](https://news.ycombinator.com/item?id=26932144)
+[Apple targeted in $50 million ransomware attack resulting in unprecedented schematic leaks - The Verge](https://www.theverge.com/2021/4/21/22396283/apple-schematics-leak-ransomware-quanta-supplier-leak?utm_source=tldrnewsletter)
+[Apple is sued for telling you that you're “buying” movies | Hacker News](https://news.ycombinator.com/item?id=26912118)
+[Apple sued for terminating account with $25k worth of apps and videos | Hacker News](https://news.ycombinator.com/item?id=26932144)
+[EFF sues Proctorio on behalf of student falsely DMCA'd | Hacker News](https://news.ycombinator.com/item?id=26898651)

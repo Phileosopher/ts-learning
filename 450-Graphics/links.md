@@ -74,6 +74,7 @@
 [Wuffs’ PNG image decoder | Hacker News](https://news.ycombinator.com/item?id=26714831)
 [How did Microsoft make Flight Simulator seem so real? | Hacker News](https://news.ycombinator.com/item?id=26693909)
 [Figma and Canva are taking on Adobe and winning | Hacker News](https://news.ycombinator.com/item?id=26748723)
+[Cycles X | Hacker News](https://news.ycombinator.com/item?id=26916196)
 
 ## Has Many Terms I Don't Understand
 

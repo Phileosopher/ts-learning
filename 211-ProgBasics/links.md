@@ -16,3 +16,4 @@
 [DesignCourse - YouTube](https://www.youtube.com/c/DesignCourse/featured)
 [Programming is hard | Hacker News](https://news.ycombinator.com/item?id=26711862)
 [An ex-ARM engineer critiques RISC-V | Hacker News](https://news.ycombinator.com/item?id=24958423)
+[Semgrep: Semantic grep for code | Hacker News](https://news.ycombinator.com/item?id=26904951)

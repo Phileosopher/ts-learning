@@ -58,3 +58,4 @@
 [Context switching costs more than we give it credit for | Hacker News](https://news.ycombinator.com/item?id=25817395)
 [Move Slow and Make Things | Hacker News](https://news.ycombinator.com/item?id=26668806)
 [Grind Smarter, not Harder • Buttondown](https://buttondown.email/hillelwayne/archive/grind-smarter-not-harder/)
+[Feynman: I am burned out and I'll never accomplish anything (1985) | Hacker News](https://news.ycombinator.com/item?id=26931359)

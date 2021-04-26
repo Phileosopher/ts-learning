@@ -16,3 +16,5 @@
 [Redis 6.0 GA | Hacker News](https://news.ycombinator.com/item?id=23030685)
 [The End of the Redis Adventure | Hacker News](https://news.ycombinator.com/item?id=23689549)
 [Signed Char Lotte | Hacker News](https://news.ycombinator.com/item?id=26644838)
+[Beej’s Guide to C Programming [pdf] | Hacker News](https://news.ycombinator.com/item?id=26911399)
+[Parsing Protobuf at 2+GB/S: How I Learned to Love Tail Calls in C | Hacker News](https://news.ycombinator.com/item?id=26931581)

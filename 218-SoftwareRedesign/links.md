@@ -35,3 +35,4 @@
 [A Seasoned Tester's Crystal Ball: The Conflated Exploratory Testing](https://visible-quality.blogspot.com/2021/04/the-conflated-exploratory-testing.html?utm_source=Coding_Jag&utm_medium=web&utm_campaign=Coding_jag_31)
 [Breaking GitHub Private Pages for $35k | Hacker News](https://news.ycombinator.com/item?id=26709159)
 [Use console.log() like a pro (2020) | Hacker News](https://news.ycombinator.com/item?id=26779800)
+[The unreasonable effectiveness of print debugging | Hacker News](https://news.ycombinator.com/item?id=26925570)

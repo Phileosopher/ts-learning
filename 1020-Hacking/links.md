@@ -93,3 +93,7 @@ HackThisWebsite
 [Best hacking forums ? : Hacking_Tutorials](https://www.reddit.com/r/Hacking_Tutorials/comments/mlpooe/best_hacking_forums/)
 [How to bypass Cloudflare bot protection | Hacker News](https://news.ycombinator.com/item?id=26688390)
 [Exploiting vulnerabilities in Cellebrite UFED and Physical Analyzer | Hacker News](https://news.ycombinator.com/item?id=26891811)
+[Lego Microscope | Hacker News](https://news.ycombinator.com/item?id=26914023)
+[Remote code execution in Homebrew by compromising the official Cask repository | Hacker News](https://news.ycombinator.com/item?id=26922448)
+[Millions of the Pentagon’s dormant IP addresses sprang to life on January 20 | Hacker News](https://news.ycombinator.com/item?id=26924883)
+[The Pentagon reportedly gave a small company control of its IP addresses to find security issues - The Verge](https://www.theverge.com/2021/4/24/22401339/pentagon-ip-addresses-security-department-defense?utm_source=tldrnewsletter)

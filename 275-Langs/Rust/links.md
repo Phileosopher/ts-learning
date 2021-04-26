@@ -34,3 +34,4 @@
 [Show HN: A simple, fast and user-friendly alternative to find, written in Rust | Hacker News](https://news.ycombinator.com/item?id=15429390)
 [Ruffle – A Flash Player emulator written in Rust | Hacker News](https://news.ycombinator.com/item?id=25242115)
 [Android's new Bluetooth stack rewrite (Gabeldorsh) is written with Rust | Hacker News](https://news.ycombinator.com/item?id=26647981)
+[Rust Language Cheat Sheet | Hacker News](https://news.ycombinator.com/item?id=26930908)

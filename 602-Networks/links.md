@@ -50,3 +50,4 @@
 [USB 3.0* Radio Frequency Interference on 2.4 GHz Devices (2012) | Hacker News](https://news.ycombinator.com/item?id=26625356)
 [Show HN: Mail Studio – IDE for designing responsive emails | Hacker News](https://news.ycombinator.com/item?id=26659553)
 [5G: The outsourced elephant in the room | Hacker News](https://news.ycombinator.com/item?id=26843068)
+[Get better at Googling | Hacker News](https://news.ycombinator.com/item?id=26911629)

@@ -16,3 +16,4 @@
 [Show HN: 30 Hour Jobs – a job board for shorter work weeks | Hacker News](https://news.ycombinator.com/item?id=19910691)
 [Show HN: “Who is hiring?” Map | Hacker News](https://news.ycombinator.com/item?id=9838955)
 [I followed my dreams to get demoted to software developer | Hacker News](https://news.ycombinator.com/item?id=26066918)
+[Job descriptions should show a salary or salary range | Hacker News](https://news.ycombinator.com/item?id=26932978)
